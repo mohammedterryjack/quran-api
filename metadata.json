@@ -1,0 +1,460 @@
+{
+  "chapters": [
+    {
+      "chapter": "الفاتحة",
+      "n_verses": 7
+    },
+    {
+      "chapter": "البقرة",
+      "n_verses": 286
+    },
+    {
+      "chapter": "آل عمران",
+      "n_verses": 200
+    },
+    {
+      "chapter": "النساء",
+      "n_verses": 176
+    },
+    {
+      "chapter": "المائدة",
+      "n_verses": 120
+    },
+    {
+      "chapter": "الأنعام",
+      "n_verses": 165
+    },
+    {
+      "chapter": "الأعراف",
+      "n_verses": 206
+    },
+    {
+      "chapter": "الأنفال",
+      "n_verses": 75
+    },
+    {
+      "chapter": "التوبة",
+      "n_verses": 129
+    },
+    {
+      "chapter": "يونس",
+      "n_verses": 109
+    },
+    {
+      "chapter": "هود",
+      "n_verses": 123
+    },
+    {
+      "chapter": "يوسف",
+      "n_verses": 111
+    },
+    {
+      "chapter": "الرعد",
+      "n_verses": 43
+    },
+    {
+      "chapter": "ابراهيم",
+      "n_verses": 52
+    },
+    {
+      "chapter": "الحجر",
+      "n_verses": 99
+    },
+    {
+      "chapter": "النحل",
+      "n_verses": 128
+    },
+    {
+      "chapter": "الإسراء",
+      "n_verses": 111
+    },
+    {
+      "chapter": "الكهف",
+      "n_verses": 110
+    },
+    {
+      "chapter": "مريم",
+      "n_verses": 98
+    },
+    {
+      "chapter": "طه",
+      "n_verses": 135
+    },
+    {
+      "chapter": "الأنبياء",
+      "n_verses": 112
+    },
+    {
+      "chapter": "الحج",
+      "n_verses": 78
+    },
+    {
+      "chapter": "المؤمنون",
+      "n_verses": 118
+    },
+    {
+      "chapter": "النور",
+      "n_verses": 64
+    },
+    {
+      "chapter": "الفرقان",
+      "n_verses": 77
+    },
+    {
+      "chapter": "الشعراء",
+      "n_verses": 227
+    },
+    {
+      "chapter": "النمل",
+      "n_verses": 93
+    },
+    {
+      "chapter": "القصص",
+      "n_verses": 88
+    },
+    {
+      "chapter": "العنكبوت",
+      "n_verses": 69
+    },
+    {
+      "chapter": "الروم",
+      "n_verses": 60
+    },
+    {
+      "chapter": "لقمان",
+      "n_verses": 34
+    },
+    {
+      "chapter": "السجدة",
+      "n_verses": 30
+    },
+    {
+      "chapter": "الأحزاب",
+      "n_verses": 73
+    },
+    {
+      "chapter": "سبإ",
+      "n_verses": 54
+    },
+    {
+      "chapter": "فاطر",
+      "n_verses": 45
+    },
+    {
+      "chapter": "يس",
+      "n_verses": 83
+    },
+    {
+      "chapter": "الصافات",
+      "n_verses": 182
+    },
+    {
+      "chapter": "ص",
+      "n_verses": 88
+    },
+    {
+      "chapter": "الزمر",
+      "n_verses": 75
+    },
+    {
+      "chapter": "غافر",
+      "n_verses": 85
+    },
+    {
+      "chapter": "فصلت",
+      "n_verses": 54
+    },
+    {
+      "chapter": "الشورى",
+      "n_verses": 53
+    },
+    {
+      "chapter": "الزخرف",
+      "n_verses": 89
+    },
+    {
+      "chapter": "الدخان",
+      "n_verses": 59
+    },
+    {
+      "chapter": "الجاثية",
+      "n_verses": 37
+    },
+    {
+      "chapter": "الأحقاف",
+      "n_verses": 35
+    },
+    {
+      "chapter": "محمد",
+      "n_verses": 38
+    },
+    {
+      "chapter": "الفتح",
+      "n_verses": 29
+    },
+    {
+      "chapter": "الحجرات",
+      "n_verses": 18
+    },
+    {
+      "chapter": "ق",
+      "n_verses": 45
+    },
+    {
+      "chapter": "الذاريات",
+      "n_verses": 60
+    },
+    {
+      "chapter": "الطور",
+      "n_verses": 49
+    },
+    {
+      "chapter": "النجم",
+      "n_verses": 62
+    },
+    {
+      "chapter": "القمر",
+      "n_verses": 55
+    },
+    {
+      "chapter": "الرحمن",
+      "n_verses": 78
+    },
+    {
+      "chapter": "الواقعة",
+      "n_verses": 96
+    },
+    {
+      "chapter": "الحديد",
+      "n_verses": 29
+    },
+    {
+      "chapter": "المجادلة",
+      "n_verses": 22
+    },
+    {
+      "chapter": "الحشر",
+      "n_verses": 24
+    },
+    {
+      "chapter": "الممتحنة",
+      "n_verses": 13
+    },
+    {
+      "chapter": "الصف",
+      "n_verses": 14
+    },
+    {
+      "chapter": "الجمعة",
+      "n_verses": 11
+    },
+    {
+      "chapter": "المنافقون",
+      "n_verses": 11
+    },
+    {
+      "chapter": "التغابن",
+      "n_verses": 18
+    },
+    {
+      "chapter": "الطلاق",
+      "n_verses": 12
+    },
+    {
+      "chapter": "التحريم",
+      "n_verses": 12
+    },
+    {
+      "chapter": "الملك",
+      "n_verses": 30
+    },
+    {
+      "chapter": "القلم",
+      "n_verses": 52
+    },
+    {
+      "chapter": "الحاقة",
+      "n_verses": 52
+    },
+    {
+      "chapter": "المعارج",
+      "n_verses": 44
+    },
+    {
+      "chapter": "نوح",
+      "n_verses": 28
+    },
+    {
+      "chapter": "الجن",
+      "n_verses": 28
+    },
+    {
+      "chapter": "المزمل",
+      "n_verses": 20
+    },
+    {
+      "chapter": "المدثر",
+      "n_verses": 56
+    },
+    {
+      "chapter": "القيامة",
+      "n_verses": 40
+    },
+    {
+      "chapter": "الانسان",
+      "n_verses": 31
+    },
+    {
+      "chapter": "المرسلات",
+      "n_verses": 50
+    },
+    {
+      "chapter": "النبإ",
+      "n_verses": 40
+    },
+    {
+      "chapter": "النازعات",
+      "n_verses": 46
+    },
+    {
+      "chapter": "عبس",
+      "n_verses": 42
+    },
+    {
+      "chapter": "التكوير",
+      "n_verses": 29
+    },
+    {
+      "chapter": "الإنفطار",
+      "n_verses": 19
+    },
+    {
+      "chapter": "المطففين",
+      "n_verses": 36
+    },
+    {
+      "chapter": "الإنشقاق",
+      "n_verses": 25
+    },
+    {
+      "chapter": "البروج",
+      "n_verses": 22
+    },
+    {
+      "chapter": "الطارق",
+      "n_verses": 17
+    },
+    {
+      "chapter": "الأعلى",
+      "n_verses": 19
+    },
+    {
+      "chapter": "الغاشية",
+      "n_verses": 26
+    },
+    {
+      "chapter": "الفجر",
+      "n_verses": 30
+    },
+    {
+      "chapter": "البلد",
+      "n_verses": 20
+    },
+    {
+      "chapter": "الشمس",
+      "n_verses": 15
+    },
+    {
+      "chapter": "الليل",
+      "n_verses": 21
+    },
+    {
+      "chapter": "الضحى",
+      "n_verses": 11
+    },
+    {
+      "chapter": "الشرح",
+      "n_verses": 8
+    },
+    {
+      "chapter": "التين",
+      "n_verses": 8
+    },
+    {
+      "chapter": "العلق",
+      "n_verses": 19
+    },
+    {
+      "chapter": "القدر",
+      "n_verses": 5
+    },
+    {
+      "chapter": "البينة",
+      "n_verses": 8
+    },
+    {
+      "chapter": "الزلزلة",
+      "n_verses": 8
+    },
+    {
+      "chapter": "العاديات",
+      "n_verses": 11
+    },
+    {
+      "chapter": "القارعة",
+      "n_verses": 11
+    },
+    {
+      "chapter": "التكاثر",
+      "n_verses": 8
+    },
+    {
+      "chapter": "العصر",
+      "n_verses": 3
+    },
+    {
+      "chapter": "الهمزة",
+      "n_verses": 9
+    },
+    {
+      "chapter": "الفيل",
+      "n_verses": 5
+    },
+    {
+      "chapter": "قريش",
+      "n_verses": 4
+    },
+    {
+      "chapter": "الماعون",
+      "n_verses": 7
+    },
+    {
+      "chapter": "الكوثر",
+      "n_verses": 3
+    },
+    {
+      "chapter": "الكافرون",
+      "n_verses": 6
+    },
+    {
+      "chapter": "النصر",
+      "n_verses": 3
+    },
+    {
+      "chapter": "اللهب",
+      "n_verses": 5
+    },
+    {
+      "chapter": "الإخلاص",
+      "n_verses": 4
+    },
+    {
+      "chapter": "الفلق",
+      "n_verses": 5
+    },
+    {
+      "chapter": "الناس",
+      "n_verses": 6
+    }
+  ]
+}
