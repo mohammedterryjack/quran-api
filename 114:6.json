@@ -3,11 +3,6 @@
   "text": "من الجنة والناس",
   "translations": [
     {
-      "translation": "and comes from the jinn and from mankind.'",
-      "language": "english",
-      "translator": ""
-    },    
-    {
       "translation": "From among the jinns and men.\n",
       "language": "english",
       "translator": ""
@@ -86,7 +81,12 @@
       "translation": "From among the jinn and mankind.\"\n",
       "language": "english",
       "translator": ""
-    }
+    },
+    {
+      "translation": "[114:6]\n",
+      "language": "english",
+      "translator": ""
+    }    
   ],
   "commentaries": [
     {
@@ -95,7 +95,7 @@
       "text": "",
       "translations": [
         {
-          "translation": "[114:6]\n",
+          "translation": "",
           "language": "english",
           "translator": "Mr. Mokrane Guezzou"
         }
