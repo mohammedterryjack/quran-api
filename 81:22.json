@@ -3,6 +3,11 @@
   "text": "وما صاحبكم بمجنون",
   "translations": [
     {
+      "translation": "Your companion is not mad.",
+      "language": "english",
+      "translator": ""
+    },
+    {
       "translation": "Your companion is not mad.\n",
       "language": "english",
       "translator": ""

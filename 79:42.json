@@ -3,6 +3,11 @@
   "text": "يسـلونك عن الساعة ايان مرسىها",
   "translations": [
     {
+      "translation": "They ask you about the Hour: 'When will it come?'",
+      "language": "english",
+      "translator": ""
+    },
+    {
       "translation": "They ask you: \"When will the Hour be? When is its time fixed?\"\n",
       "language": "english",
       "translator": ""

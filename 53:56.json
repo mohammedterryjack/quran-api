@@ -3,6 +3,11 @@
   "text": "هذا نذير من النذر الاولى",
   "translations": [
     {
+      "translation": "This is a warning like the warnings of old.",
+      "language": "english",
+      "translator": ""
+    },
+    {
       "translation": "He who warns you is one of the warners of old.\n",
       "language": "english",
       "translator": ""
