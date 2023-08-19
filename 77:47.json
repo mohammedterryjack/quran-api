@@ -130,5 +130,27 @@
       "text": "\n { ويل يومئذ للمكذِّبين } ، زيادة توبيخ وتقريع، أو: ويل يومئذ للمكذِّبين الذين كذَّبوا",
       "translations": []
     }
+  ],
+  "most_similar_verses": [
+    {
+      "verse": "77:15",
+      "similarity": 1.0
+    },
+    {
+      "verse": "77:19",
+      "similarity": 1.0
+    },
+    {
+      "verse": "77:24",
+      "similarity": 1.0
+    },
+    {
+      "verse": "77:28",
+      "similarity": 1.0
+    },
+    {
+      "verse": "77:34",
+      "similarity": 1.0
+    }
   ]
 }

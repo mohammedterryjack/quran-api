@@ -130,5 +130,27 @@
       "text": "\n",
       "translations": []
     }
+  ],
+  "most_similar_verses": [
+    {
+      "verse": "29:7",
+      "similarity": 0.72446883329407
+    },
+    {
+      "verse": "53:31",
+      "similarity": 0.7101527669335195
+    },
+    {
+      "verse": "28:84",
+      "similarity": 0.6565023751752731
+    },
+    {
+      "verse": "65:5",
+      "similarity": 0.5064410297696568
+    },
+    {
+      "verse": "37:110",
+      "similarity": 0.4843700714175307
+    }
   ]
 }
