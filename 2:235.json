@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَلَـٰكِن لاَّ تُوَاعِدُوهُنَّ سِرّاً } معناهُ نِكَاحٌ، والسِّرُ: الزِّنَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"But do not promise them secretly\" means marriage, and the secret is adultery.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

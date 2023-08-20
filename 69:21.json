@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي عِيشَةٍ رَّاضِيَةٍ } معناه مَرضيةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"In a prosperous life,\" means a life that is free from illness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

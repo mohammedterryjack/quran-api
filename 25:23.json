@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَدِمْنَآ إِلَىٰ مَا عَمِلُواْ مِنْ عَمَلٍ } معناه عَمَدنا إلى ما لَمْ يُتَقَبَّلْ مِنهُ { فَجَعَلْنَاهُ هَبَآءً مَّنثُوراً } فالهَباءُ [مَا يُرى فِي] شُعاعِ الشّمسِ الذي يَطلُعُ فِي الكُوّةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {And We have brought forth to them} its meaning: We have presented to them {what they have done of deeds} We have made it {scattered floating debris}. And the debris is [what is seen in] the sun's rays that rise in the [uppermost] sky.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

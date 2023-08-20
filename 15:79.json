@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَبِإِمَامٍ } معناهُ بِمَنْ اهتَديتَ بِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {to a leader} means whoever you have followed.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

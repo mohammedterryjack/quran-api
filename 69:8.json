@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَهَلْ تَرَىٰ لَهُم مِّن بَاقِيَةٍ } يعني بقيةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nDo you see them having any remaining (blessings)?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَيْءٍ قَدْراً } معناه مُنتهى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {Indeed, Allah has set a measure for everything} means: an end.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

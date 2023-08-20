@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُّتَّكِئِينَ فِيهَا عَلَى ٱلأَرَآئِكِ } قالَ الإِمامُ زيد بن علي عليهما السَّلامُ: هي السُّررُ فِي الحِجَالِ\n واحدُها أريكَةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {those reclining on it will recline on it} Imam Zayd bin Ali said: This is the couch in Paradise.\n\n\nOne of them is a reed flute.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

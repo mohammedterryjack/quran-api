@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَأَصَابَهَآ إِعْصَارٌ فِيهِ نَارٌ } فالإِعْصَارُ: رِيحٌ عَاصِفٌ تَهُبُ مِن الأَرضِ إِلى السَّماءِ كأَنَّها عَمودٌ فِيهِ نَارٌ\n والجمعُ الأَعاصيرُ\n ويقالُ: الإِعْصَارُ: السُّمومُ التي تَقتُلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Then there overtook it an earthquake} - the earthquake is a wind that blows violently from the earth to the sky, as if it were a column of fire.\n\n\nThe collected {things} are the {things} that are left behind.\n It is said: \"The plague is the poison that kills.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

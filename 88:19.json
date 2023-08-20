@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِلَىٰ ٱلْجِبَالِ كَيْفَ نُصِبَتْ } معناه رُفِعَتْ { وَإِلَى ٱلأَرْضِ كَيْفَ سُطِحَتْ } معناه بُسِطَتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And to the mountains, how they are erected} [means] they are raised up. {And to the earth, how it is spread out} [means] it is spread out.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

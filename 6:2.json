@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَضَىۤ أَجَلاً } معناهُ وقتٌ، وَهَو المَوتُ\n\n\n\n\nوقوله تعالى: { وَأَجَلٌ مُّسَمًّى عِندَهُ } وَهوَ الآخِرةُ\n ويُقالُ قَضَى أَجلاً: معناهُ مَا بَينَ أَنْ يُخْلَقَ إِلى أَنْ يَموتَ\n وأَجلٌ مُسَمّى مَا بينَ أَنْ يَموتَ إِلى أَنْ يُبْعَثَ\n ويقال (أجلاً): الدُّنيا، وأَجلٌ مُسَمَّى عِندَهُ: الآخِرةُ\n\n\n\n\nوقوله تعالى: { ثُمَّ أَنتُمْ تَمْتَرُونَ } معناه تَشكُّونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He has decreed a term for everything\" - this means that everything has a set time, and that time is death.\n\n\nAnd His saying - {And a specified term} - is the Hereafter.\n It is said that he has a lifespan: meaning what is between his creation and his death.\n\nAnd a specified term between his death and his resurrection\n\n\nIt is said that {the world} is {dunya}, and {ajlun} is called {the hereafter}.\n\n\nAnd His saying, \"Then you will be questioned\" - its meaning is that you will be held accountable.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

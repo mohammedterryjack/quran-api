@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَالِمِ ٱلْغَيْبِ وَٱلشَّهَادَةِ } فالغيبُ: السِّرُ\n والشَّهادةُ: العَلانيةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He is the Knower of the unseen and the seen,\" the unseen being the hidden.\n The testimony: the {al-} {ʿalāniyyah}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

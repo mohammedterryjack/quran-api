@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ عَلَى ٱلْمَرِيضِ حَرَجٌ } معناه إِثمٌ\n وأصلُهُ الضِّيقُ\n\n\n\n\nوقوله تعالى: { أَوْ مَا مَلَكْتُمْ مَّفَاتِحهُ } معناه إنفاذهُ وإخراجه\n\n\n\n\nوقوله تعالى: { جَمِيعاً أَوْ أَشْتَاتاً } معناه مُتفرقونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"There is no blame on the sick,\" means that it is a sin.\n\n\nAnd its source is constriction.\n\nAnd His saying - {Exalted is He}, {Or what you own of keys} - its meaning is the implementation and the outcome.\n\n\nThe phrase {jamīʿan aw ash-shubhātan} in the Quran means \"dispersed\" or \"scattered\".",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

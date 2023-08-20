@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَوَاصَوْاْ بِٱلصَّبْرِ } معناه تَحاثوا عليهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And exhort one another to patience.\" Its meaning is that you should encourage one another to be patient.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

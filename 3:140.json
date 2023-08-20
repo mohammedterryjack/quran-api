@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِن يَمْسَسْكُمْ قَرْحٌ } قالَ: القَرحُ: الجِرَاحُ والقَتلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - the Most High - \"If you are afflicted with a wound,\" He said: \"The wound is the injury and the killing.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

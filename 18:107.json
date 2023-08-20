@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱلَّذِينَ آمَنُواْ وَعَمِلُواْ ٱلصَّالِحَاتِ كَانَتْ لَهُمْ جَنَّاتُ ٱلْفِرْدَوْسِ نُزُلاً }\n قالَ الأَمام زيد بن علي عليهما السَّلامُ الفِرْدَوسُ: البُستانُ بالروميةِ\n ويقال الفِردوسُ: سُرَّة الجَنةِ\n ويقال الفِردوسُ: أَعلى الجَنةِ وأوسَطِها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, those who have believed and done righteous deeds - their [reward] will be gardens of Paradise}\n The Imam Zayd ibn Ali, peace be upon him, said: \"The Paradise is in Rome.\"\n The Firdows is the abode of Paradise.\n\n\nThe highest and middlemost heaven is called Paradise.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

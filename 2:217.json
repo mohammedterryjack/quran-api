@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ } قالَ زيدُ بن علي عليهما السّلامُ\n فالفِتْنَةُ ها هنا: الشِّرْكُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the verse of the Quran: {And the Fitnah is greater than the killing} - Zaid ibn Ali said, peace be upon them both.\n The Fitnah is here: Shirk",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

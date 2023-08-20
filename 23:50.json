@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَآوَيْنَاهُمَآ إِلَىٰ رَبْوَةٍ ذَاتِ قَرَارٍ وَمَعِينٍ } معناه ضَمَمناهُما يعني عِيسى وأُمهُ عليهما السلام\n ورُبْوَةٌ: مكانٌ مرتفعٌ\n ويقال رَبْوةٌ بالفتح والمَعينُ: المَاء الظاهرُ وذَلِكَ بدِمشق\n ويقال: بمِصر\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And We have brought them both into a state of subjection, with a settled abode and provision}, means that He has protected and provided for both Jesus and his mother.\n\n\n{And rubūah} is an elevated place.\n\n\nThe word \"rabwa\" in Arabic can mean either \"water\" or \"surface\". In this context, it is referring to water that is above ground.\n\n\nAnd it is said: {In Egypt}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ } معناه الحبيبُ القَريبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His [i.e., God's] saying, \"He is the Forgiving, the Merciful,\" means that He is the Most Beloved, the Most Near.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

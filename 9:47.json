@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ خَبَالاً } معناهُ فَسادٌ\n\n\n\n\nوقوله تعالى: { ولأَوْضَعُواْ خِلاَلَكُمْ } معناه أَسرَعُوا بينكُم\n\n\n\n\nوقوله تعالى: { سَمَّاعُونَ لَهُمْ } معناهُ مُطِيعونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - exalted be He - {Except for a [mere] slip} means corruption.\n\n\nAnd His saying, \"And let there be between you {affection and mercy}\" - this means, \"hasten to show affection and mercy between you.\"\n\n\nAnd His saying, {they listen to them} means they are obedient to them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

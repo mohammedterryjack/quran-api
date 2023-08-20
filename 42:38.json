@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلَّذِينَ ٱسْتَجَابُواْ لِرَبِّهِمْ } معناه أَجابُوا }\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " {And those who respond to their Lord} meaning {they respond}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

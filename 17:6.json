@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ رَدَدْنَا لَكُمُ ٱلْكَرَّةَ } معناهُ أَعْقَبنا لَكُم الدَّولَة\n\n\n\n\nوقوله تعالى: { أَكْثَرَ نَفِيراً } معناهُ الذين نَفَرُوا مَعهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Then We turned you back\" - this means that We brought you back to your state.\n The saying of the Most High: { Most of them turn away } means those who turned away with him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

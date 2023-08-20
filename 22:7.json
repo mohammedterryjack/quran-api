@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَنَّ ٱللَّهَ يَبْعَثُ مَن فِي ٱلْقُبُورِ } معناهُ يُحيِيهِمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd that Allah will resurrect those in the graves.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

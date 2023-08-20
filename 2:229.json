@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { إِلاَّ أَن يَخَافَآ } معناهُ استَقينا\n ومثلُهُ:\n\n[النساء: 3] معناه أَيْقَنْتُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Except if he fears} means that we are in awe of Him.\n\n\nAnd like him is the one who spends his wealth in order to show off, not caring about whether it is good or bad. {ومثلُهُ} the one who spends his wealth in order to show off, not caring about whether it is good or bad.\n\n\nDo you believe (in what I say)?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

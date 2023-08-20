@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذْ بَوَّأْنَا لإِبْرَاهِيمَ مَكَانَ ٱلْبَيْتِ } معناه جَعلنَا لَهُ مَنزلاً\n\n\n\n\nوقوله تعالى: { وَطَهِّرْ بَيْتِيَ لِلطَّآئِفِينَ وَٱلْقَآئِمِينَ } معناه من الأَوثانِ والرِّيبِ، للطائفينَ بالبَيتِ والقَائمينَ فِي الصَّلاةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd when We made the House a place of return for Abraham. We made it a place of return for him.\n\nAnd His saying, {Exalted is He} {And purify my house for those who circle it and those who stand [in prayer]} [has the meaning of] distancing from the idols and the doubtful things, for those who circle the House and those who stand in prayer.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

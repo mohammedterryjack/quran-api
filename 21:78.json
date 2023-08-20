@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذْ نَفَشَتْ فِيهِ غَنَمُ ٱلْقَوْمِ } فالنَّفشُ: أنْ تدخُلَ في الزَّرعِ ليلاً فتأكُلَهُ، ولا يكونُ إلاَّ بالليلِ\n والهَملُ بالنَّهارِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {When the people's sheep spread [for grazing] in it} - So the 'nafash' [of the verse] is that it [the land] should be entered at night so that it [the sheep] may eat it, and it [the land] is not [used] except at night.\n\n\nAnd the humbleness by day.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

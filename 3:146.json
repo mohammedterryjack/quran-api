@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { رِبِّيُّونَ كَثِيرٌ } معناه أُلوفٌ وجَماعَاتٌ\n والواحدُ رِبّي\n ويقالُ: عُلَماءٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted is He - {Rabbiyyoona katheerun}: many Lords.\n\n\nAnd my one and only God is my Lord.\n The scholars are said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

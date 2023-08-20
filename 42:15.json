@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ حُجَّةَ بَيْنَنَا وَبَيْنَكُمُ } معناه لا خصومةَ بيننا وبينَكم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {There is no obligation between us and you} [means that] there is no obligation between us and you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

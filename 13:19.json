@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أُوْلُواْ ٱلأَلْبَابِ } معناهُ العُقولُ، واحدُها لُبٌّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Most High: {The first of hearts} means the minds, one of them is a heart.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

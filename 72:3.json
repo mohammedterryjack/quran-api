@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَأَنَّهُ تَعَالَىٰ جَدُّ رَبِّنَا } معناه عَلاَ ملكُ ربِّنا وسُلطانُهُ\n ويقال: جلالُ ربِّنا ويقال: غِنى ربّنا\n ويقال: عَظمةُ ربِّنا\n ويقال: أمرُ ربِّنا ويقال: ذِكرُ ربَّنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\nQaala 'Ataa ibn As-Sa'ib an-Nakhaa'i from Zayd ibn 'Ali, may Allah be pleased with them both, that the meaning of Allah's saying {And that He is the Most High, our Lord} is that He is above the kingship and dominion of our Lord.\n\n\nIt is said: \"The glory of our Lord,\" and it is said: \"Our Lord is rich.\"\n\n\nIt is said: The greatness of our Lord\n It is said: The command of our Lord, and it is said: The mention of our Lord.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

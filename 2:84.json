@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { لاَ تَسْفِكُونَ دِمَآءَكُمْ } معناهُ لا تُهْرِقُونَها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Do not shed your blood} means do not kill yourselves.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

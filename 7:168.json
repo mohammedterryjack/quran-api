@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَطَّعْنَاهُمْ فِي ٱلأَرْضِ أُمَماً } معناهُ فَرّقنَاهُم فِرقاً\n\n\n\n\nوقوله تعالى: { وَبَلَوْنَاهُمْ بِٱلْحَسَنَاتِ وَٱلسَّيِّئَاتِ } فالحَسَناتُ: الخِصْبُ\n والسَّيِّئاتُ: الجَدبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And We have divided them on the earth into nations} means that We have divided them into different groups.\n\n\nAnd His saying, {We will test them with good and with evil} - the good being abundance.\n And the most evil of things is the breaking of {promises}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

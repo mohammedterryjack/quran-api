@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإذَا قِيلَ لَهُمُ ٱرْكَعُواْ لاَ يَرْكَعُونَ } معناه وإذَا قِيلَ لهم صَلوا لا يُصلون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And when it is said to them, \" bow down,\" they do not bow down.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

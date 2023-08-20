@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِن تَنَازَعْتُمْ فِي شَيْءٍ } معناهُ اخْتَلَفْتُمْ فِيهِ { فَرُدُّوهُ إِلَى ٱللَّهِ } معناهُ إِلى كِتابِ الله جَلَّ وعلا { وَٱلرَّسُولِ } معناه إِلى سُنَتهِ صلى الله عليهِ وعلى آلهِ وسلم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {If you differ in anything}, its meaning is that you disagreed {Then return it to Allah}, its meaning is to the Book of Allah, Most High and Exalted {And to the Messenger}, its meaning is to his Sunnah, may Allah bless him and grant him peace.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

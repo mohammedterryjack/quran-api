@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَالَ ٱلَّذِينَ كَفَرُواْ لاَ تَسْمَعُواْ لِهَـٰذَا ٱلْقُرْآنِ وَٱلْغَوْاْ فِيهِ } معناه اكثِروا من اللغطِ والصَّخبِ، حتى لا يسمَعهُ سَامعٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe disbelievers say, \"Do not listen to this Quran, and do not be distracted by it.\" This means that they should cover their ears and be more preoccupied with other things, so that they cannot hear it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

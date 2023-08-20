@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِثْقَالَ ذَرَّةٍ } معناهُ زِنَةُ ذَرَّةٍ\n والذَّرةُ: النَّملَةُ الصَّغِيرةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {the weight of a mustard seed}, means the sin of a mustard seed.\n\n\nThe ant: the small creature.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

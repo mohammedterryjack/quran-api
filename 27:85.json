@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَوَقَعَ ٱلْقَوْلُ عَلَيهِم بِمَا ظَلَمُواْ } معناه وَجَبَ العِقابُ\n وقال الغَضبُ\n وبما ظَلَمُوا: معناه بما كَفَرُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the word of God came down upon them for their wrongdoing.\n\n\nThe anger said,\n And because they wronged {themselves}, that is, because they disbelieved",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

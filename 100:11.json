@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ } معناه عَلَيمٌ بِهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, their Lord is with them that Day}, [means that] He is Knowing of them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

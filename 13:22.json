@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيَدْرَءُونَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ } معناهُ يَدفعُونَ بِهَا\n\n\n\n\nوقوله تعالى: { عُقْبَىٰ ٱلدَّارِ } معناهُ عَاقِبَتُهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"They repel evil with good\" [Qur'an 13:22], means that they repel it with something better.\n\n\nAnd His saying, {the final abode}, means their consequence.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

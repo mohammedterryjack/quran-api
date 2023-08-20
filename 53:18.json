@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَقَدْ رَأَىٰ مِنْ آيَاتِ رَبِّهِ ٱلْكُبْرَىٰ } معناه من علاماتِهِ وعجائبهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He has surely seen the greatest of His signs} means from His signs and wonders.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

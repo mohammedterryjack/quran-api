@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَهَدَيْنَاهُ ٱلنَّجْدَينِ } معناه بيّنا له طَريقَ الخَيرِ وطَريقَ الشَّرِ\n ويقال: طَريقَ الثَّديينِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "And His saying, {And We have guided him to the two highways} [means that] We have shown him the way of goodness and the way of evil.\n\n\nThe way of the two breasts is said.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

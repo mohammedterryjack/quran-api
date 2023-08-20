@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلْمُؤْتَفِكَةَ أَهْوَىٰ } قال: رَفعَها جبريل عليهِ السَّلامُ إلى السَّماءِ ثم أَهوى بها\n والمُؤتفكةُ: هِي المَخسوفُ بِهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the Almighty said: {And the most beloved is the one that is most obedient} Jibril (Gabriel) raised it to heaven and then he loved it with it.\n\n\nAnd the mu'tafikah (the one who is followed by others): she is the one who is covered with darkness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَٱلْفُلْكِ ٱلَّتِي تَجْرِي فِي ٱلْبَحْرِ بِمَا يَنفَعُ ٱلنَّاسَ } فالفُلكُ: السَّفينةُ\n وهو واحدٌ\n\n\n\n\nوقولهُ تعالى: { وَبَثَّ فِيهَا } معناهُ فَرَّقَ فيها وَبَسَطَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the verse: {And the ships that sail in the sea with what benefits mankind} The ship is the boat.\n\n\nAnd He is One.\n\n\nAnd His saying, \"And He spread [His light] therein,\" means that He separated and spread out in it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

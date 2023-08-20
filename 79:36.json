@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَبُرِّزَتِ ٱلْجَحِيمُ لِمَن يَرَىٰ } أي كُشِفَ غِطاؤُها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the Hellfire will be revealed to whoever sees it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَنَسْفَعاً بِٱلنَّاصِيَةِ } معناه لَنأخُذنْ بالنَّاصيةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {We will raise with the authority} means that we will take with the authority.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

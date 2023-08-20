@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدثنا علي بن أحمد\n قال: حدثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السَّلامُ في قولهِ تعالى: { مَا يَلِجُ فِي ٱلأَرْضِ } معناه يَدْخُلُ ويَغيبُ فِيها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad narrated to us.\"\n\n\nHe said: It was narrated to us by `Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn `Ali, may peace be upon them, regarding the saying of Allah Almighty, { Nothing enters it [the earth] but } its meaning is that it enters and leaves it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

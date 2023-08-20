@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عِظَاماً نَّخِرَةً } معناه باليةٌ\n ونَّخِرةٌ: أي تَنخَرُ إذا دخَلتهَا الرِّيحُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {with bones upright} [means] a body.\n\n\n{And} the {next} day: {that is}, when the wind {entered} it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

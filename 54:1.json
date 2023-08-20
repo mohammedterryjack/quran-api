@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السّائب عن أبي خالد الواسطي، عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ } قال: فانشقَّ القَمرُ على عَهدِ النَّبي صلى الله عليه وآلهِ وسلمَ حتّى صارَ فِرقتينَ والنَّاسُ ينظرونَ\n فقالتْ اليَهودُ سُحرَ القَمرُ\n فأنزلَ الله تعالى: { ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ وَإِن يَرَوْاْ آيَةً يُعْرِضُواْ وَيَقُولُواْ سِحْرٌ مُّسْتَمِرٌّ } والمُستمرُ: الشَّديدُ\n ويقال: يَشبهُ بعضُهُ بعضاً\n ويقال: الذَّاهبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: Ali ibn Ahmad narrated to us\n\n\nIt was narrated that Zayd ibn Ali said, regarding the words of Allah, {The Hour has drawn near, and the moon has split}: \"The moon split during the lifetime of the Prophet (peace be upon him), until there were two pieces, and people were looking on.\"\n\n\nThe Jews said, \"The moon is bewitched.\"\n\n\nThen Allah, the Most High, revealed: {The Hour has drawn near, and the moon has been cleft in two. And if they see a sign, they turn away and say, \"This is ongoing magic.\"} And the ongoing one is the strong one.\n It is said that some of them resemble each other.\n The one who goes",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

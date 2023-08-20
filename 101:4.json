@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ [ٱلْمَبْثُوثِ] } فالفَراشُ: طَيرٌ مَعروفٌ\n والمَبثوثُ: المُتفرقُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"The Day when people will be like moths,\" {the Day when people will be like moths [fluttering]}. The moth is a known bird.\n\n\nThe scattered one.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

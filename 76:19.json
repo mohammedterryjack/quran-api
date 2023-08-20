@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُونَ } أي مُسورون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the words of the Almighty: {And there will be children circling around them, eternal} that is, those who are resurrected.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

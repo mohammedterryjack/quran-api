@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنَّهُ لَعِلْمٌ لِّلسَّاعَةِ } معناه خُروجُ عِيسى بن مريم عليهِ السَّلامُ\n\n\n\n\nوقوله تعالى: { فَلاَ تَمْتَرُنَّ بِهَا } معناه لا تَشُكَّنَّ فيها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Indeed, he is knowledge of the Hour} [means that] 'Eesa ibn Maryam (peace be upon him) will come.\n\nAnd His saying, {So do not doubt it} [means that] do not disbelieve in it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

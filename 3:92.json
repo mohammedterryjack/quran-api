@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَن تَنَالُواْ ٱلْبِرَّ } معناهُ الجَنةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Most certainly you shall not attain to righteousness} [means] Paradise.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

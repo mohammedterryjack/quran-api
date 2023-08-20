@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ضَرَبَ ٱللَّهُ مَثَلاً كَلِمَةً طَيِّبَةً } قالَ زيد بن علي عليهما السّلامُ: هِي لاَ إله إِلاَّ الله أَصْلُهَا ثَابِتٌ فِي قَلبِ المُؤمِن\n ويقالُ: النَّخلَةُ\n وشَجَرةٌ خَبِيثَةٌ: هِيَ الحَنظَلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {He has set forth for you an example in the word that is good} - Zayd ibn Ali said, \"It is the affirmation that there is no god but Allah, its roots are firm in the believer's heart.\"\n The date palm is said to be\n\nThe date palm is said to be the tree of life. It is a symbol of fertility, growth, and abundance.\n\n\nA bad tree: it is the date palm.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

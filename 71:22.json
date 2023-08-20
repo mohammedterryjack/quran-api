@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَكَرُواْ مَكْراً كُبَّاراً } معناه كَبيرٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {And they plotted a great plot} - its meaning is great.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

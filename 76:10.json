@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا نَخَافُ مِن رَّبِّنَا يَوْماً عَبُوساً قَمْطَرِيراً } معناه يَعبسُ وَجهُهُ\n والقَمطريرُ: الذي يَقْبُضَ بينَ عَينيهِ\n ويقال: العَبوسُ: الضِّيقُ\n والقَمطريرُ: الطَّويلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, We fear from our Lord a Day austere and distressed} [means that] He will frown and turn away His face.\n\n\nThe camel driver: the one who squeezes between his eyes\n It is said: \"The narrow one is {the} abstainer.\"\n\n\nAnd the qamṭarīr: the long one.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

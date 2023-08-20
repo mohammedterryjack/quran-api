@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ } معناه مَلِكُهَا\n ويقال سُلْطانُها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - the Most High - {The sovereignty of the heavens and the earth belongs to Him} means that He is their King.\n\n\n{Her} sultanate is said.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَكَاناً سُوًى } معناهُ وسَطٌ\n ويقالُ سِوى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {in a place where there is no sun or shade} means in the middle.\n\n\nThis is said instead.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

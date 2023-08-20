@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَوْ نَشَآءُ لَمَسَخْنَاهُمْ عَلَىٰ مَكَـانَتِهِمْ } فالمَكانُ والمَكانةُ: واحدٌ\n ومَسخناهُمْ: معناه أَقعدناهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And if We had willed, We could have destroyed them where they stood}, the place and the location are one.\n We will punish them: We will sit them down",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

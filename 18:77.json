@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَبَوْاْ أَن يُضَيِّفُوهُمَا } معناه أَن يُنزلُوهما مَنزِلَ الأَضيافِ\n\n\n\n\nوقوله تعالى: { يُرِيدُ أَن يَنقَضَّ } معناهُ أَن يَسقُطَ قال الإِمامُ زيد بن علي عليهما السَّلامُ: ولَيسَ للجِدارِ إِرادةٌ، وإِنَّما هو حَائطٌ مواتٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {But they preferred that they should be brought low and captive} [means that] He will bring them low and take them captive.\n\n\nAnd the saying of Allah, \"He intends to destroy\", means that He will destroy. Imam Zaid ibn Ali, peace be upon him, said: The wall does not have intention, but it is a dead wall.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

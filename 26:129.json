@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ } معناهُ بُروجُ الحَمامِ\n وكُلُّ بِناءٍ فَهو مَصنعةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And you take strongholds that you may abide eternally} The meaning of the towers of the Hamam.\n\n\nAnd every building is a factory.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

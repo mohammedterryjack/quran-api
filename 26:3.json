@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد عن عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السلام في قولهِ تعالى: { بَاخِعٌ نَّفْسَكَ } معناه قاتلُ نَّفسِكَ ومُهلكُهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: Ali ibn Ahmad narrated to us from Ata ibn al-Sa'ib from Abu Khalid from Zayd ibn Ali (peace be upon them) regarding the saying of Allah (swt), {Bakhidhun nafsaka} (lit. 'You will kill yourself'), its meaning is 'you will kill yourself and destroy it'.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

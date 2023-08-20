@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا جَآءُوكَ حَيَّوْكَ بِمَا لَمْ يُحَيِّكَ بِهِ ٱللَّهُ } وهو قولُ اليَهودِ: سامٌ عليكم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when they come to you with something that Allah has not revealed to you, {and say}, \"O Muhammad, this is from Allah,\" do not believe them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

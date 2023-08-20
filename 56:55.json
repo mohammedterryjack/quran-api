@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَشَارِبُونَ شُرْبَ ٱلْهِيمِ } معناه الإِبلُ العِطَاشُ التي لا تُروى\n وكذلك الرَّملُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {drink the milk of the camel} means the camel's milk that is not watered down.\n\n\nAnd likewise, sand",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

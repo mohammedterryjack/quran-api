@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ يَخَافُ عُقْبَاهَا } معناه لا يخافُ تبعةً من أحدٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And no one should fear their consequence}, means that no one should fear anyone else's consequence.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

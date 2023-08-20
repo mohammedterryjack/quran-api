@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَحَدَآئِقَ غُلْباً } معناه البَساتينُ\n والغُلبُ: الغِلاظُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {And the gardens of perpetual bliss}, its meaning is the {bustans} (i.e. gardens).\n\n\nAnd the Ghulb: the Ghilaz",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

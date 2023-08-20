@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ قَبَضْنَاهُ إِلَيْنَا قَبْضاً يَسِيراً } معناه خَفي\n معننه ما يَقبضُ الشَّمسُ من الظّلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {then We took him unto Us, a taking easy} [Qur'an 19:86], means that He took him secretly.\n\n\nThis means that the sun is setting.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

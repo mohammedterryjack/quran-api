@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { وَلاَ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ } معناه أُقسِمُ\n واللوَّامَةُ: التي تَلومُ على الخَيرِ والشَّرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nI do not swear by the self-reproaching soul.\n\n\nAnd the One who is blameworthy is the one who censures (or reproaches) for good and for evil.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

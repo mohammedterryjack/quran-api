@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَفَرَأَيْتَ مَنِ ٱتَّخَذَ إِلَـٰهَهُ هَوَاهُ } قال: كانَ الرَّجلُ يَعبدُ الحَجَر الأَبيضَ زَماناً فِي الجَاهليةِ، فيَجدُ حَجراً أحسنَ منهُ فَيعبدُ الآخرَ ويَترك الأَولَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nHave you seen the one who has taken his own desires as his god? He was worshipping a white stone in the time of ignorance, but then he found a better stone and started worshipping that one instead, leaving the first stone behind.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَن يُرِدِ ٱللَّهُ فِتْنَتَهُ } فالفِتْنَةُ: الأَمرُ والإِرَادَةُ والاختِبارُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And whoever Allah wills to test, He will test them,\" the Fitnah is the affair, the will, and the test.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر قال: حدّثنا علي بن أحمد قال: حدّثنا عطاء بن السائب عن أبي خالد عن الإِمام زيد بن علي عليهما السّلامُ فِي قولهِ تعالى: { سُوۤءُ ٱلْعَذَابِ } معناه شَديدُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nImam Zaid ibn Ali told us that Abu Jafar said: Ali ibn Ahmad told us that Ata ibn al-Sa'ib told us that Abu Khalid told us that the meaning of Allah's saying {the worst of punishment} is its severity.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

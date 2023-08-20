@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَتَّىٰ يَلِجَ ٱلْجَمَلُ فِي سَمِّ ٱلْخِيَاطِ } والجَمَلُ: وَلَدُ النَّاقةِ والجُمَّلُ: حِبال القَلْسِ\n وَيلِجُ: يَدخُلُ\n والخِيَاطُ: الإِبرَةُ\n وسَمُّها: ثَقْبُهَا، والجمعُ سُمُومٌ\n وكلُّ ثَقبٍ مِن أُذنٍ أَو عَينٍ أو أنفٍ أو غَيرِ ذَلِكَ فَهو سَمٌّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {Until the camel goes through the eye of the needle} and the camel: the offspring of the female camel and the camel: the cords of the reed mat.\n\n\nAnd he enters: he enters\n\n\nThe needle: the {ibra}\n\n\nAnd her name is: {Thaqbuhaha}, and the plural is {sumoomun}.\n\nAnd every {gap or opening} of an ear or an eye or a nose or anything else, it is {a sign or indication}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

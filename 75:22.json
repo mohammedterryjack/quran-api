@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ إِلَىٰ رَبِّهَا نَاظِرَةٌ } معناه مُشرقةٌ\n وناظرةٌ: مُنتظرةٌ للثوابِ\n قال الإِمام زيد بن علي عليهما السلام: إنما قَولهُ نَاظرةٌ: إلى أمرِ رَبِّها نَاظرةٌ مِنَ النَّعيمِ والثَّوابِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, { faces on that day will be radiant, looking to their Lord } means [they will be] bright.\n\n\nAwaited: One who is awaited for reward\n\n\nThe Imam Zayd ibn Ali, peace be upon him, said: \"Her statement 'I am a witness' is a declaration of her hope for reward and bliss from her Lord.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلاَنِ } معناه سَيُحاسبُكُم والثَّقلانُ: الجن والإِنسُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {We will soon rid you of the heavier} [of burdens], means that He will judge you and the heavier [of burdens] are the Jinn and mankind.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تُوبُوۤاْ إِلَى ٱللَّهِ تَوْبَةً نَّصُوحاً } معناه أَن يَتوبَ من الذَنبِ ثُمَّ لا يعود إليهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, {Turn to Allah a sincere repentance} its meaning is that he repents from the sin then does not return to it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمٌ عَصِيبٌ } معناهُ شديدٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd his saying, {a day of distress}, means severe.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

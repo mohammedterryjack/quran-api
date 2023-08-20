@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قِطَعاً مِّنَ ٱلْلَّيْلِ مُظْلِماً } معناه بعضٌ\n والجَمعُ أَقطاعٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, { Certainly a part of the night is darkness } means a part of it.\n\n\nAnd the gathering is a group of people.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

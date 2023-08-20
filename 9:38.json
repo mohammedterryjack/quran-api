@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قِيلَ لَكُمُ ٱنفِرُواْ فِي سَبِيلِ ٱللَّهِ } معناهُ أُخرُجُوا { ٱثَّاقَلْتُمْ } معناه تَثَاقَلتُم\n\n\n\n\nوقوله تعالى:\n\n[الأعراف: 176] معناهُ سَكَنَ إِليهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {It was said to you, \"Go forth in the way of Allah.\"} Its meaning is that you should go out {you have become heavy} Its meaning is that you have become heavy.\n\n\nAnd His saying, {Exalted is He}, \"O Iblees, what prevented you from prostrating to that which I created with My hands? Were you arrogant [then], or were you [one] of the exalted?\"\n It means \"He dwelt with her\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

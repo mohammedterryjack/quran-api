@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَمَّا مَن ثَقُلَتْ مَوَازِينُهُ } معناه حَسناتُهُ { وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ } معناه سيئاتُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd as for those whose scales are heavy [with good deeds], it is they who will be successful. But as for those whose scales are light [with bad deeds], it is they who will have lost their souls, [and] will abide eternally in Hell.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

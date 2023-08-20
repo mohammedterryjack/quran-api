@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تُرْهِقْنِي مِنْ أَمْرِي عُسْراً } معناه لا تُغْشِني\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {And do not burden me with that which is too difficult for me} [Qur'an 23:62], its meaning is \"do not make me tired.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

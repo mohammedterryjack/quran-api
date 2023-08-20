@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { رَفَعَ سَمْكَهَا } معناه بَناها بغَيرِ عَمدٍ، يعني السّماءَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He raised His sky} [means] He established it without support, meaning the heaven.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنِّيۤ أَحْبَبْتُ حُبَّ ٱلْخَيْرِ } فالخَيرُ: الخَيلُ\n\n\n\n\nوقوله تعالى: { حَتَّىٰ تَوَارَتْ بِٱلْحِجَابِ } معناه غابتْ بالحِجابِ يعني الشَّمسِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, I have preferred the love of good} so the good is: the horses.\n\n\nAnd His saying, {Until it covers the hijab} means it has set with the hijab, i.e. the sun.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

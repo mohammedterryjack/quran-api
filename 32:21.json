@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَنُذِيقَنَّهُمْ مِّنَ ٱلْعَذَابِ ٱلأَدْنَىٰ دُونَ ٱلْعَذَابِ ٱلأَكْبَرِ } قال عليه السلام: العَذابُ الأدنى: هو عَذابُ القَبرِ\n وقال: هو سِنونٌ أُخذوا بها\n وقال: هو يَومُ بَدرٍ\n وقال: مَصائبُ يُصابونَ بِها في الدُّنيا\n وقال: هي الحِدودُ التي تُقام عَليهم فِي الدُّنيا\n\n\n\n\nوقوله تعالى: { لَعَلَّهُمْ يَرْجِعُونَ } معناه يَتُوبونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe Quran says: {And We will certainly make them taste the punishment of the lower [hell] before the punishment of the greater [hell]} Imam Ali said: The lower punishment is the punishment of the grave.\n He said: \"They are years they took them with\"\n\n\nAnd he said, \"It is the Day of Badr.\"\n And he said, \"The afflictions that afflict them in this world\"\n\n\nHe said: \"They are the boundaries which are established over them in the world.\"\n And His saying, { perhaps they will return } its meaning is that they will repent.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيَمْنَعُونَ ٱلْمَاعُونَ } معناه الزّكاةُ المَفروضةُ\n ويقال: وهو ما يَتعاوَرهُ النَّاسُ بينهم من الفَأسِ والقِدرِ والدّلوِ وما أشبهَ ذَلكَ، والماعونُ: الطَّاعةُ\n والمَاعونُ: العطيةُ والمَنفعةُ\n والمَاعونُ: بلسانِ قُريشٍ المَالُ\n ويقالُ: المَاعونُ: المِهنةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And they withhold the mandatory charity} means the obligatory charity.\n\n\nAnd it is said: that which people { } amongst themselves of position and power and influence, and that which is similar to that. And the helpful thing is obedience.\n\n\nAnd the helper: the giving and the beneficial.\n\n\nAnd the {ma'oun} (blessing): the Quraish language of money\n\n\nIt is said: The profession is the source of livelihood.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

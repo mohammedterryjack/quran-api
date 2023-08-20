@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ } معناه المُنقطعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {as if they were cut off from a date palm tree} means the cut off.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

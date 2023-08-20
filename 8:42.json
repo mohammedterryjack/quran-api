@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذْ أَنتُمْ بِالْعُدْوَةِ ٱلدُّنْيَا وَهُم بِٱلْعُدْوَةِ ٱلْقُصْوَىٰ } والعُدْوةُ: شَفيرُ الوَادي\n والدُّنيَا: الأَدنى، وهو الأَقربُ\n والقُصوى: الأَبْعَدُ\n فالمُؤمنوُن كانُوا بِالعُدوةِ الدُّنيَا\n والكَافِرونَ بِالعُدوةِ القُصوى { وَٱلرَّكْبُ أَسْفَلَ مِنكُمْ } [أي] أبو سُفيان وأَصحابُهُ أَسفلُ مِنْهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {When you are in the world's enemy and they are in the quswa enemy} and the enemy: the valley's cleaver.\n\n\nAnd the world: the lowest, and it is the closest.\n\n\nThe farthest.\n The believers were in the {worldy} enemy.\n\n\nAnd the unbelievers with the most extreme hostility {and the lowest of you in rank} [that is], Abu Sufyan and his companions are lower in rank than them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

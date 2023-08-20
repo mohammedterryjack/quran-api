@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَنَسِمُهُ عَلَى ٱلْخُرْطُومِ } أي عَلَى الأَنفِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {We will brand him upon the nose} [that is] upon the nose.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

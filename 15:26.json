@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِن صَلْصَالٍ مِّنْ حَمَإٍ مَّسْنُونٍ } فالصَّلصالُ: اليَابسُ الذي لَمْ تُصِبهُ نَارٌ\n فإِذَا نُقِرَ صَلَّ: أي صَوَّتَ\n والحَمأُ: الطِّينُ الأَسودُ المُتغيِّرَ\n ومسنونٌ: معناه مُنتَنٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {From a burning coal, from a fire well-guarded} - so the coal is the unburnt ember, from which fire has not yet sprung.\n {When} the {sound} {is} {repeated} {it is called} an echo.\n\n\nThe black clay that can be transformed.\n\n\nAnd those who are firmly rooted in knowledge {al-muttaqoon} say, \"We believe in it; all of it is from our Lord.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

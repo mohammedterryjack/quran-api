@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَبَيْنَ حَمِيمٍ آنٍ } فالحَميمُ: الحَارُ\n والآنُ: الذي قد انتهى حَرُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Most High: {And between the hot springs} So the hot springs are the hot springs.\n\n\nAnd now: that which has ended its heat",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

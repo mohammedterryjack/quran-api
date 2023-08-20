@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلاَّ تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ } معناه لا يُواخذُ بذَنبِ غَيرِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " { Do not let one guilty person bear the punishment for another } means that one should not be held accountable for the sins of another.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

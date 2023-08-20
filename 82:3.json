@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا ٱلْبِحَارُ فُجِّرَتْ } معناه فُجِّرَ بَعضُها في بَعضٍ فَذَهَب ماؤها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd when the seas are opened {and the seas are opened}, it means that some of them are opened in others, and the water goes away.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

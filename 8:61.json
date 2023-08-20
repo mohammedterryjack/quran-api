@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِن جَنَحُواْ لِلسَّلْمِ } معناه مالوا: والسِّلمُ: الصُّلحُ ويقال: سَلَمٌ وسِلْمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - be glorified - {And if they incline to peace} means: let them make peace, and the peace is the reconciliation, and it is said: {سَلَمٌ} [salamun] and {سِلْمٌ} [silmun].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

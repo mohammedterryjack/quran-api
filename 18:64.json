@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱرْتَدَّا عَلَىٰ آثَارِهِمَا قَصَصاً } معناه يَقُصَّانُ الأَثرَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And the saying of Allah: {Then they returned, following the traces of them} means that he follows their tracks.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

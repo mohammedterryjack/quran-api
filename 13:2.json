@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأَخبرنا أبو جعفر، قال: حدَّثنا علي بن أحمد، قالَ: حدَّثنا عطاءُ بن السائب عن أبي خالد عن زيد بن علي عليهما السَّلامُ فِي قَولِه تعالى: { بِغَيْرِ عَمَدٍ تَرَوْنَهَا } وهو جمع عمود\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us, he said: Ali ibn Ahmad told us, he said: Ata' ibn al-Saa'ib narrated to us from Abu Khalid from Zayd ibn Ali, upon them both be peace, regarding the words of the Almighty {You see it not with your own eyes}, which is a plural of 'amud.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

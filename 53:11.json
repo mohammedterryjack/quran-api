@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَا كَذَبَ ٱلْفُؤَادُ مَا رَأَىٰ } معناه ما عَلِمَ، وصَدَّقَ ما رأى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {the heart has not lied about what it has seen} means that it knows and believes what it has seen.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

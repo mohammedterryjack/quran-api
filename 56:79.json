@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَّ يَمَسُّهُ إِلاَّ ٱلْمُطَهَّرُونَ } معناه الملائكةُ المُوكلون باللوحِ المحفوظِ الذين طُهِّرُوا من الشّركِ\n وقال: لا يجدُ طَعمَ القُرآنِ ونَفعَهُ إلاّ مَنْ آمنَ بهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, the Most High, {No one touches it except the purified} means the Angels entrusted with the Preserved Tablet who were purified from polytheism.\n And he said, \"No one will find the taste of the Qur'an and its benefit except for those who believe in it.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

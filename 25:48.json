@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَرْسَلَ ٱلرِّيَاحَ بُشْرَى } معناه حياةٌ\n\n\n\n\nوقوله تعالى: { بَيْنَ يَدَيْ رَحْمَتِهِ } والرّحمةُ: المطرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He sends the winds as a glad tiding} [Qur'an 30:46], means that life is a glad tiding.\n\n\nAnd His saying, {between His hands is His mercy} - and mercy is the rain.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

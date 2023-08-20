@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ } معناه يُبيّنُ لَكَ بَيانَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {before it is decided to you} means He will explain to you His statement.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

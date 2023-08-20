@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهِ تعالى: { في قُلُوبِهِمْ زَيْغٌ } معناهُ جَورٌ\n\n\n\n\nوقوله تعالى: { ٱبْتِغَاءَ ٱلْفِتْنَةِ } معناهُ: الكفرُ\n و: { ٱبْتِغَاءَ تَأْوِيلِهِ } معناهُ تَفسيرُهُ\n والابتِغَاءُ: الطَّلبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {in their hearts is a deviation} [means] injustice.\n\n\nAnd His saying, \"I {seek refuge in the Fitnah}\" - its meaning is disbelief.\n And: { In search of its interpretation } its meaning is its interpretation\n\n\nAnd the seeking: the seeking",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

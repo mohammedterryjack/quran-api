@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا يَشْعُرُونَ أَيَّانَ } معناه مَتى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And they do not perceive how {and when} it will be.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

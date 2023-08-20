@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَيْنَهُمْ زُبُراً } معناه قِطعٌ\n وزُبَرٌ معناه قِطعةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is a barrier between them}, means that there is a separation.\n\n\nThe word \"wazir\" refers to a piece or section.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

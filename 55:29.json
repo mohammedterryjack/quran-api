@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ } قال الإِمامُ زيد بن علي عليهما السلامُ: يُجيبُ دَاعياً، أو يفكُّ عانياً\n أو بُشفى سقيماً، أو يُغَّني فقيراً\n أو يَرفعُ ضَعيفاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Every day He is in a matter,\" Imam Zayd ibn Ali said: \"He answers the caller, or comforts the afflicted.\"\n\n\n{Or he is healed of his sickness, or he is given wealth.}\n Or he raises the weak.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

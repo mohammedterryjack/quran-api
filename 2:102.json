@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَٱتَّبَعُواْ مَا تَتْلُواْ ٱلشَّيَـٰطِينُ } معناهُ تَتبعُ\n وتَتْلوا أيضاً: تَقرأ\n\n\n\n\nوقولهُ تعالى: { مَا لَهُ فِي ٱلآخِرَةِ مِنْ خَلَٰـقٍ } [معناهُ] من نَصِيبٍ خَيرٍ\n\n\n\n\nوقولهُ تعالى: { وَلَبِئْسَ مَا شَرَوْاْ بِهِ أَنْفُسَهُمْ } قالَ زيدُ بن علي عليهما السلامُ: معناهُ بَاعوا بِهِ أَنفُسَهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, {And follow what the devils read} means that he follows.\n\n\nAnd recite as well: recite\n\n\nAnd His saying, {There is nothing for him in the Hereafter from [any] creation} [means] that he has no share of goodness in the Hereafter.\n\n\nAnd the saying of the Most High: {And how evil is that which they have brought upon themselves} - Zayd ibn Ali said: It means they have sold themselves.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

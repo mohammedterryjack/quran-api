@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيُنْشِىءُ ٱلسَّحَابَ ٱلثِّقَالَ } معناه يُبدي السَّحابَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And He creates the dense clouds} [means that] He manifests the clouds.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

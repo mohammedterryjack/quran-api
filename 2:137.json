@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَإِنَّمَا هُمْ فِي شِقَاقٍ } معناهُ فِي عَداوةٍ وَحربٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His [i.e., Allah's] saying, {Indeed, they are in discord} [means that] they are in hostility and war.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

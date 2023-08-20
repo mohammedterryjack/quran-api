@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلِكُلٍّ جَعَلْنَا مَوَٰلِيَ } معناهُ وَرَثةٌ\n والمَولى: ابن العَم\n والمَولى: المُنْعِمُ المُعتِقُ\n والمَولى: المُعتَقُ\n والمَولى: الحَلِيفُ والنَّاصِرُ\n والمولى: الوَلِي\n والمَولى: المُسْلِمُ على يَدَيهِ\n والمَولى: المسلم على يد الرَّجلِ!\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {And to everyone We have appointed heirs} means that everyone has an inheritance.\n\n\nAnd the master: the son of the uncle\n\n\nAnd the Wali (Protector or Guardian): The One who is Most Munim (Bountiful) and Mu'tiq (Liberator)\n\n\nAnd the guardian: the one who frees (slaves/prisoners)\n\n\n{And the protector: the ally and the supporter}\n\n\nAnd the Patron: The Patron\n\n\nAnd the guardian: the Muslim is on his own hands.\n\n\nAnd the next of kin: the Muslim man on the man's hand!",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

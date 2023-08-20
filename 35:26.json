@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ أَخَذْتُ ٱلَّذِينَ كَفَرُواْ } معناه عاقبتُهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Then I took those who disbelieved\" [means that] I punished them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

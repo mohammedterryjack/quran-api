@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَنْكِحُواْ ٱلأَيَامَىٰ } وهن النِّساءُ اللاتي لا أَزواجَ لَهنّ\n والايامى: الرِّجالُ أيضاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Marry the single women,\" refers to those women who have no husbands.\n\n\nAnd the days: the men too.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

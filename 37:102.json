@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعْيَ } معناه أطاقَ العَملَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when He {reached maturity} with him, he {began to work} with him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

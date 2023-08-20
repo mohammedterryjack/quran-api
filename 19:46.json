@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱهْجُرْنِي مَلِيّاً } معناه دهرٌ\n وقال: حينٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And keep me away from the unjust\" [Qur'an 12:28], its meaning is \"dunya.\"\n And he said: \"A time.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

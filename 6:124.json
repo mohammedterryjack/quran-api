@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَيُصِيبُ ٱلَّذِينَ أَجْرَمُواْ صَغَارٌ } وهو أَشَدُّ الذُّلِّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Those who are guilty will be afflicted with a severe punishment,\" is the most severe of all.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

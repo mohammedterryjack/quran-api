@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَّا مِن دَآبَّةٍ إِلاَّ هُوَ آخِذٌ بِنَاصِيَتِهَآ } معناهُ قادر عليها\n وقَابِضٌ عَلَيهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {There is not a creature but that it is [either] His grasp or His neck} [means that] He is capable over it.\n\n\nAnd {the} presser {upon} it",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

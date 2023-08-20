@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ جَذْوَةٍ مِّنَ ٱلنَّارِ } معناهُ قِطعةٌ منهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Or a fragment of fire from the Fire\" - its meaning is a piece of it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَيِّداً وَحَصُوراً } فالسَّيِّدُ: التّقِيُ\n والسَّيِّدُ: الحَلِيمُ والحَصُورُ: الذي لاَ يولَدُ لَهُ\n والحَصُورُ: العِنِّينُ\n والحَصُورُ: الذَي لاَ يأْتِي النِّساءَ\n والحَصُورُ: الذي لَيسَ لَهُ ماءٌ\n والحَصُورُ: الذي يَكُونُ مَعَ النَّدامى وَلاَ يُخْرِجُ شَيئاً\n والحَصُورُ: الذي لاَ يُخْرِجُ سِراً أَبَداً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Exalted and Majestic} - the Exalted is the one who is free from all defects and the Majestic is the one who is in complete control.\n\n\nAnd the master: the patient and the prudent: the one who is not born to him\n\n\nThe eyes are the windows of the soul.\n\n\n{And al-Hasūr: the one who does not come to women}\n\n\nAnd Al-Hasūr: he who has no water.\n\n\nThe Haṣūr is one who is with the Nādāmī and does not leave anything behind.\n\n\nThe Hāsūr is the one who never reveals a secret.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

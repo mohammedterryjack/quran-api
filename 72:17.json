@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِّنَفْتِنَهُمْ فِيهِ } أي لنَبتلِيهِمْ\n\n\n\n\nوقوله تعالى: { يَسْلُكْهُ عَذَاباً صَعَداً } معناه أشدُّ العَذابِ ويقال: الصَّعدُ: جَبلٌ في جَهنمَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {We will surely test them in it} [means that] We will surely try them.\n\n\nAnd His saying, \"He will inflict upon it a punishment ascending\" - this means the most severe punishment. And it is said, \"As-Sa'ad\": a mountain in Hell.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَكُلاَ مِنْهَا رَغَداً } فالرَّغَدُ: الكثيرُ الواسِعُ\n ويقالُ: الرَّغَدُ: الذي لا حِسابَ عَلَيهمْ فيهِ\n\n\n\n\nوقولهُ تعالى: { وَلاَ تَقْرَبَا هَـٰذِهِ ٱلشَّجَرَةَ } قالَ زيدُ بن علي عليهما السَّلامُ: هي شَجرةُ الكَرْمِ\n وقال: في مَوضعٍ آخرَ هي السّنبلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And every one of them is eager} - so eagerness is the great, wide one.\n It is said: \"The Raghad is the one for whom there is no accounting in it.\"\n\n\nAnd the saying of Allah, \"Do not approach this tree,\" said Zayd ibn Ali, may peace be upon them both, \"This is the tree of kindness.\"\n And he said: \"At another place is the Sisnab\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

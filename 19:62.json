@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَّ يَسْمَعُونَ فِيهَا لَغْواً } معناهُ هَذرٌ وبَاطلٌ\n\n\n\n\nوقوله تعالى: { وَلَهُمْ رِزْقُهُمْ فِيهَا بُكْرَةً وَعَشِيّاً } قالَ الإِمامُ زيد بن علي عليهما السَّلامُ: لَيسَ هُناكَ البُكرةُ والعَشي، لَكنْ يُؤتونَ بهِ عَلَى مَا يَحِبّون مِن البُكرةِ والعَشي، مِثل مقاديرَ الليلِ والنَّهارِ فِي الدُّنيا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {They will not hear therein any vain speech} [means] that it is null and void.\n\nAnd the saying of Allah Ta'ala: {And for them is their provision in it morning and evening} Imam Zaid bin Ali, peace be upon him, said: There is no morning and evening here, but they are given according to what they love from morning and evening, like the portions of night and day in this world.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

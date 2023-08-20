@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذَآ أُلْقُواْ فِيهَا سَمِعُواْ لَهَا شَهِيقاً } معناه صَوتٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {When they are cast into it, they will hear a loud noise} means a sound.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

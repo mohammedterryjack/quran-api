@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال حدّثنا علي بن أحمد\n قال حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قوله تعالى: { لاَ تُقَدِّمُواْ بَيْنَ يَدَيِ ٱللَّهِ وَرَسُولِهِ } معناه لا تُعجِّلوا بالأمرِ والنهي دُونَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\n{He said:} Ali ibn Ahmad told us\n\n\n\"Do not put yourselves forward in the presence of Allah and His Messenger\" means do not haste in the matter and the prohibition without him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

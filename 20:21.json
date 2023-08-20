@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَنُعِيدُهَا سِيَرتَهَا ٱلأُولَىٰ } معناه خِلقتُها الأُولى، عَصا كَما كَانتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {We will return it to its former state} means its original creation, as it was.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِن مِّنكُمْ إِلاَّ وَارِدُهَا } الورودُ: الدُّخولُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"There is not one of you but will come to it\" - the coming is the entrance.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

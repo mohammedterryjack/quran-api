@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَعَذَّبْنَاهَا عَذَاباً نُّكْراً } يعني شَديداً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd We will punish her with a severe punishment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

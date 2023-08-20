@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا يَسْتَوِي ٱلْبَحْرَانِ هَـٰذَا عَذْبٌ فُرَاتٌ } معناه أعذبُ العَذبِ { وَهَـٰذَا مِلْحٌ أُجَاجٌ } معناه أملحُ المُلوحةِ\n\n\n\n\nوقوله تعالى: { وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ } معناه جَوارٍ تَجري فيهِ تَشُقُّ الماءَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And not equal are the two seas; this one is sweet, palatable, while that one is salty and bitter.} means that the {one is sweet} is sweeter than the {one is salty and bitter}.\n\n\nAnd you see the ships in it { } sailing through the water, cutting through the waves.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

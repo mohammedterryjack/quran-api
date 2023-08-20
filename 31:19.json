@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱقْصِدْ فِي مَشْيِكَ } معناه تَواضعْ فيهِ\n\n\n\n\nوقوله تعالى: { إِنَّ أَنكَرَ ٱلأَصْوَاتِ لَصَوْتُ ٱلْحَمِيرِ } معناه أقبحُها\n وقال: أشدُّ الأَصواتِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And strive in [your] walk} [means] humility in it.\n\n\nAnd His saying, {Indeed, the most despised of sounds is the sound of donkeys} means that it is the most despised of sounds.\n\n\nAnd he said, \"The most powerful of sounds.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

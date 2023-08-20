@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلْمُهَيْمِنُ } هو الشَّاهدُ لكلِّ شَيءٍ\n والمُهَيْمِنُ من النَّاسِ: المُؤتمنُ علَى الشَّيْءِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"The Most Merciful [is] the witness of all things\"\n The one in charge of people is the one who is trustworthy with regard to something.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

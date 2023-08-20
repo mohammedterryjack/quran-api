@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يٰأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ } المطمئنةُ بما قالَ الله المُصدقةُ المُوقنةُ بِالامانِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - {O soul at rest} - the soul at rest with what Allah has said, the confirmed, the certain in faith.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

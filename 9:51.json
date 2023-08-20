@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ مَا كَتَبَ ٱللَّهُ لَنَا } معناهُ قَضى لَنَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"Except what Allah has decreed for us,\" means He has destined for us.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

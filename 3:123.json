@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ نَصَرَكُمُ ٱللَّهُ بِبَدْرٍ } وهو اسمٌ لِموضِعٍ كَانَ لِرَجُلٍ يُقَالُ لَهُ بَدرٌ؛ فَسُمِيَ بِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And Allah certainly aided you at Badr}, is the name of a place where there was a man called Badr; so he was named after it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

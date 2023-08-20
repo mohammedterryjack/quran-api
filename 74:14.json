@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَهَّدتُّ لَهُ تَمْهِيداً } من المَالِ والوَلدِ\n معناه وَطَّئتُ لَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His statement - the Most High - {And I have directed to him an excellent direction.}, [means] from wealth and children.\n I have gone to him",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

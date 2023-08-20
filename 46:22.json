@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِتَأْفِكَنَا } معناه لِتَصرِفَنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {that you may not divert} [means] that you not turn away.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

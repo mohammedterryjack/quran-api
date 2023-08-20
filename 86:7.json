@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَخْرُجُ مِن بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ } فالتَّرائِبُ: مُتعلقُ الحُلِيّ على الصّدرِ\n ويقال: التَّرائبُ: دُونَ المَنكبينِ إلى الصَّدرِ\n ويقال: التَّرائبُ: أربعةُ أضلاعٍ من كُلِّ جَانبٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He will come out from between the bones and the tendons} - so the tendons are those attached to the chest.\n\n\nIt is said that tarā'ib is when one's shoulders do not reach the chest.\n The term \"tarā'ibu\" refers to the four legs of an animal.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلَهَا كَلِمَةً بَاقِيَةً } قال الإِمامُ زيد بن علي عليهما السّلامُ: هي قولُ لاَ إِله إِلاَّ الله\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And He made it a lasting word\" - Imam Zayd ibn Ali said, \"This is a saying that 'There is no god but Allah' will never cease to be true.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

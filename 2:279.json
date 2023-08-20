@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَأْذَنُواْ بِحَرْبٍ مِّنَ ٱللَّهِ وَرَسُولِهِ } معناه أَخْبَروا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {So let them fight in the way of Allah who sell the life of this world for that which is to come. And whoever fights in the way of Allah and is killed or achieves victory - We will bestow upon him a great reward.}, means \"inform them.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

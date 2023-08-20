@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَالَتِ ٱلْيَهُودُ يَدُ ٱللَّهِ مَغْلُولَةٌ } معناهُ هُوَ يُحِبُ أَنْ يُمسِكَ خَيرَهُ\n\n\n\n\nوقوله تعالى: { وَأَلْقَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ } معناهُ جَعَلْنَاهَا\n\n\n\n\nوقوله تعالى: { كُلَّمَآ أَوْقَدُواْ نَاراً لِّلْحَرْبِ } معناهُ نَصَبُوا لِلحَربِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the Jews say, \"The hand of Allah is chained.\" This means that He is reluctant to do good.\n\n\nAnd We have placed between them [the believers and the disbelievers] enmity and hatred.\n\nAnd His saying, {Whenever they light a fire for war} means they set up for war.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

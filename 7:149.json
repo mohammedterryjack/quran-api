@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَمَّا سُقِطَ فِيۤ أَيْدِيهِمْ } معناهُ نَدِمُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when they fell into their hands, they regretted it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولٌه تعالى: { ٱلْمَغْضُوبِ عَلَيْهِم وَلاَ ٱلضَّآلِّينَ } هم اليهودُ والنصارى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {al-maghdhuubi 'alayhim wa laa al-daalleena}, applies to the Jews and the Christians.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

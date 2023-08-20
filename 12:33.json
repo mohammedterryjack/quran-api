@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَصْبُ إِلَيْهِنَّ } معناهُ أَملْ إِليهِنَّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"I will come to them from before them and from behind them and from their right and from their left,\" {asbu ilayhinna} means that He will hope for them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

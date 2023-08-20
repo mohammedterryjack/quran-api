@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا ذَرَأَ لَكُمْ } معناه مَا خَلَقَ لَكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And He has not created you for amusement\" - this means that He has not created you for His own amusement or enjoyment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

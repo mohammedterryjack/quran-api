@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُهْرَعُونَ إِلَيْهِ } معناهُ يُسْتَحثُّونَ، ويُسرَعُ بِهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, {they hasten to him}, its meaning is that they seek him, and they hurry to him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

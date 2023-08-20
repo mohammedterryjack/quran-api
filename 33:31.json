@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { نُؤْتِهَـآ أَجْرَهَا مَرَّتَيْنِ } معناه نُعطِها ثَوَابَها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {We will give her her reward twice} [means that] We will give her her reward.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

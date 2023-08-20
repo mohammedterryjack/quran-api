@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَسْرِ بِأَهْلِكَ } معناهُ سِرْ\n يقالُ: للسَّيرِ بالليلِ السُّرى\n يقالُ: سَريتُ وأسْريتُ\n وبالنَّهارِ سِرتُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Then travel with your family.\" Its meaning is to travel in secret.\n It is said: \"To travel at night is {surreptitious}\"\n I traveled and traveled\n\n\nI travel by day.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

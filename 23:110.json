@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱتَّخَذْتُمُوهُمْ سِخْرِيّاً } معناه تَسخَرونَ مِنهم وسِخْرِيا: من السَّخرةِ، يُريدُ العَبيدَ والخَدَمَ، سَخَّرهُم لَهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"You have made them into a mockery\" - this means that you mock them and make fun of them: you make them into a mockery, the slaves and servants.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

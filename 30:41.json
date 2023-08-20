@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ظَهَرَ ٱلْفَسَادُ فِي ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِي ٱلنَّاسِ } في البَرِّ: ابن آدم الذي قَتَلَ أَخاهُ\n وفي البحرِ: الغَنيُ الذي كَان يأكلُ السفينةَ غصباً\n وقال: البحرُ كُلُّ قَريةٍ عَامرةٍ\n وكانت العَربُ تُسمى الأَمصارَ بَحراً\n\n\n\n\nوقوله تعالى: { لَعَلَّهُمْ يَرْجِعُونَ } معناه يَتُوبونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Corruption has appeared in the land and the sea because of what the hands of people have earned,\" in the land: the son of Adam who killed his brother.\n\n\nAnd in the sea: the rich man who used to eat the ship by force\n The sea is like every other village, full of people.\n The Arabs were called the Sea peoples\n And his saying, { perhaps they will return [to Allah ]}, its meaning is that they will repent.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱرْكُضْ بِرِجْلِكَ } معناه اضربْ بِهَا\n وقال: إنهُ ضَربَ بيدهِ اليُمنى! فَخرجتْ عَينٌ، وضَربَ برجلِهِ اليُسرى فَخرجتْ عَينٌ أخرى، فاغتسلَ من واحدةٍ وشَربَ من أخرى، فذلك قوله تعالى: { مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ }\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {irkud bi-rijlik} (run with your leg), means strike with it.\n\n\nHe said, \"He struck his right hand!\" So an eye came out, and he struck his left leg and another eye came out, so he washed from one and drank from the other, and that is the saying of Allah: {A cold wash and a drink}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

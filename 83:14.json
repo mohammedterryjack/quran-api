@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَلاَّ بَلْ رَانَ عَلَىٰ قُلُوبِهِمْ مَّا كَانُواْ يَكْسِبُونَ } معناه طَبَعَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Almighty: {No, but the punishment was stamped on their hearts for what they were earning} means \"imprint\".",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

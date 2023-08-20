@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَاسَمَهُمَآ } معناه حَلَفَ لَهُمَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted is He - {And Qasamahuma} means He swore to them both",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ يَتَذَكَّرُ ٱلإِنسَانُ مَا سَعَىٰ } أي مَا عَملَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, \"The Day when mankind will be as one remembering [it will be as if] he only did it yesterday.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

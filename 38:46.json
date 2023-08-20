@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّآ أَخْلَصْنَاهُمْ بِخَالِصَةٍ ذِكْرَى ٱلدَّارِ } معناه مالَهم همٌ إلاّ هَم الآخرةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, We have purified them with a pure [intention] as a remembrance of the [final] home} - this means that their wealth is for them nothing but a reminder of the hereafter.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

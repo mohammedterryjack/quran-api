@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَانِتَاتٍ } أي مُطيعاتٍ و: { سَائِحَاتٍ } أي صائماتٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {qanitat} - that is, those who are obedient - and {sa'ihat} - that is, those who are fasting.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

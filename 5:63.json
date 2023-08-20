@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَوْلاَ يَنْهَاهُمُ ٱلرَّبَّانِيُّونَ وَٱلأَحْبَارُ } معناه هَلاَّ\n والأَحبارُ: الفُقهاءُ\n والرَّبانِيونَ: فَوقَ الأَحبَارِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " {Why don't the rabbis and the scholars forbid them} means: {Why don't they stop them}\n\n\nAnd the scholars: the jurists\n\n\nAnd the Rabbaniyyoon: those who are above the ahbaar (scholars/religious leaders).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

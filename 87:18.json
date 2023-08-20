@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ هَـٰذَا لَفِي ٱلصُّحُفِ ٱلأُولَىٰ } معناه في كُتبِ الله تعالى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Indeed, this is in the first {scripture},\" means in the books of Allah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

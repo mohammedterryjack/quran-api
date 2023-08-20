@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَالِ الَّذِينَ كَفَرُواْ قِبَلَكَ مُهْطِعِينَ } معناه مُسرعونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Those who disbelieve will be driven before you in haste} means that they will be quickly driven.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَبُهِتَ } معناهُ انْقَطَعتْ حُجتُهُ\n ويقالُ: بَهُتَ وبَهِتَ، وأَكثرُ الكَلامِ بَهُتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Fabuhita} [means] that his proof has been cut off.\n \n\nIt is said: \"You are Baht and Bahit,\" and most of the speech is Baht.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

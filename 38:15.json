@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَّا لَهَا مِن فَوَاقٍ } يقال ما لها من مَرةٍ، هي كَلمحِ البَصرِ، أو هي أقربُ\n والفَواقُ في النَاقةِ: ما بين الحَلبتينِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is nothing like unto it} - it is said that this means there is nothing like it in terms of frequency or closeness.\n\n\nAnd the foq (the space between the humps) in a camel: what is between the two halabat (humps).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

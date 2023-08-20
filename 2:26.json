@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { إِنَّ ٱللَّهَ لاَ يَسْتَحْى أَن يَضْرِبَ مَثَلاً مَّا بَعُوضَةً فَمَا فَوْقَهَا } أي فما دُونها فِي الصِّغرِ\n وهذا من الأَضدادِ\n يقالُ ما هو أَكبرُ، لِما هو أصغرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {Indeed, Allah is not ashamed to set forth a parable - even of a mosquito or what is above it} i.e. what is below it in size.\n\n\nAnd this is from the opposites.\n\n\nIt is said that what is great is because it is small.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

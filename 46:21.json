@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَنذَرَ قَوْمَهُ بِٱلأَحْقَافِ } فالأَحقافُ: تِلالٌ ورملٌ باليمن\n واحدُها حِقفٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Exhort his people to [follow] the nearest way} - the nearest way being mountains and sand in Yemen.\n\n\nOne of them is a {haqif}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

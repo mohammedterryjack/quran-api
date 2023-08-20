@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَسِعَ كُلَّ شَيْءٍ عِلْماً } معناه أَحاطَ بهِ عِلماً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"All-Encompassing is His knowledge\" - this means that He has encompassed all things with knowledge.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

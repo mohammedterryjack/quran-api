@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولُه تعالى: { ذَلِكَ ٱلْكِتَابُ } معناه هذا الكتابُ\n\n\n\n\nوقولهُ تعالى: { لاَ رَيْبَ فِيهِ } معناه لا شَكَّ فِيهِ\n والرَّيبُ أَيضاً: السّوءُ\n\n\n\n\nوقولهُ تعالى: { هُدًى لِّلْمُتَّقِينَ } فالهُدى: البَيانُ\n والمتَّقونَ: المُطيعونَ الخَاشِعونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"That is the Book,\" means this Book.\n\n\nAnd His saying, {There is no doubt in it}, means there is no doubt in it.\n\n\nAnd the bad reputation: the bad.\n\n\nAnd His saying, {a guidance for the righteous}, so guidance is explanation.\n\n\nAnd those who are God-fearing - those who are obedient and humble.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

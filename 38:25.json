@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنَّ لَهُ عِندَنَا لَزُلْفَىٰ } معناه قُربى ومَنزلةٌ\n واحدُها زُلفةٌ { وَحُسْنَ مَـآبٍ } معناه حُسنُ مَرجعٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Indeed, with Us is its transcriber} [means that] He is close and His abode is exalted.\n\n\nOne of them is zulfah {wa-husnun ma'abin}, which means \"a beautiful reference point\".",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

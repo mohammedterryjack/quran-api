@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱذْكُر رَّبَّكَ إِذَا نَسِيتَ } معناه عَصيتَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd remember your Lord when you forget Him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

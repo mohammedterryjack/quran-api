@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السّائب عن أبي خالد عن زيد بن علي عليهما السّلامُ { [نۤ] وَٱلْقَلَمِ } النُّونُ: الدّواةُ والقَلَمُ: الذي يُكتبُ بِهِ\n\n\n\n\nوقوله تعالى: { وَمَا يَسْطُرُونَ } معناه ما يَكتُبونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: Ali ibn Ahmad told us\n\n\n{[Nu] and al-Qalam} said: \"We were told by 'Ata' ibn al-Saa'ib from Abu Khalid from Zayd ibn 'Ali, peace be upon them, that al-Nuun (the pen) is the instrument, and al-Qalam (the pen) is that which is written with.\"\n\n\nAnd His saying, {And they do not write} means they do not record.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

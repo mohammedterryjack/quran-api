@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { صِبْغَةَ ٱللَّهِ } معناهُ دينُ الله\n\n\n\n\nوقولهُ تعالى:\n\n[الروم: 30] معناهُ ابْتِداءُ خَلْقِهمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe saying of Allah, \"the dye of Allah\", refers to the religion of Allah.\n\n\nAnd His saying, \"Exalted is He {in might}, in Whose hand is the dominion, and He is over all things competent -\"\n The beginning of their creation",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { خُذِ ٱلْعَفْوَ [وَأْمُرْ بِٱلْعُرْفِ] } معناهُ الفَضلُ\n والعُرفُ: المَعروفُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Take the {grace} [and command the {pardon}]} its meaning is the favor.\n And the 'Uruf: The Ma'ruf.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

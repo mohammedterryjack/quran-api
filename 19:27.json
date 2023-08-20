@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { شَيْئاً فَرِيّاً } معناه عجبٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Most High: {something new} means amazing",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

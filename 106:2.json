@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ } كانت لِقريشٍ رحلتان، رِحلةُ الشّتاءِ إلى الحَبشةِ ورِحلةُ الصَّيفِ إِلى الشّامِ للتجارةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The { winter and summer journey } belonged to the Quraish, the winter journey to Abyssinia and the summer journey to Syria for trade.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

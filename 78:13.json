@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلْنَا سِرَاجاً وَهَّاجاً } معناهُ مُتلألىءٌ\n ويقال مُضيءٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd {We have made a blazing torch} which means full of light.\n\n\nIt is said that someone is \"mouDhi'un\" if they are illuminated or enlightened.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

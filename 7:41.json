@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَهُمْ مِّن جَهَنَّمَ مِهَادٌ } معناه فِراشٌ { وَمِن فَوْقِهِمْ غَوَاشٍ } معناه لحفٌ تُغَطِيهمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They will have from Jahannam a bed} means a mattress {and from above them a covering} which means a blanket that covers them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

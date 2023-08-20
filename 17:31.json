@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَقْتُلُوۤاْ أَوْلادَكُمْ خَشْيَةَ إِمْلاقٍ } معناه فَقرٌ وَفاقةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And do not kill your children for fear of poverty. It means poverty and deprivation.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nعن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَٱلْفَجْرِ وَلَيالٍ عَشْرٍ } فالفَجرُ: النَّهارُ وليال عَشرٍ: عَشرُ ذي الحجةِ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nFrom Abu Khalid from Zayd ibn Ali, peace be upon them, regarding the saying of Allah, {And [by] the dawn and [by] ten nights}, the dawn is the daytime and ten nights is the ten nights of Dhul-Hijjah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

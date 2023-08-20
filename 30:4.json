@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { بِضْعِ سِنِينَ } فالبِضعُ: ما بينَ الثلاثةِ إِلى التسعةِ\n وقال: ما بينَ ثَلاثةٍ وخمسةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: Ali ibn Ahmad narrated to us.\n\n\nHe said: We were told by 'Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn 'Ali, peace be upon them, regarding the words of Allah, {in a few years' time} that \"al-bid'u\" refers to the period between three and nine years.\n He said: \"Between three and five.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

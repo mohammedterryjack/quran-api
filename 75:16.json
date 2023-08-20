@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ } قال: كان نبيُ الله صلَى الله عليهِ وعَلَى آلِهِ وسَلّمَ يقرأُ القُرآنَ فيُكثر مَخافةَ أنْ ينسى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah, {Do not move your tongue with it to hasten it} He said: The Prophet (peace and blessings of Allaah be upon him) used to read the Qur'an and be afraid that he would forget it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

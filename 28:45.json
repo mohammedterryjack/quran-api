@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَكِنَّآ أَنشَأْنَا قُرُوناً } معناه خَلقنَاهُم\n وقروناً أي أمماً\n\n\n\n\nوقوله تعالى: { وَمَا كُنتَ ثَاوِياً فِيۤ أَهْلِ مَدْيَنَ } معناه مُقيمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nBut we have created generations { }. What it means is that we created them.\n For centuries, any nation\n And his saying, the Most High, {And you were not a resident among the people of Madinah}, its meaning is a resident.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

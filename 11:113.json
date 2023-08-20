@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَرْكَنُوۤاْ } معناهُ ولا تَمِيلُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And do not incline [to disbelief]",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

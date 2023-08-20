@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَنبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ } معناه من قَرْعٍ\n وقال: إنَّ اليَقطينَ كُلُّ شَجرةٍ لاَ تَقومُ عَلَى سَاقٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd We caused a tree to grow over him from the gourd.\n And he said, \"The partridges are on every tree, but they do not stand on one leg.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

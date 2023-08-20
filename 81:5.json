@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا ٱلْوُحُوشُ حُشِرَتْ } معناه مَاتَتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when the beasts are gathered, it means they have died.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { غَاشِيَةٌ مِّنْ عَذَابِ ٱللَّهِ } معناهُ مُجَلَّلةٌ\n\n\n\n\nوقوله تعالى: { بَغْتَةً } معناه فُجأَةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {a punishment from Allah}, means {an example}.\n\n\nAnd His saying, {Suddenly} means a sudden event.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

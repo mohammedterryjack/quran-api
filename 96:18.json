@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { سَنَدْعُ ٱلزَّبَانِيَةَ } معناه المَلائكةُ، والزَّبانيةُ: الشُّرطُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWe will call upon the {Zubaniyya} (angels), and the Zubaniyya are the guardians.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

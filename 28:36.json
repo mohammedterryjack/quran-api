@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَا هَـٰذَآ إِلاَّ سِحْرٌ مُّفْتَرًى } معناه مُفْتَعلٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {this is nothing but magic, fabricated} - its meaning is [that it is] invented.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

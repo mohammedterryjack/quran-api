@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَصْلَحْنَا لَهُ زَوْجَهُ } يقال: إنّه كَان في خُلقِها بَذاءٌ\n\n\n\n\nوقوله تعالى: { رَغَباً وَرَهَباً } معناه رَغبَ فِيما عِندنا, ورَهبَ منّا\n\n\n\n\nوقوله تعالى: { وَكَانُواْ لَنَا خاشِعِينَ } أي خائفينَ خَوفاً لاَزماً للقَلبِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd Allah said: {And We have made his wife fit for him} it is said: He was in her creation a blemish.\n\n\nAnd His saying, {raghadan wa rahaban} [means] He is pleased with what is with us and He is fearful of us.\n\n\nAnd His saying, {And they were for Us, submissive} - that is, fearful - necessarily for the heart.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

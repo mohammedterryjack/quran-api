@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقُلْ رَّبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ ٱلشَّياطِينِ } معناه من غَمَزاتِهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - {Exalted is He}, \"My Lord, I seek refuge in You from the whispers of the devils.\" This means from their prompting.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّهُ لَكَبِيرُكُمُ ٱلَّذِي عَلَّمَكُمُ ٱلسِّحْرَ } أَراد بهِ موسى إنهُ هو الذي عَلَّمهُم السِّحرَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, it is your Lord who has taught you magic}, [means that] Moses intended that he is the one who taught them magic.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

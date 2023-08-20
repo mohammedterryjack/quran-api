@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَراً } الوطرُ: الحَاجةُ والإِربُ\n وزيدُ: هو زيد بن حارثة الكَلبي رضي الله تعالى عنه مولى النبي صلى الله عليه وعَلَى آله وسلَّم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And when Zayd had finished with her}, {wa-qadha Zaydun minha wa-taran}: need and yearning.\n\n\nWazeefa: This is Wazeefa, the son of Haritha al-Kalbi, may Allah be pleased with him, the companion of the Prophet Muhammad (peace and blessings of Allah be upon him and his family).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

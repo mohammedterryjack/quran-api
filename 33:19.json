@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُمْ بِأَلْسِنَةٍ حِدَادٍ } معناه بالَغوا فِي عَيبِكُمْ ولائِمتِكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So when fear has departed, they will strike you with a sharp sword}, [means that] they will find fault with you and find you blameworthy.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

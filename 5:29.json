@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَن تَبُوءَ بِإِثْمِي وَإِثْمِكَ } يعني تَحمِلهُ وتَعُودُ بِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, { That you should commit sin while you know } means that you should bear it and return with it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

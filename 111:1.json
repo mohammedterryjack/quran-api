@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقولهِ تعالى: { تَبَّتْ يَدَآ أَبِي لَهَبٍ وَتَبَّ } معناه خَسُرَتْ يَداهُ وخَسُرَ هو\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe saying of the Most High: {His father's hand was lost and lost} means that his hand was lost and he was lost.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

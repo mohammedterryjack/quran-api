@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَّ يَذُوقُونَ فِيهَا بَرْداً وَلاَ شَرَاباً } فالبَردُ: النَّومُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They will not taste therein any cold or heat} - so cold is sleep.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

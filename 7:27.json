@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّهُ يَرَاكُمْ هُوَ وَقَبِيلُهُ } [معناه] هو وأَمرُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, “Indeed, He sees you, He and His angels” [means that] He and His affair",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

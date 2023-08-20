@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَوْ أَنَّا كَتَبْنَا عَلَيْهِمْ } معناهُ قَضَينَا عَلَيهِمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd if We had decreed upon them, {We would have written it} [i.e. the punishment] against them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

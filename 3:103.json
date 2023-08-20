@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱعْتَصِمُواْ بِحَبْلِ ٱللَّهِ جَمِيعاً } فالاعْتِصَامُ: التَمسّكُ بِهِ والحَبْلُ: القُرآنُ\n والحَبْلُ: الجَمَاعَةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And hold fast to the rope of Allah all together,\" the holding fast is to the Qur'an.\n\n\nThe rope: the community",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

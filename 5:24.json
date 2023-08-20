@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱذْهَبْ أَنتَ وَرَبُّكَ فَقَاتِلاۤ } معناهُ لَتُقاتلُ أَنتَ وَيُعينُكَ الله تَعالى وَلَيس الله تَعالى بِزَايلٍ وَلاَ آفِلٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So you and your Lord fight. } Its meaning is that you will fight and Allah will help you. And Allah is not helpless and nor uninterested.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

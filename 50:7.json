@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلأَرْضَ مَدَدْنَاهَا } معناه بَسَطنَاها\n\n\n\n\nوقوله تعالى: { وَأَلْقَيْنَا فِيهَا رَوَاسِيَ } معناه جِبالٌ طِوالٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And the earth - We have spread it out\" [Qur'an 51:48] - its meaning is that We have extended it.\n\n\nAnd We have placed in it [the earth] high mountains.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

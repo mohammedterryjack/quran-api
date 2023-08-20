@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَأْكُلُونَ ٱلتُّرَاثَ } أي الميراثُ { أَكْلاً لَّمّاً } ، معناه شبعٌ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And you eat the inheritance,\" that is, the inheritance {as food} - meaning fullness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

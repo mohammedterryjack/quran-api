@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَثِيَابَكَ فَطَهِّرْ } معناه فاصلِحْ\n وقال الإِمامُ زيد بن علي عليهما السّلامُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And cleanse your garments\" - its meaning is \"make them pure.\"\n\n\nAnd Imam Zaid bin Ali (peace be upon him) said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَثَرْنَ بِهِ نَقْعاً } [أي] نَهضنَ بِهِ تُراباً أي بالمكانِ، ولم يَجْر لَهُ ذِكرٌ قَبلَ ذَلِكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So they will carry it [i.e., the earth] on their shoulders} [i.e.,] they will rise with it [i.e., the earth] like a burden, without any mention [of them] before that.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

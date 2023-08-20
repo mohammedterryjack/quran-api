@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَسَبِّحُوهُ بُكْرَةً وَأَصِيلاً } معناه صَلُّوا لَهُ\n والبُكرةُ: صَلاةُ الفَجرِ\n والأَصيلُ: صَلاةُ العَصرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Exalt him in the morning and in the evening\" - meaning, pray to Him.\n\n\nThe dawn prayer is the fajr prayer.\n And the as-Salaam: the Asr prayer",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

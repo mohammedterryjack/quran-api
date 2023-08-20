@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَحَرَامٌ عَلَىٰ قَرْيَةٍ أَهْلَكْنَاهَآ أَنَّهُمْ لاَ يَرْجِعُونَ } معناه وَجَبَ عَلَى قَريةٍ أَهلَكناها أنهم لا يَرجِعُونَ إِلى الحَقِّ وَلاَ يَتُوبُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"It is forbidden for a city that We have destroyed to return\" - meaning that it is obligatory for a city that We have destroyed that they will not return to the truth and will not repent.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِن يَرَوْاْ كِسْفاً مِّنَ ٱلسَّمَآءِ سَاقِطاً } معناه قِطعٌ واحدُها كِسفةٌ\n\n\n\n\nوقوله تعالى: { سَحَابٌ مَّرْكُومٌ } معناه قَدْ جُعلَ بَعضُهُ على بَعضٍ\n\n\n\n\nوقوله تعالى:\n\n[الزخرف: 83] معناه يُكذبُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {And if they see a fragment of the sky falling}, its meaning is one piece, {fragment}\n\n\nAnd His saying, {There is a web of clouds above them} means that some of them are above others.\n\n\nAnd His saying, \"O My Lord, {indeed I have wronged myself, so forgive me} - for You are the Forgiving, the Merciful.\"\n They are lied to.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

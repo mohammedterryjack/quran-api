@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَزْوَاجاً مِّن نَّبَاتٍ شَتَّىٰ } معناهُ مُختلِفةُ الأَلوانِ والطُعومِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {azwajan min nabatin shatta'a}, means different colors and tastes of plants.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

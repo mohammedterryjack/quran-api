@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَنِينَ وَحَفَدَةً } الحَفَدةُ: الخِدّامُ والأَعوانُ ويقالُ: الأَخْتَانُ\n ويقالُ هُم بَنو المَرأةِ مِن زَوجِها الأَولِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Baniina wa hafadaatan}, Hafadatu: Khiddamu wa al-a'waanu, it is said: al-akhthaanu.\n They are called the sons of the woman from her first husband.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

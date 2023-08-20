@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { [وَهُوَ] كُرْهٌ لَّكُمْ } معناهُ وهو شَديدٌ عَليكُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {[and He is] hateful to you}, its meaning is very severe on you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

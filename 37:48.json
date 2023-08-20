@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَاصِرَاتُ ٱلطَّرْفِ [عِينٌ] } معناه راضياتٌ بأزواجهنَّ لا تطمحُ عُيونُهُنّ إلى غَيرِهم\n والعِينُ: الواسعاتُ العَينِ، واحدها عيناءٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"The eyes will be satisfied {qasiratut-tarfi [ 'inun]}\" means that the women will be content with their husbands and will not have their eyes set on anyone else.\n\n\nThe eye: the wide eyes, one of which is an eyelid.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

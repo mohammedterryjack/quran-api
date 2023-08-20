@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَجَعَلَهُ نَسَباً وَصِهْراً } فالنَّسبُ: الرِضاعُ والصَّهرُ: الخِتونةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So he made it [into] a sign and a thing to be remembered} So the sign is the suckling and the thing to be remembered is the vulva.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلَمْ تَرَ } معناهُ أَلمْ تَعْلَمْ\n\n\n\n\nوقوله تعالى: { وَلاَ يُظْلَمُونَ فَتِيلاً } معناهُ لا يُنْقَصُونَ ولا يُظْلَمونَ نَقِيرا\n فالفَتيلُ الَّذِي في شِقِّ النَواةِ\n والفَتِيلُ: مَا يَخرُجُ بينَ الإِصْبِعيَنِ إِذا فَتَلَتْهَا السَّبَابَةُ والإِبْهَامُ\n والنَّقَيرُ: التي فِي ظَهرِ النَّواةِ التي تنبتُ مِنْهَا النَّخْلَةُ، والنَّقيرُ: أَنْ تَضعَ طَرَفَ الإِبْهامِ عَلى طَرفِ السَّبابَةِ ثُمَّ تَنْقرَها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Did you not know?\" means, \"Did you not know?\"\n\n\nAnd His saying, \"They will not be wronged a {fetil}\" - meaning they will not be deprived or wronged in any way.\n\n\nThe camel that is in the split of the date palm.\n\n\nThe {fatila} is what comes out between the {isba'iyat} when the {sabbabah} and the {ibham} strike it.\n\n\nAnd the naqir (camel) is the one that is in the back of the camel that gives birth to the palm tree, and the naqir (camel) is to put the tip of the thumb on the top of the sabbah (pot), then to knock it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

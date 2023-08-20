@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِذَا هِيَ تَمُورُ } معناه تَجيءُ كَمَا يَجيءُ السَّحابُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Then when it has become overwhelming\" - its meaning is that it comes as swiftly as a cloud.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

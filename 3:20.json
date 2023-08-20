@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِّلَّذِينَ أُوتُواْ ٱلْكِتَٰبَ وَٱلأُمِّيِّينَ } [معناه] الذينَ لَمْ يأتِهم الأَنبياءُ بالكُتُبِ\n والنَّبيُّ الأُميُّ: الَّذي لاَ يَكْتُبُ\n\n\n\n\nوقوله تعالى:\n\n[يونس: 60] معناه يَخْتَلِقُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, “To those who were given the Book and the Prophets” [means] those to whom the Prophets did not come with the Books.\n\n\nAnd the unlettered prophet: the one who does not write\n\n\nAnd [mention] when the Lord of the worlds {promised} those who disbelieved among the people of the Scripture {that He would surely} send them a messenger from among them {to recite to them} His verses {and to purify them} and to teach them the Book and wisdom, {although they had been} before in clear error,\n\nAnd [mention] when the Lord of the worlds promised those who disbelieved among the people of the Scripture that He would surely send them a messenger from among them to recite to them His verses and to purify them and to teach them the Book and wisdom, although they had been before in clear error,\n {They} create {something}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

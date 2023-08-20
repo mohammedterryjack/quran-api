@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِّلَّذِينَ أَحْسَنُواْ ٱلْحُسْنَىٰ وَزِيَادَةٌ } فالحُسنى: الجَنةُ والزِّيادةُ: غُرفةٌ من لُؤلؤةٍ لَهَا أَربعةُ أَبوابٍ\n ويقالُ الزِّيادةُ: الحَسنةُ بعشرِ أَمثالِهَا\n ويقال الزِّيادةُ: مَغفرةٌ ورِضوانٌ\n ويقالُ الزِّيادةُ: نِعمُ الله تَعالى التي أَنعمَ عَليهِم\n\n\n\n\nوقوله تعالى: { وَلاَ يَرْهَقُ وُجُوهَهُمْ قَتَرٌ } معناهُ لاَ يَغْشَاهَا\n والقَترُ: الغُبَارُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {For those who have done good is the best [reward] and an increase [in goodness].} So the best thing is Paradise and the increase is a room of pearls, having four doors.\n\n\nThis is called \"the increase\": the good deed is multiplied by ten.\n\n\nAnd it is said that increase: forgiveness and pleasure\n\n\nThe increase is said to be: Yes, Allah be praised, who has bestowed such bounties upon them.\n\n\nAnd His saying - {And let not their faces be covered with dust} - means that He will not let them be covered in darkness.\n\n\nThe Qatari: The dust",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي ظِلاَلٍ عَلَى ٱلأَرَآئِكِ مُتَّكِئُونَ } فالظِّلُ: الكِتانُ واحدُها ظُلُّةٌ\n والأَرائكُ: السّررُ في الحِجالِ\n واحدُها أَريكةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {In the shadows of the stars} - the shadow here is the one cast by the stars.\n\n\nAnd the cushions: the mattresses in the tents.\n It is a chair.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

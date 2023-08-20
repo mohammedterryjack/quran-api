@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَقُولاَ لَهُ قَوْلاً لَّيِّناً } معناه هَينٌ\n\n\n\n\nوقوله تعالى: { لَّعَلَّهُ يَتَذَكَّرُ [أَوْ يَخْشَىٰ] } عندي - كما والله تعالى أعلمُ- إنهُ لا يَتذكّرُ وَلاَ يَخْشَى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Then say to him a gentle word} [means] gentle.\n\nAnd His saying, \"Perhaps he will remember [or fear]\" { لَّعَلَّهُ يَتَذَكَّرُ [أَوْ يَخْشَىٰ] } with me - as Allah knows best - that he does not remember and does not fear",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

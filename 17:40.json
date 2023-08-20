@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَفَأَصْفَاكُمْ رَبُّكُم بِٱلْبَنِينَ } معناه اخْتَصَّكُمْ بهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Exalted is your Lord, the Lord of might}, [means that] He has distinguished you with it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

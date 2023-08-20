@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { يَتْلُونَهُ حَقَّ تِلاَوَتِهِ } قالَ زيدُ بن علي عليهما السلامُ: معناهُ يعلمونَ حَقَّ عِلمهِ ويتَّبِعونَهُ حقَّ اتباعِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Most High: {They recite it as it should be recited} - Zayd ibn Ali said: Its meaning is that they know the truth of their knowledge and follow the truth of their following.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

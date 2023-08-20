@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَبْغُونَهَا عِوَجاً } وهو الاعوِجَاجُ فِي الدِّينِ\n والعَوَجُ: المَيْلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {And you seek it as distortion}, which is the seeking of distortion in the religion.\n\n\nAnd the {awaj}: the {mayl}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

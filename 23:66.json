@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَكُنتُمْ عَلَىٰ أَعْقَابِكُمْ تَنكِصُونَ } معناه تَرجَعُون على أعقابِكم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So you were on the brink of a pit of the Fire, and He saved you from it} - meaning, you were about to return to your own destruction.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

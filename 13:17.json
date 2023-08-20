@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱحْتَمَلَ ٱلسَّيْلُ زَبَداً رَّابِياً } معناهُ عالٍ\n\n\n\n\nوقوله تعالى: { يَضْرِبُ ٱللَّهُ ٱلْحَقَّ وَٱلْبَاطِلَ } معناهُ بِمثلِهِما\n\n\n\n\nوقوله تعالى: { فَأَمَّا ٱلزَّبَدُ فَيَذْهَبُ جُفَآءً } إِمَّا أَنْ يَنْصَبَ وإِما أَنْ يَسْكُنَ فيكُونُ ذِهاباً مِنهُ فِي الوَجهين جَميعاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the verse: {Then the torrent carried away a great amount of foam} means it is very high.\n\n\nAnd the saying of Allah, \"He strikes with the truth and with the false,\" means that He strikes with them both equally.\n\n\nAnd as for the {dross}, it will go away {completely} - either by being removed or by settling down. In either case, it will be gone from sight.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَالَّذِينَ إِذَا ذُكِّرُواْ بِآيَاتِ رَبِّهِمْ لَمْ يَخِرُّواْ عَلَيْهَا صُمّاً وَعُمْيَاناً } معناه لم يَمروا عليها تَاركين لَها، لَم يَقبلُوها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the meaning of the verse: {And those who, when they are reminded of the verses of their Lord, do not turn away from them in deafness and blindness} is that they have not passed by them neglectfully, they have not rejected them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ يُفْلِحُ ٱلسَّاحِرُ حَيْثُ أَتَىٰ } يعني حيثُ كَانَ فَلاَ ظَفرَ لَهُ\n وقال: إِنهُ يُقتلُ حَيثُما وُجدَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And the sorcerer will not prosper wherever he goes,\" means that wherever he is, he will not be saved.\n He said, \"He will be killed wherever he is found.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

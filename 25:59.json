@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَسْئَلْ بِهِ خَبِيراً } معناه مَن ذَا الذي أَخبركَ بشيءٍ كما أَخبُرُكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So ask the knowledgeable about Him} - its meaning is: Who told you about Him as He has told you?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

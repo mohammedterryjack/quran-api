@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَّ يُصَدَّعُونَ عَنْهَا وَلاَ يُنزِفُونَ } أي لا تَصدَعُ رءوسُهم\n ولا يُنزفون: أي لا يَسكِرون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {They will not be shaken by it, and they will not grieve}, that is, their heads will not be shaken by it.\n They do not {vomit}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

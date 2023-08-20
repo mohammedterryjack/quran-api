@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُضَاهِئُونَ قَوْلَ ٱلَّذِينَ كَفَرُواْ } معناهُ يَقولونَ مِثلَ قَولِهِم وشِبْهَهُ\n\n\n\n\nوقوله تعالى: { قَاتَلَهُمُ ٱللَّهُ } معناه لَعَنَهُمْ الله\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They are like the disbelievers}, means that they say like those who disbelieve, and resemble them.\n\n\nAnd His saying, \"May Allah fight them,\" means that Allah has cursed them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

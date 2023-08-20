@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ هَـٰؤُلاۤءِ لَشِرْذِمَةٌ قَلِيلُونَ } معناه طوائفُ وجماعاتٌ\n والشِّرذمةُ: كُلُّ بَقيةٍ قَليلةٍ\n وقالَ زيد بن علي عليهما السَّلامُ: كانُوا سِتمائةَ ألفِ وسبعينَ ألفاً\n وقال: إنهُ كان مع فرعونَ ألفُ أَلفٍ ومائتا ألفٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, these are but a few} means that there are factions and groups.\n\n\nAnd the Shirkamah: every little leftover\n Zayd ibn `Ali, peace be upon them both, said, \"They were six hundred and seventy thousand.\"\n\n\nAnd he said: \"He was with Pharaoh a thousand and one hundred thousand.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

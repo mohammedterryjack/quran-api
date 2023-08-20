@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِسْمِ ٱللَّهِ مَجْريٰهَا } معناهُ مَسيرُها\n ومن قرأ مُجْراها معناه أجريتُهَا أنا\n { وَمُرْسَاهَا } معناهُ وَقْفتُها\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"In the name of God, its course,\" means its journey.\n\nAnd whoever reads it with us, its meaning is that I have done it.\n And I stopped it with my hand",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

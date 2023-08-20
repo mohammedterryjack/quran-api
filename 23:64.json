@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَخَذْنَا مُتْرَفِيهِمْ بِٱلْعَذَابِ } يعني بالمترفِ: المَوسّعِ عليه في الدّنيا حتّى بَغوا وكَفروا\n والعَذابُ: بالسّيفِ يَوم بَدر\n\n\n\n\nوقوله تعالى: { يَجْأَرُونَ } معناه يَرفَعونَ أَصواتُهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {We will take from them those who were indulgent in luxury}, refers to those who are indulgent in luxury: those who are excessively indulgent in the world, to the point of transgression and disbelief.\n\n\nAnd the punishment: with the sword on the day of Badr.\n And His saying, {They are arrogant}, meaning they raise their voices.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

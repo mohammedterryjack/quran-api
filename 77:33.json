@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَأَنَّهُ جِمَٰلَتٌ صُفْرٌ } أي إبلٌ سُودٌ ويقال: حِبالُ السَّفينةِ\n ويقالُ: قِطعُ النّحاسِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {as if it was a beautiful yellow camel}, meaning a black camel, and it is said: the ship's rope.\n\n\nAnd it is said: \"The cutting of copper.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

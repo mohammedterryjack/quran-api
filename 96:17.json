@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلْيَدْعُ نَادِيَهُ } معناه أهلُ مَجلسهِ",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, \"Let him call upon his council\" [Qur'an 6:130], its meaning is the people of his assembly.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

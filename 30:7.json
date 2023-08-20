@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَعْلَمُونَ ظَاهِراً مِّنَ ٱلْحَيَاةِ ٱلدُّنْيَا } معناه معاشُهم ومصالحُهم ومتى يَعرِشُون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They know the outward of the life of this world} [means] their livelihood and their interests. And when will they be raised?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنِّي خِفْتُ ٱلْمَوَالِيَ مِن وَرَآءِى } المَوالي: العُصبةُ من بني العمِ\n وقال: الكَلالةُ\n ومن ورائي: معناهُ قُدامى وبين يَدي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And I fear the people behind me} - the people behind him are his kinsmen from Banu 'Amir.\n\n\nAnd he said: \"The {Kalalah}\"\n\n\nAnd from in front of me: {ma'nahu} means \"in front of me\" and {qadami} means \"behind\".",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

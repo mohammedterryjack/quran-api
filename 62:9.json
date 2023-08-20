@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱسْعَوْاْ إِلَىٰ ذِكْرِ ٱللَّهِ } معناه أجيبوه\n وذِكرُ الله تعالى: موعظةُ الإِمامِ\n ويقالُ: الوقتُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Seek the remembrance of Allah,\" its meaning is respond to Him.\n\n\nRemember God, the Most High: the Imam's admonition\n It is said: Time\n###\n\nIt is said that time is a great teacher.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

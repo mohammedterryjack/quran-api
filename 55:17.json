@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ } معناه مَشرقُ الشِّتاءِ، ومَشرقُ الصَّيفِ\n و:\n\n[المعارج: 40] معناه مَشرقُ كُلِّ يومٍ ومَغربُ كُلَّ يومٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"The Lord of the East and the Lord of the West,\" means the Winter Solstice and the Summer Solstice.\n\n\nAnd\n {The two extremes} every day are the east and the west.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

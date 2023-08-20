@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنِّي مُهَاجِرٌ } معناه خارجٌ من دارِ قَومي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Indeed, I am an immigrant\" [Qur'an 4:97], its meaning is that He is outside of His people's home.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

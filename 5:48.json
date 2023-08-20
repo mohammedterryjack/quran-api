@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمُهَيْمِناً عَلَيْهِ } فالمُهَيمِنُ: المُصدِقُ لِمَا قَبلَهُ\n والأَمينُ عَلَيهِ\n\n\n\n\nوقوله تعالى: { شِرْعَةً وَمِنْهَاجاً } فالشِّرْعةُ: السُّنَّةُ\n والمِنهَاجُ: الطَّريقُ البّيِّنُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And He is trusty over it\" - the muhaamin is the one who affirms what came before it.\n\n\nAnd the trustee over it.\n\n\nAnd His saying, \"With a legislation and a way,\" so the legislation is the Sunnah.\n\n\nAnd the methodology: the clear path",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

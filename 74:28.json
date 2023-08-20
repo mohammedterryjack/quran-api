@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ تُبْقِي وَلاَ تَذَرُ } معناه لا يَموتُ مَنْ فِيها ولا يَحيا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {It will neither perish nor be left behind}, its meaning is that whoever is in it will neither die nor live.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

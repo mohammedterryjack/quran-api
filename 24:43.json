@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِي سَحَاباً } معناه يَسوقُ { ثُمَّ يَجْعَلُهُ رُكَاماً } معناه مُتراكمٌ بَعضُهُ على بعضٍ\n\n\n\n\nوقوله تعالى: { فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلاَلِهِ } والوَدَقُ: المَطرُ وخلالُهُ: بينَ السَّحابِ\n\n\n\n\nوقوله تعالى: { سَنَا بَرْقِهِ } معناه ضَوءُ بَرقهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nDid you not see that Allah drives clouds? Then He makes them into a mass, then you see the rain come out of it.\n\n\nAnd the saying of Allah, \"You will see the rain coming out of the clouds,\" and the rain is the rain and its midst is between the clouds.\n\n\nAnd His saying, {We will show them Our signs in the universe and in themselves} [means that] His light will appear to them in the universe and in their hearts.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

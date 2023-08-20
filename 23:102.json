@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَن ثَقُلَتْ مَوَازِينُهُ } معناه حَسناتُهُ { وَمَنْ خَفَّتْ مَوَازِينُهُ } معناه سَيئاتُهُ\n تَخِفُ وتَثقُلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"For whoever's scales are heavy [with good deeds], and whoever's scales are light [with bad deeds]...\" This means that whoever has done more good deeds than bad ones, their good deeds will outweigh their bad deeds. And whoever has done more bad deeds than good ones, their bad deeds will outweigh their good deeds.\n\n\nYou are afraid and you are heavy.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

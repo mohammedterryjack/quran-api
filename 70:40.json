@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِرَبِّ ٱلْمَشَارِقِ وَٱلْمَغَارِبِ } معناه مَشارقُ الشَّمسِ ومَغاربُها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, the Exalted, {By the Lord of the East and the West} means the rising and setting of the sun.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

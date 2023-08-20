@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُطُوفُهَا دَانِيَةٌ } معناه عَناقيدُها قَريبةٌ يتناولُونَها قياماً وقعوداً عَلَى أيّ حَالٍ شَاءوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - { Qutoofuhâ Dâniyatun }: its meaning is that their necks are close, they take it while standing and sitting in any case they want.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

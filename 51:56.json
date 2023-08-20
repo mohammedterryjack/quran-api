@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلإِنسَ إِلاَّ لِيَعْبُدُونِ } معناه الا لِيُقرّوا بالوحدانيةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And I did not create the jinn and humanity except to worship Me} [means] except that they affirm My Oneness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

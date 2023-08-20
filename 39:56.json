@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي جَنبِ ٱللَّهِ } قال زيد بن علي عليهما السّلامُ: يومُ القِيامةِ\n وجَنبُ الله: علي بن أبي طالب، وموالاةُ أهل بيتهِ عليهم السّلامُ\n وقال: في أَمرِ الله\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"On the Day of Judgment,\" said Zayd ibn Ali, peace be upon him:\n\n\nNext to Allah is Ali ibn Abi Talib, and the Ahlul Bayt are his loyal companions.\n And he said, \"In the affair of Allah.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱلَّذِينَ لاَ يَرْجُونَ لِقَآءَنَا } معناهُ لاَ يَخافونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the saying of Allah {those who do not expect to meet Us} is that they do not fear",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلَى مَآ أَنْفَقَ } معناهُ أَصبحَ نادماً\n\n\n\n\nوقوله تعالى: { وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا } يعني خَالية خَراب وعُروشُها، بِيوتُها وأَبنيتُها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {But he has become regretful} [means] that he became remorseful.\n\n\nAnd His saying, {And it is empty of [any] defects upon its [outer] edges}, means that it is free of corruption and its edges, its homes and its children.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

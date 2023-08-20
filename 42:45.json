@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِن طَرْفٍ خَفِيٍّ } معناه انما ينظرُ ببعضِ عَينهِ\n وقال: يسارقونَ بالنَّظرِ إِلى جهنمَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {from a hidden side} means that He looks with some of His eyes.\n He said, \"They {The people of Paradise} steal glances at Hell.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

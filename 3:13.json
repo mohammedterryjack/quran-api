@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَرَوْنَهُمْ مِّثْلَيْهِمْ رَأْيَ ٱلْعَيْنِ } معناهُ ظَاهراتٌ\n\n\n\n\nوقوله تعالى: { وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِ مَن يَشَآءُ } معناهُ يُقوّي ويَنصُرُ\n\n\n\n\nوقوله تعالى: { إِنَّ فِي ذٰلِكَ لَعِبْرَةً لأُوْلِي ٱلأَبْصَارِ } معناهُ معرِفَةٌ لأولِي العُقولِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"They will see them as they see themselves\" [al-A'raf 7:23] - this means that they will see them in their true form.\n And God {supports with His victory} whom He wills. Its meaning is that He strengthens and supports.\n\n\nAnd His saying, \"Indeed in that is a lesson for those of vision,\" is a recognition of those of understanding.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

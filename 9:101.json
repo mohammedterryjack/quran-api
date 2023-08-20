@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَرَدُواْ عَلَى ٱلنِّفَاقِ } معناهُ عَتَوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {May they return to their hypocrisy} - its meaning is \"May they return to their disobedience.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

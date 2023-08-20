@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَنُغْرِيَنَّكَ بِهِمْ } معناه لَنُسلطنَّكَ عليهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {We will surely make you victorious over them} means that We will surely grant you dominance over them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

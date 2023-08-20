@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قالَ: حدّثنا علي بن أحمد\n قال حدّثنا عطاءُ بن السائب عن أبي خالد عن الإِمامِ زيد بن علي عليهما السَّلامُ في قولهِ تعالى: { سُبْحَانَ ٱلَّذِى أَسْرَىٰ بِعَبْدِهِ } فَسُبحان: تَنزِيهٌ لَهُ تَعالى عَن كُلِّ سُوءٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: Ali ibn Ahmad narrated to us.\n\n\n{Imam Zaid ibn Ali} narrated that {Allah said}, \"Exalted is He who took His servant {on a journey} by night.\" So Allah is free of all imperfection.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

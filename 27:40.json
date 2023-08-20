@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَبْلَ أَن يَرْتَدَّ إِلَيْكَ طَرْفُكَ } قال زيد بن علي عليهما السلام: قال لَهُ انظرْ فَرفعَ سُليمانُ طَرْفَهُ فَلَمْ يَرجعْ إِليهِ مِن مَكانِ مُنتهى طَرْفِهِ حتَّى إذا هو بالعَرشِ\n وقال: دَعا رَبَّهُ مَن بعو! فِي الأَرضِ حتَّى وُضِعَ بينَ يَديهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {Before your {own} turn is returned to you}, Zayd ibn `Ali, may Allah be pleased with them both, said: He told him: \"Look,\" so Sulayman raised his {own} hand, and he did not return to him from the place where his hand had reached until he was at the `Arsh.\n\n And he said, \"Call upon your Lord to forgive you! For indeed, he is the One who is Most Merciful.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

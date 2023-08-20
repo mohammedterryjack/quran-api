@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ } معناه مجاعةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, { Or feeding on a day of severe hunger }, its meaning is severe hunger.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

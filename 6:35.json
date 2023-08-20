@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَبْتَغِيَ نَفَقاً فِي ٱلأَرْضِ } معناهُ طريقٌ وهَو السِّربُ\n\n\n\n\nوقوله تعالى: { أَوْ سُلَّماً فِي ٱلسَّمَآءِ } معناهُ مَصعدٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {You seek a way in the earth}, its meaning is a path, and that is the as-Sirb.\n\n\nAnd His saying, {or [it] be} in the heaven, means a staircase.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِن يَشَأْ يُسْكِنِ ٱلرِّيحَ فَيَظْلَلْنَ } معناه يَمكُثنَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {If He wills, He could settle the wind}, its meaning is that He could make it calm.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

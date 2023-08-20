@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nحدّثنا أبو جعفر قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد الواسطي عن زيد بن علي عليهما السلام في قولهِ تعالى: { ٱلَّذِينَ هُمْ فِي صَلاَتِهِمْ خَاشِعُونَ } معناه لا تَطْمَعُ أبصارُهم، ولا يَلتفِتُون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{Abu Ja'far} narrated that {Ali ibn Ahmad} said:\n\n\nHe said: It was narrated to us by Ata ibn al-Saaib from Abu Khalid al-Waasiti from Zayd ibn Ali, may Allah be pleased with them, regarding the words of Allah, {Those who are humble in their prayer} [meaning that] their eyes do not hope, and they do not look around.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَٱلَّذِينَ يُظَاهِرُونَ مِن نِّسَآئِهِمْ } وهو أن يَقولَ لامراتهِ أنتِ عليّ كَظهرِ أُمي\n فإذا قالَ ذلك فليسَ لهُ أن يَقرُبَها حتّى يَعتقَ رَقبةً\n فإنْ لمْ يَجدْ فَصِيام شَهرينِ مُتتابعينِ فإن لَمْ يَقدرْ على ذلكَ أطعمَ ستينَ مِسكيناً\n فإذا فعلَ ذلكَ، فلهُ أن يَقرُبَها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\nHe said: \"We were told by Ata ibn al-Sa'ib from Abu Khalid from Zayd ibn Ali, peace be upon him, regarding the words of the Almighty, 'And those who openly show their affection for their wives' - that is, he says to his wife, 'You are like my back.'\"\n If he says that, then it is not permissible for him to approach her until he frees a slave.\n\n\nIf he cannot find [the means to do so], then he should fast two consecutive months. If he cannot do that, then he should feed sixty needy people.\n\n\n{If he does that, then he should bring her closer.}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

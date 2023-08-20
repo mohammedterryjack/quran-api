@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَحْسَبُهُمْ جَمِيعاً وَقُلُوبُهُمْ شَتَّىٰ } معناهُ مُتفرقةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {You think of them as one entity, but their hearts are disparate.} Its meaning is various.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

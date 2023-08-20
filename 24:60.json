@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلْقَوَاعِدُ مِنَ ٱلنِّسَآءِ } وهن اللواتي قَدْ قَعَدنَّ عَن الولدِ والحَيضِ\n\n\n\n\nوقوله تعالى: { غَيْرَ مُتَبَرِّجَاتٍ بِزِينَةٍ } فالتَّبرجُ: أن يُظهرنَّ من مَحاسِنهُنَ مالا يَنبغي لَهن أن يُظهِرنَها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the statement of the Most High: {And the women who have been divorced} are those who have been seated from childbirth and menstruation.\n\n\nAnd His saying, {There is no display of beauty except what is within}, meaning that they should not display anything of their beauty that is not meant to be seen.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

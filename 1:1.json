@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nحَدَّثنا أبو جعفر\n قال: حَدَّثنا علي بن أحمد\n قال: حدَّثَنا عَطاءُ بنِ السَّائب\n قال: حدَّثَنا أبو خالد عمرو بن خالد الواسطي عن زيد بن علي عليهما السلام\n أنه سُئل عن فاتحةِ الكتابِ فقال: { بِسمِ ٱلله } هو تعظيمٌ لله { الرَّحْمٰنِ } بما خَلَقَ من الأرضِ في الأرضِ، والسَّماءِ في السَّماءِ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Jafar told us {something}\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\n{Ata' ibn al-Sa'ib} told us:\n He said: Abu Khalid Omar bin Khalid al-Wasiti narrated to us from Zaid bin Ali, may peace be upon them both.\n He was asked about the opening of the book and said: {In the name of God} is a glorification of God {The Merciful} for what He created of the earth on earth, and the heaven in heaven.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

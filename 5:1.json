@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جَعفر قالَ: حدثنا عليُّ بن أَحمد، قال: حدثنا عطاءُ بن السائب عن أَبي خالد الواسطي عن الإِمام زيد بن علي عليهما السلامُ في قَولِهِ تَعالى: { يَا أَيُّهَا ٱلَّذِينَ آمَنُواْ أَوْفُواْ بِٱلْعُقُودِ } معناهُ فِي العهودِ وهي خَمسةُ عُقُودٍ: عُقْدَةُ الإِيمانِ، وعُقْدَةُ النِّكاحِ، وعُقْدَةُ العَهدِ وعُقْدَةُ البَيعِ\n وعُقْدَةُ الحِلفِ\n\n\n\n\nوقوله تعالى: { أُحِلَّتْ لَكُمْ [بَهِيمَةُ ٱلأَنْعَامِ] } يُريدُ بِهِ الإِبلَ، والبَقَرَ، والغَنَم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us that Ali ibn Ahmad said, that Ata' ibn al-Saa'ib narrated to them from Abu Khalid al-Wasiti from Imam Zayd ibn Ali, peace be upon him, regarding the saying of the Almighty, {O you who have believed, fulfill [all] contracts} its meaning is in the contracts, which are five: the contract of faith, the contract of marriage, the contract of allegiance, and the contract of sale.\n\n\nThe oath {Huqdah} is a solemn promise or undertaking.\n\nAnd His saying, {It is lawful for you [the livestock]} means the camels, and the cows, and the sheep.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

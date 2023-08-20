@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا هُدْنَـآ إِلَيْكَ } معناهُ تُبنَا إِليكَ\n\n\n\n\nوقوله تعالى: { وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ } [معناهُ] فِي الدّنيا البِرُّ والفَاجِرُ\n وفي الآخرةِ المتقون خاصة\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Indeed, We have guided you,\" means that We have chosen you.\n\n\nAnd His mercy encompasses all things. This refers to both the good and the evil in the world.\n\n\nAnd in the Hereafter, the righteous will have a special status.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

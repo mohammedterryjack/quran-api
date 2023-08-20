@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِبْرَاهِيمَ ٱلَّذِي وَفَّىٰ } معناه بَلَّغَ ما أُمِرَ بِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And Abraham who fulfilled [the promise],\" his meaning is that he conveyed what he was ordered to.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

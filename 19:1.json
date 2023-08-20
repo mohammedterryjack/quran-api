@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد الواسطي عن الإِمام زيد بن علي عليهما السلام في قولهِ تعالى: { كۤهيعۤصۤ } الكافُ من كريمٍ، والهاءُ من هادٍ، والياءُ من حكيمٍ ويقالُ مِن يُجيرُ وَلا يُجار عليه، والعينُ من عليمٍ، والصَّادُ من صادقٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us that Ali ibn Ahmad related to him that\n\n\nThe Imam Zaid bin Ali said regarding the verse {كهيعص} in the Quran: \"The Kaf is from a generous person, the Ha is from a knowledgeable person, the Ya is from a wise person, and it is also said to be from someone who is not oppressed or oppressor, and the 'Ayn is from a knowledgeable person, and the Sad is from a truthful person.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

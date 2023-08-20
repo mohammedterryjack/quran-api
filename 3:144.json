@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱنْقَلَبْتُمْ عَلَىٰ أَعْقَابِكُمْ } معناهُ رَجِعْتُمْ عَمّا أَنْتُم عَليهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {You have turned back on your heels} [means that] you have returned to that which you were on.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

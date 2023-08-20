@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَزَاهُمْ بِمَا صَبَرُواْ جَنَّةً وَحَرِيراً } معناه صَبَرُوا عن الشَّهواتِ وأَمسكوا أنفسَهُم عن اللذاتِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And reward them for their patience with Paradise and silk,\" means that they patiently abstained from desires and held themselves back from pleasures.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

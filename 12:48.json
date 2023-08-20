@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ قَلِيلاً مِّمَّا تُحْصِنُونَ } معناه تُحْرِزُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Except a little of what you [all] guard/defend}, its meaning is that you [all] preserve/protect.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

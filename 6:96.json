@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَاناً } وَهَو جَمعُ حِسابٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And the sun and the moon are by His reckoning} - and this is the gathering of His reckoning.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

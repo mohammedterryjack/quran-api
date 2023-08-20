@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ظَنَّ ٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَاتُ بِأَنْفُسِهِمْ خَيْراً } معناه أهل دِينِهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"The believing men and women have good in themselves\" means that the people of their religion are good.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

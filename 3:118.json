@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ تَتَّخِذُواْ بِطَانَةً مِّن دُونِكُمْ } فالبِطَانَةُ: الدَّخِيلُ\n والبَطَائِنُ: الدُّخَلاءُ\n\n\n\n\nوقوله تعالى: { لاَ يَأْلُونَكُمْ خَبَالاً } معناهُ فَسَاداً وشَرّاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {Do not take a patron other than yourselves} - so the patron is the one who comes in.\n\n\nAnd the {baṭā'in}: the {dukhlā'}\n\n\nAnd His saying, {They will not cause you any harm} means corruption and evil.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

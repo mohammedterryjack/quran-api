@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { طَائِفٌ مِّنَ ٱلشَّيْطَانِ } معناهُ جنونٌ\n وطَائِفٌ من الشَّيطانِ\n معناهُ يُريدُ بِهِ الغَضب\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {a group from among Satan's} - means madness.\n\n\nA group of Satan's followers\n\n\nThis means that he is angry.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

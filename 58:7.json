@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَا يَكُونُ مِن نَّجْوَىٰ ثَلاَثَةٍ إِلاَّ هُوَ رَابِعُهُمْ } فالنَّجوى: السِّرُ\n والله عزَّ وجلَّ بكلِ الأَمكنةِ، مُحيطٌ بهَا، ومدبرٌ لَها، وشاهدٌ لها، غير غائبٍ عنها\n وكلُّ ذلك منهُ بخلافِ ما يَعقِلُ من خَلقهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - Glory be to Him - {There is no private conversation between three people except that He is the fourth of them} - meaning, that there is no secret conversation between three people that He does not know about.\n\n\nBy Allah, the Most High and Most Great, He encompasses all things and is aware of them, and He is the One who controls and oversees them; He is not absent from them.\n\n\nAnd all of that is in contrast to what makes sense of his creation.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

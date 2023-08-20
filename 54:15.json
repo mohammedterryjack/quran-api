@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ تَّرَكْنَاهَا آيَةً } معناه أَلقى سَفينةَ نُوحٍ عليه السّلامُ على الجُودى حتى أَدركها أوائلُ هذهِ الأُمةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {And We have left it as a sign} means that Noah - peace be upon him - left his ship on Mount Judi so that the early people of this nation would reach it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

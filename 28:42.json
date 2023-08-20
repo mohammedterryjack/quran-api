@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيَوْمَ القِيَامَةِ هُمْ مِّنَ ٱلْمَقْبُوحِينَ } معناه من الهَالِكينَ\n\n\n\n\nوقوله تعالى: { وَأَتْبَعْنَاهُم } معناه ألزمناهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd on the Day of Resurrection, they will be among the losers.\n\n\nAnd His saying, \"And We will follow them,\" means that We will oblige them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

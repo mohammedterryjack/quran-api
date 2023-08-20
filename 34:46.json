@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُلْ إِنَّمَآ أَعِظُكُمْ بِوَاحِدَةٍ } معناه بقولِ لا إله إِلاَّ الله\n\n\n\n\nوقوله تعالى: { مَثْنَىٰ وَفُرَادَىٰ } معناه اثنين اثنين، وفُرادى فُرادى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted be He - {I only advise you of one thing} [means]: that you should say, \"There is no god but Allah.\"\n\n\nAnd His saying, {Mathaanā wa Furādā}, means two by two, and Furādā Furādā.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

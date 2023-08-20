@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَتِلْكَ بُيُوتُهُمْ خَاوِيَةً بِمَا ظَلَمُوۤاْ } معناه خَرابٌ\n وظَلَمُوا: معناه كَفَرُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Then their homes will be ruined because of their wrongdoing}, means that their homes will be destroyed.\n They were unjust: meaning they disbelieved",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

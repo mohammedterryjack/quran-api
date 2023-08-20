@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { شَرَعُواْ لَهُمْ مِّنَ ٱلدِّينِ } معناه ابتدعوا لَهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, \"Establish for them a religion\" - its meaning is, \"Invent for them a religion.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { يٰأَيُّهَا ٱلْمُدَّثِّرُ } معناه يا أيُّها النائمُ المتدثِّرُ بثيابهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\nHe said: It was narrated to us by 'Ata' ibn Al-Saa'ib from his father that Zayd ibn 'Ali, peace be upon him, said regarding the words of Allah, {O you who are wrapped up in your garments}, \"O you who are asleep and wrapped up in your garments.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

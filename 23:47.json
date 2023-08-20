@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَوْمُهُمَا لَنَا عَابِدُونَ } معناه مُطيعونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {And both of their peoples will serve Us} - meaning they will obey Us.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِمَا ٱسْتُحْفِظُواْ مِن كِتَابِ ٱللَّهِ } معناه استُودِعُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {By what is preserved of the Book of Allah}, its meaning is \"deposit\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { مُتَشَابِهاً } أي يشبهُ بعضهُ بعضاً في اللونِ، والطَّعمِ\n ويقال: مُتشابهاً فِي اللونِ، ومُخْتَلِفاً فِي الطَّعمِ\n\n\n\n\nوقولهُ تعالى: { لَهُمْ فِيهَآ أَزْوَاجٌ مُّطَهَّرَةٌ } أي لاَ يَحِضنَ، ولا يَنفَسنَ ولا يَعْرَقنَ، ولا يَمتخطْنَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And the saying of the Most High: {Mutashaabihat} that is, some of them resemble each other in color, and taste.\n They said: \"It is similar in color, but different in taste.\"\n\n\nAnd His saying, \"For them therein are pure spouses\" - that is, they will neither urinate, nor defecate, nor sweat, nor spit.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

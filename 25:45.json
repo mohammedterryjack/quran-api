@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ } معناه ما بينَ طُلُوعِ الفجرِ إلى طُلُوعِ الشَّمسِ\n\n\n\n\nوقوله تعالى: { وَلَوْ شَآءَ لَجَعَلَهُ سَاكِناً } معناه جَعلَ النَّهارَ كُلّهُ ظِلاًّ\n ويقال: دائمٌ { ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلاً } معناه على الظّلِ\n\n\n\n\nوقوله تعالى: { أَلَمْ تَرَ } معناه ألَمْ تَعلمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allaah: {Have you not seen to your Lord, how He has extended the shade?} Its meaning is from the time of the dawn until the sun rises.\n\nAnd if Allah had willed, He could have made it (the day) still, { وَلَوْ شَآءَ لَجَعَلَهُ سَاكِناً } meaning He could have made the whole day darkness.\n\n\nIt is said: \"Always { then We made the sun a sign for it }\" meaning over the shade.\n\nAnd His saying, {Have you not seen} [means] have you not known.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

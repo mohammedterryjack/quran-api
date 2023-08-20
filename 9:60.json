@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّمَا ٱلصَّدَقَاتُ لِلْفُقَرَآءِ وَٱلْمَسَاكِينِ } فالفَقِيرُ: الَّذِي بِهِ زَمانةٌ\n والمِسكينُ: الصَّحيحُ المُحتاجُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The poor are only those who have a time limit.\n\n\nThe needy are the ones who are truly in need.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

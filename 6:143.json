@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَمَّا ٱشْتَمَلَتْ عَلَيْهِ أَرْحَامُ ٱلأُنثَيَيْنِ } معناهُ حَمَلتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " As for the saying of Allah {it has been made obligatory upon you to carry the burdens of the mothers}, its meaning is that it has been made obligatory to carry.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

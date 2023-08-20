@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ تُسْقِطَ ٱلسَّمَآءَ كَمَا زَعَمْتَ عَلَيْنَا كِسَفاً } معناه قِطعٌ\n\n\n\n\nوقوله تعالى: { أَوْ تَأْتِيَ بِٱللَّهِ وَٱلْمَلاۤئِكَةِ قَبِيلاً } معناه مُقَابَلةٌ\n وهي المُعاينةُ\n ويقالُ كَفيلٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Or you cause the heaven to fall upon us in pieces} - its meaning is a severance.\n\n\nAnd His saying, {or bring Allah and the angels face to face [in judgment]}, means confrontation.\n\n\nThis is the inspection.\n\n\nA Kafir is someone who is considered to be an unbeliever.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

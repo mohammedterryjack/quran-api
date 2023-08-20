@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلْنَا لَكُمْ فِيهَا مَعَايِشَ وَمَن لَّسْتُمْ لَهُ بِرَازِقِينَ } معناهُ الوَحشُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And We have made for you therein { مَعَايِشَ } and { مَن لَّسْتُمْ لَهُ بِرَازِقِينَ } whom you are not provided for}, His meaning is the wild beasts.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

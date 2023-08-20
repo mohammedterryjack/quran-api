@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَبْعاً مِّنَ ٱلْمَثَانِي } معناه فَاتحةُ الكِتاب لأَِنهُ يثنَّى بِهَا فِي كُلِّ صَلاَةٍ\n ويقالُ: السَّبعُ الطّوالُ\n البَقرةُ، وآلُ عِمران، والنِّساءُ والمَائدةُ، والأَنعامُ، والأَعرافُ، ويونسُ\n والمَثاني: يقالُ يُثنّى فِيها القَضاءُ والقَصصُ ويقالُ: القُرآنُ كُلُّهُ مَثانٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Seven of the [heavenly] Spheres,\" means the opening of the Book, because He [i.e., Allah] begins with it in every prayer.\n It is said: The seven long ones.\n The Cow, Al-Imran, The Women, The Table, The Cattle, Al-A'raf, Jonah\n\n\nThe second type is where judgment and stories are mentioned, and it is said: \"The Quran is all second-type.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

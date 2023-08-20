@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ حَمِيماً وَغَسَّاقاً } فالحَميمُ: الحَارُ\n والغَسَّاقُ: ما يَسيلُ من صَديدِهِم، ويَتقطعُ من جِلودِهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Except for boiling and steaming}, so boiling is hot.\n\n\nThe ghasaq is what flows from their sandals and cuts through their skin.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلرُّجْزَ فَٱهْجُرْ } معناه الوَعيدُ بنَصبِ الرَّاءِ!\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And the punishment, so turn away from it\" means the promise of punishment for those who turn away from it!",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

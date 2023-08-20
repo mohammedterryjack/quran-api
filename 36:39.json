@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَتَّىٰ عَادَ كَٱلعُرجُونِ ٱلْقَدِيمِ } فعادَ معناه صَارَ والعُرجونُ: الذَّكرُ من النَّخلِ! ويقالُ عِذقُ النَّخلةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Until the return of the old {urjun},\" meaning the return of the male date palm tree. And {urjun} refers to the male date palm tree. It is also said, \"The {'idhq} of the date palm tree.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

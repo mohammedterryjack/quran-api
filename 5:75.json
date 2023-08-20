@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَنَّىٰ يُؤْفَكُونَ } معناهُ كَيفَ يَصُدونَ عَن الدِّين والخَيرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {How can they be deluded?} Its meaning is: How can they turn away from the religion and good?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

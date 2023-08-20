@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا صَاحِبُكُمْ بِمَجْنُونٍ } معناه محمدٌ صلّى الله عليهِ وآلهِ وسَلَّمَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Your companion is not mad.\" Muhammad - may Allah's peace and blessings be upon him - is not insane.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

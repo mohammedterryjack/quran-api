@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ تَغْلُواْ فِي دِينِكُمْ } معناهُ لاَ تُجَاوزُوا القَدَرَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Do not exceed in your religion} means do not exceed the bounds.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

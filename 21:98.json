@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَصَبُ جَهَنَّمَ } معناه الحَطبُ بِلسانِ الزّنجيةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He will hurl hell over those who disbelieve\" - this means that He will punish them with the tongue of the fire.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

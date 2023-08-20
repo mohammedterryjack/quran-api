@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَسَلْنَا لَهُ عَيْنَ ٱلْقِطْرِ } معناه أَجرَينا والقِطْرُ: النُّحاس\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd {We asked him for the eye of the rain} its meaning: We ran and the rain: copper.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

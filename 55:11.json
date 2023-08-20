@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلنَّخْلُ ذَاتُ ٱلأَكْمَامِ } معناه ذاتُ اللِّيفِ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the [nakhl] [that has] [the akmal], its meaning is [that it has] [the lief].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

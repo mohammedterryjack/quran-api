@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱلشَّيْطَانَ يَنزَغُ بَيْنَهُمْ } معناه يَفْسُدُ ويَهِيجُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, Satan stirs between them} [i.e., incites and causes division], its meaning is that he causes corruption and chaos.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

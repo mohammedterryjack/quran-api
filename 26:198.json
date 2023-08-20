@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَوْ نَزَّلْنَاهُ عَلَىٰ بَعْضِ ٱلأَعْجَمِينَ } معناه عَلَى مَنْ فِي لِسانِهِ عُجمةٌ\n وكلُّ دَابةٍ أعجم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd if We had sent it down upon some of the foreigners {}, it would have meant that those with foreign tongues {} would have had it.\n\n\nEvery creature is mute {in a foreign land}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

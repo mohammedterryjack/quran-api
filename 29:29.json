@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَأْتُونَ فِي نَادِيكُمُ ٱلْمُنْكَرَ } فالنادِي والنَدِي: مَجلسُ القَومِ ومُتَحدثَهُم\n والمُنكَرُ: حَذفُ النَّاسِ، والسُخريةِ بِهِم\n وقال: إنهم يُجامعون الرِّجالَ فِي مَجالِسِهِمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And you come to your gathering place of sin}. So the gathering place is the Majlis of the people and the one who addresses them.\n\n\nAnd al-Munkar: the removal of people, and mockery of them.\n He said: \"They are bringing the men together in their gathering places.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

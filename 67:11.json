@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱعْتَرَفُواْ بِذَنبِهِمْ } معناه اقروا بهِ\n\n\n\n\n\nوقوله تعالى: { فَسُحْقاً لأَصْحَابِ ٱلسَّعِيرِ } معناه بُعدٌ لَهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So acknowledge their sin}, means that they confess it.\n\n\nAnd His saying, \"Indeed, it will be a separation for the companions of the Blaze\" - meaning, a time will come for them",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

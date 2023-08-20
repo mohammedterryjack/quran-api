@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّمَآ أَشْكُو بَثِّي وَحُزْنِي } والبَثُّ: أَشدُّ الحَزنِ\n معناهُ يَبِثُّ وَلاَ يَصبِرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, I only complain of my suffering and my grief} - and the suffering is the greatest grief.\n\n\nIt means that he is always busy and never patient.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

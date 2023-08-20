@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يٰلَيْتَنِي ٱتَّخَذْتُ مَعَ ٱلرَّسُولِ سَبِيلاً } معناه سَببٌ ووُصْلَةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Would that I had taken a path with the Messenger,\" means both a cause and a connection.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

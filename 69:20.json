@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنِّي ظَنَنتُ أَنِّي مُلاَقٍ حِسَابِيَهْ } معناه أيقنتُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " I am certain that I will meet my reckoning.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

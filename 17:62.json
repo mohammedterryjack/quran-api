@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لأَحْتَنِكَنَّ ذُرِّيَّتَهُ إِلاَّ قَلِيلاً } معناهُ لاَسْتَمِيلَنهُم\n والاحْتِنَاكُ: معناه الغَلبةُ والقَهرُ والاستِيلاءُ\n والقَليلُ: هُم المَعْصُومُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {I will surely make you a successor on the earth} [Qur'an 38:26], its meaning is that He will not destroy them.\n\n\nAnd the subjugation: it means the dominance and the coercion and the taking by force.\n\n\nAnd the few: they are the protected ones.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

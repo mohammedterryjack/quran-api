@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ } معناه كُنّا أَمواتاً في أَصلابِ آبائِنا، ثُمَّ أَحييتَنا، ثُمَّ أَمَتنا فيهَا، ثُمَّ أحييتَنا فِي الآخرةِ\n ومثلُهُ\n\n[البقرة: 28] [أي] أمواتاً في أصلابِ آبائِكُمْ ثُمَّ أحياكُم في أَرحامِ أُمهاتِكُم وأَخرجَكُمْ منهَا ثُمَّ أَماتكم في الدُّنيا ثُمَّ أحياكم في الآخرةِ\n\n\n\n\nوقوله تعالى: { فَٱعْتَرَفْنَا بِذُنُوبِنَا } معناه أقررنا بهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of His saying, {We have created you twice and given you life twice}, is that we were dead in the loins of our ancestors, then He gave us life, then we died in it, then He gave us life in the Hereafter.\n\n\nAnd like him\n\n\n{Any} dead in the loins of your fathers, then He brings you to life in the wombs of your mothers, and He brings you out from them, then He causes you to die in the world, then He brings you to life in the Hereafter.\n\n\nAnd His saying, {We have acknowledged our sins}, means that we have accepted them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

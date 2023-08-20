@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِن سُلاَلَةٍ } معناه صَفوةُ المَاءِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe phrase \"from {sulalah}\" in the Quran refers to the purity of water.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

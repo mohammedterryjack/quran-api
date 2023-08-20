@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلآخِرَةِ وَٱلأُوْلَىٰ } فالأَولى: قولهُ:\n\n[القصص: 38] والأخرةُ: { أَنَاْ رَبُّكُمُ ٱلأَعْلَىٰ } وكانَ بينهمَا أربعونَ سَنةً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of God Almighty: {So Allah took him as an example of the hereafter and the first} So the first: the saying of:\n\nThe Last Life: { I am your Lord, the Most High } and there were between them forty years.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

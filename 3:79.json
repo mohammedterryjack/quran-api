@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كُونُواْ رَبَّـٰنِيِّينَ } معناهُ حُلماءُ وعُلماءُ تُعَلِمُونَ النَّاسَ الخَيرَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Be submissive to Me,\" means that you should be patient and knowledgeable, teaching people what is good.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

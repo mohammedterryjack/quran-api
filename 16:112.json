@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَرْيَةً كَانَتْ آمِنَةً مُّطْمَئِنَّةً } يعني مكةَ\n\n\n\n\nوقوله تعالى: { يَأْتِيهَا رِزْقُهَا رَغَداً } معناهُ وَاسِعٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {a city that was safe and secure}, refers to Mecca.\n\n\nAnd His saying, {It will come to her with a plentiful provision} - its meaning is vast.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

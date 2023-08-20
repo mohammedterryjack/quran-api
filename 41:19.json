@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَهُمْ يُوزَعُونَ } معناه يَحشرونهُم بحَبسِ أولهم على آخرِهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {then they will be put in chains} means that they will be brought together in chains, with the first of them being chained to the last.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

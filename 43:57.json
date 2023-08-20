@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ } وتُقراُ يَصُدون، فمَنْ قرأ بِضمِّ الصَّادِ، فإنهُ الإِعراضُ والصُدودُ، ومَنْ قَرأ بكسر الصَّادِ أرادَ أَنهم يَصيحون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when your people {from it are those who turn away} and read the word \"yasudduun,\" then whoever reads with the damm of the word \"saaD,\" then that is rejection and turning away. But whoever reads with a kasr of the word \"saaD\" intends that they are shouting.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

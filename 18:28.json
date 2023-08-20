@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَدْعُونَ رَبَّهُم بِٱلْغَدَاةِ وَٱلْعَشِيِّ } يريدُ بِهِ الصَّلاةَ المكتوبةَ وقال: قِراءةُ القُرآنِ\n\n\n\n\nوقوله تعالى: { وَلاَ تَعْدُ عَيْنَاكَ عَنْهُمْ } معناه لا تُجَاوِزنَ\n\n\n\n\nوقوله تعالى: { وَكَانَ أَمْرُهُ فُرُطاً } يعني سَرفاً وقالَ: نَدمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd his saying, {They call on their Lord in the morning and the evening}, he wants the written prayer and said: Reading the Quran.\n\nAnd his saying, {And do not let your eye wander from them} means do not exceed them.\n\n\nAnd His affair was ever {in excess}, and He said: \"Regret is in vain.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

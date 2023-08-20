@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَتَّىٰ إِذَا ٱسْتَيْأَسَ ٱلرُّسُلُ وَظَنُّوۤاْ أَنَّهُمْ قَدْ كُذِبُواْ جَآءَهُمْ نَصْرُنَا } قال: هم أَتباعُ الرُّسلِ، الذِينَ آمنوا بِربّهم، وصَدّقُوهُ، وطَالَ عليهم البَلاءُ، واستأخرَ عنهم النَّصرُ\n حتَّى إِذا استيئس ممن كَذَّبَهم مِن قَومِهِمْ، وظَنَّتْ الرُّسلُ أَنَّ أَتباعَهُم قَد كَذَّبُوهم، جَاءَهُم نَصرُ الله عِندَ ذَلِكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the words of Allah, {Until, when the messengers despaired and thought that they had been lied to, Our help came to them} - He said: They are the followers of the messengers, those who believed in their Lord and testified to His truth, and who were patient in their trials and waited for Our help.\n\n\n{Until when those who disbelieved from among their people} became certain that the {messengers} had indeed { lied to them}, { Allah's help} {came to them}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

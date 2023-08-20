@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلْيَرْتَقُواْ فِى ٱلأَسْبَابِ } معناه في الفَضلِ\n ويقال ارتقى فلانٌ في الأَسبابِ إِذَا كان فاضلاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, the Most High: {So let them strive in [ Allāh 's] cause} [means] striving in al-fadl (excellence, honor).\n\n\nIt is said that so-and-so has risen in status when they are virtuous.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

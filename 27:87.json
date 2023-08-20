@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَكُلٌّ أَتَوْهُ دَاخِرِينَ } أي صَاغرينَ خَاضعينَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"All will come to Him {humiliated}\": that is, in a state of submission and humility.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

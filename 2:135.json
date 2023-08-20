@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { بَلْ مِلَّةَ إِبْرَاهِيمَ حَنِيفاً } قالَ زيدُ بن علي عليهما السلامُ فالحَنِيفُ: المُسلِمُ، وكانَ الحَنيفُ فِي الجَاهليةِ مَنْ اخْتَتَنَ وَحَجَّ البيتَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Indeed, the religion of Abraham is one of pure submission} - Zayd ibn Ali said that Hanif means Muslim, and Hanif in Jahiliyyah refers to those who perform Hajj and circumambulate the Ka'bah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

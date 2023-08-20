@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حَدَّثَنَا عطاء بن السائب عن أبي خالد، عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَٱلنَّازِعَاتِ غَرْقاً } معناه النّجومُ تَنزعُ: أي تَغيبُ هوناً وتَشرقُ هَوناً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n He said: Ali bin Ahmad narrated to us.\n\n\nAt-Tirmidhi said: It was narrated from 'Ata' bin Abu Rabah that Zayd bin 'Ali said, regarding the statement of Allah, {And the stars are thrown} [Qur'an, 67: 5], \"The stars {are thrown} means they disappear here and appear there.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

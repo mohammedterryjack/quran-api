@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِن نُّطْفَةٍ إِذَا تُمْنَىٰ } معناه تُخلقُ\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"From a drop of [semen] when it is emitted\" - its meaning is that [the child] is created.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

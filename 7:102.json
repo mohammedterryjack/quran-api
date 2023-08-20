@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا وَجَدْنَا لأَكْثَرِهِم مِّنْ عَهْدٍ } معناه مِنْ وَفاءٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And as for most of them, we found not for them any covenant. This means that they were not fulfilling their obligations.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

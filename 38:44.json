@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَخُذْ بِيَدِكَ ضِغْثاً } معناه أثلٌ\n وقال: جماعةٌ من شجرٍ وقال: حُزمةٌ من رطبةٍ\n\n\n\n\nوقوله تعالى: { إِنَّهُ أَوَّابٌ } بمعنى تَوابٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd take in your hand a stick { } which means a club.\n\n\nAnd he said, \"A group of trees,\" and he said, \"A bundle of fresh dates.\"\n\n\nAnd His saying, \"Indeed, He is the responder,\" [means that] He is the One who responds [to His servants].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلْمُؤْتَفِكَاتُ بِالْخَاطِئَةِ } معناه قَومُ لُوطٍ ائتفكتْ بهم الأرضُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And the mountains as pegs} [means that] the people of Lot overturned the earth [with them].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

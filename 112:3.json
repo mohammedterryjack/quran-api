@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n الصَّمدُ: يقال هو المَصمودُ إليهِ بالحَوائجِ { لَمْ يَلِدْ وَلَمْ يُولَدْ } معناه لَيسَ بوَالدٍ ولا مَولودٍ { وَلَمْ يَكُنْ لَّهُ كُفُواً أَحَدٌ } معناه شِبهٌ\n ويقال لَم يَلدْ: لم يَتولدْ منهُ شَيءٌ\n ولم يَتولدْ هو مِن شَيءٍ\n ولم يَكنْ لَهُ كُفُواً أَحدٌ: ليسَ لَهُ شِبهٌ ولاَ نَظيرٌ ولَيسَ كَمثلهِ شَيءٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe One who is praised is praised for His attributes {He was not born and was not born}. This means that He is not a father or a son {and He had no one equal to Him}. This means that He is unique.\n\n\nIt is said of someone who has not had any children: \"he has not fathered anything.\"\n\n\nHe was not born of anything.\n\n\nHe had no equal: there was no one like him, and nothing could compare to him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

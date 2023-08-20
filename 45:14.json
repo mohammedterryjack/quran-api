@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُل لِّلَّذِينَ آمَنُواْ يَغْفِرُواْ لِلَّذِينَ لاَ يَرْجُونَ أَيَّامَ ٱللَّهِ } معناه لا يَخافُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Say to those who believe, \"Forgive those who do not expect the days of Allah\"} [means that] they do not fear.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

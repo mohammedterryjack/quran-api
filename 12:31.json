@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَعْتَدَتْ لَهُنَّ مُتَّكَئاً } معناهُ مَجلسٌ وطَعامٌ وشَرابٌ\n والمُتَكأُ: مَا يُتكأُ عَليهِ مَن النَّمارِقِ\n\n\n\n\nوقوله تعالى: { فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ } معناهُ أَجْلَلنهُ وأَعظَمنَهُ\n\n\n\n\nوقوله تعالى: { وَقُلْنَ حَاشَ للَّهِ } معناهُ التَنزيهُ لله والارْتِفَاعُ عَن ذَلِكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Most High: {And they have prepared for them a couch} means a gathering and food and drink.\n\n\nAnd those who are firmly established in their faith {mutakallimun}: they are not shaken by {any of} the {false} things {that} those who {engage in} falsehood {try to} create.\n\n\nAnd when they saw him, they exalted him and made him great.\n And {We say: Glorified be Allah} means exalting Allah and rising above that.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

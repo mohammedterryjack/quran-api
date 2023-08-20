@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { ثُمَّ قَسَتْ قُلُوبُكُمْ مِّن بَعْدِ ذٰلِكَ } معناهُ جَفَّتْ، فَصارتْ جَافِيةً صَلبةً\n من بَعدِ ذَلِكَ: من بَعْدِمَا آراهم الآيةَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Then your hearts hardened after that} [means] they became hardened, so they became like stone.\n\n\nAfter that: after they saw the verse",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

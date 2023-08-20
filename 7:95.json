@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ بَدَّلْنَا مَكَانَ ٱلسَّيِّئَةِ ٱلْحَسَنَةَ حَتَّىٰ عَفَوْاْ } فقال زيد بن علي عليهما السَّلامُ: إنَّ السَّيِّئةَ الشّدةُ\n والحَسنةَ مكانُ الرَّخاءِ وحتَّى عَفَوا معناهُ سَرُّوا بِذَلك\n ويقال عَفَوا يعني كَثُروا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Then We replaced the bad with the good, until they became forgiving} - Zayd ibn Ali said, \"The bad that is severe.\"\n\n\nAnd good deeds are the cause of happiness, and even if people do not realize their meaning, they are still happy with them.\n\n\nThis is said to mean \"they became too numerous.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنَّا لَجَمِيعٌ حَاذِرُونَ } معناه شَاكُون في السِّلاحِ والكُرَاعِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, \"Indeed, We are all cautious,\" means that we are all suspicious of the weapon and the lance.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

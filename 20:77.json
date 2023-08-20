@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱضْرِبْ لَهُمْ طَرِيقاً فِي ٱلْبَحْرِ يَبَساً } يعني يابساً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allaah {faḍrib lahum ṭarīqan fi'l-bahri yabasāan}, which means \"make them a lesson in the sea.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

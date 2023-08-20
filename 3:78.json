@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَلْوُونَ أَلْسِنَتَهُمْ بِٱلْكِتَابِ } معناهُ يُقَلِبُونَها ويُحْرِّفُونها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They twist their tongues with the Book}, means they pervert and change it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُعَقِّبَاتٌ مِّن بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ } يُريدُ من المَلائِكةِ\n حَفظَةُ الليلِ وحَفَظةِ النَّهارِ\n ويُقالُ حرسٌ دُونَ حَرسٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Muaqqibatun min bayni yadayhi wa min khalfihi}, He intends the angels.\n\n\nThe Guardian of the Night and the Guardian of the Day\n\n\nThis is said of a guard who is not on duty.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

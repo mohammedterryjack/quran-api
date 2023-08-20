@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنَّكَ لَتُلَقَّى ٱلْقُرْآنَ } معناه يُلقَى عَليكَ فَتأخُذْهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {And indeed, you will receive the Qur'an} means it will be given to you, so take it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

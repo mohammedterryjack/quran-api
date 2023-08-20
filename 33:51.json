@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تُرْجِي مَن تَشَآءُ مِنْهُنَّ } يعني تؤخر { وَتُؤْوِيۤ إِلَيْكَ مَن تَشَآءُ } معناه تَضمُّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Turn to whom you will of them,\" means that you should {delay/postpone/defer} {and take to yourself whoever you will of them}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

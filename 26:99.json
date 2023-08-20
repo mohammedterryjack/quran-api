@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَآ أَضَلَّنَآ إِلاَّ ٱلْمُجْرِمُونَ } معناه الأَولون الذين كَانُوا مِن قَبلِنَا، اقْتَدينا بِهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"We have not misled anyone, except the sinners,\" means those who were before us. We followed them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

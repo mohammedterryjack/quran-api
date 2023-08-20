@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ } معناه لا يَفُوتَهُ [شَيءٌ]\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, your Lord is [in] the observation} [means that] He misses nothing.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

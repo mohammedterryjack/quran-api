@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَقُل لَّهُمْ قَوْلاً مَّيْسُوراً } يعني معروفاً\n ويقال: لَيناً\n ويقالُ: حَسناً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So say to them a gentle word} [means] known [to be such].\n\n\nThis is said to mean \"smoothly\" or \"easily\".\n\n\nThis is said to be beautiful.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيَقْبِضُونَ أَيْدِيَهُمْ } معناهُ يَمسِكونَ أَيديَهُم عَنِ الخَيرِ والصَّدقةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - Almighty - {And they withhold their hands from the good and the truth} means that they withhold their hands from doing good and being truthful.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

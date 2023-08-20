@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَهَلْ يَنظُرُونَ إِلاَّ سُنَّتَ ٱلأَوَّلِينَ } معناه إِلاَّ دَأبُ الأَولين وصَنِيعهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, { Do they not look to the precedent of the ancients } [means] except the way of the ancients and their deeds.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

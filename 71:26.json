@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { رَّبِّ لاَ تَذَرْ عَلَى ٱلأَرْضِ مِنَ ٱلْكَافِرِينَ دَيَّاراً } معناه لا تَتركْ منهم أحداً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, { \"O my Lord, do not leave anyone of the disbelievers on the earth.\" } Its meaning is that He will not leave any of them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

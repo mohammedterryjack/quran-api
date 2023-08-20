@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَاراً } معناه كُتبٌ واحدُها سِفرٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Like the donkey carrying books} means one of its books is a journey.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { لاَ يَسْأَلُونَ ٱلنَّاسَ إِلْحَافاً } معناهُ إِلحاحٌ\n معناهُ كانُوا لا يَسأَلونَ النَّاسَ إِلحَافاً وَلاَ غيرَ إِلحافٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They ask not of people with importunity} its meaning is humility.\n\n\n{They} were not to ask people for anything beyond their means.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

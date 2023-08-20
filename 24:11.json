@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { جَآءُوا بِٱلإِفْكِ } معناه الكِذبُ والبُهتانُ\n\n\n\n\nوقوله تعالى: { تَوَلَّىٰ كِبْرَهُ } معناه تَحمَّلَ مُعْظَمهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Come with the falsehood\" - meaning lies and slander.\n\n\nAnd His saying, \"He has turned away from His greatness,\" means He has taken on His most excellent form.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَإِذْ يَرْفَعُ إِبْرَٰهِيمُ ٱلْقَوَاعِدَ مِنَ ٱلْبَيْتِ وَإِسْمَٰعِيلُ } فالقَواعدُ: الأَسَاسُ\n والوحدةُ قَاعِدةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when Abraham was raising the foundations of the House, and Ishmael - the foundations are the foundation.\n\n\nAnd the unit is the foundation.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

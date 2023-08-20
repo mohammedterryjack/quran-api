@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ يُلَقَّاهَآ إِلاَّ ٱلصَّابِرُونَ } معناه لا يُوفق لَها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And only those who are patient will receive it} [i.e., the reward] - its meaning is that He will not make it [i.e., the reward] attainable for anyone except the patient.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

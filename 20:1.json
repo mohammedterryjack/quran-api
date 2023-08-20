@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر قال حدّثنا علي بن أحمد، قال حدّثنا عطاء بن السائب عن أبي خالد عن الإِمام زيد بن علي عليهما السَّلامُ في قوله تعالى: { طه } يا رجل بالسُّريانيةِ\n وقال: لو كان اسماً لَمْ يَكنْ سَاكناً، ولكنَّهُ فَاتحةُ السُّورةِ وعَلامةٌ لَها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us that Ali ibn Ahmad told us that Ata' ibn al-Sa'ib told us that Abu Khalid told us that Imam Zayd ibn Ali said regarding the verse {Ta ha}, \"O man of Syrian origin.\"\n\n\nAnd he said: \"If it were a name, it would not be a stationary one, but it is the opening of the Surah and a sign for it.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

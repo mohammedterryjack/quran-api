@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَمَّا مَنِ ٱسْتَغْنَىٰ فَأَنتَ لَهُ تَصَدَّىٰ } أي تَعرضُ لهَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " As for him who is self-sufficient, you are responsible for him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

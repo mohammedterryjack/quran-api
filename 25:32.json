@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِنُثَبِّتَ بِهِ فُؤَادَكَ } معناه نُشجِّعُكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {We will surely strengthen your heart} [Qur'an 22:32], means that We will encourage you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

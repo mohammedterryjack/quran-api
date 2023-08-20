@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَالْتَقَى ٱلمَآءُ عَلَىٰ أَمْرٍ قَدْ قُدِرَ } معناه ماء السّماء والأرض\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Then the water will meet the water [on the Day of Resurrection] in a matter that has been decreed,\" [means that] the water of the heaven and the earth will meet.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

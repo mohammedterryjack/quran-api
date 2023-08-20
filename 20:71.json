@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّهُ لَكَبِيرُكُمُ } معناه مُعلمُكُم\n\n\n\n\nوقوله تعالى: { فِي جُذُوعِ ٱلنَّخْلِ } يعني عَلَى جِذُوعِها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, He is your Lord} [means that] He knows you.\n And His saying - the Most High - {in the depths of the palm tree} means upon its trunk.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

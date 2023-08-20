@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَن يَقْتَرِفْ حَسَنَةً } معناه يَكتَسِبُ وكذلك يَجترحُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And whoever acquires [even] a small amount of goodness}, [means that] he will achieve [something] great, and likewise he will reach [a high station].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

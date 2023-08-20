@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَّ خَيْرَ فِي كَثِيرٍ مِّن نَّجْوَاهُمْ } معناهُ مِنْ أَسْرارِهِمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is no good in most of their secret talk}, means that their secrets are not good.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

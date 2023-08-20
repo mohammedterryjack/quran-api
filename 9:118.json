@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ضَاقَتْ عَلَيْهِمُ ٱلأَرْضُ بِمَا رَحُبَتْ } معناهُ اتَّسَعتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {the earth has become constricted to them} means that it has become spacious.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

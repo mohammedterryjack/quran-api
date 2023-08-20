@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ ٱمْرَأَتَهُ كَانَتْ مِنَ ٱلْغَابِرِينَ } معناهُ من الباقينَ\n ويقالُ من الباقينَ فِي عَذابِ الله\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Except for his wife, who was among those who remained behind,\" means that she was among those who were left behind.\n\n\nAnd it is said of those who remain in Allah's punishment",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

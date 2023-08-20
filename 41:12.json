@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَابِيحَ } معناه بالنّجومِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And We have adorned the lowest heaven with stars} means with the stars.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

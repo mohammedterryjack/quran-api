@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذ نَتَقْنَا ٱلْجَبَلَ فَوْقَهُمْ } معناهُ رَفعناهُ فَوقَهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when We raised up the mountain over them, it was as if We were covering them with a canopy.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

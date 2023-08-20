@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَيَرْكُمَهُ جَمِيعاً } معنا فَيجمعُهُ جَمِيعاً بَعضُهُ فَوقَ بَعضٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He will gather them all together\" - this means that He will gather them all together, some on top of others.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

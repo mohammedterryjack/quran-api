@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَن تُبْسَلَ نَفْسٌ بِمَا كَسَبَتْ } معناهُ تُرتَهَن وتُسَلَّم\n ويقالُ: تُجزَى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " {And that a soul should not be made to bear the burden of another} means that you should not be held responsible for what someone else has done.\n And it is said: \"He will be compensated.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

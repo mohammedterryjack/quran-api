@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تُبَوِّىءُ ٱلْمُؤْمِنِينَ [مَقَاعِدَ لِلْقِتَالِ] } معناهُ تتّخَذُ لَهُمْ مَصَافاً ومُعَسْكَراً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Tubawwi' al-mu'minīna [maqā'id al-qital]}, its meaning is that He has taken a position and a camp for them",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

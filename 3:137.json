@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ } معناهُ مَضتْ\n وسُنَنٌ: أَعْلامٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Most High { has passed before you a Sunnah } its meaning has passed\n\n\nThis is a well-known saying.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

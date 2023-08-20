@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَنَّ عَلَيْهِ ٱلنَّشْأَةَ ٱلأُخْرَىٰ } معناه إحياءُ الأَمواتِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {And the resurrection of the other} means the resurrection of the dead.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

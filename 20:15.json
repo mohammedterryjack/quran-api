@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَكَادُ أُخْفِيهَا } معناهُ أُظهرُها\n وأُخفِيهَا: أكتُمُهَا\n وهما ضدٌّ\n وخَفيتُ: أَظهرتُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He almost concealed it}, means He revealed it.\n\n\nAnd keep it hidden: conceal it\n\n\nAnd they are both opposed.\n\n\nI was hidden: I became apparent.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

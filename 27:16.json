@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عُلِّمْنَا مَنطِقَ ٱلطَّيْرِ } قالَ الإِمام زيد بن علي عليهما السلام: إنما أرادَ التَّعليم، إنهُ عُلِّمَ مَنطِق النَّملةِ من الطَّيرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"We have taught the speech of birds,\" Imam Zayd ibn Ali said: He only meant to teach, for he was taught the speech of ants from birds.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

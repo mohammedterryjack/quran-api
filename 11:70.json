@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { نَكِرَهُمْ } معناه أَنْكرَهُمْ\n\n\n\n\nوقوله تعالى: { وَأَوْجَسَ مِنْهُمْ خِيفَةً } معناهُ أضمرَ مِنهُم خَوفاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"I detest them,\" means that He rejects them.\n\n\nAnd He felt from them fear {}, meaning that He felt fear from them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

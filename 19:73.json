@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَحْسَنُ نَدِيّاً } معناه مَجلسٌ\n والنَّدى والنَّادي واحدٌ\n والجمعُ أنديةٌ\n والمَقامُ: المَساكنُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And the best of company is} means a gathering.\n\n\nThe term \"nadi\" refers to a specific type of Arabic poetry meter.\n\n\nAnd the gathering is a club.\n\n\nAnd the Maqam: the places of residence",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

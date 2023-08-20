@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nعن أبي خَالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَمَآ أَدْرَاكَ مَا ٱلطَّارِقُ ٱلنَّجْمُ ٱلثَّاقِبُ } معناه المُضيءُ\n ويقال: الذي رُميَّ بهِ الشّيطان\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis is a saying of Abu Khalid, from Zayd ibn Ali, upon them both be peace, in reference to the Quranic verse {And what will make you know what the Night of Power is?}, which means \"the Night of Brightness.\"\n He who is {thrown} by Satan {with something}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

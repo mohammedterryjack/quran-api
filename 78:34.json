@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَكَأْساً دِهَاقاً } معناه مَملوءةٌ\n ويقالُ: مُتتابعةٌ\n ويقال: صَافيةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"With a full cup.\" This means that it is full.\n\n\nIt is said: \"mutaba'ah\"\n\n\nThis is called a \"safiya.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

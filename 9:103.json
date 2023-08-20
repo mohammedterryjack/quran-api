@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ صَلَٰوتَك سَكَنٌ لَّهُمْ } معناه دُعاؤُكَ سَكَنٌ لَهُمْ وتَثبيتٌ\n ويقالُ: رَحمةٌ\n ويقالُ: قُربةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Your prayer is a source of peace for them\" means that your du'aa' is a source of peace for them and is firm.\n\n\nIt is said: Mercy.\n It is said: \"Qurbah\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

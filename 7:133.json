@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَرْسَلْنَا عَلَيْهِمُ ٱلطُّوفَانَ } معناهُ الموتُ الذريعُ\n ويقالُ: الماءُ\n فأَمطرنَا عَلَيهم مَطراً دَائِماً ثَمانية أَيام بِلِيالِيهَا\n { ٱلْقُمَّلَ } السّوسُ ويقالُ: الجَرادُ الذي لاَ أجنِحَةَ لَهُ وهو الدُّبَى\n ويقالُ: هي بَناتُ الجَرادِ\n والقُمَّلُ\n ضَربٌ مِن القِردَانِ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {Then We sent upon them the flood} means death by drowning.\n It is said: The water.\n We sent against them a continual rain for eight days with nights.\n\n\nThe {qummal} is a type of grasshopper with no wings, also known as a locust.\n It is said: They are the daughters of the locusts.\n\n\nAnd the locusts.\n\n\nA {monkey} is {a} {beast} {of burden} {that} {carries} {a} {heavy} {load}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

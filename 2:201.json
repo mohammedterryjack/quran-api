@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { رَبَّنَآ آتِنَا فِي ٱلدُّنْيَا حَسَنَةً } معناهُ عبادةٌ { وَفِي ٱلآخِرَةِ حَسَنَةً } معناهُ الجنةُ\n وقالَ فِي الدّنيا صِحةُ الجسمِ، وسِعةٌ فِي المالِ وفي الآخِرةِ خِفَّةُ الحِسابِ، ودِخُولُ الجنَةِ، ويقالُ: عَافِيةٌ فِي الدّنيا وعافِيةٌ في الآخرةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Our Lord, grant us in this world [that which is] good}, its meaning is worship, {and in the Hereafter [that which is] good}, its meaning is Paradise.\n\n\nIn this world, health of the body, abundance of wealth, and in the hereafter, ease of reckoning, and entrance into Paradise, and it is said: {Aafiyahun fi-d-dunya wa aafiyahun fi-l-aakhirah}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

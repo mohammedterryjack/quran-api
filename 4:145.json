@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱلْمُنَافِقِينَ فِي ٱلدَّرْكِ ٱلأَسْفَلِ مِنَ ٱلنَّارِ } فَجَهَنَمُ أَدرَاكٌ معناهُ مَنازِلٌ، وأَطْباقٌ\n ويقالُ: إِنَّها تَوابيتُ مِنْ حَدِيدٍ مُبهمةٍ: معناهُ مُقْفَلةٌ عَلِيهِمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {The hypocrites are in the lowest depths of the Fire} - then Paradise is the abode, and the bowls [of Paradise].\n It is said that it is an atonement from a {hammered} iron: its meaning is that it is locked upon them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

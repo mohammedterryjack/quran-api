@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقولهُ تعالى: { الۤمۤ } معناه أَنَا الله أَعلمُ، ويقال هو اسم من أَسماءِ القُرآنِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe word \"الم\" means \"I am Allah, the Most Knowing.\" It is also said to be the name of one of the Names of the Quran.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

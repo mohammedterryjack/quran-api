@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدثنا علي بن أحمد\n قال: حدثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السَّلامُ في قولهِ تعالى: { وَمِنَ ٱلنَّاسِ مَن يَشْتَرِي لَهْوَ ٱلْحَدِيثِ } معناه الغِناءُ والمُغنياتُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n He said: Ali ibn Ahmad narrated to us\n\n\n{And of the people is he who buys idle talk to divert [others] from the way of Allah without knowledge and who takes it in ridicule. Those will have a humiliating punishment.}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

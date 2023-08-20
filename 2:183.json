@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ } معناه فُرِضَ عليكم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {the fast has been written upon you}, its meaning is that it is obligatory upon you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَقَدْ خَلَقْنَا ٱلإِنسَانَ فِي كَبَدٍ } معناه في شدةٍ يكابدُ مصائبَ الدُّنيا وشدائدَ الأَخرةِ\n ويقال: في استقامةِ خُلقهِ\n ويقال: في صُعُدٍ وارتفاعٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted is He: {Indeed, We have created man into hardship} [means that] he endures the tribulations of this world and the hardships of the Hereafter.\n\n\nIt is said that in the uprightness of his creation, man is the best of creatures.\n It is said: In {su'ud} and {irtifa'},",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

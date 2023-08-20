@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنِّيۤ آنَسْتُ نَاراً } معناه أبصَرْتُها\n\n\n\n\nوقوله تعالى: { بِشِهَابٍ قَبَسٍ } معناهُ بشُعلةٍ بقَبسٍ مِنهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, I see fire} [means that] I perceived it.\n\n\nAnd His saying, \"With a flaming fire.\" means with a fire that burns with flames from it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

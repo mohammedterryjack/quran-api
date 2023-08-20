@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ } قال الإِمامُ زيد بن علي عليهما السّلامُ\n فالحَبلُ: حَبلُ العَاتقِ\n والوريدُ: العِرقُ الذي في الحَلقِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And We are closer to him than his jugular vein,\" Imam Zaid ibn Ali said, peace be upon them both.\n\n\nThe rope: the rope of the arm\n\n\nAnd the urethra: the vein which is in the throat",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

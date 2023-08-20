@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَجَآءَهَا ٱلْمَخَاضُ } معناه ألجأها الطَّلْقُ\n\n\n\n\nوقوله تعالى: { نَسْياً مَّنسِيّاً } معناه حَيضةٌ ملقاةٌ بَعدَ حَيضةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So the discharge came out after him} means that the discharge came out after him.\n And His saying, {Nasyāan Mansasīyyan} [means] a menstruating woman who has stopped menstruating after another menstruation.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَلاَ تَتَّبِعُواْ خُطُوَاتِ ٱلشَّيْطَانِ } معناهُ آثارُهُ\n وواحدُهَا خُطْوَةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And do not follow the footsteps of Satan}, its meaning is its effects.\n {It is} one step",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

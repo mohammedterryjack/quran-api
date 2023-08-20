@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِيمَا شَجَرَ بَيْنَهُمْ } ومعناهُ اخْتَلَطَ\n\n\n\n\nوقوله تعالى: { لاَ يَجِدُواْ فِيۤ أَنْفُسِهِمْ حَرَجاً } معناهُ ضيقٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"In what [way] have they become mixed?\" - meaning, they have become confused.\n\n\nAnd His saying, {They will not find in themselves any discomfort} [means] difficulty.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

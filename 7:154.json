@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَماَّ سَكَتَ عَن مُّوسَى ٱلْغَضَبُ } معناهُ سَكنٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when Moses was silent in anger, it meant he was calm.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَنُقَلِّبُهُمْ ذَاتَ ٱليَمِينِ وَذَاتَ ٱلشِّمَالِ } معناهُ أيمانُهم وشَمائِلُهم\n\n\n\n\nوقوله تعالى: { وَكَلْبُهُمْ بَاسِطٌ ذِرَاعَيْهِ بِٱلوَصِيدِ } الوَصِيدُ: الفِناءُ والوَصيد: البَابُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {We will turn them on their right and on their left}, means their right and their left.\n\n\nAnd His dogs are spread out, with their legs extended, hunting.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

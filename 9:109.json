@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَلَىٰ شَفَا جُرُفٍ هَارٍ } والشَّفا: الجَانبُ، والحَرفُ [من] الرَّكيةِ التي لم تَتَبينْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Upon a firm, high mountain} and the mountain: the side, and the [letter from] the dark letter which has not been made clear.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { أُولَـٰئِكَ عَلَيْهِمْ صَلَوَاتٌ مِّن رَّبِّهِمْ وَرَحْمَةٌ } قالَ زيدُ بن علي عليهما السلامُ: فالصَّلاةُ مِنَ الله تَعالى: رَحمةٌ، ومن المَلائكةِ والنَّاسِ: الدعاءُ\n والصَّلواتُ: الكَنائسُ\n وهو قولُهُ تعالى:\n\n[الحج: 40]\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd {those} are the ones upon whom are blessings from their Lord and mercy. Zayd ibn Ali, peace be upon him, said: The prayer from Allah, the Almighty, is mercy, and from the angels and people: supplication.\n\n\nAnd the prayers: the churches.\n\n\nAnd His [i.e., God's] saying is the Most High:\n\n\nThe Hajj is the pilgrimage to Mecca that Muslims are required to perform at least once in their lifetime.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

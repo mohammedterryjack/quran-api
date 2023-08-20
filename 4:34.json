@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ تَبْغُواْ عَلَيْهِنَّ سَبِيلاً } يعني لا تَعْلَّوا عَليهنَّ بالذِنُوبِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {So do not oppress them} means do not wrong them with sins.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

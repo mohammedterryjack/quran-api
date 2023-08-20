@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السّائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { كَأَنَّهُمْ خُشُبٌ } معناه جَماعةُ الخَشَبِ\n\n\n\n\nوقوله تعالى: { قَاتَلَهُمُ ٱللَّهُ } معناه لَعَنهُم الله { أَنَّى يُؤْفَكُونَ } معناه يُدفَعُون ويُصرَفُون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us that Ali ibn Ahmad related to him.\n\n\nHe said: \"Ata ibn al-Saaib narrated to us from Abu Khalid from Zayd ibn Ali, upon them both be peace, regarding the saying of God Almighty, {as if they were wood} [i.e. as if they were lifeless]. This means the group of wood [i.e. the group of people].\"\n\n\nAnd the saying of Allah {Qatalahumullah} means that Allah cursed them {Anaa Yu'fakoona} meaning they are diverted and turned away.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

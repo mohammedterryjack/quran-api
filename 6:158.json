@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { هَلْ يَنظُرُونَ إِلاَّ أَن تَأْتِيهُمُ ٱلْمَلاۤئِكَةُ } معناهُ تَنتَظرُونَ\n قالَ زيدُ بن علي عليهما السَّلامُ: { هَلْ يَنظُرُونَ إِلاَّ أَن تَأْتِيهُمُ ٱلْمَلاۤئِكَةُ } قالَ: المَوتُ: { أَوْ يَأْتِيَ رَبُّكَ } قال: القِيامةُ { أَوْ يَأْتِيَ بَعْضُ آيَاتِ رَبِّكَ } قالَ: هُوَ طُلُوعُ الشَّمسِ مِن مَغْرِبِهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nDo they not expect that the angels will come to them?\n\n\nZayd ibn Ali said, {Do they only look for that the angels should come to them?} He said, Death. {Or that your Lord should come?} He said, The Resurrection. {Or that some of the signs of your Lord should come?} He said, It is the rising of the sun from its setting.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

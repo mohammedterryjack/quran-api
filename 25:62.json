@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَهُوَ ٱلَّذِي جَعَلَ ٱلَّيلَ وَٱلنَّهَارَ خِلْفَةً } معناه يَجيءُ اللّيلُ بعدَ النَّهارِ، ويجيُ النَّهارُ بعدَ اللّيلِ، يَخلفُ هَذا هذا، ويَخلف هذا هذا\n معناه إن فاتكَ عَملُ النَّهارِ فَفَكرتَهُ بالليلِ فَعملتَهُ أجزاكَ\n وقال: الخِلفةُ: هي الأبيضُ والأسودُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He is the one who made the night and the day succeed each other\" means that the night comes after the day and the day comes after the night, one succeeding the other.\n\n\nThis means that if you miss an opportunity during the day, you can make up for it at night.\n And he said: \"The Khilafah is the white and the black.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

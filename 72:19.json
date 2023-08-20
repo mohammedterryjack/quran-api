@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَادُواْ يَكُونُونَ عَلَيْهِ لِبَداً } أي جماعاتٍ واحدُها لِبْدَةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They were almost about to} - meaning, groups of them - one group being \"labad.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

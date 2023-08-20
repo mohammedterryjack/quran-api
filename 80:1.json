@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السلامُ في قولهِ تعالى: { عَبَسَ وَتَوَلَّىٰ } معناه كَلُحَ وَجهُهُ، وأَعرضَ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: Ali ibn Ahmad narrated to us\n\n\nThis refers to the verse in the Quran where God says \"He {i.e. the Prophet Muhammad} turned away {from them}\". The meaning of this is that the Prophet Muhammad turned his face away from them in disgust.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَذَرُواْ ٱلَّذِينَ يُلْحِدُونَ فِيۤ أَسْمَآئِهِ } معناهُ اترُكُوا المُلحِدينَ\n وهُمْ الحَائِرونَ فِي الحَقِّ الّذِينَ لاَ يستقيمونَ للواجِبِ عَلَيهِمْ\n\n\n\n\nوقوله تعالى: { وَللَّهِ ٱلأَسْمَآءُ ٱلْحُسْنَىٰ فَٱدْعُوهُ بِهَا } معناهُ فَلَهُ تِسعةٌ وتِسعونَ اسماً قَدْ أَمَرَ أَن يُدْعى بِهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And leave those who take other than His name} [means] leave the polytheists.\n\n\nAnd they are those who are in doubt about the truth, who do not follow the right path.\n\nAnd His saying - the Most High: {And to Allah belong the most beautiful names, so call on Him by them} His meaning - He has ninety-nine names that He has ordered to be called by them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

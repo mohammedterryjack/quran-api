@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّمَا تَعْبُدُونَ مِن دُونِ ٱللَّهِ أَوْثَاناً } معناه أصنامٌ من حجارةٍ\n واحدُها وَثنٌ\n\n\n\n\nوقوله تعالى: { وَتَخْلُقُونَ إِفْكاً } معناه تَختَلِقُون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the saying of Allah {You only worship besides Allah idols} is statues made of stone.\n It is one {of the things} that is two.\n\n\nAnd the saying of Allah, \"And you create {falsehood}\" - its meaning is that you create lies.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

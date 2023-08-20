@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ } معناه عَلَى أن نُعيدَهُ في الإِحليلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, He is Able to return him [in life]} [means that] He is able to return him in resurrection.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

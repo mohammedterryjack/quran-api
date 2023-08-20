@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا ٱلْعِشَارُ عُطِّلَتْ } والعِشَارُ: النُّوقُ الحَواملُ لعشَرةِ أشهرٍ عَطّلها أربابُها\n معناه سَيبوها فَلَمْ تُحلَبْ، ولم تُصرّ، وتَخلَّى منهَا أربابُها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd when the {ten-month} has ceased,\nThe {ten-month} is the pregnant camel whose owners have cut her off from her young for ten months.\n\n{} It will boil, but it will not burn, and it will be free from its masters.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

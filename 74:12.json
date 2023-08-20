@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلْتُ لَهُ مَالاً مَّمْدُوداً } معناه ألفُ دِينارٍ\n ويقال: غَلةُ شَهرٍ بشهرٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"I have made for him wealth extended.\" Its meaning is one thousand dinars.\n It is said: {a month of} ghala with {another} month",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلْبَيْتِ ٱلْمَعْمُورِ } فالمَعمورُ: الكَبيرُ\n وقال المَعمورُ: بيتٌ في السَّماءِ يقال له الضُراحُ، حيال الكَعبةِ، يَزورهُ كلَّ يَومٍ سَبعونَ ألفَ مَلَكٍ لا يَعُودون فيهِ إلى يَومِ القِيامةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allaah, {And the House of the Ma'moor} - the Ma'moor is the great one.\n\n\nThe Ma'amoor said: There is a house in heaven called al-Durrah, near the Ka'bah. Every day, seventy thousand angels visit it and they will not return to it on the Day of Judgment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

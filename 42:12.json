@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَهُ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ } معناه مفاتيحُها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He has the keys to the heavens and the earth}, means that He has control over them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

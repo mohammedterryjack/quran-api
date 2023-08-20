@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱدْخُلُواْ ٱلْجَنَّةَ أَنتُمْ وَأَزْوَاجُكُمْ تُحْبَرُونَ } معناه تُكْرَمُونَ\n وقال: تَسُرون بالسَّماعِ في الجَنةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Enter Paradise, you and your spouses, honored,\" means you will be honored.\n \n\nAnd he said: \"You take delight in hearing in paradise.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ جَآءَ مَعَهُ ٱلْمَلاَئِكَةُ مُقْتَرِنِينَ } معناه رُفقاءُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe meaning of the verse is that the angels came with him as companions.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

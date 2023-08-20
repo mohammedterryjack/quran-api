@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱتْرُكِ ٱلْبَحْرَ رَهْواً } معناه سَاكنٌ\n ويقال: طريقٌ بالنبطيةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - Exalted is He - {And leave the sea free} means [that it is] motionless.\n It is said: A path in the Nabataean style",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

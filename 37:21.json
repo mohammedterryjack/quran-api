@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { هَـٰذَا يَوْمُ ٱلْفَصْلِ } معناه يَومُ قَطعِ القَضاءِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {This is the Day of Division} [means] the Day of Judgement.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

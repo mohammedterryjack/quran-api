@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَلَى ٱلْكَافِرِينَ عَسِيراً } معناه صَعبٌ شَديدٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - exalted be He - {'Ala 'l-kafirin 'asiran} means that it is very difficult for the disbelievers.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

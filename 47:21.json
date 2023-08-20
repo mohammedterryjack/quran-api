@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِذَا عَزَمَ ٱلأَمْرُ } معناه جَدَّ\n\n\n\n\nوقوله تعالى: { فَلَوْ صَدَقُواْ ٱللَّهَ } معناه ناصَحُوهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when the matter is decided,\n\n\nAnd His saying, {If they had only believed in Allah}, means that they had been sincere to Him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

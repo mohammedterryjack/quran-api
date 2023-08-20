@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلْبَاقِيَاتُ ٱلصَّالِحَاتُ } قال: هي الصَّلواتُ الخَمسُ\n وقال: سُبحانَ الله والحَمدُ لله ولاَ إِله إِلاَّ الله والله أَكبرُ\n وَلاَ حَولَ وَلاَ قُوةَ إِلاَّ بالله\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {Al-bāqiyātu as-ṣāliḥātu}, He said: \"They are the five prayers.\"\n\n\nHe said: \"Glory be to God, and praise be to God, and there is no god but God, and God is the Greatest.\"\n\nThere is no power or might except with Allah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

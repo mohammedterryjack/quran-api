@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَن كَانَ يَظُنُّ أَن لَّن يَنصُرَهُ ٱللَّهُ فِي ٱلدُّنْيَا وَٱلآخِرَةِ } معناه لَنْ يَرْزُقَهُ\n وقالَ مَنْ كَانَ يَظُنُ أَنْ لَنْ يَنصُرَ الله تعالى محمداً صلى الله عليهِ وعلى آلهِ وسلمَ في الدُّنيا والآخِرةِ\n\n\n\n\nوقوله تعالى: { فَلْيَمْدُدْ بِسَبَبٍ إِلَى ٱلسَّمَآءِ } فالسَّببُ: الحَبلُ\n والسَّماءُ: سَماءُ البَيتِ: معناهُ سَقفُهُ\n فليَختَفْ { فَلْيَنْظُرْ هَلْ يُذْهِبَنَّ كَيْدُهُ مَا يَغِيظُ }\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, { Whoever has disbelieved - Allah will not guide him in the Hereafter. } Its meaning is that He will not provide for him.\n\nWhoever thinks that Allah will not help Muhammad (pbuh) in this world and the hereafter is { }.\n\n\nAnd His saying, {So let him extend a rope to the heaven} - the rope being the reason.\n\n\nThe sky: the sky of the house: its meaning is its ceiling\n\n\nLet him {see if his plan will succeed in making him angry}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

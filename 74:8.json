@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِذَا نُقِرَ فِي ٱلنَّاقُورِ } معناه فإذا نُفِخَ في الصّورِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when the trumpet is blown, {then indeed will be opened} the eyes of the blind, and {the ears of} the deaf will be opened.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

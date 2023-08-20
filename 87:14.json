@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَدْ أَفْلَحَ مَن تَزَكَّىٰ } معناه آمنَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Almighty: {He has succeeded who purifies himself} means \"believes\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

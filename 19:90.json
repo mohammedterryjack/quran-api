@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَتَفَطَّرْنَ } معناه يَتَشَّققنَ\n\n\n\n\nوقوله تعالى: { وَتَخِرُّ ٱلْجِبَالُ هَدّاً } معناه سُقوطٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the phrase {يتفطرن} is {يتشققن}.\n\n\nAnd the mountains will pass away {as a guide}. This means that they will fall.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

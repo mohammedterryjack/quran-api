@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَرِّضِ ٱلْمُؤْمِنِينَ } معناهُ حضَّضْ\n\n\n\n\nوقوله تعالى: { عَسَى ٱللَّهُ } معناه إِيجابٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Encourage the believers,\" means to enjoin them [to do good].\n\n\nAnd His saying, {perhaps Allah} means a possibility.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

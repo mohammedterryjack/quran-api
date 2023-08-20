@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِّكَيْلاَ تَأْسَوْاْ عَلَىٰ مَا فَاتَكُمْ } أي لا تَحزَنوا { وَلاَ تَفْرَحُواْ بِمَآ آتَاكُمْ } ليس من أحدٍ إلاّ ويَحزنُ ويَفرحُ\n ولكن من أصابهُ خيرٌ فليجعلهُ شكراً\n ومن أصابتهُ مصيبةٌ فَليَجْعَلْها صبراً\n\n\n\n\nوقوله تعالى: { لاَ يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ } معناه مُتكبرٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"So that you {do not despair} over what has eluded you, nor {exult} over what He has given you.\" For no one despairs over what has eluded him, nor does anyone exult over what he has been given, except that\n\n\nBut if he is blessed with good fortune, let him give thanks.\n\n\nAnd whoever is afflicted with a misfortune should bear it patiently.\n\n\nAnd His saying, \"He does not love every arrogant, boastful person,\" means that He is a proud, boastful person.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلُواْ لَهُ مِنْ عِبَادِهِ جُزْءًا } معناه نَصيبٌ\n ويقال: عِدلٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And they made for him a portion of His servants} [means] a share.\n\n\nIt is said that 'adl (justice) is",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِيُثْبِتُوكَ } معناه لِيُقَيِّدُوكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - the Most High - {Liythbitook} means to make you firm.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ بَيْنَهُمَا بَرْزَخٌ لاَّ يَبْغِيَانِ } ، { يَخْرُجُ مِنْهُمَا الُّلؤْلُؤُ وَالمَرْجَانُ } معناه المخَلِيُّ: من الماءِ يلتقيان من العذبِ والمالحِ، وبينهما حاجزٌ من الله تعالى، فلا يَختلطان، لا يَبغي الملحُ على العذبِ، ولا العذبُ على الملحِ\n واللؤلُؤ: العظامُ\n والمَرجانُ: الصِّغارُ من اللؤلؤ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {the two seas meet but are separated by a barrier that they cannot cross} - {from them emerge pearls and coral} - means that the water from the fresh and the salt meet but are separated by a barrier from Allah, so they do not mix, the salt does not yearn for the fresh, and the fresh does not yearn for the salt.\n\n\nAnd the pearls: the bones.\n\n\nAnd pearls: the small ones among the pearls.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

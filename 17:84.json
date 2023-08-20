@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ } معناهُ على نِيتهِ\n وقال: عَلَى ناحِيتِهِ\n وقال: عَلَى طَريقَتهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the saying of the Most High: {Every person works according to his own character} is according to his intention.\n\n\nAnd he said: \"On his side.\"\n And he said, \"on his way\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

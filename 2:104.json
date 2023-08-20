@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { لاَ تَقُولُواْ رَاعِنَا } قالَ زيدُ بن علي عليهما السّلامُ معناهُ خلاف وهي لُغةُ الأَنصارِ وبلُغةِ اليهودِ، هو شَتمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Do not say ra'ina} - Zayd ibn Ali (alaihimas-salam) said that this means \"contradiction\", which is the language of the Ansar and the language of the Jews. It is a curse.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

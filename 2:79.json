@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَوَيْلٌ لِّلَّذِينَ يَكْتُبُونَ ٱلْكِتَابَ بِأَيْدِيهِمْ } قالَ زيدُ بن علي عليهما السلامُ: فالوَيلُ وادٍ في جهنمَ مِنْ قَيحٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWoe to those who write the Book with their own hands! Zayd ibn Ali said: The woe is a hot wind in Hell from the stench of the dead.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

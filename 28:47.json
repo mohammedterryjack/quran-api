@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِمَا قَدَّمَتْ أَيْدِيهِمْ } معناه بما كَسَبَتْ أيديهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"With what [good] they have put forth of their hands,\" means with what they have earned of their own accord.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِن يَسْأَلْكُمُوهَا } يَفْترِض عليكم\n\n\n\n\nوقوله تعالى: { فَيُحْفِكُمْ } معناه يُلِحُّ عَليكُم\n\n\n\n\nوقوله تعالى: { وَيُخْرِجْ أَضْغَانَكُمْ } معناه أَحقادُكُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"If they ask you for it\" implies that it is obligatory for you to give them what they ask for.\n\n\nAnd His saying, \"I will {purify you},\" means He will cleanse you.\n\n\nAnd His words, \"And He will bring out your {adghana}\", mean your \"ahqaad.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

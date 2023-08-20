@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ جَعَلْنَا فِي ٱلسَّمَاءِ بُرُوجاً } معناهُ مَنَازِلُ القَمرِ والشَّمسِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted is He: {And We have made in the heaven mansions of the stars} [Qur'an 78:6] - its meaning is the abodes of the moon and the sun.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

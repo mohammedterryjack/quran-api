@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قالَ: حدّثنا علي بن أحمد\n قالَ: حدّثنا عطاء بن السّائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { لاَ تُخْرِجُوهُنَّ مِن بُيُوتِهِنَّ وَلاَ يَخْرُجْنَ إِلاَّ أَن يَأْتِينَ بِفَاحِشَةٍ مُّبَيِّنَةٍ } فالفَاحشةُ: الزِّنا\n\n\n\n\nوقوله تعالى: { وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ } معناه يُجاوزُها\n\n\n\n\nوقوله تعالى: { فَقَدْ ظَلَمَ نَفْسَهُ } معناه نَقَّصَها\n\n\n\n\nوقوله تعالى: { لاَ تَدْرِى لَعَلَّ ٱللَّهَ يُحْدِثُ بَعْدَ ذَلِكَ أَمْراً } معناه مُراجعةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n He said, \"Ali ibn Ahmad narrated to us.\"\n\n\nHe said: \"Ata ibn al-Saaib narrated to us from Abu Khalid from Zayd ibn Ali, peace be upon them, in his saying, 'Do not force them to leave their homes, and they should not leave except if they bring a clear case of immorality.'\" The case of immorality refers to adultery.\n\n\nAnd His saying, \" Whoever transgresses the bounds of Allah \" means whoever goes beyond them.\n\n\nAnd His saying, \"Indeed, he has wronged himself,\" [means that] he has deprived himself.\n\nAnd His saying, { perhaps Allah will bring about after that an affair } its meaning is a review.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

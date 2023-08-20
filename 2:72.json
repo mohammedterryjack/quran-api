@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَإِذْ قَتَلْتُمْ نَفْساً فَٱدَّارَأْتُمْ فِيهَا } أَي اختَلفتم فيها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when you killed a person, you turned away from him in remorse.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { رَحْمَتُ ٱللَّهِ وَبَرَكَاتُهُ عَلَيْكُمْ أَهْلَ ٱلْبَيْتِ } فالبَركاتُ: هي السَّعادةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"The mercy of Allah and His blessings be upon you, O people of the House,\" the blessings are happiness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

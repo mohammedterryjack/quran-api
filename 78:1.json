@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السلامُ في قولهِ تعالى: { عَمَّ يَتَسَآءَلُونَ عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ } معناه عَنْ القُرآنِ { ٱلَّذِي هُمْ فِيهِ مُخْتَلِفُونَ } معناه مُكذبٌ لَهُ، ومُصدقٌ لَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad narrated to us...\"\n\n\nHe said: It was narrated to us by Ata ibn al-Saaib from Abu Khalid from Zayd ibn Ali, may Allah be pleased with them both, in his saying about the verse {About the great news they ask one another}, its meaning is {The Quran which they are differing about}, its meaning is that it is false to him and true to him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

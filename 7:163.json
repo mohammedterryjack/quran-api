@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذْ يَعْدُونَ فِي ٱلسَّبْتِ } معناهُ يَتَعدون فيهِ\n\n\n\n\nوقوله تعالى: { شُرَّعاً } معناهُ ظاهرٌ\n ويقالُ بيضٌ سِمَانٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {When they are about to} Saturday, means they are about to it.\n\n\nAnd His saying, \"It is {legislated}\" - its meaning is apparent.\n\n\nAnd it is said that an egg is a white {simaan} (type of stone).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

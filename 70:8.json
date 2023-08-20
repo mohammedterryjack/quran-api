@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ } كعَصرِ دُرْدِيّ الزَّيتِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {On the day when the heaven will be like molten brass} [will be] as the heat of oil.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

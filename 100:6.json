@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱلإِنسَانَ لِرَبِّهِ لَكَنُودٌ } معناه لَكَفورٌ\n ويقال: هو الذي يَأكلُ وَحدَهُ، ويَمنعُ رِفدَهُ ويَضرِبُ عَبدَهُ\n ويقال: الذي يَعدّ المَصائبَ ويَنسى نِعمةَ رَبهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of Allaah, {Indeed, man is ungrateful to his Lord} means that he is disbelieving.\n\n\nHe is the one who eats alone, forbids his own relief, and strikes his own servant.\n\n\nIt is said: \"He who counts the trials and forget the blessings of his Lord.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

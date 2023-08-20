@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَدْ أَفْلَحَ مَن زَكَّاهَا } معناه مَنْ أصلَحَها { وَقَدْ خَابَ مَن دَسَّاهَا } معناه أغواها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He has succeeded who purifies it,\" means who corrects it, and \"he has failed who corrupts it,\" means who destroys it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

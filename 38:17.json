@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱذْكُرْ عَبْدَنَا دَاوُودَ ذَا ٱلأَيْدِ إِنَّهُ أَوَّابٌ } فذو الأيدِ: ذُو القُوةِ\n والأَوابُ: التَّوابُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd remember Our servant David, the possessor of power; indeed, he was one who constantly turned back [to Allah ].\n\n\nAnd the responder: the one who responds.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

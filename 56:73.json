@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَتَاعاً لِّلْمُقْوِينَ } معناه الذين لا زادَ مَعهُم\n ويقال للمسافرينَ والحَاضرينَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - the Most High - \"And [it is] a provision for those who strive\" - meaning those who do not add with them [anything] extra.\n\n\nIt is said to travelers and those present",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

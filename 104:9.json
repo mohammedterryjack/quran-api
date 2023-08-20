@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي عَمَدٍ مُّمَدَّدَةِ } وهو جَمعُ عِمادٍ\n ويقال: قيودٌ طَويلةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"In an upright column,\" which is the plural of 'imad.\n It is said: \"Long {restrictions}.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَصَرَّفْنَا فِيهِ مِنَ ٱلْوَعِيدِ } معناه بَيَّنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd He has diverted us from the path of truth.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

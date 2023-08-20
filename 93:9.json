@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَمَّا ٱلْيَتِيمَ فَلاَ تَقْهَرْ } معناه لا تَحقُرْ { وَأَمَّا ٱلسَّآئِلَ فَلاَ تَنْهَرْ } معناه لا تَزجُرْ، ولكن زده رحمةً { وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ } معناه إخوانُكَ حدّثهم بالقُرآنِ\n ويقال: إخوانُكَ إخوانُ ثقتِكَ\n فهذا تَأديبٌ من الله تعالى لأُمةِ محمدٍ صلى الله عليهِ وآلهِ وسَلّمَ عَلَى لِسَانِ نَبيهِ عَلَيهِ السَّلامُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd as for the orphan, do not {despise him/her}. {And as for the beggar, do not turn him/her away}. But rather extend to him/her compassion. {And as for the favor of your Lord, then tell of it}.\n\n\nYour brothers are your trust.\n\n\nThis is a lesson from Allah to the nation of Muhammad, upon whom be peace, delivered through the tongue of His Prophet, upon whom be peace.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

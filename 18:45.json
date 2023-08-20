@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَصْبَحَ هَشِيماً تَذْرُوهُ ٱلرِّياحُ } معناه يَابسٌ مُتفتِتٌ تُطيرهُ الرِّياحُ وتُفرقَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"So he became a thing despised, to be cast off by the winds,\" means that he became worthless, to be blown away by the winds and scattered.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

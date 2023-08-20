@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَفِرْعَوْنَ ذِى ٱلأَوْتَادِ } معناه فانهُ بَنى مناراً يَذبحُ عليهِ النّاسَ فسُمِّي ذا الأَوتادِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {And Pharaoh, of the Stakes} means that he built a platform on which people would be sacrificed, so he was called \"of the Stakes.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

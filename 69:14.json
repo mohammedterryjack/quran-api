@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَحُمِلَتِ ٱلأَرْضُ وَٱلْجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً } معناه دَقةٌ واحدة\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And the earth and the mountains are carried with ease,\" means that they are carried with one smooth movement.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

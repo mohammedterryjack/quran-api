@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَكَذَلِكَ نفَصِّلُ ٱلآيَاتِ } معناهُ نُميِّزُها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd just as We have explained the verses in detail, We do so for a reason.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

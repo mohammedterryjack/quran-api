@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَلاَّ لاَ وَزَرَ } معناه لا مَلجأَ، ولا جبلَ، ولا حِصنَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"There is no refuge,\" means there is no refuge, no mountain, and no fortress.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

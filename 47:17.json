@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَآتَاهُمْ تَقْوَاهُمْ } معناه ثَوابُهُمْ فِي الآخرةِ ويقال: بيَّنَ لَهُم ما يَتَّقون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And He has given them their rewards\" [means] their rewards in the Hereafter. And it is said, \"He has explained to them what they should be fearful of.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { وَٱلشَّفْعِ } يومُ عَرفةٍ\n ويقال: هي الصَّلواتُ فيها شَفعٌ وفيها وَترٌ\n ويقال الوَترُ: هو الله سبحانهُ وتعالى، والشَّفعُ: كُلُّ ما خَلَقَ الله تعالى\n والشَّفعُ: هو الزوجُ، ويقال له الزكا، والوَترُ: هو الفَردُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd {the shafa'} on the Day of 'Arafah.\n It is said: The prayers in which there is [the intercession of] shafa‘ and in which there is [the intercession of] witr.\n\n\nThe Watr is Allah, Most High, and the Shafa' is everything that Allah has created.\n\n\nAnd the shaffa' (plural of shafi') is the husband, and he is called the zakar, and the watar is the single (person).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

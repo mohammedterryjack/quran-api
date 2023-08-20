@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَأْتُوكَ رِجَالاً } معناه رَجَّالةٌ { وَعَلَىٰ كُلِّ ضَامِرٍ } معناه رُكابٌ عَلى الدَّوابِ\n\n\n\n\nوقوله تعالى: { مِن كُلِّ فَجٍّ عَميِقٍ } معناه من طَريقٍ بعيدٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {They will come to you} means a group of men {and on every side} means mounted riders on beasts.\n\n\nAnd His saying, \"From every deep darkness\" - its meaning is from a far-off place.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

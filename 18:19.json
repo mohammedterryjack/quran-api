@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَيُّهَآ أَزْكَىٰ طَعَاماً } معناه أَحَدُّ، وذَلِكَ أَنَّ قَومَهُ كَانوا يَذبَحُونَ للطَّواغيتَ\n ويقالُ: أَطيبُ\n ويقالُ أَكثرُ\n\n\n\n\nوقوله تعالى: { وَلاَ يُشْعِرَنَّ بِكُمْ أَحَداً } يعني لاَ يَعلَمنَّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Which is the purest food?} means one [thing], and that is that his people used to sacrifice to the Tawagheet.\n\n\nIt is said that the best thing is the most beautiful.\n\n\nIt is said that most\n And His saying, {And none will know of them} [i.e., the believers] means that none will know them",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

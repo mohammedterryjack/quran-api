@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَآ أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ } معناه لا يُغني عنهُ ذلك بما كَسَبتْ يَداهُ من مُعاندةِ الرّسولِ صلّى الله عليهِ وعلى آلهِ وسلمَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {What has cost him his wealth and what he has earned} [means that] what he has gained with his hands through opposing the Messenger - Allah bless him and grant him peace - will not benefit him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { جَعَلْنَاهُمْ حَصِيداً خَامِدِينَ } معناهُ مُسْتأصلينَ بالسَّيفِ والخَامدُ: هو الهَامدُ معناه الذَّاهبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {We have made them into a harvest, ever-present [in death] } - this means those who are eternally cut down by the sword and the ever-present [in death]: that is, those who are always going to be killed.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

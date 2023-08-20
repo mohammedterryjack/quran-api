@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَوْلاَ نُزِّلَ هَـٰذَا ٱلْقُرْآنُ عَلَىٰ رَجُلٍ مِّنَ ٱلْقَرْيَتَيْنِ عَظِيمٍ } قال القريتين: مكة والطائفُ\n والرَّجلانِ عَمرو بن مسعود الثقفي من الطائفِ\n ومن مكة عُتبة بن ربيعة بن عبد شمس\n ويقال: الوليدُ بن المغيرة المَخزُومي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah: {If this Quran had not been revealed to a man from the two cities} [i.e. Makkah and Ta’if] said the two cities: Makkah and At-Ta’if.\n\n\nAnd the two men, Amr ibn Mas'ud al-Thaqafi from Ta'if,\n\n\nFrom Mecca, `Utbah ibn Rabee`ah ibn `Abd Shams.\n\n\nThe child is said to be the son of al-Mughirah al-Makhzumi.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

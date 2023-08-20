@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَنَبَذْنَاهُ بِٱلْعَرَآءِ } معناه بالفَضاءِ من الأَرضِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So We took him away by night} [means that] We took him away by space [i.e., into the heavens].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

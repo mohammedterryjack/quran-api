@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّهُ كان لآيَاتِنَا عَنِيداً } أي مُعانداً مُجانباً مُعرضاً عنها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He: {Indeed, it is Our signs that are stubborn} [i.e. that will not be abandoned], meaning [that He is] defiant, opposing, and rejecting them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

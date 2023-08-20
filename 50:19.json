@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ذَلِكَ مَا كُنتَ مِنْهُ تَحِيدُ } أي تَعدُلُ عَنهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {That is what you were from him, you were to turn away from him} meaning you were to be equal to him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

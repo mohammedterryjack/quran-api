@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر قال: أخبرنا علي بن أحمد قال: أخبرنا عطاء بن السّائب عن أبي خالد عن الإِمامُ زيد بن علي عليه السّلامُ في قوله تعالى: { حـمۤ عۤسۤقۤ } قالَ الإِمامُ زيد صلوات الله عليهِ حم: قَضي هذا الأَمرُ\n عسق: العينُ: العَذابُ والسِّينُ: سِنونٌ\n والقَافُ: قَذفٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nZaid ibn Ali told us that Imam Zaid said regarding the verse {Hamm 'Asaqq}, \"This verse means that Allah has decreed this matter.\"\n\n\nThe eye: the punishment and the year: years.\n\n\nAnd the (Qaf) letter: (Qadaf) is a letter that is pronounced with a sharp, explosive breath.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

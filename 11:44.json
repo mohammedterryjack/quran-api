@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَغِيضَ ٱلْمَآءُ } معناهُ نَقَصَ وَقَلَّ\n\n\n\n\nوقوله تعالى: { وَٱسْتَوَتْ عَلَى ٱلْجُودِيِّ } وهو جبلٌ بَقُربِ المَوصِلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And the water subsided\" - this means it became less and decreased.\n\n\nAnd His saying, {And you will find the highest mountain} - which is a mountain near the city of Mecca.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَوَالِدٍ وَمَا وَلَدَ } فالوالدُ: العَاقِرُ\n وما ولَدَ: الذي يَلدُ\n ويقال: الوالد هو آدم\n وما ولَد: ولدَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And the father and what he begets,\" the father is the one who is sterile.\n\n\nAnd what is (the meaning of) \"that which is born\"? That which gives birth.\n\n\nIt is said that the father is Adam.\n\n\nAnd what is the child's father?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَكَانَ لِزَاماً } معناه فِعلٌ يَلزمُ كُلَّ إنسانٍ عملَهُ من خيرٍ أو شَرٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {it is incumbent upon every person} means that every person is obliged to do good or evil.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَلَىٰ آثَارِهِمْ يُهْرَعُونَ } معناه يَستَحَثْون، ويُسرعُ بهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, {On the traces of them they run} means they are eager, and they hasten with them",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

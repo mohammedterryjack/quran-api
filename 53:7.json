@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَهُوَ بِٱلأُفُقِ ٱلأَعْلَىٰ } معناه بالجَانبِ\n وقال: هو مطلعُ الشَّمسِ الأَعلى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"He is on the highest horizon\" means on the side.\n And he said: \"He is the one who rises with the highest sun.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

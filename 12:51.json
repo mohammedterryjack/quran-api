@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلآنَ حَصْحَصَ ٱلْحَقُّ } معناهُ السَّاعةُ وَضَحَ الحَقُّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Now has the truth been manifested,\" means that the Hour has come and the truth has become clear.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَيَّتَ طَآئِفَةٌ مِّنْهُمْ } معناهُ قَدَّرُوا ذَلِكَ لَيلاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His statement, \"a group of them stay up [in prayer] at night\" - this means they value that [prayer] at night.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

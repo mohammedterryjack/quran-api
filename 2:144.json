@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَوَلِّ وَجْهَكَ شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ } قَالَ زيدُ بن علي عليهما السلامُ [مَعناهُ] نَحوُهُ وتِلقاؤُهُ، هو بِلُغةِ أَهلِ يَثْربِ والشَطْرُ أَيضاً: النِصفُ والجمعُ أَشْطَارٌ، وشُطُورٌ وهي لُغةُ بني تَغلبٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah {So turn your face toward al-Masjid al-Haram} Zayd bin Ali, peace be upon him [means] similar to its [i.e. the face's] turning and its facing, which is in the language of the people of Yemen. And \"al-Shatar\" is also [the half and the whole and] \"al-Shutor\" is [the] language [of] Banu Taghlib.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَا زَاغَ ٱلْبَصَرُ } معناه ما عَدَلَ\n\n\n\n\nوقوله تعالى: { وَمَا طَغَىٰ } معناه ما جَارَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {The sight turned not aside} [Qur'an 80:42], its meaning is that the sight did not change.\n\n\nAnd His saying, \"And he who transgresses\" - meaning, whoever goes beyond the bounds.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَنَكْتُبُ مَا قَالُواْ } معناهُ سَنَحفِظُ\n\n\n\n\nوقوله تعالى: { عَذَابَ ٱلْحَرِيقِ } يَريدُ النَّارَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"We will record what they say,\" [means] \"We will preserve [it].\"\n\n\nAnd the saying of Allah, \"the punishment of the Fire,\" means the Fire.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

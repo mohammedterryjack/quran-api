@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا مِنْكُمْ وَجِلُونَ } معناه خَائِفونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Indeed, We are [Your] protectors}, [means that] We are fearful [of Him].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

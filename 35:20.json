@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n و: { ٱلظُّلُمَاتُ }: الكفرُ\n و: { ٱلنُّورُ } الإِيمانُ و: { ٱلأَحْيَآءُ }: المؤمنونَ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd: {The darknesses}: unbelief.\n\n\nThe {light} of faith and the {living} of the believers.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

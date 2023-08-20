@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى } فالمُقَدَّسُ: المُباركُ\n وطُوىً اسم الوَاديَ\n ويقال: طا الأَرضَ حافياً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Most High: {In the blessed valley of Tuwa} So the blessed one is the blessed one.\n\n\n{And the name of the valley}\n It is said: The earth is flat.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

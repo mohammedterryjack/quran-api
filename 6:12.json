@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلَّذِينَ خَسِرُوۤاْ أَنْفُسَهُمْ } معناهُ غَشُّوا أَنفُسَهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {those who have lost themselves} [means] they have covered themselves.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

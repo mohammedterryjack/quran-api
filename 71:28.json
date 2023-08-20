@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِناً } معناه مَسجدي\n\n\n\n\nوقوله تعالى: { وَلاَ تَزِدِ ٱلظَّالِمِينَ إِلاَّ تَبَاراً } معناه هَلاكٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And whoever enters my house as a believer\" means my mosque.\n {And do not let the oppressors add to anything except destruction.} Its meaning is destruction.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

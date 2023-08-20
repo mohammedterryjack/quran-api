@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { لاَّ يُؤَاخِذُكُمُ ٱللَّهُ بِٱلَّلغْوِ فِيۤ أَيْمَانِكُمْ } قالَ زيدُ بن علي عليهما السَّلامُ: فاللَّغوُ: أَنْ يَحلِفَ الرَّجلُ عَلى شَيءٍ وهو يَظُنُ أَنهُ كَذلِكَ\n ويقالُ إِنَّ اللَّغوَ: هو قولُ الرَّجلِ لاَ وَالله، وبلى والله، وهو لاَ يُريدُ أَنْ يُكَلِّمَ بِهَا مَالَ أَحداً، أَو يَقْطعَ بِهَا مَالَ إِنْسانٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {He will not take you to task for a slip in your oaths} - Zayd ibn Ali said: \"The slip\" is when a man swears to something and believes it to be so.\n\n\nIt is said that the word \"laghw\" is the man's way of saying \"no\" to something, or of affirming something, without intending to communicate anything to anyone.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

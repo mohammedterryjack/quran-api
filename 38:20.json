@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَآتَيْنَاهُ ٱلْحِكْمَةَ وَفَصْلَ ٱلْخِطَابِ } معناه الفهمُ والعلمُ بالقضاءِ\n وقال: الشهودُ والإِيمانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And We granted him wisdom and sound judgement} [means] understanding and knowledge of [the] ruling.\n The witnesses and the faith",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

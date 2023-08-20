@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَوَكَّلْ عَلَى ٱلْحَيِّ ٱلَّذِي لاَ يَمُوتُ } معناه على الحَيّ البَاقِي الذي لا يَفنى\n\n\n\n\nوقوله تعالى: { وَكَفَىٰ بِهِ بِذُنُوبِ عِبَادِهِ خَبِيراً } معناه عَليمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd trust in the Ever-Living One who does not die.\n\n\nAnd His saying, \"He is sufficient for the sins of His servants,\" means that He is knowledgeable.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

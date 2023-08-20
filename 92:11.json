@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ } معناه إذا هَلَك وماتَ\n ويقال: إِذا تَردَّى في جَهنمَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And his wealth will not avail him when he plunges,\" [means that] when he dies and is destroyed.\n It is said: \"When you are thrown into Hell\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

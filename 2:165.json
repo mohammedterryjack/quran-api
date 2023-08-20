@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَلَوْ يَرَى ٱلَّذِينَ ظَلَمُوۤاْ } معناهُ يَعلَمُ وليسَ برؤيا عينٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd if those who have wronged could see {the consequences of their actions}, they would know {exactly what they are facing}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَلَىٰ قَادِرِينَ عَلَىٰ أَن نُّسَوِّيَ بَنَانَهُ } معناه نَجعَلَهُ مثلَ خُفِّ البَعيرِ وحَافرِ الدَّابةِ\n والبَنانُ: الأَصابعُ\n واحدُها بَنانةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Yes, we are able to shape his legs}, means that we make them like the humps of a camel and the furrows of a donkey.\n\n\nAnd Lebanon: The Fingers\n\n\nOne of them is a banana.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

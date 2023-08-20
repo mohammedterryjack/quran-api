@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَمْ تَظْلِم مِّنْهُ شَيْئاً } معناهُ لَمْ تَنقُصْ مِنهُ\n\n\n\n\nوقوله تعالى: { وَفَجَّرْنَا خِلالَهُمَا نَهَراً } معناهُ وسَطَهُمَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " {And you have not wronged him with anything} means that you have not decreased him with anything\n\n\nAnd [We] caused a river to flow between them. Its meaning is in the middle of them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

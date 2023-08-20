@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { أَدْنَىٰ } معناه أَقربُ و: { أَلاَّ تَرْتَابُوۤاْ } معناه لا تَشُكُوا\n\n\n\n\nوقولهُ تعالى: { فَإِنَّهُ فُسُوقٌ بِكُمْ } معناه مَعْصِيةٌ بِكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"The Most Low,\" means the nearest, and \"Do not despair\" means do not doubt.\n\n\nAnd His saying, \"Indeed, it is disobedience on your part\" - this means that there is disobedience on your part.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

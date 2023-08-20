@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمِنَ ٱلنَّاسِ مَن يَعْبُدُ ٱللَّهَ عَلَىٰ حَرْفٍ } معناه عَلَى شَكٍّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd among people is one who worships Allah on the basis of doubt.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

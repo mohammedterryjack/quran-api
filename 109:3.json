@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقولهِ تعالى: { قُلْ يٰأَيُّهَا ٱلْكَافِرُونَ لاَ أَعْبُدُ مَا تَعْبُدُونَ } من أصنامِكُم { وَلاَ أَنتُمْ عَابِدُونَ مَآ أَعْبُدُ } معناه إلى دينِ الإِسلامِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe Almighty says: {O disbelievers, I do not worship what you worship} of your idols {nor are you worshipers of what I worship} meaning Islam",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

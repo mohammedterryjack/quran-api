@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِذَا هُم بِٱلسَّاهِرَةِ } معناه وجهُ الأَرضِ\n إذا خَرجُوا من قُبورِهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Then when they are in the Sahirah} means the face of the earth.\n\n\nIf they leave their graves",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

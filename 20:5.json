@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلرَّحْمَـٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ } معناهُ عَلا وقَهرَ والعرشُ: العِزَّةُ والسُّلطانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {The Most Merciful [is] above the Throne established} [Qur'an 20:5], its meaning is [that He is] exalted and powerful, and the Throne: [it is] honor and authority.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

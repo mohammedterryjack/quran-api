@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا رَأَوْاْ تِجَارَةً أَوْ لَهْواً } اللهوُ: الطَّبلُ { ٱنفَضُّوۤاْ إِلَيْهَا } معناه أسرعُوا، وتَفرّقُوا عَنكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when they see a trade or a game, they {swarm to it} - Allahu: the camel - {eagerly}. This means that they hurry to it and leave you behind.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

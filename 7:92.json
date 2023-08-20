@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَأَن لَّمْ يَغْنَوْاْ فِيهَا } معناهُ لَّمْ يَنزِلُوا، وَلم يَعِيشوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {as if they had never lived there}, means that they did not come down [to the earth], and they did not live.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

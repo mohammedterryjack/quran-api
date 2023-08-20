@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِنَّهُ يَعْلَمُ ٱلسِّرَّ وَأَخْفَى } قالَ الإِمامُ زيد بن علي عليهما السلام السِّرُّ: ما أَحْرَزْتَهُ فِي نفسِكَ\n وقالَ: ما أَسررتَ إِلى غَيرِكَ\n وأَخفى: ما لم تُحدِّثْ بِهِ نَفسَكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {He knows the hidden and the unseen}, Imam Zayd ibn Ali said: \"The hidden is that which you have kept to yourself.\"\n And he said, \"What you have whispered to someone other than me.\"\n\n\nAnd what you do not update yourself with, you will never know.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

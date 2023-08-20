@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَهُمْ مَّا يَدَّعُونَ } معناه ما يتمنونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And to them belongs what they { }. Its meaning is what they desire.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

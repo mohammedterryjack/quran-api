@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَهُوَ أَهْوَنُ عَلَيْهِ } معناه ذلك هينٌ عليهِ\n وقال: وهو أهونُ عندكم لأن الإعادةَ أهونُ عِندكُم مِن الابتداءِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {And it is easier for Him}, its meaning is that it is easy for Him.\n And he said: \"It is easier for you, because the return is easier for you than the beginning.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

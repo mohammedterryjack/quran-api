@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلْجِبِلَّةَ ٱلأَوَّلِينَ } معناه الخَلْقُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the meaning of the verse \"And the mountains were the first creatures\" is that the creation took place in mountains.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

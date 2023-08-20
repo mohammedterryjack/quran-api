@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقُرْآناً فَرَقْنَاهُ لِتَقْرَأَهُ عَلَى ٱلنَّاسِ عَلَىٰ مُكْثٍ } قال الإمام زيد بن علي عليهما السلام فَرَقنَاهُ لِتَقْرَأَهُ أَي بَيّناهُ\n وفَرَّقْناهُ أَي جَعلنَاه مُتفرقاً\n وعَلَى مَكثٍ: يعني تَؤدةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And We have sent down the Quran so that you may read it to the people}, Imam Zaid bin Ali said: \"We have divided it so that you may read it plainly.\"\n\n\nWe have divided it {into} separate parts.\n\n\nAnd upon a pause: meaning a delivery",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

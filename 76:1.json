@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السّائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { هَلْ أَتَىٰ عَلَى ٱلإِنسَانِ حِينٌ مِّنَ ٱلدَّهْرِ } قال زيدُ بن علي عليهما السّلامُ: معناه قد أتى، ويُقال: قَدْ جَاءَ\n قال: الأَحيانُ تَنقسمُ عَلَى أربعةِ وجُوهٍ\n فَحِينُ الدَّهرِ: أعوامٌ\n وحِينُ الأعوامِ: أشهرٌ\n وحِينُ الأَشهرِ: أيامٌ\n والحِينُ: هو المَوتُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us that Ali ibn Ahmad told him...\n\n\n{Has there come upon man a time from the life} Zayd ibn Ali said, \"It has come, and it is said: He has come.\"\n He said: \"There are four types of situations.\"\n The years of life.\n\n\nAnd when the years pass: months.\n\n\nAnd when the months {ashhur} are over: days\n\n\nAnd the moment: it is death.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

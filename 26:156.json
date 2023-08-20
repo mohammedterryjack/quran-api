@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَمَسُّوهَا بِسُوۤءٍ } معناه بِعَقْرٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And do not touch it with evil\n \nAnd do not touch it with anything impure.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

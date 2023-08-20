@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَلاَّ إِنَّ كِتَابَ ٱلأَبْرَارِ لَفِي عِلِّيِّينَ } معناه تَحتَ العَرشِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, the Register of the righteous is in [the Record of] Illiyin}, [means that it is] under the Throne.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

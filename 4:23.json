@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَرَبَائِبُكُمُ ٱلَّٰتِي فِي حُجُورِكُمْ } فربيبةُ الرّجلِ: بنتُ امرأتِهِ\n وفِي حُجُورِكُمْ معناه فِي بيوتِكُمْ\n\n\n\n\nوقوله تعالى: { وَحَلَٰئِلُ أَبْنَائِكُمُ } معناهُ أَزْواجُهُمْ والواحدةُ: حَلِيلةٌ\n\n\n\n\nوقوله تعالى: { فَلاَ جُنَاحَ عَلَيْكُمْ } معناهُ لا إِثْمَ عَلَيكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And your wives are your rabībāt, those whom you possess} [Qur'an 4:24], the wife of a man is his rabībah.\n\n\nAnd in your homes is your meaning.\n\nAnd His saying - the Most High - {And the spouses of your sons} means their wives, and the single [woman] is a haliylah.\n\n\nAnd His saying, \"There is no sin on you,\" means there is no sin on you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

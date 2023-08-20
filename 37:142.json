@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱلْتَقَمَهُ ٱلْحُوتُ وَهُوَ مُلِيمٌ } معناه أتى أمراً يُلامُ عليه\n وقال التَقمهُ الحُوتُ غدوةً ولَفَظهُ عَشيةً ويقال: لَبِثَ فِي بَطنهِ سَبعةَ أيامٍ\n ويقالُ: أربعُون يوماً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So the whale swallowed him while he was blameworthy} [i.e., deserving of blame]. Its meaning is that he came to a matter that he would be blamed for.\n\n\nAnd the whale said, \"Tomorrow I will return,\" and he spoke at nightfall. And it is said that he stayed in his belly for seven days.\n It is said: Forty days",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

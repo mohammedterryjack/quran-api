@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَهِدَ إِلَيْنَا } معناه أَمَرَنَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " His saying, {عَهِدَ إِلَيْنَا}, means He ordered us.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

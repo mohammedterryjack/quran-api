@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَدْ يَعْلَمُ ٱللَّهُ ٱلَّذِينَ يَتَسَلَّلُونَ مِنكُمْ لِوَاذاً } معناه استِتَارٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {God knows those of you who slip away secretly}, its meaning is concealment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

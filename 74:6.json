@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَمْنُن تَسْتَكْثِرُ } معناه لا تُعطِ عَطيةً وتُريد أن تُعطي أكثرَ منهَا\n قال: الإِمامُ زيد بن علي عليهما السّلامُ: هذا حرمَهُ للنبي صلواتُ الله عليهِ وأَحلَهُ لأُمتهِ\n ويقال: لاتَمنُنْ عَمَلَكَ تَستَكثِرُ عَلَى رَبكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And do not give favors expecting to receive more in return.} Its meaning is, do not give a favor and expect to receive more than that in return.\n Imam Zaid ibn Ali, peace be upon him, said: \"This is Haram (forbidden) for the Prophet and Halal (permissible) for his Ummah.\"\n Do not be too confident in your deeds, you will only increase in your Lord's {despair/regret}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

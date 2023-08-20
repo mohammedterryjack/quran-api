@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ فِي سِلْسِلَةٍ ذَرْعُهَا سَبْعُونَ ذِرَاعاً } والذراع: سبعون باعاً\n والبَاعُ ما بَينكَ وبينَ مَكة\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd God said: {Then in a chain whose length is seventy cubits} and the cubit is seventy palms.\n\n\nAnd the sale between you and Makkah shall be {on the basis of} mutual consent.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

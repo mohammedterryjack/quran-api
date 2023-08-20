@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱلَّذِينَ يُلْحِدُونَ فِيۤ آيَاتِنَا لاَ يَخْفَوْنَ عَلَيْنَآ } معناه يَجوُرونَ ويَميلُونَ ويَعدِلُونَ\n\n\n\n\nوقوله تعالى: { ٱعْمَلُواْ مَا شِئْتُمْ } هو وعيدٌ من الله عزَّ وجلَّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the verse is that they {those who invent falsehoods in our verses} incline towards it and turn away from it and change it.\n\n\nAnd His saying, {Do as you please} is a sign from Allah, Most High, Most Great.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

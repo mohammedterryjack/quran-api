@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَصَدَّقَ بِٱلْحُسْنَىٰ } معناه بالجَنةِ\n ويقالُ بلا إلهَ إلاّ الله، وبالخَلقِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {And he believed in the best} - means Paradise.\n\n\nIt is said that there is no god but God, and by the creation.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

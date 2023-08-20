@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِمَ تَلْبِسُونَ ٱلْحَقَّ بِٱلْبَاطِلِ } معناهُ تَخلِطُونَ الحَقَّ بالبَاطِلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Why do you mix the truth with falsehood?} means that you mix the truth with falsehood.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

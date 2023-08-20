@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَجِدْ فِي ٱلأَرْضِ مُرَٰغَماً } معناهُ مَذْهَبٌ وَمُتحولٌ\n\n\n\n\nوقوله تعالى: { فَقَدْ وَقَعَ أَجْرُهُ عَلىَ ٱللَّهِ } معناهُ ثَوابُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He will find in the earth much opposition} [means that] there is a way and a change.\n\n\nAnd His saying - {then has his reward fallen due from Allah } - its meaning is His recompense.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

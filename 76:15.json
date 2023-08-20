@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيُطَافُ عَلَيْهِمْ بِآنِيَةٍ مِّن فِضَّةٍ وَأَكْوابٍ كَانَتْ قَوَارِيرَاْ } ، فالأكوابُ: الكِيزانُ التي لا عُرى لَهَا\n وهي من فِضَّةٍ في صَفاءِ القَواريرِ، وبَيَاضِ الفِضَّةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {And there will go around them boys of perpetual youth} - the cups are the kizaan which has no fatigue to it.\n\n\nAnd it is from silver in the purity of the vessels, and the whiteness of silver.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

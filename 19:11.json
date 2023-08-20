@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَوْحَىٰ إِلَيْهِمْ } معناهُ أَوْمَأَ إليهم، وأَرسلَ إليهم وقال: كتب\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He revealed to them} means He sent down to them and said: Write.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { تَتَّبِعَ مِلَّتَهُمْ } معناهُ دِينَهُمْ\n والجمعُ: المِلَلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, {they follow their religion}, means their religion.\n\n\nAnd the gathering: the multitude.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

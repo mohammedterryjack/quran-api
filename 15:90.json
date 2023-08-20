@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَمَآ أَنْزَلْنَا عَلَى ٱلْمُقْتَسِمِينَ } معناه الذينَ اقتَسمُوا القُرآنَ { عِضِينَ } معناهُ فَرّقوهُ وجَعَلُوهُ أَعضاءٌ، فآمنوا ببعضٍ، وكَفروا بِبعضٍ\n يقالُ: هُمْ اليَهودُ والنَّصارى\n ويقالُ إِنَّ عِضِينَ: هوَ السِّحرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " {And as We have sent down on those who are divided} The meaning of those who divided the Qur'an {they} The meaning of they divided it and made it parts, so they believe in part and disbelieve in part.\n\n\nIt is said that the Jews and the Christians are the People of the Book.\n It is said that the two are magic.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ } معناه من نَفسِ الحَاسدِ وعَينِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And from the evil of the envier when he envies\" refers to the envier himself and his eye.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { قُلْ هَاتُواْ بُرْهَانَكُمْ } قالَ زيدُ بن علي عليهما السلام معناهُ بَيانُكُمْ وحُجَجُكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {Say: Bring your proof} - Zayd ibn Ali said, this means your explanation and your evidence.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

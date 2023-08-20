@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { هَـٰذَا يَوْمُ ٱلدِّينِ } معناه يَومُ الجَزاءِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {This is the Day of Recompense} means the Day of Judgment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

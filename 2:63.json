@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ } [فالطُّورُ] جبلٌ\n يجمع طورة وأطْوَاراً\n رفعتهُ الملائكةُ\n\n\n\n\nوقوله تعالى: { خُذُواْ مَآ ءَاتَيْنَٰكُم بِقُوَّةٍ } معناهُ بِجِدٍّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of {We have raised the mountain above you} [the mountain] is a mountain.\n\n\nThis phrase refers to a mountain that has multiple peaks.\n\n\nThe angels lifted it up.\n\n\nAnd His saying, {Take what We have given you with strength}, means with resolve.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

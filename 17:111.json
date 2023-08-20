@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَمْ يَكُنْ لَّهُ وَلِيٌّ مِّنَ ٱلذُّلِّ } معناهُ لَم يَكنْ لَهُ حَليفٌ وَلاَ نَاصرٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And he had no helper or supporter from among the weak}, its meaning is that he had no ally or helper.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

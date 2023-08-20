@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ هَـٰذَا لَهُوَ ٱلْقَصَصُ ٱلْحَقُّ } معناهُ الخَبرُ اليَقِينُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He: {Indeed, this is the true story} [means] the certain news.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

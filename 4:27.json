@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيُرِيدُ ٱلَّذِينَ يَتَّبِعُونَ ٱلشَّهَوَاتِ } معناهُ الزِّنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And those who follow their desires} means those who commit adultery.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { وَدَانِيَةً عَلَيْهِمْ ظِلاَلُهَا } معناه قَريبةٌ { وَذُلِّلَتْ قُطُوفُهَا } معناه ثِمارُهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{And Dāniyyah} is close to them {and their fruits are bowed down} meaning their crops are bountiful.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

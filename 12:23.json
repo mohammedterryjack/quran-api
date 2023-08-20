@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { هَيْتَ لَكَ } معناه هَلَّم إِلى فِعَالِهِ وهي بالحُورانيةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Be to you,\" means go to His effect and it is in the [language of] the Houraniyyah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

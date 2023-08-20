@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا يُؤْمِنُ أَكْثَرُهُمْ بِٱللَّهِ إِلاَّ وَهُمْ مُّشْرِكُونَ } قال زيدُ بن علي عليهما السَّلامُ: هم قَومٌ شَبَّهوا الله بِخَلقِهِ، فأَشْرَكُوا مِنْ حَيثُ لاَ يَعلمُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the verse: {And most of them do not believe in Allah except that they are associators} - Zayd ibn Ali said, \"They are a people who have likened Allah to His creation, so they associate with Him from where they do not know.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ جَآءُوكُمْ حَصِرَتْ صُدُورُهُمْ } معناهُ ضَاقَتْ صُدُورُهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " Or have they come to you with {their hearts constrained} meaning their hearts have become tight/constricted.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

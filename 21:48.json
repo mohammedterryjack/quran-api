@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ آتَيْنَا مُوسَىٰ وَهَارُونَ ٱلْفُرْقَانَ } معناه التَّوراةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah: {And We gave Moses and Aaron the criterion} means the Torah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَيَوْمَئِذٍ لاَّ يُسْأَلُ عَن ذَنبِهِ إِنسٌ وَلاَ جَآنٌّ } معناه لا يُسألُ أحدٌ عن ذنبٍ أحدٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"On that day, no one will be asked about his sin\" means that no one will be asked about the sin of anyone else.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

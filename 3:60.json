@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ تَكُنْ مِّن ٱلْمُمْتَرِينَ } معناهُ مِنَ الشَّاكِّينَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Do not be of those who doubt.\" This means do not be of those who waver.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { لأَعْنَتَكُمْ } معناه لأَهْلَككم\n ويقال: لَشَدَّدَ عليكم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"I will surely destroy you,\" means that He will destroy your people.\n It is said: be harsh on you",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

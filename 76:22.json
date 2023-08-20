@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَكَانَ سَعْيُكُم } معناه عَملكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - {And your striving} - its meaning is your work.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

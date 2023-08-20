@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ يُنفَخُ فِي ٱلصُّورِ } فالصُّورُ: القِرنُ، والصُّورُ: جَمعُ صُورةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {the day when the trumpet is blown in the image}, the image is the horn, and the image is the gathering of a picture.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

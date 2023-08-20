@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِيهِ يَعْرُجُونَ } معناه يَصْعُدونَ\n والمَعارِجُ: الدَّرجُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"In it will they ascend,\" [means that] they will ascend therein.\n\n\nAnd the ma'arij (heavenly abodes): the darj (highest).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

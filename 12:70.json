@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { جَعَلَ ٱلسِّقَايَةَ فِي رَحْلِ أَخِيهِ } وهي مِكيالٌ يُكالُ بِهِ، ويُشربُ فِيهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {He made the drink in the container of his brother} and it is a mikayal that is drunk in it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

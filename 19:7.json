@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَمْ نَجْعَل لَّهُ مِن قَبْلُ سَمِيّاً } يعني مِثلاً وشِبهَاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {We have not made him a thing to be remembered} [Qur'an 19:64], for example, [means] like [something] similar.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

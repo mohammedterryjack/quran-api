@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلاَ تَرَوْنَ أَنِّيۤ أُوفِي ٱلْكَيْلَ وَأَنَاْ خَيْرُ ٱلْمُنْزِلِينَ } معناه أَنا خَيرُ من أُضيّفُ بمصر\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nDo you not see that I am the one who provides for Egypt and that I am the best of those who dwell there?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

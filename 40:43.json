@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَنَّ ٱلْمُسْرِفِينَ هُمْ أَصْحَابُ ٱلنَّارِ } معناه سَفكةُ الدِّماءِ بغيرِ حَقِّها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {And that the transgressors are the companions of the Fire} means the shedding of blood without right.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

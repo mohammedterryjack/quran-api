@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ يَلْبِسَكُمْ شِيَعاً } معناهُ أَو يَخْلِطكُمْ شِيعاً أي فِرقاً واحدُهَا شِيعَةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Or He will mix you together as a group,\" means that He will mix you together as a group, that is, as one faction.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

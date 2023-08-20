@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ } يريدُ بِهِ القُرآنَ\n وقالَ: هو قولُ لاَ إِلهَ إِلاَّ الله\n\n\n\n\nوقولهُ تعالى: { لاَ ٱنفِصَامَ لَهَا } معناهُ لاَ انكِسَارَ لَهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He has grasped the firmest handhold\" - the Qur'an is referring to this.\n He said, \"There is no god but God.\"\n\n\nAnd His saying, {There is no end to it}, means that it cannot be broken.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

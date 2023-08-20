@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلَّذِي جَآءَ بِٱلصِّدْقِ وَصَدَّقَ بِهِ } قال الإِمامُ زيد بن علي عليهما السّلامُ: فالذي جَاءَ بالصّدقِ، هو رَسولُ الله صَلّى الله عليهِ وعَلَى آلهِ وسلمَ، والذي صَدَّق بهِ: أميرُ المؤمنين علي بن أبي طالب صلواتُ الله عليهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of the Most High: {And the one who came with the truth and believed in it} Imam Zaid bin Ali, peace be upon him, said: The one who came with the truth is the Messenger of Allah, may Allah's prayers be upon him, and the one who believed in it is the Commander of the Faithful, Ali bin Abi Talib. May Allah's prayers be upon him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

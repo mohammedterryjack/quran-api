@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنِّي لأَجِدُ رِيحَ يُوسُفَ } قالَ زيدُ بن علي عليهما السَّلامُ: وَجَدَها مِن مَسِيرةِ عَشرةِ أَيامٍ\n\n\n\n\nوقوله تعالى: { لَوْلاَ أَن تُفَنِّدُونِ } معناهُ تُكَذِّبون\n ويقالُ تُسَفِّهون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd [in] the saying of the Most High, {Indeed, I smell the fragrance of Joseph} - Zayd ibn `Ali, peace be upon them both, said: \"He found it [to be] from the scent of a ten-day journey.\"\n\nAnd His saying, {Had it not been for you, [O Muhammad], they would have almost certainly disbelieved} [means that] you deny them.\n\n\nYou are said to be foolish.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

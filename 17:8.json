@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلْنَا جَهَنَّمَ لِلْكَافِرِينَ حَصِيراً } معناهُ مَحْبِسٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {And We have made Hell a prison for the disbelievers} its meaning is constriction.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

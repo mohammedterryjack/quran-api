@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { ٱلَّذِي جَعَلَ لَكُمُ ٱلأَرْضَ فِرَاشاً } أَي مِهاداً\n\n\n\n\nوقولهُ تعالى: { فَلاَ تَجْعَلُواْ للَّهِ أَندَاداً } أي أَضدَاداً، وواحدُهَا نِدٌّ ونَديدٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, the Most High, {Who made the earth a bed for you} [that is] a place of rest.\n\nAnd His saying, {So do not make for Allah any equals} that is, any opponents; one of them is Nidd and Nadyd.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

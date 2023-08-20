@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمُسْتَقَرٌّ وَمُسْتَوْدَعٌ } معناهُ فَمُسْتَقَرٌ فِي صُلْبِ الأَبِ ومُسْتَودعٌ فِي رَحمِ الأُمِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So he will be a resting place and a storehouse} [means that] he will be a resting place in the father's breast and a storehouse in the mother's womb.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

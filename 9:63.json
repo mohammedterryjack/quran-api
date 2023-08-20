@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلَمْ يَعْلَمُوۤاْ أَنَّهُ مَن يُحَادِدِ ٱللَّهَ وَرَسُولَهُ } معناهُ مَنْ يُحارِبُ ويُشاقِقُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Do they not know that whoever opposes Allah and His Messenger - } its meaning is whoever fights and opposes [them].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُلْ أَرَأَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْراً } معناه ذاهبٌ غائرٌ\n\n\n\n\nوقوله تعالى: { بِمَآءٍ مَّعِينٍ } معناه ظاهرٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Say, 'Have you seen if your water becomes deep?'\" means that one is going to be searching.\n\n\nAnd His saying, \"With water, We bring life to the dead\" - this means that He gives life to those who are dead in a literal sense.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

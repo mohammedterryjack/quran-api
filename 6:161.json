@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِّلَّةَ إِبْرَاهِيمَ حَنِيفاً } معناهُ دِينَ إِبْرَاهيمَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"the religion of Ibrahim,\" means the religion of Ibrahim.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

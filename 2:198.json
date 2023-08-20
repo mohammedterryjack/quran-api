@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { لَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَبْتَغُواْ فَضْلاً مِّن رَّبِّكُمْ } قالَ زيدُ بن علي عليهما السَّلامُ: فالفَضلُ ها هنا: التِجَارَةُ\n\n\n\n\nوقولهُ تعالى: { فَإِذَآ أَفَضْتُم مِّنْ عَرَفَٰتٍ } قالَ زيدُ بن علي عليهما السَّلامُ: الإِفاضةُ: الإِسرَاعُ فِي السَّيرِ، يُريدُ رَجَعتُمْ مِنْ حَيثُ جِئتُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of the Almighty: {There is no blame on you if you seek bounty from your Lord} Zaid ibn Ali, peace be upon him, said: \"So the bounty is here: trade.\"\n\nAnd His saying - the Most High: {So when you have completed your rites}, Zayd ibn `Ali - peace be upon him - said: \"The ifaḍah is haste in travel. He intends that you return from where you came.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُتَقَلَّبَكُمْ } معناه مُتَقَلَّبُ كُلّ غَابةٍ { وَمَثْوَاكُمْ } معناه مَثوى كُلّ دَابةٍ بالليلِ والنَّهارِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {You are rotated} means the rotation of every forest {And your abode} means the abode of every beast by night and day.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَمْ أَكُنْ بِدُعَآئِكَ رَبِّ شَقِيّاً } معناه أجبتَني حين دعوتُكَ ولم تخيبني\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n\"I was not ungrateful to your Lord when I prayed to you, and you answered me.\" This means that you responded to me when I called on you, and you did not disappoint me.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ هُمْ عَلَى ٱلنَّارِ يُفْتَنُونَ } معناه يُحرقون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {On the Day when they will be on the Fire, they will be put to the test} [means that] they will be burned.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

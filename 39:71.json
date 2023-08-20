@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَسِيقَ ٱلَّذِينَ كَـفَرُوۤاْ إِلَىٰ جَهَنَّمَ زُمَراً } معناه جماعاتٌ في تَفرقةٍ بعضُهم على إثر بعضٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the saying of the Most High: {And those who disbelieve will be driven to Hell in groups} is that there will be groups in disunity, some of them following the other.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

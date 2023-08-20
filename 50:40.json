@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَدْبَارَ ٱلسُّجُودِ } معناه رُكعتانِ بَعدَ المَغربِ\n\n[الطور: 49] الرُّكعتانِ قَبلَ صَلاةِ الفَجرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd his saying, the Most High, {And the two prostrations after maghrib} its meaning is the two prostrations after maghrib.\n\n\nThe two rak'ahs before the dawn prayer",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَسْقِطْ عَلَيْنَا كِسَفاً مِّنَ ٱلسَّمَآءِ } معناه قِطعٌ\n نَشأتْ لَهُمْ سَحابةٌ؛ فاستَظلّوا تَحتَها؛ فأَخَتْهم الرَّجفةُ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - { then send down to us a heavy rain } - means a downpour.\n\n\n{A cloud} rose up for them, so they {remained} beneath it. Then {their sister} the earthquake struck.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَنَّ دَابِرَ هَؤُلآءِ [مَقْطُوعٌ] } معناه آخِرُهُمْ مَقْطُوعٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, those who are [cut off]} - meaning, their end is cut off.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

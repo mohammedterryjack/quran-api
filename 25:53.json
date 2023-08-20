@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَهُوَ ٱلَّذِي مَرَجَ ٱلْبَحْرَيْنِ } معناه خَلاَّهُما فاختلطَا والمَريجُ: المُختلطُ\n\n\n\n\nوقوله تعالى: { وَجَعَلَ بَيْنَهُمَا بَرْزَخاً وَحِجْراً مَّحْجُوراً } والبَرزخُ: المَجلسُ\n وقال: الأجلُ\n وقال البَرزخُ: عَرضُ الأَرضِ\n والحِجرُ المَحجورِ: الحاجِزُ لئلا يَختلطَ المِلحُ بالعَذبِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He is the one who has separated the two seas\" means that He has caused them to mix and the \"separation\" is the mixing.\n\n\nAnd His saying, {And He made between them a barrier and a forbidden stone} - and the barrier is the meeting place.\n\n\nHe said: \"The time has come.\"\n The horizon said: The land is flat.\n\n\nAnd the enclosed stone: the barrier to prevent the salt from mixing with the fresh.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

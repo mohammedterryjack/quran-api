@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلدِّينُ ٱلْقَيِّمُ } هُوَ القَائِمُ المُسْتَقيمُ\n\n\n\n\nوقوله تعالى: { وَقَاتِلُواْ ٱلْمُشْرِكِينَ كَآفَّةً } معناهُ عَامةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - exalted be He - \"The Religion is the upright [one]\" - that is, the Religion that is straight and true.\n\n\nAnd fight the polytheists all together as they fight you all together.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

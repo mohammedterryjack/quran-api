@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌ } معناه مُطبقةٌ لا تَدخُلُها نَفسٌ ولا يَخرجُ منها غَمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {There is for them a fire closed in on them;} its meaning is applied, not entered by a soul nor does grief exit from it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

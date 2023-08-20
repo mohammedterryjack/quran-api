@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ رَمْزاً } معناهُ إِشَارَةٌ باللِسَانِ مِنْ غَيرِ بَيانٍ\n ويقالُ: إيماءٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Except as a sign [to them]\" - this is a reference [to something] without explanation [from Him].\n\n\nAnd it is said: \"Ema'un\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

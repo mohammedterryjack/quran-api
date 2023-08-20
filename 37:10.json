@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ مَنْ خَطِفَ ٱلْخَطْفَةَ } معناه استلَبَ { فَأَتْبَعَهُ شِهَابٌ ثَاقِبٌ } معناه مُضيءٌ بَيّنٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, the Most High, {Except for whoever steals the stealing} means: he who {then follows him is a piercing flame} meaning: a clear light.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

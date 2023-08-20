@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَتَّىٰ إِذَا فُزِّعَ عَن قُلُوبِهِمْ } معناه ذُهِبَ عَن قلوبِهِم، ونُفِّسَ عَنها\n وفُزِّع عنها: معناه خُلِّي عَنها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Until, when he has reached the heart}, means that He has gone from their hearts, and has relieved them.\n\n\nAnd he was released from her: meaning he was free from her",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

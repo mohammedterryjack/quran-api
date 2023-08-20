@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلْنَا ٱلنَّهَارَ مَعَاشاً } معناه يَبيعونَ فيهِ من فَضلِ الله تَعالى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And We have made the day a means of livelihood\" [means that] they sell in it by the grace of Allah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

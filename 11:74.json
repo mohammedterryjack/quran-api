@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَمَّا ذَهَبَ عَنْ إِبْرَاهِيمَ ٱلرَّوْعُ } معناه الخَوفُ والفَزعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"When the fear left Ibrahim,\" means the fear and terror left him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

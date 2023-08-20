@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَتْبَعَهُمْ فِرْعَوْنُ } معناه تَبِعَهُم\n\n\n\n\nوقوله تعالى: { بَغْياً وَعَدْواً } معناهُ عُدوانٌ وطُغْيانٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"So Pharaoh followed them,\" means that he followed them.\n And His saying, {by aggression and by enmity}, means aggression and tyranny.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

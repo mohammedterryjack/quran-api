@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا سَمِعُواْ ٱللَّغْوَ أَعْرَضُواْ عَنْهُ } معناه سَمِعُوا فحشاءَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And when they hear {obscenity}, they turn away from it.\n\nThis means that when they hear obscenity, they turn away from it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

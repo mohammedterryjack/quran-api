@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُّهْطِعِينَ إِلَى ٱلدَّاعِ } معناه مُسرعون\n ويقال بَارِعون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {those who are hastening to the Caller} means those who are hastening.\n\n\nPharaoh",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

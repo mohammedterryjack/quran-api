@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تِلْكَ إِذاً قِسْمَةٌ ضِيزَىٰ } معناه جَائرةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"That, then, is an evil division\" [Qur'an 30:32] - that is, a sinful division.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

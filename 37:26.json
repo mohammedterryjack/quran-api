@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَلْ هُمُ ٱلْيَوْمَ مُسْتَسْلِمُونَ } معناه يُعْطُونَ بأيدِيهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Today they aresubmitters\" - meaning, they give with their hands.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَيَلْعَنُهُمُ ٱللاَّعِنُونَ } معناهُ هوامُّ الأَرضِ مثل الخَنافِسِ والعَقارِبِ، ومَا أَشبههَا\n ويقالُ المَلائِكةُ عليهمُ السَّلامُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And may the curse of Allah be upon those who curse} means the curse of the earth, like scorpions and snakes, and anything similar to them.\n The Angels are upon them with peace.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

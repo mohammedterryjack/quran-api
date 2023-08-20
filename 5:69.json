@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱلَّذِينَ آمَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلصَّابِئُونَ } فالصَّابِئونَ: فِرقةٌ مِن أَهلِ الكِتابِ يَقرأونَ الزَّبورَ\n ويقالُ: لاَ كِتَابَ لَهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, those who have believed and those who are Jews and the Sabeans} - So the Sabeans: a faction of the People of the Book who read the Psalms.\n It is said: There is no book for them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ضَرَبُواْ فِي ٱلأَرْضِ } معناهُ تَبَاعَدوا فِيهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {strike throughout the earth}, its meaning is that they became dispersed throughout it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ } معناه على القُرآنِ والإِسلامِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {And indeed, you are on an exalted standard of character} [Quran 68:4], its meaning is with regards to the Quran and Islam.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُّبِينٌ } فالثّعبانُ: الذَّكرُ من الحَياتِ\n والمُبينُ: الظاهرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Then he threw down his staff, and behold, it was a serpent, plainly visible} - the serpent is the male of the living.\n\n\nAnd the one who is manifest: the one who is apparent.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

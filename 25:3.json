@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدثنا علب بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السلام في قوله تعالى: { وَلاَ يَمْلِكُونَ مَوْتاً وَلاَ حَيَـاةً وَلاَ نُشُوراً } معناه إحياءٌ بعدَ المَوتِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"We were told by 'Alb ibn Ahmad...\n\n\nHe said: We were told by `Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn `Ali, peace be upon them, regarding the words of God Almighty, \"They do not possess death or life or resurrection\": that this means life after death.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

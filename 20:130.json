@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمِنْ آنَآءِ ٱلْلَّيْلِ } معناه من سَاعاتِ الليلِ\n واحدُها آنا\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He: {And from the hours of the night} its meaning is from the hours of the night.\n\n\nOne of them is us.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

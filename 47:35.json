@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ تَهِنُواْ } معناه تَضعُفوا\n\n\n\n\nوقوله تعالى: { وَلَن يَتِرَكُمْ أَعْمَالَكُمْ } معناه لَنْ يَنقُصْكُم وَلَنْ يَظْلمْكُم\n\n\n\n\nوقوله تعالى: { وَأَنتُمُ ٱلأَعْلَوْنَ } معناه الغَالِبونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Do not weaken\" - its meaning is \"do not be deficient.\"\n And His saying - exalted be He: {And your deeds will not be deprived} [means that] He will neither reduce [the reward of] your deeds nor will He wrong you.\n\n\nAnd His saying, \"You are the most exalted\" - this means that you are the victors.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

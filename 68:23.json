@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱنطَلَقُواْ وَهُمْ يَتَخَافَتُونَ } معناه يَتشاورونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, \"Then set out and they will be in fear,\" [means that they will] consult.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

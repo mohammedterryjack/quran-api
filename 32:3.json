@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nحدّثنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب قال عن أبي خالد عن الإِمام زيد بن علي عليهما السلام [في قوله تعالى]: { أَمْ يَقُولُونَ ٱفْتَرَاهُ } معناه أم يَقُولونَ اختَلَقَهُ مِن قَِبْلِ نَفسِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWe were informed by Abu Jafar\n\n\nHe said: Ali ibn Ahmad narrated to us\n\n\nImam Zaid ibn Ali said, regarding the verse {Do they say He has fabricated it?}, that it means \"Do they say that He created it from before Himself?\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَكَذٰلِكَ أَعْثَرْنَا عَلَيْهِمْ } معناهُ أطلَعنا وأظهرَنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd as such, We have made them superior to many of those whom We have created.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

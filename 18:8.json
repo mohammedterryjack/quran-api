@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { صَعِيداً جُرُزاً } الصَّعِيدُ: وُجهُ الأَرضِ\n والجُرزُ: البَلقعُ\n ويقالُ الغَليظُ الذِي لاَ يُنبِتُ شيئاً، والجَمعُ أَجرازٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {a dry land, an abyss} - the dry land: the face of the earth.\n\n\nAnd the juglans: the belqaa'\n\n\nThe thick one that doesn't bear anything is called {al-ghalīzu}, and the plural is {ajrāz}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

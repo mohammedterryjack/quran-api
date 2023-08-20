@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَا مِنكُمْ مِّنْ أَحَدٍ عَنْهُ حَاجِزِينَ } معناه مانِعينَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {There is none of you but will come to it} [i.e., death]. This means that none of you will be prevented from it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

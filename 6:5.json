@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَنْبَاءُ مَا كَانُواْ بِهِ يَسْتَهْزِءُونَ } معناهُ أَخْبَارٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the saying of the Almighty: {What they used to mock} is news.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

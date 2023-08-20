@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَا لَهُمْ مِّن مَّحِيصٍ } معناه من مَلجإٍ ومَعدلٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - Glorified and Exalted be He: {There is no escape for them} [from the Fire], means that they will have no refuge or place of safety.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

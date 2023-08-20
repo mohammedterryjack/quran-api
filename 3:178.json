@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَنَّمَا نُمْلِي لَهُمْ } معناهُ نُطِيلُ لَهُمْ\n\n\n\n\nوقوله تعالى: { عَذَابٌ مُّهِينٌ } معناهُ مُذَلِلٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"We will prolong it for them\" - this means that We will prolong their punishment.\n\n\nAnd His saying, {the punishment is humiliating} means that it is degrading.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

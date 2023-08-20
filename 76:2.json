@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا خَلَقْنَا ٱلإِنسَانَ مِن نُّطْفَةٍ أَمْشَاجٍ } معناه مُختلطٌ، ماءُ الرَّجلِ وماءُ المَرأةِ\n ويُقالُ: الأَمشَاجُ: العُرُوقُ\n ويقال: الأَلوانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the verse {Indeed, We have created man from a mingled drop} is mixed, the water of the man and the water of the woman.\n\n\nIt is said that \"al-amshaj\" refers to the veins.\n\n\nIt is said: \"Colors.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

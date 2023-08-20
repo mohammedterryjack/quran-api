@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَرْمِي بِشَرَرٍ كَٱلْقَصْرِ } معناه قَصرُ الدَّارِ\n ويقال: أصلُ الشَّجرةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Throw [your] shafts at} {the center of the castle}, means the destruction of the home.\n\n\nAnd it is said: The origin of the tree",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

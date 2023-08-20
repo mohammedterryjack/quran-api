@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّكَ لَن تَخْرِقَ ٱلأَرْضَ } معناه تَقْطَعُها بِعَظَمتِكَ { وَلَن تَبْلُغَ ٱلْجِبَالَ طُولاً } بِطولِكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {You will not break through the earth}, its meaning is that you will not break it with your bone, {and you will not reach the mountains in length}, with your length.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

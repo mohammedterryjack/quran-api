@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَقَدْ وَكَّلْنَا بِهَا قَوْماً } معناهُ فَقدْ رَزَقْنَاهَا قَوماً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {So We have made it a heritage for a people} [means that] We have provided it for a people as sustenance.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ آبَآءِ بُعُولَتِهِنَّ } معناه أزواجُهُنّ\n\n\n\n\nوقوله تعالى: { أُوْلِي ٱلإِرْبَةِ مِنَ ٱلرِّجَالِ } معناه أُولي الحَاجةِ إِلى النِكاحِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {or the parents of [their] spouses} [means that] their spouses are their parents.\n\n\nAnd His saying, {The most needy of the men of the tribe} means the most in need of marriage.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

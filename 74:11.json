@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ذَرْنِي وَمَنْ خَلَقْتُ وَحِيداً } معناه خَلقتُهُ وحدَهُ ليسَ مَعهُ مالٌ ولا ولدٌ\n وهو الوَليدُ بن المُغيرة المَخزومي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Leave Me and whoever I have created alone} means that I have created him alone, without wealth or children.\n\n\nAnd he is the son of al-Mughirah al-Makhzumi.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

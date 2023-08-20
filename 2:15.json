@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولُه تعالى: { ٱللَّهُ يَسْتَهْزِىءُ بِهِمْ } أي يَجهَلهُمْ\n { وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ } أي يُمْهِلُهُمْ\n والطّغْيَانُ: الضَّلالَةُ\n يَعْمَهُونَ: أَي يَتَردَّدُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"God mocks at them\" - that is, He treats them with contempt.\n\n\nAnd He lets them continue in their rebellion, blindly wandering.\n\n\nAnd the rebellion: the deviation\n They are confused",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

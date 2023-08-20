@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السَّلامُ في قولهِ تعالى: { يسۤ وَٱلْقُرْآنِ ٱلْحَكِيمِ }\n قال محمدُ بن الحنفية يس: يا محمد وقال: زيدُ بن علي عليهما السَّلامُ: يس يا إنسان\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\nHe said: It was narrated to us by 'Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn 'Ali, may peace be upon them, regarding the saying of Allah, Most High, {Read, and your Lord is the Most Generous} [Qur'an 96:3].\n\n\nMohammad ibn al-Hanafiyya said: \"O Mohammad, and Zayd ibn Ali said: 'O man,…\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

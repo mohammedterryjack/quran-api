@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَاضِباً فَظَنَّ أَن لَّن نَّقْدِرَ } معناهُ لَنْ نَقْدِرَ عَلَيهِ البَلاء الذي أصابَهُ\n ونَقْدِرُ ونُقَّدِرُ بمعنى واحدٍ وقال: ظَنَّ أَنْ لَنْ نُعاقِبَهُ\n\n\n\n\nوقوله تعالى: { فَنَادَىٰ فِي ٱلظُّلُمَاتِ أَن لاَّ إِلَـٰهَ إِلاَّ أَنتَ [سُبْحَانَكَ] } فالظُّلماتُ ظُلمةُ الليلِ، وظُلمةُ المَاءِ، وظُلمةُ بَطنِ الحُوتِ\n ويقال: إِنَّ كُلَّ تَسبيح في القرآنِ فَهو صَلاةٌ إلاَّ فِي هذه الآيةِ فإنهُ من التسبيحِ\n وفي آياتٍ أُخر فإنهُ غَيرُ صَلاةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And [mention] Zun-nun, when he went away in anger and thought that We would not punish him} [means that] we will not be able to [fully] punish him for the hardship that befell him.\n\n\nWe will judge and be judged by the same standard. He said: I think we will not punish him.\n\nAnd His saying - Exalted is He: {So he called out in the darknesses, \"There is no god but You; [glorified are You]\"}, the darknesses are the darkness of the night, and the darkness of the water, and the darkness of the belly of the fish.\n It is said that every tasbih in the Qur'an is a prayer, except in this verse, for it is from the tasbih.\n\n\nAnd in other verses, He makes it clear that prayer is not required.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

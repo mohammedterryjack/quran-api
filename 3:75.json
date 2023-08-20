@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ مَا دُمْتَ عَلَيْهِ قَآئِماً } معناهُ مُلازِمٌ، [لما] يَقْتَضِيهِ إِيّاهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the saying of the Most High: {Except as long as you remain standing} is obligatory, [because] it requires it of him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

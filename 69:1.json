@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { ٱلْحَاقَّةُ مَا ٱلْحَآقَّةُ } فالحَاقّةُ: السَّاعةُ\n وكذلك القَارعةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " Abu Ja'far told us.\n\n\n{He said: Ali ibn Ahmad told us}\n\n\nHe said: It was narrated to us by 'Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn Ali, peace be upon them, regarding the words of Allah, {Al-haqqatu ma al-haqqatu}, that al-haqqatu means the Hour.\n\n\nAnd also the thunder",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

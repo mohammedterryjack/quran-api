@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَىٰ ٱلأَرْضِ هَوْناً } معناه بالسّكينةِ والوَقارِ\n وقال: عَلماءٌ لا يَجهلونَ\n وإنْ جُهِل عَلَيهم حَلَمُوا\n وقال: أَعفَّاءُ أَتْقِياءٌ\n وقال: هَوناً هو بالسريانيةِ\n\n\n\n\nوقوله تعالى: { وَإِذَا خَاطَبَهُمُ الجَاهِلُونَ قَالُواْ سَلاَماً } معناه سَدادٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the words of the Most Merciful: {And the servants of the Most Merciful, who walk on the earth humbly} mean with calmness and humility.\n And {said}: The scholars do not {ignore/are not ignorant of}\n\n\nAnd if they are ignorant of it, they are still patient.\n\n\nAnd he said: \"The most virtuous are those who are most forgiving.\"\n He said: \"Here it is in Syriac\"\n\n\nAnd when the ignorant address them, they say, \"Peace.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

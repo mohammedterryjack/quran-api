@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَدْ أَفْضَىٰ بَعْضُكُمْ إِلَىٰ بَعْضٍ } معناهُ جَامَعَ\n\n\n\n\nوقوله تعالى: { وَأَخَذْنَ مِنكُم مِّيثَاقاً غَلِيظاً } قالَ زيدُ بن علي عليهما السلامُ: المِيثَاقُ الغَلِيظُ: إِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسرِيحٌ بِإِحسانٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Some of you have gone too far in relation to others\" - this means that He has brought them all together.\n\nAnd His saying, {And take from among you a firm covenant} - Zayd ibn `Ali, peace be upon them both, said: The firm covenant is to refrain from what is evil or to show kindness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

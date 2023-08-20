@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَرَوْحٌ وَرَيْحَانٌ } معناه بَردٌ وهو الاستراحةُ\n والرَّيحانُ: معناه حياةٌ وبقاءٌ ورِزقٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"There is relief and pleasure\" [Qur'an 94:5-6] means coolness and it is the rest.\n\n\nAnd the riyāḥān (jasmine): its meaning is life, perseverance, and provision.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

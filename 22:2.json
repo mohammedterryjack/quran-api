@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nحدّثنا أبو جعفر قال: حدّثنا علي بن أحمد قال: أخبرنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السلام في قولِه تعالى: { يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّآ أَرْضَعَتْ } معناه تَسلُو وتَنسَى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWe were told by Abu Ja'far that he was told by Ali ibn Ahmad that he was told by 'Ata ibn al-Sa'ib from Abu Khalid from Zayd ibn Ali (peace be upon them) regarding the words of the Almighty {the day you see it, every nursing mother will be distracted by the child she is nursing}, meaning that she will be confused and forgetful.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

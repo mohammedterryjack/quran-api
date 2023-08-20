@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَبْخَسُواْ ٱلنَّاسَ أَشْيَاءَهُمْ } معناه لا تَنقُصُوهُم ولا تَظْلِمُوهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Do not wrong the people by taking their things\" means do not cheat or harm them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَو عَدْلُ ذٰلِكَ } معناهُ مِثلُ ذَلِكَ\n\n\n\n\nوقوله تعالى: { لِّيَذُوقَ وَبَالَ أَمْرِهِ } معناهُ نَكَالُ أَمْرِهِ\n\n\n\n\nوقوله تعالى: { ذُو ٱنْتِقَامٍ } معناهُ ذُو اجْتِراءٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {or change that} means the same as that.\n\n\nAnd His saying, {Let him taste and (experience) the consequence of his affair} [means that] the consequence of his affair is punishment.\n\n\nAnd His saying, \"Those who have deserved [the wrath of] Allah will have no fear,\" [means that] those who have chosen Allah will have no fear.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

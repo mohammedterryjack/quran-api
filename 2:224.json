@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَلاَ تَجْعَلُواْ ٱللَّهَ عُرْضَةً لأَيْمَانِكُمْ } معناهُ لا تَنْصبوهُ نَصباً؛ وهو الرَّجلُ يَحلفُ فِي الأَمرِ فَيجْعَلَ يَمينَهُ عَرضةً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And do not make Allah a target for your oaths} [means] that you should not make Him an oath; and it is the man who swears in the matter and then makes his right hand a target.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

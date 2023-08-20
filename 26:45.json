@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَلْقَفُ } معناه تَلْتَهِمُ وتَبلعُ\n { مَا يَأْفِكُونَ } معناهُ يَفترون ويسحَرَون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {taqafu}, means that He will take them and consume them.\n\n\n{They do not} {afikun} {ma} {ya'} {mean} {they} {fraudulent} {and} {sihr} {perform}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

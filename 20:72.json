@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱقْضِ مَآ أَنتَ قَاضٍ } يعني فاصنعْ مَا أنتَ\n صَانعٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So judge between them by what Allah has revealed} means, \"So do what you have been commanded to do.\"\n\n\nA maker, especially one who makes things by hand.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

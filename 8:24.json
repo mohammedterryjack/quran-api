@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذَا دَعَاكُم لِمَا يُحْيِيكُمْ } معناه لِمَا يُهدِيكُمْ ويُصلِحُكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"When He calls you to that which gives you life\" - meaning that which guides you and makes you righteous.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

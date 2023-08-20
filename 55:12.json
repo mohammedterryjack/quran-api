@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { وَٱلْحَبُّ ذُو ٱلْعَصْفِ } فالعَصفُ: الذي يؤكلُ أُذنتهُ معناه أعلاه { وَٱلرَّيْحَانُ } الحَبُ الذي يُؤكلُ\n وقال: الرِّيحانُ: الرِّزقُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the love that consumes the ears {and the riyahan} is the love that consumes the ears.\n\n\nAnd the Riahn said: \"The Rizq is ours.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

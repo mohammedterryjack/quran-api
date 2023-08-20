@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَلْهُمْ أَيُّهُم بِذَلِكَ زَعِيمٌ } معناه كَفيلٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Ask them, which of them can guarantee that?} Its meaning is trusty.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

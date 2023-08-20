@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِذَا قَرَأْنَاهُ فَٱتَّبِعْ قُرْآنَهُ } معناه فاتبعْ حَلالَهُ وحَرامَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying (Allāh), \"So when We have recited it [the Qur'ān], then follow its recitation\" - its meaning is, \"So follow its lawful [commands] and unlawful [prohibitions].\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

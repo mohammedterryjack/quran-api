@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَمْ هُمُ ٱلْمُصَيْطِرُونَ } معناه الأَربابُ والرُّقباءُ المُسلطونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Are they the ones who would overcome}, means the Lords and the noble ones who are in control.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

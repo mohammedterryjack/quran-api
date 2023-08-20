@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُونَ } معناه عُصاةُ الجنِّ وقال: هما الشَّاعران يَتَهاجيان؛ فيكونُ لهذَا أتباعٌ، ولِهذَا أتباعٌ؛ فَهُمْ الغُواةُ\n وقال: هُمُ الرِّواةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the {shu'ara'} (singular: sha'ir) are those who are followed by the {ghawan} (singular: ghawiy). This means that the {'usati} (singular: 'asi) of the jinn are those who are followed by the {ghawan}. They are the {ghuwan}.\n\n\nAnd he said: \"They are the narrators.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

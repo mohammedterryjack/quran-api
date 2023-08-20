@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَيَحْسَبُ ٱلإِنسَانُ أَن يُتْرَكَ سُدًى } معناه مُهملٌ، لا يُؤمرُ، ولا يُنهى، ولا يُحاسبُ، ولا يُعذبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Does the man think that he will be left neglected?} Its meaning is unimportant, not commanding, not forbidding, not accounting, and not punishing.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

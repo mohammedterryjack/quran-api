@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَّآ أَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ ٱللَّهِ وَمَآ أَصَابَكَ مِن سَيِّئَةٍ فَمِن نَّفْسِكَ } قالَ زيدُ بن علي عليهما السلامُ: مَا أَصابَكَ مِنْ نِعْمَةٍ فمنَ الله وَمَا أَصَابَكَ مِنْ سَيئَةٍ يَقولُ بِذَنبِكَ\n ثُمَّ قالَ: كُلُّ مِنْ عِندِ الله النّعمُ والمُصِيباتُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n\"Whatever good befalls you is from Allah, and whatever bad befalls you is from yourself.\" Zayd ibn Ali said: \"Whatever good befalls you is from Allah, and whatever bad befalls you is from your own sin.\"\n\n\nThen he said: \"Everything from God is good and the hardships are blessings.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

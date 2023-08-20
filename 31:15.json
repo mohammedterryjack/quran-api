@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱتَّبِعْ سَبِيلَ مَنْ أَنَابَ إِلَيَّ } معناه طَريقُ مَنْ رَجِعَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd follow the path of those who have returned to Me.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَبَعَثْنَا مِنهُمُ ٱثْنَيْ عَشَرَ نَقِيباً } معناهُ اثنَا عَشَر أمِيناً\n\n\n\n\nوقوله تعالى: { وَآمَنتُمْ بِرُسُلِي وَعَزَّرْتُمُوهُمْ } معناهُ أَثَنيتُم عَلَيهم والتَّعْزِيرُ: أَيضاً الأَدبُ\n\n\n\n\nوقوله تعالى: { سَوَآءَ ٱلسَّبِيلِ } معناهُ وسَطُ الطَّريقِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"We will raise from among them twelve leaders\" - this means that there will be twelve Imams.\n\nAnd His saying, {And you believed in My messengers and you honored them} means that you testified to their truth and that you revered them. Also included in this is good manners.\n\n\nAnd His saying, \"There is no difference between the two ways,\" means the middle of the road.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { أُوْلَـٰئِكَ ٱلَّذِينَ ٱشْتَرَوُاْ ٱلضَّلاَلَةَ بِٱلْهُدَىٰ } أي اسْتَحبوا الضَّلالَةَ على الهُدى\n ويقال آمَنوا ثُمَّ كَفَرُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Those who have purchased error [in exchange] for guidance} [i.e., those who preferred disbelief over belief].\n They said, \"Believe,\" then they disbelieved.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

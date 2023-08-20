@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ } معناهُ مُبتدئءُ خَلْقِها\n والفُطُورُ: الصِّدُوعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - the Most High: {So the Originator of the heavens and the earth} meaning the One who began His creation.\n\n\nThe Futooh: The Sudden Awakening",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

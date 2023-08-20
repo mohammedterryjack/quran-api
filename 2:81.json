@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { بَلَىٰ مَن كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيـۤئَتُهُ } معناهُ مَنْ ماتَ بذنبِهِ ولم يَتبْ منهُ\n ويقالُ السّيئةُ: الشِّركُ\n والخَطِيئةُ: الكَبائرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, whoever earns an evil deed and his sin has encompassed him - } [means that] whoever dies while still in his sin without repenting from it.\n\n\nThe evil is called shirk.\n\n\nAnd wrongdoing is the greater of the two.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

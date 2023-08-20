@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَنَّهُ هُوَ أَغْنَىٰ وَأَقْنَىٰ } معناه مولَّ وكثَّر\n وأقنى: أي جَعل لَهُ قِنيةً: معناه أصلُ مالٍ\n ويقال: قَنى: رَضي ويقال: أَخدم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He - {And that He is the Most Rich, and the Most Forbearing}, its meaning is the Possessor and the Most Abundant.\n\n\nAnd the most cautious: meaning that he makes it his most valuable possession.\n\n\nIt is said: \"Qani\": I am pleased, and it is said: \"I serve.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

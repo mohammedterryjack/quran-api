@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السّائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَٱلذَّارِيَاتِ ذَرْواً } معناهُ الرِّياحُ { فَٱلْحَامِلاَتِ وِقْراً } معناه السَّحابُ { فَٱلْجَارِيَاتِ يُسْراً } معناه السّفنُ { فَٱلْمُقَسِّمَاتِ أَمْراً } يعني الملائكة\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n He said: Ali bin Ahmad narrated to us\n\n\nHe said: It was narrated to us by `Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn `Ali, may Allah be pleased with them both, regarding the words of Allah, {And the birds were scattered} [Qur'an 51:4], meaning the winds {And the mountains were lifted up} [Qur'an 51:5], meaning the clouds {And the roads were torn up} [Qur'an 51:6], meaning the ships {And the divisions were separated} [Qur'an 51:7], meaning the angels.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

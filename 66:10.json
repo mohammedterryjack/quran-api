@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَخَانَتَاهُمَا } معناه كانتْ امرأةُ نُوحٍ عليهِ السّلامُ، تُخبرُ النّاسَ أنهُ مَجنونٌ\n وكانتْ امرأةُ لوطٍ عليهِ السّلامُ تَدُلُ النَّاسَ عَلى الأَضيافِ\n وما زَنتْ امرأةُ نَبي قَطْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd his saying, {So they both betrayed him}, means that the wife of Noah - peace be upon him - informed the people that he was crazy.\n\n\nAnd the wife of Lot (peace be upon him) was leading people to the guests.\n And you were not the wife of a prophet\n\nAnd you were not the wife of a prophet",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

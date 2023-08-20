@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَخَلَقْنَا لَهُمْ مِّن مِّثْلِهِ مَا يَرْكَبُونَ } معناه السّفنُ\n وقال: الإِبلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And We have created for them from like that which they ride,\" meaning the ships.\n And the camel said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

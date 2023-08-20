@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فِي قُلُوبِهِم مَّرَضٌ } أي شَكٌّ ونِفاقٌ\n\n\n\n\nوقولهُ تعالى: { عَذَابٌ أَلِيمٌ } [أي] مُوجِعٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {in their hearts is a disease} [means] doubt and hypocrisy.\n\n\nAnd His saying, { \"a punishment most painful\" } [i.e. a severe punishment].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

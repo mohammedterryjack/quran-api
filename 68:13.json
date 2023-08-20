@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عُتُلٍّ بَعْدَ ذَلِكَ زَنِيمٍ } فالعُتلُ: الفَظُّ الكَافرُ\n ويقال: الفَاحشُ اللئيمُ الضّريبةُ\n ويقال: هو الشَّديدُ مِن كُلِّ شَيءٍ\n والزَّنيمُ: الملزقُ بالقَومِ وليس مِنهُم، وهو الدَّعي\n ويقال: الزَّنيمُ: الشَّديدُ الخَلقِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {after that, a fornicator} So the 'Utul is the disbelieving loudmouth.\n The lewd, cruel, and oppressive tax.\n\n\nIt is said: He is the strongest of all things.\n\n\nAnd the zanimeem are those who are brought together with the people but are not of them, and they are the ones who call out.\n\n\nThe strong one is said to be the one who is most capable of creating.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

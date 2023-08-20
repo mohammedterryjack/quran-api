@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ } معناه يقولونَ مُطرنَا بنوءِ كذا وذَا\n والرِّزقُ: الشّكرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And you make your provision as if you will never perish\" - this means that they say that they are provided for in such a way that they will never die.\n\n\nAnd provision: gratitude",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

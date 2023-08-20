@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَآ أَنتَ بِمُؤْمِنٍ لَّنَا } معناهُ بِمُصدقٍ\n والإِيمانُ التَّصديقُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And you are not a believer in us}, means you are not sincere.\n\n\nAnd the belief in the truthfulness of what is believed.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

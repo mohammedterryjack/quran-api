@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَّعَلِّيۤ آتِيكُمْ مِّنْهَا بِقَبَسٍ } يعني بنارٍ في طَرفِ العُودِ أَو القَصبةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, { perhaps I will bring you a fire from it } could mean a fire at the end of the {Ud} or the {Qasbah}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

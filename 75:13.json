@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُنَبَّأُ ٱلإِنسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ } معناه بما قَدَّمَ من عِملهِ، وما أَخّرَ من سُنةٍ يُعملُ بها من بَعدِهِ من خَيرٍ أَو شرٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the verse is that man will be informed on that day of what he did previously and what he did later. So whatever good or evil deeds he did, he will be informed of them on that day.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

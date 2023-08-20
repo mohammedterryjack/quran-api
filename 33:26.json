@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلَّذِينَ ظَاهَرُوهُم } معناه أعانُوهم\n\n\n\n\nوقوله تعالى: { مِن صَيَاصِيهِمْ } معناه من حُصُونِهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {those who openly oppose them} [refers to] those who help them.\n\n\nAnd His saying, \"From their loins.\" This means from their protected areas.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَآءَ ٱلْمُعَذِّرُونَ } وهم الذِينَ غَيرُ جَادينَ فِي الأَمرِ، يُظهرونَ بِاللسَانِ خِلافَ مَا فِي القَلبِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the Almighty said: {And the excusers came} They are those who are not sincere in the matter, they show with their tongues contrary to what is in their hearts.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

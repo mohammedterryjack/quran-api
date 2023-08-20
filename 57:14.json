@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَـٰكِنَّكُمْ فَتَنتُمْ أَنفُسَكُمْ } معناه أَهلَكتُموها\n\n\n\n\nوقوله تعالى: { وَٱرْتَبْتُمْ } أي شَكَكتم\n\n\n\n\nوقوله تعالى: { وَغَرَّكُم بِٱللَّهِ ٱلْغَرُورُ } أي الشّيطان\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nBut you {will destroy yourselves} - meaning, you will destroy your own souls.\n\n\nAnd His saying, {And you have disbelieved}, that is, you have doubted.\n\n\nAnd His saying, \"Allah is the most gracious.\" This is Satan.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

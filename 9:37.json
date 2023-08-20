@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّمَا ٱلنَّسِيۤءُ زِيَادَةٌ فِي ٱلْكُفْرِ } هُمْ قَومٌ مِن بَني كِنَانة كَانوا يَنسَئونَ الشّهورَ: معناهُ يؤخِّرونَها لِحربٍ أَو لأمرٍ فَيِجْعَلونَ ذِي الحِجةِ في المُحرَّمِ وذي القعدةِ أَو غَيرها مِن الشّهورِ\n\n\n\n\nوقوله تعالى: { لِّيُوَاطِئُواْ } معناه لِيوافِقوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the verse {Indeed, evil is an increase in disbelief} is that they are a people from the tribe of Kinanah who used to annul the months: meaning they would delay it for war or some matter, so they would make Dhu al-Hijjah in the sacred month or Dhu al-Qa‘dah or other months.\n\n\nAnd His saying, \"Let them be even,\" means let them be in agreement.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

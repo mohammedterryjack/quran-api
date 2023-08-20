@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ مَن شَهِدَ بِٱلْحَقِّ وَهُمْ يَعْلَمُونَ } معناه شَهِدَ ألاّ إلهَ إلاّ الله، وهو يَعلمُ أنهُ رَبُّهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Except for those who witness the truth and they know} means witness that there is no god but Allah, and He knows that He is his Lord.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

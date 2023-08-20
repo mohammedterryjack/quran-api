@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لأَخَذْنَا مِنْهُ بِٱلْيَمِينِ } معناه بالقُوةِ والقُدرةِ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"We will take from him with the right [hand],\" means with power and ability.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

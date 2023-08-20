@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ } معناه أَخرجتْ ما فيهَا من المَوتى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - the Most High - {And she cast down that which was in her and became empty}, its meaning is that she cast out that which was in her of the dead.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَمَآ أَصْبَرَهُمْ عَلَى ٱلنَّارِ } معناهُ مَا أَجْرَأَهُم عليها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {But not what they are patient on the fire} means what they are daring on it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

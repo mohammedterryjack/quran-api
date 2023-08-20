@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَاضِعِينَ } معناهُ تُكتَبُ أذلاّء\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Then their necks will remain bowed to her in submission} means that their necks will be humbled before her.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

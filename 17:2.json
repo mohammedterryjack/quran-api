@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلاَّ تَتَّخِذُواْ مِن دُونِي وَكِيلاً } معناه كافل\n والوَكيلُ: الحَافظُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " Do not take anyone besides me as your trustee/protector.\n\n\nAnd the trustee is the guardian.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَرَّفَهَا لَهُمْ } معناه بيَّنها لَهُم، وعَرَّفهم منازِلَهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He made it known to them}, means He explained it to them, and He made them aware of their ranks.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

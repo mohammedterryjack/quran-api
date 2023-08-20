@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { نَكِّرُواْ لَهَا عَرْشَهَا } معناه غيَّروه\n والعَرشُ: السَّريرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Turn away from it, its Throne\" - meaning, change it.\n\n\nAnd the 'Arsh: the 'srr",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

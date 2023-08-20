@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ } معناه من أينَ لَهُ الذّكرى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Exalted is He}, what does it mean? {And how could he have remembrance?}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا نَحْنُ بِمُنشَرِينَ } معناه بمبعوثِينَ يوم القيامةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {And we are not responsible for spreading [the message]} means that we are not responsible for the people on the Day of Resurrection.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

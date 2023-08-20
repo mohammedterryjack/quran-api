@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { خَلْقاً مِّن بَعْدِ خَلْقٍ } معناه نُطفةٌ، ثم عَلقةٌ، ثم مُضغةٌ، ثم لَحمٌ\n\n\n\n\nوقوله تعالى: { فِي ظُلُمَاتٍ ثَلاَثٍ } معناه ظُلمةُ البَطنِ، وظُلمةُ الرحمِ، وظُلمةُ المَشيمةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {a creation from after a creation} means a drop, then a clot, then a lump of flesh, then bones.\n\n\nAnd His saying, {in three darknesses} means the darkness of the belly, the darkness of the womb, and the darkness of the grave.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

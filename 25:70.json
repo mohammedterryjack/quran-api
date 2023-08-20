@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأُوْلَـٰئِكَ يُبَدِّلُ ٱللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ } معناه يَجعلَ ذَلكَ فِي الدّنيا بالشّركِ إيماناً وإخلاصاً\n وبالسَّيءِ مَن العَملِ، الصَّالحَ منهُ\n وبالفجورِ عَفافاً وإحصاناً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"God will replace their bad deeds with good\" means that He will make that in this life, with faith and sincerity.\n {And} {in the bad} {of the work}, {the good} {from it}\n\n\nAnd with purity and chastity.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

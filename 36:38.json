@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلشَّمْسُ تَجْرِي لِمُسْتَقَرٍّ لَّهَـا } فمستقرُّها تَحتَ العَرشِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And {the sun} runs to an appointed time. Under the Throne it rests.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

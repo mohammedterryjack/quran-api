@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { فَأَخَذَهُمْ عَذَابُ يَوْمِ ٱلظُّلَّةِ }\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{They will be taken to the punishment of the Day of Darkness.}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

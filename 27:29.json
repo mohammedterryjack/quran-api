@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنِّيۤ أُلْقِيَ إِلَيَّ كِتَابٌ كَرِيمٌ } معناه حَسنٌ مَا فيهِ\n وقال: الكَريمُ: المَختومُ\n قال الإمام زيد بن علي عليهما السلام: كانَ سُليمانُ بن دَاود عليه السَّلامُ كَتَبَ إِلى بَلقيسَ، وكَانتْ بأَرضٍ يُقالُ لَها مَأْربٌ، على ثَلاثةِ أيامٍ من صنعاءَ وكَانَ أُولوا مَشهورتِها ثَلثمائةَ واثنى عَشَر رجلاَ، كُلُّ رَجلٍ منهُم عَلَى عَشرةِ آلافِ رجلٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, I have been given a noble book} [Qur'an 12:1], its meaning is good whatever is in it.\n\n\nAnd the generous one said: \"The sealed one.\"\n\n\nThe Imam Zayd ibn Ali said: \"Sulayman ibn Dawud wrote to Balqis, who was in a land called Ma'rab, for three days from Sana'a. The first of them was famous for its three hundred and twelve men, each of whom was on ten thousand men.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

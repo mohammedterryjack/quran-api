@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلْنَا بَيْنَهُمْ وَبَيْنَ ٱلْقُرَى ٱلَّتِي بَارَكْنَا فِيهَا قُرًى ظَاهِرَةً } معناهُ مُتصلةٌ، يَنظرُ بَعضُها إلى بعضٍ، ما بينَ اليَمن والشام\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the verse {And We have made between them and between the cities which We have blessed, cities apparent} is that they are connected, some of them look to others, between Yemen and Syria.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

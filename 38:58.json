@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِن شَكْلِهِ أَزْوَاجٌ } معناه ضَربهُ\n والأزواجُ: عذابٌ من الزَّمهريرِ\n وقال: ألوانٌ من العَذابِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {From its form [are] pairs}, means its [i.e., the Qur'an's] comparison.\n\n\nAnd the spouses: a punishment from the zamhareer.\n\n\nAnd he said, \"There are colors of punishment.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

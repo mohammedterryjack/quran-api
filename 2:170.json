@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { أَلْفَيْنَا عَلَيْهِ آبَآءَنَآ } قالَ زيدُ بن علي عليهما السلامُ: معناهُ وَجَدْنَاهُم عليهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Most High: {We have made our fathers two} - Zayd ibn `Ali said, regarding its meaning: \"We found them both on him.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

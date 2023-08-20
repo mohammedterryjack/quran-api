@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِّن كُلِّ حَدَبٍ يَنسِلُونَ } معناه من كُلِّ نَشزٍ وإرتفاعٍ\n ويَنسِلُونَ: معناه يَعْجَلُون في مَسيرهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {From every ladder that they descend} means from every offspring and height.\n They are in a hurry.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

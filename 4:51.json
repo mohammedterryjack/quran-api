@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِٱلْجِبْتِ وَٱلطَّٰغُوتِ } قالَ زيدُ بن علي عليهما السلامُ: فالجِّبتُ: السِّحرُ\n والجِّبتُ: الكَاهِنُ\n والطَّاغوتُ: الشَّيطانُ: ويقالُ: الجِّبتُ، والطَّاغُوتُ: كُلُّ مَعبُودٍ مِنْ حَجرٍ أَوْ مَدَرٍ أَوْ صُورةٍ أَو شَيطانٍ\n\n\n\n\nوقوله تعالى: { أَهْدَىٰ مِنَ ٱلَّذِينَ آمَنُواْ سَبِيلاً } معناهُ أَقومُ طَرِيقَةً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {By al-Jibt and al-Taghut} - Zayd ibn Ali said, \"So al-Jibt is magic.\"\n\n\nAnd I said: \"The priest.\"\n\n\nThe Taghut is the Devil, and it is said that the Jibt is the Taghut. The Taghut is any object of worship made of stone, or wood, or any image or statue, or the Devil himself.\n And His saying, \"Most guided is the one who is on the true path.\" It means that he is on the right path.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

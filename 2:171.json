@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { كَمَثَلِ ٱلَّذِي يَنْعِقُ } معناهُ يُصوِّتُ\n\n\n\n\nوقولهُ تعالى: { صُمٌّ بُكْمٌ } فالأَبكَمُ: الأَخْرَسُ\n وواحدُهَا أَبْكَمُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {As for the likeness of the one who enjoins justice} - this means that he calls for justice.\n\n\nAnd His saying, {They are deaf, dumb, and blind} - so their hearing, their sight, and their minds are all closed off.\n It makes you cry.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

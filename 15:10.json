@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي شِيَعِ ٱلأَوَّلِينَ } معناه الأُمُمُ\n والشِّيعُ: الأَولِياءُ والأَصْحَابُ\n واحدُها: شِيعةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Among the first of those [to believe]\", refers to the [earliest] nations.\n\n\nAnd the Shi'a are the Awliya (friends, allies) and the Ashab (companions).\n\n\nOne of them is the Shia faction.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

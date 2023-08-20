@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ نَبْطِشُ ٱلْبَطْشَةَ ٱلْكُبْرَىٰ إِنَّا مُنتَقِمُونَ } معناه يومُ بَدرٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {On the day when We will strike the biggest strike, indeed We are avengers} means the Day of Badr.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ } معناه يُقيمون ويَديمونَ على الإِثمِ العَظيمِ\n ويقالُ: هي اليَمينُ الغَموسُ ويقالُ: عَلَى الشِّركِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, the Most High, {They are persistently clinging to the great sin}, its meaning is that they are constantly holding onto the great sin.\n\n\nIt is said: \"The right hand is the {ghamoos},\" and it is said: \"On the side of the {shirk}.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَارِغاً } قالَ زيدُ بن علي عليهما السّلامُ: كان فارِغاً من كُلِّ شَيءٍ إلاّ من ذِكرِ مُوسى عَليه السّلامُ\n وقال: معنى فارغٌ أي فازعٌ\n\n\n\n\nوقوله تعالى: { إِن كَادَتْ لَتُبْدِي بِهِ } معناه لتَقول يَا موسى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the Mother of Moses {became empty of everything except the memory of Moses}. Zayd ibn Ali said: \"She became empty of everything except the memory of Moses.\"\n And he said: \"The meaning of {empty} is {scared}\"\n\n\nAnd His saying, {Indeed, if it had been up to me, I would have let you see} [means]: O Moses, if it had been up to me, I would have let you see [me].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

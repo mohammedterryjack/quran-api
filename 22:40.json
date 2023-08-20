@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَّهُدِّمَتْ صَوَامِعُ وَبِيَعٌ وَصَلَوَاتٌ وَمَسَاجِدُ } قالَ زيد بن علي عليهما السَّلامُ: فالصَّوامعُ: صَوامعُ الرُّهبانُ\n والبِيعُ: بِيعُ النَّصارى\n والصَّلواتُ: للصابئينَ وهي بالنبطيةِ صلوتا\n وقال: محاريبُ كَانت تُصنعُ عَلَى الطَّريقِ يُصلي فِيها الرُّهبانُ\n والمَساجدُ: مَساجدُ المُسلمين\n وقرأ عاصم الجحدري لَهُدمتْ صَوامعُ وبيعُ وصَلواتُ\n قال كَيفَ تُهدمُ الصَّلاةُ دُونَ الصَّوامعِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {The bridges will be demolished and the sales [of slaves] will be stopped, and the prayers will be interrupted, and the mosques} - Zayd ibn Ali said: \"The bridges are the monasteries of the monks.\"\n\n\nThe sale of Christians\n\n\nAnd the Salawat: for the sick and injured, which in Nabatiya are called Salawat.\n\n\nAnd he said: \"The monks used to build roads and pray on them.\"\n\n\nAnd the mosques: the mosques of the Muslims.\n\n\n{Asim al-Jahdari} read {that the destruction of the mosques, the sale of wine and the prayers} are permissible.\n How can prayer be destroyed without the pillars?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

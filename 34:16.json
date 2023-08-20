@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَيْلَ ٱلْعَرِمِ } معناه المُسَنَّاةُ بلسان اليمن واحدُها عرِمةٌ\n\n\n\n\nوقوله تعالى: { أُكُلٍ خَمْطٍ [وَأَثْلٍ] } فالخَمطُ: كلُّ شَجرٍ ذو شَوكٍ والأُكُلُ: الجَنى\n وقال البَريرُ\n وقال هو الأَراكُ\n والأَثْلُ: شَجرةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {the rain of the 'Arim} means the rainfall in the Yemeni dialect and one of them is 'Arimah.\n\n\nAnd His saying, {Every [kind of] thorns [and every kind of] thistles} - the thorns are every tree with thorns, and the thistles are the jinn.\n\n\nThe preacher said,\n\n\nAnd He said, \"It is I.\"\n\n\nAnd the athl (a kind of tree): a shajarah (a type of tree).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

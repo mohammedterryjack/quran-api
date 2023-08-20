@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلْحَمْدُ للَّهِ ٱلَّذِيۤ أَذْهَبَ عَنَّا ٱلْحَزَنَ } معناه خوفُ النَّارِ\n وقال: هَمُّ الدّنيا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Exalted is Allah , who has removed from us [all] sorrow}. Its meaning is the fear of Hell.\n And he said: \"This world is...\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

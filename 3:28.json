@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ أَن تَتَّقُواْ مِنْهُمْ تُقَـٰةً } معناهٌُ خَوفٌ وكَذلِكَ تَقِيةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Except if you fear from them a danger}, its meaning is fear, and likewise is taqiyyah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

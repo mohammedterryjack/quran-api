@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِيَقْطَعَ طَرَفاً } معناهُ لِيَهْلَكَ { أَوْ يَكْبِتَهُمْ } أَي يَصْرَعُهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He will cut off a party} means He will destroy {or overthrow them}. That is, He will strike them down.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

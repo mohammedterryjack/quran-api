@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَانٍ } معناه من حُجةٍ\n\n\n\n\nوقوله تعالى: { وَلَقَدْ جَآءَهُم مِّن رَّبِّهِمُ ٱلْهُدَىٰ } معناه البيانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Allah has not sent down any authority with it\" [means that] it is not from a proof.\n\n\nAnd His Lord has certainly come to them with guidance.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

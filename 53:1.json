@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَٱلنَّجْمِ إِذَا هَوَىٰ } معناه نُجومُ القُرآنِ كان يَنزلُ بِهِ جبريل عليهِ السّلامُ على النبي صلى الله عليهِ وعلى آلهِ وسلَّمَ خمسَ آياتٍ أو أكثرَ أو أقلَّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\nIt was narrated from Zayd ibn Ali that he said regarding the words of Allah, {And the star when it falls} [Quran 53:1], \"The stars of the Quran are those which Gabriel would bring down to the Prophet Muhammad (peace and blessings of Allah be upon him) five verses at a time, or more or less.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

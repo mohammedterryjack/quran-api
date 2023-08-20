@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَتَجَافَىٰ جُنُوبُهُمْ عَنِ ٱلْمَضَاجِعِ } معناه تَتَنحّى وتَرتفعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - the Most High - { Their sides forsake the beds } its meaning is that they become elevated and rise up.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

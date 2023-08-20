@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ } معناه قاهرٌ مُسلطٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {You are not over them a tormentor} [means that] He is Almighty, All-Powerful.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

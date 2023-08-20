@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { أَلَمْ تَرَ إِلَى ٱلْمَلإِ مِن بَنِيۤ إِسْرَائِيلَ } معناهُ أَلمْ تَعلمْ وملأهُم: أَشرَافُهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd [the verse], \"Have you not seen the chiefs of the Children of Israel?\" - its meaning is, \"Have you not known [about] their nobles?\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

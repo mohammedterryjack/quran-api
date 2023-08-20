@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَبْغِيكُمْ إِلَـٰهاً } معناه أَجعَلُ لَكم إِلهاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {I will make for you a god} - its meaning is that He will make for you a god.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

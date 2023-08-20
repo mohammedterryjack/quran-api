@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ جَعَلَ نَسْلَهُ مِن سُلاَلَةٍ مِّن مَّآءٍ مَّهِينٍ } السُّلالةُ صَفوةُ المَاءِ\n وقالَ مما خَرَجَ هُراقتهُ\n ومَّهينٌ: ضَعيفٌ رَقيقٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {Then he made his offspring from a drop of despised water} The offspring are the purest of water.\n He said what came out of his throat.\n\n\nAnd humiliated: weak and thin.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

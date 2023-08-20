@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ } فالمَسِيحُ: الصَدِّيقُ\n والمَسِيحُ: المَمْسُوحُ العَينِ\n وهو الدَّجَالُ\n\n\n\n\nوقوله تعالى: { وَجِيهاً فِي ٱلدُّنْيَا وَٱلآخِرَةِ } معناهُ شَريفٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {The Messiah, Jesus son of Mary}, then the Messiah: the truthful one.\n\n\nAnd the Messiah: the one who is anointed with the eye\n\n\nAnd he is the Dajjal.\n\n\nAnd His saying, \"Fortunate is he in this world and the Hereafter,\" means honorable.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

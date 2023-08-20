@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ذٰلِكَ بِأَنَّهُمْ لاَ يُصِيبُهُمْ ظَمَأٌ وَلاَ نَصَبٌ وَلاَ مَخْمَصَةٌ } فالظَّمأُ: العَطشُ\n والنَّصبُ: التَّعبُ\n والمَخْمَصةُ: المَجاعةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {That is because they are not afflicted by thirst or fatigue or hunger} So thirst is: thirst\n\n\nAnd al-nasb (the act of carrying) is al-ta'abb (carrying a burden).\n\n\nAnd the {Makhmasta}: the {Maja'ah}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

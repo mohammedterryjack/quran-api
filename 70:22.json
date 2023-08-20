@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ ٱلْمُصَلِّينَ ٱلَّذِينَ هُمْ عَلَىٰ صَلاَتِهِمْ دَآئِمُونَ } معناه الصَّلواتُ المكتوباتُ يُديمون عَلَى أَدائِها في مَواقِيتِها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the above verse is that those who are constantly performing their prescribed prayers.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَرَى ٱلْفُلْكَ مَوَاخِرَ فِيهِ } وهي السُّفنُ التي تَشقُّ المَاءَ شقاً ذَاهِبةً وجَائيةً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd you see the ships sailing through it {and you see the ships sailing through it}, cleaving the water with a keen edge, coming and going.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

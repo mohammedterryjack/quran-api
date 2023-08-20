@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱللَّهُ نُورُ ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ } معناه نور السَّمواتُ والأَرضِ { مَثَلُ نُورِهِ [كَمِشْكَاةٍ فِيهَا مِصْبَاحٌ] } يعني محمداً صلى الله عليهِ وعَلَى آله وسلَّمَ\n ويقال المؤمنُ\n والمِشكاةُ: الكُوةُ في الحَائطِ التي لا منفذَ لَها بلسانِ الحَبشةِ\n والمِصباحُ: السِّراجُ\n\n\n\n\nوقوله تعالى: { كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ } وهي من النُّجومِ التي تَجري\n والدُّرِّيُّ: المضيءُ - والجمعُ: الدراريّ - مشددٌ غَير مَهموزٍ، وقد يُهمزُ\n ويقال الدُّريُ: الضخمُ الحسنُ البراقُ\n ويقال الدّرِّيءُ: الطَّالِع ويُقرأ دُري بضم الدال وغير مهموز يَنسبهُ إلى الله عزّ وجلّ\n\n\n\n\nوقوله تعالى: { يُوقَدُ مِن شَجَرَةٍ مُّبَارَكَةٍ زَيْتُونَةٍ لاَّ شَرْقِيَّةٍ وَلاَ غَرْبِيَّةٍ } معناه وسطُ البَحرِ لا يُصيبُها شَرقٌ ولاَ غَربٌ\n وهي من أجودِ الشّجرِ\n ويقالُ: لا يَسترُها من الشَّمسِ جَبلٌ ولا وادٍ، إذا طَلعتْ، وإذَا غَرَبتْ ويقالُ: هي الضاحيةُ التي تَشْرُقُ عَليها الشَّمسُ وتَغْرُبُ\n وزيتُها هو أجودُ الزّيتِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Allah is the light of the heavens and the earth\" - the meaning of the heavens and the earth being like His light - [like a lamp in it is a lantern] - refers to Muhammad (peace and blessings of Allah be upon him and his family).\n The believer is said\n\n\nAnd the {mishkat}: the {kootah} in the wall that has no opening for the Habasha's tongue.\n\n\nAnd the lamp: the lamp-post\n\n\nAnd His saying, {as if it were a planet moving swiftly} refers to the stars that move swiftly.\n The father of the lamp is the light - and the plural is the lamps - stressed and not important, and may be stressed\n\n\nThe durri is said to be large, beautiful, and bright.\n\n\nAnd it is said that the darriyy is the one who {attains} and is read as duri with the damma and not muhmuz, attributing it to Allah, Most High and Most Glorious.\n\n\nAnd His saying, {from a blessed olive tree neither of the east nor of the west} means in the middle of the sea, neither east nor west can reach it.\n\n\nIt is one of the best trees.\n It is said: Neither a mountain nor a valley hides her from the sun when it rises and sets. {It is said:} It is the dawn that the sun rises over and sets.\n\n\nAnd her oil is the best of oils.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

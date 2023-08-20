@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِلَّذِينَ ٱسْتَجَابُواْ لِرَبِّهِمُ ٱلْحُسْنَىٰ } معناه الجَنةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {for those who respond to their Lord with the best [of deeds]} - this means Paradise.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

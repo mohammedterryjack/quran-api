@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَجْعَلْ يَدَكَ مَغْلُولَةً إِلَىٰ عُنُقِكَ وَلاَ تَبْسُطْهَا كُلَّ ٱلْبَسْطِ فَتَقْعُدَ مَلُوماً مَّحْسُوراً } قالَ الإِمامُ عليه السلام معناهُ: لا تَمتنعْ عَن إِنفاقِ مَا يَجبُ إِنفاقُهُ فِي وُجُوهِهِ\n ولا تَبْسُطهَا: لاَ تُسْرفْ فِيهَا؛ فَتَقعدَ مَلُوماً عِندَ النَّاسِ مَّحسوراً مِن المَالِ: أَي خَالياً مِنهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of {And do not make your hand chained to your neck or extend it fully; then you will sit blamed and regretful.}, Imam 'Ali (as) said its meaning: \"Do not withhold from spending what you must spend in his face.\"\n\n\nDo not squander it, or you will find yourself hated and despised by others for being stingy with your money.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

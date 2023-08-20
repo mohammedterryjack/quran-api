@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأَخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قالَ: حدّثنا عطاءُ بن السائب عن أبي خالد عن زيد بن علي عليهما السلام في قوله تعالى: { أَتَىٰ أَمْرُ ٱللَّهِ } معناه الأَحكامُ والحُدُودُ والفَرائِضُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\n{He} said: {We} were told by {Ali ibn Ahmad}\n\n\nHe said: Ata ibn al-Saaib narrated to us from Abu Khalid from Zayd ibn Ali, peace be upon them, regarding the saying of Allah, {the affair of Allah has come}, its meaning is the rulings and boundaries and obligations.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

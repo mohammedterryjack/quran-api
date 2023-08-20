@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقولهِ تعالى: { قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ } معناه بربِّ الصُّبحِ ويقالُ: الفَلقُ وادٍ في جَهنمَ\n والفَلقُ: الطَّريقُ بَينَ الصّدينِ\n ويقال: الفَلقُ: الخَلقُ، فأَمرَ الله تعالى نبيَهُ صلى الله عليهِ وعلى آلهِ وسلَّمَ أن يتَعوذَ مِنْ شَرِّ ذَلِكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Most High: {Say: I seek refuge in the Lord of the dawn} means the Lord of the morning, and it is said: The dawn is a valley in Hell.\n\n\nAnd al-falq: the road between the two mountains.\n It is said: Al-Falaq is Al-Khalaq, so Allah ordered His Prophet to seek refuge in Him from the evil of that.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

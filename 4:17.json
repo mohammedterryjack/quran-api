@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِلَّذِينَ يَعْمَلُونَ ٱلسُّوۤءَ بِجَهَالَةٍ } [معناهُ] بِعَمْدٍ\n ويقالُ بِعَمْدٍ وَبِغَيْرِ عَمْدٍ\n\n\n\n\nوقوله تعالى: { ثُمَّ يَتُوبُونَ مِن قَرِيبٍ } قالَ زيدُ بن علي عليهما السلامُ: كُلُّ شَيءٍ دُونَ المَوتِ؛ فَهْوَ قَريبٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"For those who do evil out of ignorance,\" [means] deliberately.\n\n\nIt is said with intention and without intention.\n\n\nAnd the saying of Allah, {Then they repent from a near distance} - Zayd ibn Ali said: \"Everything except death is near; so it is near.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

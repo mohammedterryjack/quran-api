@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ يَعْرُجُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ } معناه تَعرُجُ الملائكةُ إِلى السَّماءِ وتَنزِلُ في يومٍ من أيامِ الدُّنيا، وهو مَسيرةُ ألفِ سَنةٍ\n وقالَ عليه السّلامُ: السّتةُ الأَيامُ التي خَلَقَ فِيها السَّمواتِ والأَرضَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Then he will ascend to Him on a day the measure of which is a thousand years of what you count\" - its meaning is that the angels will ascend to heaven and descend on a day from the days of this world, and it is a journey of a thousand years.\n\n\nAnd {Prophet} Muhammad said: The six days during which the heavens and the earth were created.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

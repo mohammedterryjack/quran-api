@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تُؤْتِيۤ أُكُلَهَا كُلَّ حِينٍ } معناه كُلُّ سِتةِ أَشهرٍ يَخرُجُ ثَمَرُها\n ويقالُ الحِينُ: غُدوةٌ وعَشيةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {It will bear its fruit every time} means that it will bear fruit every six months.\n\n\nIt is said: \"Gudwa and 'Ashiya\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

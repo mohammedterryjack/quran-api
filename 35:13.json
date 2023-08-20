@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَا يَمْلِكُونَ مِن قِطْمِيرٍ } معناه القِشرُ الذي يكونُ عَلَى ظَهرِ النَّواةِ\n وقال: إِنها الفُوفةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They do not own even a Qitmir} refers to the crust that is on the surface of the [date] palms.\n\n\nAnd he said: \"It is the foam.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

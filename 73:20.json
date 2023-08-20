@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَلِمَ أَن لَّن تُحْصُوهُ } معناه أن لَنْ تَطيقوهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His statement, { He knows that you will not be able to } - this means that you will not be able to bear it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

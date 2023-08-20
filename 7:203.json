@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَوْلاَ ٱجْتَبَيْتَهَا } معناهُ هلاَّ تَلقيتَها مِن رَبِّكَ\n ويقالُ هلاّ جِئتَ بِهَا مِن رَبِّكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Were it not that I have chosen her} [means]: Would you not have found her [to be] from your Lord?\n\n\n{Welcome!} Did you bring it with you from your lord?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

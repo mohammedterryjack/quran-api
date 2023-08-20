@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { وَعَشِيّاً } صلاةُ العَصرِ\n وحينَ تُظْهُرون: صلاةُ الظُّهر\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd {in the afternoon} is the prayer of {Asr}.\n\n\nWhen you show yourselves, the noon prayer is due.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

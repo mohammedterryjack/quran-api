@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَنَّهُ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطاً } معناه جَورٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd his saying, \"Our foolishness is against Allah,\" means injustice.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

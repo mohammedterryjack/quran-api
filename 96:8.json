@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰ } معناه المَرجعُ والمَعادُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, \"Indeed, to your Lord is the return,\" [means that] the return and the [place of] return is to Him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

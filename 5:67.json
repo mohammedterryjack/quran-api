@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَـٰأَيُّهَا ٱلرَّسُولُ بَلِّغْ مَآ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ وَٱللَّهُ يَعْصِمُكَ مِنَ ٱلنَّاسِ } قالَ زيدُ بن علي عليهما السَّلامُ: هَذهِ لِعلي بن أَبي طَالِب - صلواتُ الله عليهِ - خَاصةً والله يَعصِمُكَ مَن النَّاسِ: أَي يَمنعُكَ مِنهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah {O Messenger, announce what has been revealed to you from your Lord, and if you do not, then you have not conveyed His message, and Allah will protect you from the people}, Zayd bin Ali, peace be upon him, said: This is for Ali bin Abi Talib - may Allah's prayers be upon him - particularly, and Allah protects you from the people: that is, He prevents you from them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

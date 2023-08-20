@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيَخِرُّونَ لِلأَذْقَانِ } يكُونَ [والأَذقانُ] واحدُها ذِقنٌ وهو مَجمعُ اللحَيين\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And they will drag themselves to the Thaqalayn,\" means that [the Thaqalayn] are both one Thaqan, which is the nose, and two Lahayin, which are the nostrils.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

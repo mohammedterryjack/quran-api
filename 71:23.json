@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَالُواْ لاَ تَذَرُنَّ آلِهَتَكُمْ وَلاَ تَذَرُنَّ وَدّاً وَلاَ سُوَاعاً وَلاَ يَغُوثَ وَيَعُوقَ وَنَسْراً } قال الإِمامُ زيد بن علي عليهما السّلامُ هذه أسماءُ أَلهةٍ كانوا يَعبدُونَها قَومُ نُوحٍ\n ثم عَبدَتها العَربُ\n فكان وِدٌّ لكَلبٍ بدَومةِ الجَندلِ\n وكان سُواعٌ لهذَيلٍ\n وكان يغوثُ لبني غَطيفٍ من مُرادٍ بالجَوفِ\n وكان يَعوقُ لهَمدان\n وكان نَسْرٌ لدى الكلاعِ من حِمير\n وروَى الإِمامُ زيد بن علي عليهما السّلامُ بإسنادِه الشَّريفِ عن أبيهِ علي بن الحسين عن جده الحسين بن علي عليهم السّلامُ\n قال: رأيتُ يَغوث صنماً من رُصاصٍ يُحملُ عَلَى جَملٍ أجردٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah: {And they said, \"Do not leave your gods, nor leave Wadd, nor Suwa'a, nor Yaghuth and Ya'uq and Nasr.\"} Imam Zaid bin Ali, peace be upon him, said: These are the names of the idols that the people of Noah used to worship.\n\n\nThen the Arabs conquered it.\n\n{Widdun} was a {dog} in the {garden} of {Jandal}.\n\n\nAnd there were {soua'} for this {hathayl}.\n\n\nAnd he would provide for the people of Ghataif from Murad in Jawaaf.\n Hamadan {was} difficult {for him}\n\n\nThe camel was a {nasr} for the {kila'} from {himar}.\n\n\nThe Imam Zayd ibn Ali narrated, with a chain of narration going back to his father Ali ibn al-Husayn, that his grandfather al-Husayn ibn Ali said {something}.\n He said, \"I saw a man being shot by a bullet on a naked camel.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

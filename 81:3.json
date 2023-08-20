@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا ٱلْجِبَالُ سُيِّرَتْ } معناهُ ذَهبتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And when the mountains are set in motion",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

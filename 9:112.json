@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلسَّائِحُونَ } معناهُ الصَّائمونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the verse is \"those who fast.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

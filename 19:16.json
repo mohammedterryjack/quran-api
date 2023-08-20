@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذِ ٱنتَبَذَتْ مِنْ أَهْلِهَا مَكَاناً شَرْقِياً } يعني اعتزلَتْ إِلى مَكانٍ ممّا يَلي الشَّرقَ، وهو عِندَ العَربِ خَيرٌ مِن الغَربي\n والقَصى: المَكانُ البَعيدُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when she {abandoned her family and traveled to a faraway place}, this meant that she left for a place east of her family's home, which was considered better by the Arabs than the west.\n\n\nAnd the highest: the most distant place.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

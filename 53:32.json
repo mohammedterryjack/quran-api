@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلَّذِينَ يَجْتَنِبُونَ كَبَائِرَ ٱلإِثْمِ وَٱلْفَوَاحِشَ إِلاَّ ٱللَّمَمَ } معناه أن يَلمَ بالذَّنبِ ثم يتوبَ منهُ\n\n\n\n\nوقوله تعالى: { وَإِذْ أَنتُمْ أَجِنَّةٌ فِي بُطُونِ أُمَّهَاتِكُمْ } معناه أولادٌ في بطونِهُنَّ\n واحدُها جَنينٌ\n\n\n\n\nوقوله تعالى: { فَلاَ تُزَكُّوۤاْ أَنفُسَكُمْ } معناه لا تُبرِّئوها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {those who avoid the major sins and immoralities, except for the occasional lapse}, means that he should be remorseful for his sin and then repent from it.\n\n\nAnd the saying of Allah, \"And you were embryos in your mothers' wombs,\" means that you were children in their wombs.\n\n\nOne of them is a fetus.\n And His saying, {So do not purify yourselves}, its meaning is do not declare them pure.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَكِنَّةً أَن يَفْقَهُوهُ } معناهُ غِطَاءٌ\n\n\n\n\nوقوله تعالى: { وَفِيۤ آذَانِهِمْ وَقْراً } معناهُ صَمَمٌ\n\n\n\n\nوقوله تعالى: { أَسَٰطِيرُ ٱلأَوَّلِينَ } معناهُ الأَبَاطِيلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {akinnatan an yafqahuhu}, means a covering.\n\n\nAnd His saying, \"In their hearing is {clamor},\" means [He is] deaf.\n\n\nAnd His saying, \"The legends of the former peoples\" means the fables.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

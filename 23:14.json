@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ أَنشَأْنَاهُ خَلْقاً آخَرَ } يعني نَفخُ الروحِ فيهِ\n ويقال نَبتُ سِنهِ، وشَعرِ رَأسِهِ، ولحيتِه، وأُبطهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Then We created him as another creature} [means] the blowing of the soul into him.\n He is said to have a beard, head hair, mustache, and pubic hair.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

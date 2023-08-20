@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُواْ يَفْعَلُونَ } يعني هل جُزِي الكُفّارُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Will the disbelievers be rewarded for what they used to do?} means, \"Will the disbelievers be punished for what they used to do?\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

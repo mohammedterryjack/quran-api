@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ جُهْدَهُمْ } معناه إِلاَّ طَاقَتهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - Exalted is He - {Except for their effort} means except for their ability.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

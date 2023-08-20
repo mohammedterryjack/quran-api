@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱنطَلِقُوۤاْ إِلَىٰ ظِلٍّ ذِي ثَلاَثِ شُعَبٍ } معناه إلى دُخانِ جَهنمَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, { Depart to a shadow having three branches } means go to the smoke of Hell.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

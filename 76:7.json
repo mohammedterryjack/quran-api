@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُوفُونَ بِٱلنَّذْرِ } معناه بمَا نَذرُوا مِن طَاعةِ الله وحَقِّهِ { وَيَخَافُونَ يَوْماً كَانَ شَرُّهُ مُسْتَطِيراً } معناه فَاشٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {They will fulfill their vow} means, according to what they vowed of obedience to Allah and His right {And they fear a day whose evil is widespread}, meaning great.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

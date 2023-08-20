@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يٰأَيُّهَا ٱلإِنسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحاً } معناه عَامِلٌ كَاسِبٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {O man! You are strive to your Lord a striving}, its meaning is a worker, sinner",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

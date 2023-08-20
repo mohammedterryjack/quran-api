@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقوله تعالى: { فَذَلِكَ ٱلَّذِي يَدُعُّ ٱلْيَتِيمَ } معناه يَدفعُهُ\n ويقال: يَتركُهُ\n ويقال: يقهرُهُ ويَظلمُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the verse {Then that is the one who repels the orphan} is that he repels him.\n It is said: He leaves it\n\n\nIt is said that he oppresses and wrongs him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

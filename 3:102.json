@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱتَّقُواْ ٱللَّهَ حَقَّ تُقَاتِهِ } معناهُ بأَنْ يُطَاعَ فَلاَ يُعْصى، ويُشكَرَ فَلاَ يُكْفرَ، ويُذْكَرُ فَلاَ يُنْسَى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah {Waqulu taqul-llah haqqa tuqatih} its meaning is that He is obeyed and not disobeyed, and He is thanked and not unthankful, and He is remembered and not forgotten.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

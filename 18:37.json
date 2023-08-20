@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَهُوَ يُحَاوِرُهُ } معناه يُكَلمُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - exalted be He - \"And He confers with him\" [means that] He speaks to him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

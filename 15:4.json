@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قالَ: حدّثنا عليُ بن أحمد\n قالَ حدّثنا عطاءُ بن السائب عن أبي خالد عن زيد بن علي عليهما السَّلامُ في قولهِ تعالى: { إِلاَّ وَلَهَا كِتَابٌ مَّعْلُومٌ } معناه أجلٌ ومُدةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n He said: Ali ibn Ahmad narrated to us.\n\n\n{Ata ibn al-Sa'ib} narrated to us from {Abu Khalid} from {Zayd ibn Ali} - may peace be upon them - regarding the saying of Allah, Most High, {Except for it having a known term}, its meaning is a period of time.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

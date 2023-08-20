@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَّاهُمْ نَضْرَةً وَسُرُوراً } معناه نضارةٌ في الوجوهِ، وسُرورٌ في الصّدورِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His words, {And they will meet Him with faces radiant and hearts joyful}, mean that their faces will be filled with light, and their hearts will be filled with joy.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

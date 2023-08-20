@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَوَجَدَكَ ضَآلاًّ فَهَدَىٰ } معناه كُنتَ من قَومٍ ضَلالٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd [remember] when He found you astray and guided you.\n\nThis means that you were once part of a misguided people, but He guided you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

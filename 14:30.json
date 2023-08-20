@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلُواْ للَّهِ أَندَاداً } معناهُ أَضدادٌ واحِدُهُمْ نِدٌ وَنديدٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And they made for Allah a thing of equals} [means that] they made one of them an equal to Him - a partner.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

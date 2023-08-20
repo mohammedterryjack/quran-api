@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ تُمَارِ فِيهِمْ إِلاَّ مِرَآءً ظَاهِراً } معناه إلاّ أن تُحدِّثَهم بهِ حديثاً\n\n\n\n\nوقوله تعالى: { رَجْماً بِٱلْغَيْبِ } معناه ظَنٌّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd his saying - {But do not argue with them} - means except that you should inform them with a story.\n\n\nAnd His saying, \"a stoning in the unseen,\" means a conjecture.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُطَافُ عَلَيْهِمْ بِصِحَافٍ مِّن ذَهَبٍ وَأَكْوَابٍ } فالصِّحافُ: القِصاعُ\n واحدُها صحفةٌ\n والأَكوابُ: الأَباريقُ التي لا آذانَ لها واحدُها كوبٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {They will be served on silver platters and cups} The platters are the dishes.\n\n\nOne of them is a page.\n\n\nAnd the (al-akwab) are the (al-abariq) which have no ears (al-udhan), and one of them is a cup (kubun).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

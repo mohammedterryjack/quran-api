@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَلَّوِ ٱسْتَقَامُواْ عَلَى ٱلطَّرِيقَةِ } معناه عَلَى الإِسلامِ\n { لأَسْقَيْنَاهُم مَّآءً غَدَقاً } معناه كثيرٌ\n واسقَيناهُم: معناه جَعلنَاهُم سُقياً\n ويقال الماء الغَدقُ: هو المَالُ، معناه لو آمنوا لوسَّعنا عَلَيهم في الرِّزقِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted is He: {And if they had kept on the right path} [means] upon Islam.\n \n\nWe will give them plenty of water to drink.\n We gave them to drink {of} {a draught}: the meaning is that we made them drink.\n It is said that water is {ghadq}: it is {mal}, meaning that if they had believed, We would have increased them in provision.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

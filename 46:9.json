@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُلْ مَا كُنتُ بِدْعاً مِّنَ ٱلرُّسُلِ } معناه ما كُنْتَ أَولَهُم\n\n\n\n\nوقوله تعالى: { وَمَآ أَدْرِي مَا يُفْعَلُ بِي وَلاَ بِكُمْ } معناه في الدُّنيا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Say, 'I was not the first of the [Prophet] messengers,\"' means, \"I was not the first of them.\"\n\nAnd His saying, {And I do not know what will be done with me or with you} [means] in this world.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

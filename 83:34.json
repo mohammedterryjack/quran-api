@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱلْيَوْمَ ٱلَّذِينَ آمَنُواْ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ } معناه يَسترونَ بما هم فيهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Today those who believe from among the disbelievers will laugh,\" means they will conceal what they are in.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

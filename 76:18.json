@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَيْناً فِيهَا تُسَمَّىٰ سَلْسَبِيلاً } معناه شَديدةُ الجَريةِ\n ويقال: سلسلةٌ يصرفونَها حَيثُ شَاءوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - {an 'ayn in it tusamma salasabilan} - its meaning is [that of] a strong current.\n\n\nIt is said that they {i.e., the Arabs} can change {the order of} the words {in a sentence} however they want.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

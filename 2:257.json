@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { ٱللَّهُ وَلِيُّ ٱلَّذِينَ آمَنُواْ يُخْرِجُهُمْ مِّنَ ٱلظُّلُمَاتِ إِلَى ٱلنُّورِ } فالظُّلماتُ: الكفرُ\n والنّورُ: الإِيمانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {Allah is the ally of those who believe; He brings them out of the darkness into the light.} So the darkness is disbelief.\n\n\nThe light: faith",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

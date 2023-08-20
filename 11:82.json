@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حِجَارَةً مِّن سِجِّيلٍ } معناه شَديدٌ صَلِبٌ\n ويقال إِنَّها بالفَارسيةِ سك وكل، وماءٌ وَطينٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe saying of the Almighty: {A stone from a flint} means very strong and hard.\n\n\nIt is said that it is in Persian \"sak and kal\" and \"mā'ū waṭayn.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

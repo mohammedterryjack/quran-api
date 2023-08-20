@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَجَعَلْنَاهَا نَكَالاً لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةً لِّلْمُتَّقِينَ } قالَ زيدُ بن علي عليهما السلامُ\n معنى لِما بينَ يَدَيهَا: هو السّورُ\n التي عملوا فِيها المعاصي فِي صيدِهم السَّمكَ\n ومعنى ما خَلَفَها لِمنْ كَانَ بعدهم مِنْ بَني إِسرائيل أَنْ لا يعملوا فيها بمثلِ أَعمالِ صَيادي السَّمكِ\n والموعظةُ للمتقين: لأمةِ محمدٍ (ص) أَنْ لا يُلحِدوا فِي حَرمِ الله تعالى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {We have made it a punishment for those between her hands and what is behind her and a warning for the righteous} Zaid ibn Ali said, may peace be upon them both.\n\n\nThe meaning of what is between her hands is the Qur'an.\n\n{They who did evil in it regarding their fishing of fish}\n\nAnd the meaning of what is behind it for those who came after them from the children of Israel is that they should not fish in it with the same methods as those of the fisherman.\n\n\nAnd the admonition for those who are God-fearing is that they should not commit any acts of disobedience in the Sacred Precincts of Allah Most High.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

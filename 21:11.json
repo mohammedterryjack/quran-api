@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَكَمْ قَصَمْنَا مِن قَرْيَةٍ كَانَتْ ظَالِمَةً } معناه أَهلَكنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And how many a city have We destroyed that was unjust - meaning, \"We have destroyed its people.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

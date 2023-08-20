@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { ٱلْحَرْثَ وَٱلنَّسْلَ } فالحَرثُ: الزرعُ، والنَّسْلُ: نَسْلُ كُلِ دَابَةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"al-harth wa al-nasl\" (the land and its offspring), the meaning of al-harth is planting, and al-nasl is the offspring of every creature.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

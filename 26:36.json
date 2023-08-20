@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَرْجِهْ وَأَخَاهُ } معناه أخِّرهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd his saying, \"his nearest relative and his brother,\" means his nearest relative.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا ٱلسَّمَآءُ فُرِجَتْ } معناه كُشِفتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when the heaven {opens up}, it means that it has been revealed.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

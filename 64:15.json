@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّمَآ أَمْوَالُكُمْ وَأَوْلاَدُكُمْ فِتْنَةٌ } معناه بَلوى\n\n\n\n\nوقوله تعالى: { وَٱللَّهُ عِنْدَهُ أَجْرٌ عَظِيمٌ } معناه ثَوابٌ جَزيلٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Your wealth and your children are only a trial,\" means that they are a source of tribulation.\n\n\nAnd the saying of Allah, \"Allah has a great reward with Him,\" means a great reward.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

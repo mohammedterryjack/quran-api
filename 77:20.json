@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ } معناه ضَعيفٌ\n { فَجَعَلْنَاهُ فِي قَرَارٍ مَّكِينٍ } معناه في الرَّحمِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Did We not create you from a despised water?\" Its meaning is weak.\n We have made it in a firm abode - meaning in the womb",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَهِيَ تُمْلَىٰ عَلَيْهِ } معناه هي تُقرأ عليهِ { بُكْرَةً } يعني صلاةَ الغَداةِ { وَأَصِيلاً } يعني صلاةَ العصرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So it is decreed upon him} [means that] it is read over him {in the morning} [i.e., the prayer of Fajr], {and in the afternoon} [i.e., the prayer of Asr].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

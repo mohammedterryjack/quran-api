@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ وَصَّلْنَا لَهُمُ ٱلْقَوْلَ } معناه أتممناهُ لَهم\n وقال: بَيّناهُ لَهُم وقال: وَصّلنا: بمعنى فَصَّلنَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He - {And We have certainly sent down to them the statement}, its meaning is that We have completed it for them\n\n\nAnd he said, \"I have made it clear to them, and I have said, 'We have united ourselves together.'\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

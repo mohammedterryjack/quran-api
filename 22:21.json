@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَهُمْ مَّقَامِعُ مِنْ حَدِيدٍ } معناه مَطارقُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd his saying, {And they have iron scaffolds}, means their chastisements.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

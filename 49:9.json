@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِن فَآءَتْ } معناه رَجعَتْ\n\n\n\n\nوقوله تعالى: { وَأَقْسِطُوۤاْ } معناه أَعدِلُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Surely she will return\" - this means that she will come back.\n\n\nAnd His saying, {And be equitable} [means] \"be just.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلَّذِينَ آمَنُواْ وَٱتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَانٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ } معناه أَعطينا الأَبناءَ ما أَعطينا الأَباءَ في المماثلةِ من الكَرامةِ\n\n\n\n\nوقوله تعالى: { وَمَآ أَلَتْنَاهُمْ مِّنْ عَمَلِهِم مِّن شَيْءٍ } معناه ما نَقَصناهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {And those who believed and followed their offspring with belief - We will join their offspring with them} meaning We will give their offspring what We gave their parents in terms of honor.\n And His saying - the Most High - {And we have not deprived them of their deeds of anything} means that we have not deprived them of anything of their deeds.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

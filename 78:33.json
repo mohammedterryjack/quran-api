@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَكَوَاعِبَ أَتْرَاباً } الكَواعِبُ: النَّواهدُ\n والأَترابُ: المُسْتَوَياتُ في الأَسنانِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And {they will compete} in [good] deeds\" - the [good] deeds are the [acts of] obedience.\n\n\nThe atrab are the level surfaces of the teeth.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

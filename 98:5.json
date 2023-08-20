@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَآ أُمِرُوۤاْ إِلاَّ لِيَعْبُدُواْ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ } معناه مُسلمونَ\n ويقال: مُتَّبعون\n ويقال: حجاجٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {And they were not commanded except to worship Allah, being sincere to Him in religion}, its meaning is Muslims\n They are said to be followers.\n\n\nIt is said: \"The Hajj pilgrims.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

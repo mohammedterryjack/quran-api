@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَرَضَ عَلَيْكَ ٱلْقُرْآنَ } معناه أنزلَهُ\n وقال: أعطاكه\n\n\n\n\nوقوله تعالى: { لَرَآدُّكَ إِلَىٰ مَعَادٍ } معناه إلى المَوتِ\n وقال: إلى مَولِدِكَ بِمكة\n وقال: إلى الجَنةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"It is incumbent upon you to recite the Qur'an\" - this means that He revealed it.\n\n\nAnd he said: \"I give it to you.\"\n\n\nAnd His saying, \"I will return you to your appointed time\" [Qur'an 11:107] means returning you to death.\n He said: \"To your birth in Mecca\"\n\n\nAnd he said, \"To paradise.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

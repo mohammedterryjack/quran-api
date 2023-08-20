@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ يَخْرُجُ إِلاَّ نَكِداً } معناهُ إَلا قَليلاً عَسراً في شِدةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is none that comes out but with great difficulty} means, except with great difficulty and hardship.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

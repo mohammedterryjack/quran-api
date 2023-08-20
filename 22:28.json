@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِّيَشْهَدُواْ مَنَافِعَ لَهُمْ } معناه تجاراتٌ كانوا يَقدِمُون بها، وَمَا رَضى الله عزّ وجلَّ من أمر الدُّنيا والآخرةِ\n\n\n\n\nوقوله تعالى: { وَيَذْكُرُواْ ٱسْمَ ٱللَّهِ فِيۤ أَيَّامٍ مَّعْلُومَاتٍ } معناه أيامُ العَشرِ\n\n\n\n\nوقوله تعالى: { عَلَىٰ مَا رَزَقَهُمْ مِّن بَهِيمَةِ ٱلأَنْعَامِ } فالبَهائمُ: الأنعامُ\n\n\n\n\nوقوله تعالى: { ٱلْبَآئِسَ ٱلْفَقِيرَ } فالبَائسُ: المَعروفُ بالبؤسِ\n والفَقيرُ: المُتعففُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {that they may witness benefits for themselves} - meaning the commerce they used to present - and what Allah is pleased with of the worldly life and the Hereafter.\n\n\nAnd His saying, \"And remember the name of Allah on known days\" [means] the days of the ten [i.e., the first ten days of Dhul-Hijjah].\n\n\nAnd His saying, {upon what He has provided them from the livestock} - so the livestock are the animals.\n\n\nAnd His saying, {the most miserable of the poor}, the ba'is is the one known as the poor.\n\n\nAnd the poor: the one who is content.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

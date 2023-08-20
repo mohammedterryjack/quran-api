@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي غَيَٰبَتِ ٱلْجُبِّ } والغَيَابةُ: مَا غَاب عَنكَ والجُبُّ: البِئرُ الذِي لم يُطَمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And the saying of Allah: { In the darkness of the night } And the darkness: what is dark for you And the darkness: the well that has not been filled",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

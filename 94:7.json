@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِذَا فَرَغْتَ } من أمر دُنياكَ { فَٱنصَبْ } معناه فَصلِّ\n واجعلْ وثَبتكَ إلى الله عزّ وجلّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And when you have {completed} your {duties} to your Lord, then stand with us.\n\n\nMake your commitment to Allah Almighty firm.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

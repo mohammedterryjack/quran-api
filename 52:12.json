@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي خَوْضٍ يَلْعَبُونَ } معناه في احتلاطِهم، وفتنتِهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {In a plunging [state] they play.}, its meaning is in their preoccupation, and their trial.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

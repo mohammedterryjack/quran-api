@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ } معناه بيومِ الجَزاءِ، وهو يومُ القِيامةِ { حَتَّىٰ أَتَانَا ٱلْيَقِينُ } معناه الموتُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"We denied the Day of Judgment\" means the Day of Recompense, which is the Day of Resurrection. {Until certainty came to us} means death.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

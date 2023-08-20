@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَبَّدتَّ بَنِي إِسْرَائِيلَ } معناه اتَّخذتَهُمْ عَبِيداً وقَهرتَهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"I have taken the children of Israel as My servants\" - this means that You have taken them as Your slaves and have subdued them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

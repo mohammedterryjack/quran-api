@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ } معناه أُثيرتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And when the graves are overturned\n\nAnd when the graves are opened",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

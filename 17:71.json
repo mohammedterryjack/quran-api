@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ نَدْعُواْ كُلَّ أُنَاسٍ [بِإِمَامِهِمْ] } معناهُ بِنَبيهِم وقال: بأعمَالِهِم\n وقالَ: بِكَتَابِهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"On the day when We will call every people with their leader,\" means with their prophet, and He said: \"With their deeds.\"\n And he said: \"With their book\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

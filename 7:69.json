@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { آلآءَ ٱللَّهِ } معناهُ نِعمُ الله واحدُها إِلَى وأَلَى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe phrase \"al-a'la\" (الآلا) in the Quran means \"the Most High\" or \"the Most Great\".",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

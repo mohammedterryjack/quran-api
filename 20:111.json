@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَعَنَتِ ٱلْوُجُوهُ } معناه خَصعتْ وذَلتْ\n ومنهُ وضعُكَ وَجَهَك ويَديكَ ورُكبتيكَ وأَطرافَ قَدميكَ فِي السّجودِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And prostrate yourselves\" - its meaning is that you humble and lower yourselves.\n\nAnd from him, you put your {face}, {hands}, {feet} and {fingers} in the {sujud}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

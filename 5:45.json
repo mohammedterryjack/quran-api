@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَن تَصَدَّقَ } معناه من عَفَا عَنهُ\n\n\n\n\nوقوله تعالى: { وَمَن لَّمْ يَحْكُم بِمَآ أنزَلَ ٱللَّهُ } معناهُ مَنْ لَمْ يٌقر بِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"So whoever has done an atom's weight of good will see it\" [Qur'an 99:7] - meaning that whoever has forgiven someone will see the reward for it.\n\n\nAnd the saying of Allah: {And whoever does not judge by what Allah has revealed} means whoever does not believe in it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

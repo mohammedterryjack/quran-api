@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَلَّذِي بِبَكَّةَ مُبَارَكاً } فَبَكَّةَ: مَوْضِعُ البَيتِ\n وسُمِّيَ بِذَلِكَ؛ لأَنَّ النَّاسَ يَتَباكُونَ فِيهِ، معناهُ يَتزاحَمُونَ\n ومَكةُ: جَميعُ القَريةِ\n وهي أُمُّ القُرى\n وأُمُّ كُلِّ شَيءٍ أَصْلُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, the Most High: {For the one who made the blessed Mecca} So Mecca: the place of the House.\n\n\nIt is called that because people weep in it, meaning they crowd around it.\n\n\nAnd Mecca: all of the villages\n\n\nAnd she is the mother of villages.\n\n\nAnd the mother of all things is their origin.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

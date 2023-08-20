@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَمْ أَنَآ خَيْرٌ مِّنْ هَـٰذَا ٱلَّذِي هُوَ مَهِينٌ } معناه بل أنا خيرٌ والمَهينُ: الضَعيفُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Are We not better than this [man] who is lowly} [Qur'an 23:47], means, \"But I am better than the lowly one: the weak one.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

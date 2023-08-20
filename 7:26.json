@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَرِيشاً وَلِبَاسُ ٱلتَّقْوَىٰ } والرِّيشُ والرِّياشُ: ما ظَهَرَ من اللباسِ\n والرِّياشُ أيضاً: المعاشُ والخِصْبُ\n\n\n\n\nوقوله تعالى: { وَلِبَاسُ ٱلتَّقْوَىٰ } الحياءُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And {with clothes of righteousness},\" and the riyash and the riyash: what is apparent of the clothing.\n\n\nAnd the reed also: the livelihood and the sustenance.\n\n\nAnd His saying, {And the clothing of taqwa} is modesty.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

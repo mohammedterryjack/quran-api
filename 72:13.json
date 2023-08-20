@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ يَخَافُ بَخْساً وَلاَ رَهَقاً } معناه نُقصانٌ ولا سَفهٌ، ولا طُغيانٌ، ولا خَطيئةٌ، ولا إِثمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is no fear for them, nor shall they grieve} means there is no loss or difficulty, no oppression or wrongdoing, and no sin.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

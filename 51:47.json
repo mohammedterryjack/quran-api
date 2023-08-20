@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلسَّمَآءَ بَنَيْنَاهَا بِأَييْدٍ } معناه بقوةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the heaven - We built it with Our own Hands. This means with Our own power.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

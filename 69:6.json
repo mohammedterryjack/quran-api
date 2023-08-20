@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَمَا عَادٌ فَأُهْلِكُواْ بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ } [معناه] شَديدةُ الصَّوتِ\n والعَاتيةُ: الغَالِبةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd as for the 'Ad, they were destroyed by a violent windstorm.\n\n\nAnd the Aatiyah: the majority.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

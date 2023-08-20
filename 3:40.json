@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱمْرَأَتِي عَاقِرٌ } وهي التي لاَ تَلِدُ\n وَكَذَلِكَ الرَّجلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And your wife is barren,\" meaning she who does not give birth.\n\n\nAnd so it is with man -",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

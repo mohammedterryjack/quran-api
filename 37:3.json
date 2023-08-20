@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { فَٱلتَّالِيَاتِ ذِكْراً } أي الملائكة\n والتالي: القَارئ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{The following are reminders} - that is, the Angels.\n\n\nAnd next: the reader",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

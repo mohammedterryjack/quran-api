@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَصْبَحَ فِي ٱلْمَدِينَةِ خَآئِفاً يَتَرَقَّبُ } معناه يَنتظرُ وقال: يَتَلفتُ\n وقال: كَان خَائفاً ليس معهُ زادٌ\n\n\n\n\nوقوله تعالى: { فَإِذَا ٱلَّذِي ٱسْتَنْصَرَهُ بِٱلأَمْسِ يَسْتَصْرِخُهُ } معناه يَستغيثُ بهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"So he became fearful and awaited [the result] in the city\" - its meaning is that he was waiting and said, \"I am lost.\"\n He said, \"He was afraid he would not have enough.\"\n\nAnd His saying - the Most High: { So when the one who is oppressed calls out to Him in the evening, } its meaning is that he seeks help from Him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

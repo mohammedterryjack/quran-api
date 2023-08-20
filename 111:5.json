@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي جِيدِهَا } معناه في عُنقِها\n { حَبْلٌ مِّن مَّسَدٍ } معناه من لِيفٍ\n والمَسدُ: حَبلُ اللّيفِ\n ويقال: من حَديدٍ ويقال: قِلادةٌ من وَدعٍ\n ويقال: المسَدُ: حَديدُ البَكرةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"In goodness,\" meaning in her neck.\n\n\nA rope made of palm fiber\n\n\nAnd the musd: the cord of the luf.\n It is said: \"A sword from a gift\" and it is said: \"A necklace from a gift\"\n It is said: The Masdu: {Iron of the virgin}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

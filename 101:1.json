@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nعن أبي خالد عن زيد بن علي عليهما السّلام في قوله تعالى: { ٱلْقَارِعَةُ مَا ٱلْقَارِعَةُ } فالقارعةُ: هي الداهيةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis refers to the Hadith of Abu Khalid, in which Zaid ibn Ali said: {The Qari'ah is what the Qari'ah is}. Qari'ah refers to the Dahiyeh.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

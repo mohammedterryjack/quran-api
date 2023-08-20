@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ } معناه عن رَحمتِهِ مَمنوعُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {About their Lord, that Day, will be covered} [i.e., they will neither see Him nor hear Him]. Its meaning is that they are prevented from His mercy.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

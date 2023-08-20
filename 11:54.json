@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ ٱعْتَرَاكَ } معناه أَصابَكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the saying of the Most High: {Except that it afflicted you} is that it afflicted you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

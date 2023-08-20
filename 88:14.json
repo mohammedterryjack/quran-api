@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَكْوَابٌ مَّوْضُوعَةٌ } معناه أباريقُ لا عُرى لَها { وَنَمَارِقُ مَصْفُوفَةٌ } معناه وسائدُ\n واحدُها نُمْرُقَةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {And akwaabun mawdu'ahun} means that there are no {and namaariqun maṣfufahun} spread out.\n\n\nOne of them is a date palm.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

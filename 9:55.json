@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَزْهَقَ أَنفُسُهُمْ } معناهُ تخرُجُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, \"And their souls will perish\" means they will exit.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

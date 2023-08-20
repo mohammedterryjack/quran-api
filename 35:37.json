@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَهُمْ يَصْطَرِخُونَ فِيهَا } معناه يصِيحونَ\n\n\n\n\nوقوله تعالى: { أَوَلَمْ نُعَمِّرْكُمْ مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ } معناه ستونَ سنةً\n وقال: أربعون سنةً { وَجَآءَكُمُ ٱلنَّذِيرُ } معناه الشَّيبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And they will cry out in it {and they will cry out in it} means they will cry out\n\nAnd His saying - the Most High: {Have We not made your lives span a sufficient length of time for whoever would take heed} - its meaning is sixty years.\n\n\nAnd he said, \"Forty years {and the warner has come to you}\" - meaning the white hair.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

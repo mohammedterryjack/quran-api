@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر، قال: حدَّثنا عليُّ بن أحمد، قال حدَّثنا عطاءُ بن السائب عن أبي خالد عن زبد بن علي عليهما السَّلامُ في قولهِ تعالى: { وَكَذٰلِكَ يَجْتَبِيكَ رَبُّكَ } معناه يَخْتارُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us, he said: Ali ibn Ahmad told us, he said: Ata' ibn al-Sa'ib told us from Abu Khalid from Zayd ibn Ali, peace be upon them, regarding the saying of Almighty, {And thus your Lord chooses you}, its meaning is that He selects you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

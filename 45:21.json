@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَمْ حَسِبَ ٱلَّذِينَ ٱجْتَرَحُواْ ٱلسَّيِّئَاتِ } معناه اكتَسبوها\n\n\n\n\nوقوله تعالى: { سَوَآءً مَّحْيَاهُمْ وَمَمَاتُهُمْ } معناه يبعَثُ المُؤمن على إيمانهِ، والكَافرُ على كُفرهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nOr do those who commit evil deeds think that We will hold them equal to those who believe and do righteous deeds - that equal will be their life and their death?\n\n\nAnd His saying, {Whether they are alive or dead} means that the believer will be resurrected on the basis of his faith, and the disbeliever on the basis of his disbelief.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

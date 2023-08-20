@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ذَوَاتَآ أَفْنَانٍ } أي أغصان\n وقال الأفنانُ: هي الأغصانُ على الحيطانِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {those with afnān}, that is, branches.\n\n\nAnd the Afnans said: \"It is the branches on the wall.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَدَّلُواْ نِعْمَةَ ٱللَّهِ كُفْراً } معناه محمدٌ صلَّى الله عَليهِ وآلهِ وسلَّم نِعمةٌ مِن الله\n\n\n\n\nوقوله تعالى: { دَارَ ٱلْبَوَارِ } معناهُ دَارَ الهَلاَكِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {But exchange the favor of Allah a disbelief} The meaning of Muhammad peace be upon him a blessing from Allah.\n\n\nAnd His saying, \"The abode of the Hereafter.\" means the abode of destruction.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

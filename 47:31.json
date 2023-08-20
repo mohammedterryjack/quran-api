@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَتَّىٰ نَعْلَمَ ٱلْمُجَاهِدِينَ } معناه حتَّى نُميّزَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Most High: {Until we know the Mujahideen} means until we distinguish",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

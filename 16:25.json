@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِيَحْمِلُواْ أَوْزَارَهُمْ كَامِلَةً } معناه آثامُهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Let them carry their burdens completely}, means their sins.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

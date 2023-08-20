@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلْجَارِ ذِي ٱلْقُرْبَىٰ } معناهُ القَريبُ القَرابةِ { وَٱلْجَارِ ٱلْجُنُبِ } الغَريبُ\n والجنَابَةُ: الغُرْبَةُ والبُعْدُ\n\n\n\n\nوقوله تعالى: { وَٱلصَّاحِبِ بِٱلجَنْبِ } معناهُ المَرأةُ\n ويقالُ: الرَّفِيقُ فِي السَّفرِ يَنزلُ إِلى جَنْبِهِ\n وابن السَّبيلِ: الغَريبُ\n\n\n\n\nوقوله تعالى: { مُخْتَالاً فَخُوراً } فالمُخْتَالُ: ذُو الخُيَلاءِ والتَّكبُرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And the nearest neighbor,\" means the nearest neighbor, \"and the neighbor of the neighbor,\" the stranger.\n\n\nThe janabah is the west and the distance.\n\n\nAnd His saying - the Most High - {And the companion by the side}, its meaning is the woman.\n It is said: \"Your companion on a journey is like your shadow.\"\n The stranger\n\n\nAnd His saying, {Mukhtalan fakhura}, the Mukhtal is the one with many horses and arrogance.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

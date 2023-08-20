@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنْ خِفْتُمْ عَيْلَةً } معناهُ من الجِريةِ الجَارِيةِ شَهراً فشهراً وعاماً فعاماً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And if you fear poverty} means continuous fear of poverty month after month and year after year.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلْوَزْنُ يَوْمَئِذٍ ٱلْحَقُّ } معناهُ العَدلُ\n\n\n\n\nوقوله تعالى: { فَمَن ثَقُلَتْ مَوَازِينُهُ } معناهُ حَسَنَاتُهُ { وَمَنْ خَفَّتْ مَوَازِينُهُ } معناهُ سَيئاتُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the weight [of] that day is the truth.\n\n\nAnd His saying, {those whose scales are heavy [with good deeds]} means his good deeds, {and those whose scales are light [with bad deeds]} means his bad deeds.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

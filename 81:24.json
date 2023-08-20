@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ } معناه ببخيلٍ\n وبظنينٍ: معناه بمتهمٍ\n والغَيبُ: القُرآنُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd what He has said about the unseen is with {precision}.\n We suspect: its meaning is with the accused\n\n\nAnd the Unseen: The Quran",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

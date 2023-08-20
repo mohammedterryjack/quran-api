@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِنَّ حِزْبَ ٱللَّهِ } معناهُ أَنصَارُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Most High: {So the party of Allah} means His helpers.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

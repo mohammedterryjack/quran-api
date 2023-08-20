@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلَمْ يَأْنِ لِلَّذِينَ آمَنُوۤاْ } معناه ألم يدركْ\n\n\n\n\nوقوله تعالى: { فَطَالَ عَلَيْهِمُ ٱلأَمَدُ } معناه الغَايةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Has it not been} for those who believed, means, \"Have they not understood?\"\n\n\nAnd His saying, {So the period [of waiting] for them is [that of] the duration.} [Means] the end.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

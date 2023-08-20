@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { ٱلْحَمْدُ للَّهِ رَبِّ ٱلْعَالَمِينَ } فقال: الجنُ عالَمٌ والإِنسُ عالَمٌ، وسِوى ذلِكَ ثمانيةَ عشرَ ألفَ عَالَمٍ\n من الملائكةِ على الأَرضِ في كلِ زاويةٍ منها أربعةُ آلافٍ وخمسمائة عالَم خلقَهُمْ لِعِبادَتِهِ تَباركَ وتَعالى\n\n\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " {All praise is due to Allah, Lord of the Worlds} He said: \"The jinn are a world, and the humans are a world, and besides that are eighteen thousand worlds.\"\n\n\nThere are four thousand and five hundred angels on Earth, created by God for His worship. Blessed and Almighty.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

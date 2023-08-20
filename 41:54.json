@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلاَ إِنَّهُمْ فِي مِرْيَةٍ مِّن لِّقَآءِ رَبِّهِمْ } فالمِريةُ: الشَّكُ\n وقال: لِقاءُ رَبِّهم: ثَوابُ رَبِّهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, they are in doubt about a meeting with their Lord} [means that] doubt is their state.\n\n\nAnd he said, \"The meeting with their Lord is the reward of their Lord.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

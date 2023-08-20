@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَرَّتْ بِهِ } معناهُ استَمَر بِهَا الحَملُ فأَتَمتْهُ\n\n\n\n\nوقوله تعالى: { لَئِنْ آتَيْتَنَا صَالِحاً } معناهُ غُلامٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Then she carried him} - meaning that the pregnancy continued and she gave birth to him.\n\n\nAnd His saying, {If you bring us a good [son]}, means a boy.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

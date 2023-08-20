@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَّ يَسْأَمُ ٱلإِنْسَانُ } معناه لا يَملُّ\n\n\n\n\nوقوله تعالى: { فَيَئُوسٌ قَنُوطٌ } معناه يَيأسُ ويَقنِطُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Man does not tire of seeking good\" - this means that he will never tire of seeking good.\n\n\nAnd His saying, {Faiy'oosun qanootun}, means that he is despairing and dejected.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

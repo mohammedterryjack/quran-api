@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَبَصُرَتْ بِهِ عَن جُنُبٍ } معناه عَن بُعدٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His words, {Then she saw him from a distance}, mean from afar.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

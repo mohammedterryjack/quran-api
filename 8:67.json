@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَتَّىٰ يُثْخِنَ فِي ٱلأَرْضِ } معناهُ يَغْلِبُ ويُبالغُ\n ويقالُ حتَّى يَظْهرَ عَلَى الأَرضِ\n\n\n\n\nوقوله تعالى: { تُرِيدُونَ عَرَضَ ٱلدُّنْيَا } معنى عَرضُهَا: مَتَاعُهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - Exalted is He - { until it becomes entrenched in the earth } its meaning is that it prevails and it is excessive.\n\n\nIt is said that {he} will not appear on the earth.\n\n\nAnd His saying, {You desire the worldly life}, its meaning is its enjoyment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

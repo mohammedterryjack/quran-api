@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { ثُمَّ بَعَثْنَاكُم } معناهُ أَحيينَاكُمْ\n ويومُ القِيامةِ يُسمى يوم البَعثِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Then We will raise you up\" - this means We will revive you.\n\n\nThe Day of Resurrection is known as the Day of Resurrection.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

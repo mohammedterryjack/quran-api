@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَرَابِيلُهُم مِّن قَطِرَانٍ } معناهُ أَقمِصتُهم واحدُها سِربال\n وتُقرأ من قطرٍ آن فالقَطرُ: النّحاسُ\n والآنُ الذي قَدْ انْتَهَى حَرُّهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted is He: {Their cloaks {are} from Qutran} - its meaning: their one garment is a cloak.\n\n\nAnd (the Qur'an) is read from a qaṭr, which is a measure of volume equal to four ṣaʿs.\n Now that his heat has ended",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

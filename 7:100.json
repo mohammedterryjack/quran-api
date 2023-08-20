@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوَلَمْ يَهْدِ لِلَّذِينَ يَرِثُونَ ٱلأَرْضَ } معناه أَوَلَمْ نُبيِّن لَهُمْ\n\n\n\n\nوقوله تعالى: { وَنَطْبَعُ عَلَىٰ قُلُوبِهِمْ } معناهُ نَخْتِمُ عَلَيهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Has He not shown guidance to those who inherit the earth?} This means, have We not shown them guidance?\n\n\nAnd His saying - {And We will imprint on their hearts} - means that We will seal them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

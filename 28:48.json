@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَالُواْ سِحْرَانِ تَظَاهَرَا } معناه تَعاونا\n وتُقرأ سِحْرَانُ يعني التَوراةُ والإِنجيلُ\n ومن قَرأ سَاحران أراد بهما مُوسى وهارون عليهما السّلامُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And the saying of Allah: {They said, \"It is two magic [displays] in harmony\"} means cooperation.\n\n\nAnd the Qur'an is read, which means the Torah and the Gospel.\n\n\nAnd whoever reads the two sorcerers, Moses and Aaron, peace be upon them, desires them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

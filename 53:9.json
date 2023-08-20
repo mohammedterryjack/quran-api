@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَكَانَ قَابَ قَوْسَيْنِ أَوْ أَدْنَىٰ } معناه كَما بينَ الوَترِ إلى كَبدِ القَوسِ\n وقال: كُلُّ ما قِستَ بهِ فهو قَوسٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So the measured length was either two or three} [Qur'an 53:9], means as much as between the water-skin and the lower part of the bow.\n\n\nAnd he said, \"Everything that is bent is a bow.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

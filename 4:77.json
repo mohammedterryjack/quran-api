@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِمَ كَتَبْتَ عَلَيْنَا ٱلْقِتَالَ } معناهُ لِمَ فَرَضْتَـ[ـهُ] عَلَينَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Why have you not fought us} [means], why have you not decreed fighting us?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

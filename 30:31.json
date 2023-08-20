@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُنِيبِينَ إِلَيْهِ } أي تَائبينَ إليهِ رَاجعينَ عن ذِنُوبِهِمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {those who repent to Him} - meaning those who return to Him in repentance for their sins.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

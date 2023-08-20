@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَتَذَرُوهَا كَالْمُعَلَّقَةِ } معناهُ كَالمَسجُونةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Leave it as an suspended/unresolved matter\" - its meaning is like that of a prisoner.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

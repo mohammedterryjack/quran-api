@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَعِيَهَآ أُذُنٌ وَاعِيَةٌ } معناه حافِظةٌ مؤمنةٌ سَمِعتْ وحَقَقتْ فأَسمعَتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And it is given to her hearing and knowledge}, means a believing guardian who heard and realized, so she listened.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

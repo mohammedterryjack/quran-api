@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَهَشِيمِ ٱلْمُحْتَظِرِ } فالهَشِيمُ: ما تَكسرَ من الشَّجرِ والمُحتظرُ: الحَظيرةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {As the debris of a destroyed house} - so the debris of a destroyed house is that which is broken off from the tree, and the destroyed house is the wall.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

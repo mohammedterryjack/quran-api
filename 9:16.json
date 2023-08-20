@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَمْ يَتَّخِذُواْ مِن دُونِ ٱللَّهِ وَلاَ رَسُولِهِ وَلاَ ٱلْمُؤْمِنِينَ وَلِيجَةً } فالوَلِيجَةُ: الرَّجلُ يَكونُ فِي القَوم\n وَلَيسَ مِنهُم وَلاَ مِن أَهل دِينِهم\n وكُلُّ شَيءٍ أَدْخَلتَهُ فِي شَيْءٍ وَلَيْسَ مَنهُ فَهو وَليجَةٌ\n وهُوَ الدَّخِيلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {And they did not take any of their Lord and His Messenger and the believers as allies}, so the ally is the man who is among the people.\n\n\nAnd he is not from them, nor from their religious tradition.\n\n\nAnd whatever you enter into something, and it is not part of it, then it is an intruder.\n\n\nAnd he is the one who enters.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

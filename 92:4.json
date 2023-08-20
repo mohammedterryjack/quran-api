@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nعن أبي خالد عن زيد بن علي عليهما السّلام في قوله تعالى: { إِنَّ سَعْيَكُمْ لَشَتَّىٰ } معناهُ إنْ عَمَلكُم لَمختلفٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis is a saying of Abu Khalid, from Zayd ibn Ali, upon them both be peace, about the words of the Most High, {Indeed, your efforts are diverse} [Qur'an, 92:4]. Its meaning is that your deeds are different.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

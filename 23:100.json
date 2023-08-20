@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمِن وَرَآئِهِمْ بَرْزَخٌ } معناه أمامهُم\n وكُلُّ مَا بَينَ شَيئين فهو بَرزخٌ\n وما بَين الدُّنيا والآخرةِ فَهو بَرزخٌ\n ومَا بَين المَوتِ والبَعثِ بَرزخٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And there is a barrier before them}, means in front of them.\n\n\nAnd everything between two things is a space.\n\n\nAnd what is between this world and the next is a bridge.\n\n\nAnd what lies between death and resurrection is a period of time.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { لِتَأْكُلُواْ فَرِيقاً مِّنْ أَمْوَالِ ٱلنَّاسِ } معناهُ طَائفةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So eat of the wealth of the people} means a group.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

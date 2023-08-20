@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِ } معناه ضعفان بلسان الحَبشةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He will give you twofold [from] His mercy\" - this is the meaning of His saying in the language of the Habasha.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

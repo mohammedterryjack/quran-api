@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَمَّا ثَمُودُ فَأُهْلِكُواْ بِٱلطَّاغِيَةِ } معناه بكفرِهم وطُغيانِهِم ويقال: بالذّنوبِ\n ويقال: بالصَّيحةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAs for Thamud, they were destroyed by their {transgression}. This means their disbelief and rebellion. It is said: \"By their sins.\"\n\n\nIt is said that shouting is allowed.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَكُمْ فِيهَا مَنَافِعُ إِلَىٰ أَجَلٍ مُّسَمًّى } فالمنافعُ: شِربُ ألبانِهَا، وجَزُّ أَوبارِها، ورُكوبُ ظُهورِها\n والأَجلُ المُسمَى: إلى أنْ تُسمى بُدنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {There are benefits for you in it until a specified time} - the benefits are the drinking of its milk, the payment of its wool, and the riding of its back.\n\n\nAnd the appointed time: until our bodies are named",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

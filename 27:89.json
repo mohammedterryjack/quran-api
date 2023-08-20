@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُ خَيْرٌ مِّنْهَا } معناهُ يَقولُ لاَ إلهَ إِلاَّ الله، فَلَهُ خَيرٌ مِنهَا { وَمَن جَآءَ بِٱلسَّيِّئَةِ } معناه بالشِّركِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Whoever comes with a good deed will have better than it,\" means that there is no god but Allah, so he will have better than it. {And whoever comes with an evil deed} means associating others with Him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

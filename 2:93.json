@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَأُشْرِبُواْ فِي قُلُوبِهِمُ ٱلْعِجْلَ } قالَ زَيدُ بن علي عليهما السلامُ\n معناهُ سُقوا حُبَّ العِجْلِ، حتى غلبَ ذَلِكَ عليهم، وخلصَ إِلى قلوبِهِمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Almighty: {And drink in their hearts the {ijl}} said Zayd ibn Ali peace be upon him\n\n\nThis means that they should strive to love camel racing, until it overcomes them, and they are drawn to it with their hearts.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

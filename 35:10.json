@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَكْرُ أُوْلَئِكَ هُوَ يَبُورُ } معناه وكَسبُهُم هو يَبورُ: معناه يَهلِكُ، ويذهَبُ باطلاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd his saying, \"The plot of those is only to perish\" - their recompense is that they will perish: meaning that they will be destroyed and their false beliefs will disappear.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

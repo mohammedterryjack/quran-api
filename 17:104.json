@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { جِئْنَا بِكُمْ لَفِيفاً } يعني مِن كُلِّ قَومٍ مِنْ هَا هُنَا ومِنْ هَا هنا\n ويقال جَميعٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {We will come to you with your host} [means] from every people, some from here and some from there.\n All of them are said",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

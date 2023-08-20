@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ ٱلسَّبِيلَ يَسَّرَهُ } معناه خُروجُهُ من بَطنِ أُمهِ ويقال: يَسرَ لَه السَّبيلَ كقوله:\n\n[الإنسان: 3]\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His statement, {then the path became easy for him} - this means his exit from the womb of his mother. And it is said: \"The path became easy for him\" - just as it is said:\n\n\nThe human being is a rational creature {al-insanu 'l-aqlun}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

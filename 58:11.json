@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ إِذَا قِيلَ لَكُمْ تَفَسَّحُواْ فِي ٱلْمَجَالِسِ فَٱفْسَحُواْ يَفْسَحِ ٱللَّهُ لَكُمْ } معناه أوسِعُوا\n\n\n\n\nوقوله تعالى: { وَإِذَا قِيلَ ٱنشُزُواْ فَانشُزُواْ } معناه إذا قِيلَ لَكُم قُوموا فَقوموا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the verse is \"Oh you who have believed, when it is said to you, 'Make room in the assemblies,' then make room; Allah will make room for you.\"\n\n\nAnd when it is said to them, \"Get up,\" they get up.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

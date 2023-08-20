@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { عُذْراً أَوْ نُذْراً } معناه عُذرٌ من الله تعالى ونُذرٌ إلى النَّاسِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " {Excuse me or I swear to God} its meaning is an excuse from Allah and a swear to the people",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

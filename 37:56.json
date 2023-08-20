@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَٱللَّهِ إِن كِدتَّ لَتُرْدِينِ } معناه تَهْلِكُني\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd say, \"O Allah, if you are going to destroy me, then do so.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

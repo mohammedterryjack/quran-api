@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأُوْلَـٰئِكَ تَحَرَّوْاْ رَشَداً } معناه تَوجَّهُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"Those are the ones who have gone astray in guidance,\" means they have gone astray in following the truth.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

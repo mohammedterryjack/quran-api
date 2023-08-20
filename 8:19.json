@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِن تَسْتَفْتِحُواْ فَقَدْ جَآءَكُمُ ٱلْفَتْحُ } معناه انْ تَستَنصُرُوا فقدْ جاءكُمْ النَّصرُ\n ويقال: إنْ تَستَقضُوا فَقدْ جَاءكم القَضاءُ\n\n\n\n\nوقوله تعالى: { وَلَن تُغْنِيَ عَنْكُمْ فِئَتُكُمْ شَيْئاً } معناهُ جَمَاعَاتُكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd his saying, {Indeed, if you seek victory - then victory has come to you} means that if you seek help, then help has come to you.\n\n\nIt is said that if you seek justice, justice will come to you.\n\nAnd His saying - the Most High - {And your factions will not avail you at all}, its meaning is that your groups will not benefit you in anything.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱنْفِرُواْ خِفَافاً وَثِقَالاً } فالخَفيفُ: الشَّابُ\n والثِّقالُ: الشِّيوخُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Travel forth light and heavy}- so the light is the young.\n\n\nAnd the heaviest: the elders.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

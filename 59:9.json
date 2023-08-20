@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلَّذِينَ تَبَوَّءُوا ٱلدَّارَ } معناه نَزَلوها\n\n\n\n\nوقوله تعالى: { وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ } معناه فَقرٌ وحَاجةٌ\n\n\n\n\nوقوله تعالى: { وَمَن يُوقَ شُحَّ نَفْسِهِ } معناه يَمنعُ بُخلَ نَفسِهِ والشُّحُّ: البُخلُ\n\n\n\n\nوقوله تعالى: { وَلاَ يَجِدُونَ فِي صُدُورِهِمْ حَاجَةً } معناه حَسدٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd those who have established their home (in Medina), it is they who have disbelieved.\n\n\nAnd if they had {khasaṣah} (a specific need), it would be a burden for them.\n\n\nAnd His saying, \"And whoever is saved from the self-indulgence of his own soul\" means that he prevents himself from being stingy, and \"self-indulgence\" refers to stinginess.\n And they will not find in their chests any {need} except for envy.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

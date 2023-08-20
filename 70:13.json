@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَفَصِيلَتِهِ ٱلَّتِي تُؤْوِيهِ } يعني قومُه الذين هُم دُونَ القَبيلةِ، مَضمومٌ إليهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"those who are {unrelated to him}\" refers to his people who are not part of his clan, meaning those who are not related to him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

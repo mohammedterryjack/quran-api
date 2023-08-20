@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَواْ وَّٱلَّذِينَ هُم مُّحْسِنُونَ } قالَ زيدُ بن علي عليهما السَّلامُ: اتَّقَوا مَا حَرَمَ عَليهِم فِيما افْتَرَضَ عَليهِم\n وأَحسنَوا معناه أَدَّوا الفرائضَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah, {Indeed, Allah is with those who fear Him and those who are doers of good} Zayd ibn Ali, peace be upon him, said: \"Beware of what He has made unlawful for you in what He has made obligatory for you.\"\n\n\nAnd they did their best with us, fulfilling their obligations.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

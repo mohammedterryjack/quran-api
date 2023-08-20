@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ } معناه غَيرُ مَقطوعٍ\n ويقال: غَيرُ مَحسوبٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {Most High}, \"So for them is a reward not to be cut off.\" Its meaning is not cut off.\n It is said: not calculable",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

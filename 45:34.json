@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلْيَوْمَ نَنسَاكُمْ } معناه نَتركُكم من الرَّحمةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Today We will leave you [O disbelievers] to your own devices\" - this means that We will abandon you to Our mercy.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

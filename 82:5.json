@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ } معناه افترضَ الله عَليها\n ويقال: ما قَدّمتْ: من خَيرٍ\n وما أخّرتْ: معناه مما افترضَ من سُنةٍ استَنَ بها مَنْ بَعدَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Allāh has ordained for every person his share of death} [means that] He has decreed death for him.\n\n\nIt is said: \"What you have done is from the best.\"\n And what you have deferred: its meaning is what one has assumed from a practice that those after him have adhered to.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلْيَوْمِ ٱلْمَوْعُودِ } معناه يومُ القِيامةِ { وَشَاهِدٍ وَمَشْهُودٍ }\n يقال: يَومٌ مَشهودٌ: يَومُ النَحرِ\n وشَاهدٌ بهِ محمدٌ صلّى الله عليه وعلَى آلهِ وسَلَّمَ\n ويقال: إنَّ الشَّاهدُ ابنَ آدم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the meaning of the verse \"And the Day of Promise\" is the Day of Resurrection, \"witnesses and witnessed.\"\n It is said: A manifest day: the Day of the Eclipse\n\n\nAnd Muhammad (peace and blessings of Allah be upon him and his family) is a witness to that.\n It is said: The witness is the son of Adam.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

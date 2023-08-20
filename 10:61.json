@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذْ تُفِيضُونَ فِيهِ } معناهُ تُكْثرون فِيهِ\n\n\n\n\nوقوله تعالى: { وَمَا يَعْزُبُ عَن رَّبِّكَ } معناه يَغِيبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"When you pour forth [in prayer]\" - its meaning is that you multiply [your prayers] therein.\n\n\nAnd His saying - {And nothing is hidden from your Lord} - its meaning is that He is unseen.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

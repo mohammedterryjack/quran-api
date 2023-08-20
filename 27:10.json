@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَأَنَّهَا جَآنٌّ } وهي جِنسٌ من الحَياتِ\n\n\n\n\nوقوله تعالى: { وَلَمْ يُعَقِّبْ } معناه لم يَرجِعْ\n وقال لَم يَلتَفِتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {as if it were a life}, and it is a kind of life.\n And his saying, \"And he will not be punished\" - its meaning is that he will not return [to Allah].\n\n\nAnd he said, \"He did not turn away.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

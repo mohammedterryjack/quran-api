@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا بَلَغُواْ مِعْشَارَ مَآ آتَيْنَاهُمْ } معناهُ عُشْرُ ما أَعطيناهم\n\n\n\n\nوقوله تعالى: { فَكَيْفَ كَانَ نَكِيرِ } معناه تَغْييري وعُقُوبتي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And they have not reached a tenth of what We have given them} means that they have not yet reached a tenth of what We have given them.\n\n\nAnd His saying, {So how could it be a rejection?} Its meaning is my change and my punishment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

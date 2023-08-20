@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا رَمَيْتَ إِذْ رَمَيْتَ وَلَـٰكِنَّ ٱللَّهَ رَمَىٰ } معناهُ أنَّ الله هو الذِي أَيَّدَكَ ونَصَرَكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {And you did not throw when you threw but it was Allah who threw} - means that it was Allah who aided and helped you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

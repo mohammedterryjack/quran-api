@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنْ هَـٰذَا إِلاَّ خُلُقُ ٱلأَوَّلِينَ } معناهُ إخْتِلاقٌ من الأَولين\n وقال: دَأبُهُمْ\n وقال: دِينُهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, this is no more than the [creation of] the first [men].} Its meaning is the creation of the first [men].\n He said: \"Their way is to...\"\n And he said, \"Their religion\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

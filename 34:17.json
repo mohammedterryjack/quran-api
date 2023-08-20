@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ذَٰلِكَ جَزَيْنَاهُمْ بِمَا كَفَرُواْ وَهَلْ نُجَٰزِيۤ إِلاَّ ٱلْكَفُورَ }\n معناه مَنْ حُوسِب مِن الكُفارِ عُذّب\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis is what we have given them in return for their disbelief. Do we not punish only the disbelievers?\n\n\nThis means that those who are counted among the disbelievers will be punished.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

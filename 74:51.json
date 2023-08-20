@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَرَّتْ مِن قَسْوَرَةٍ } معناه من الأَسدِ\n ويقال: من الرّماةِ\n ويقال: من ذكر النَاسِ!\n ويقال: العُصبُ من النَّاسِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He fled from the lion,\" means he fled from the Asad.\n It is said: from the { }\n\n\nIt is said: \"O people! Remember!\"\n\n\nIt is said that the nerves are of people.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

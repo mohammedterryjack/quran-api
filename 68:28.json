@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَالَ أَوْسَطُهُمْ } أي أعدَّ لَهم\n\n\n\n\nوقوله تعالى: { أَلَمْ أَقُلْ لَّكُمْ لَوْلاَ تُسَبِّحُونَ } أي تَستَثنونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " {And the saying of the Most High: \"The middle of them\"} that is, he prepared for them.\n\nAnd His saying, {Will you not then believe?} That is, do you not then disbelieve?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

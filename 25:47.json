@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَهُوَ الَّذِي جَعَلَ لَكُمُ ٱلَّيلَ لِبَاساً وَٱلنَّوْمَ سُبَاتاً } قال: زيد بن علي عليهما السّلامُ واللِّباسُ: السَّكنُ\n والسُّباتُ: السَّاكنُ\n وقال: هو الحسنُ الجَميلُ!\n\n\n\n\nوقوله تعالى: { وَجَعَلَ ٱلنَّهَارَ نُشُوراً } معناه يَنْشُرُ فيهِ خَلقُ الله تعالى فِي مَعائِشهم وحوائِجهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And He it is Who made the night a covering for you and the sleep a rest\" - Zayd ibn Ali, peace be upon him, said: \"The night is for sleeping.\"\n\n\nAnd the stationary one is the one who is settled.\n\n\nAnd he said, \"He is the most beautiful and handsome!\"\n\n\nAnd His saying, {And He made the day a time of spreading} [means that] He spreads out His creatures in it and their needs.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

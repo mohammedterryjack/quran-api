@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱجْعَل لِّي لِسَانَ صِدْقٍ فِي ٱلآخِرِينَ } معناه الثَّناءُ الحَسِنُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Make for me a truthful tongue among the latter.\" This means praising others well.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

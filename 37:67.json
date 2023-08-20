@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ إِنَّ لَهُمْ عَلَيْهَا لَشَوْباً مِنْ حَمِيمٍ } فالشَّوبُ: الخَلطُ بينَ الشَّيئينِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {then indeed for them is upon it a sweating of molten brass} - the meaning of \"shwab\" here is a mixture of two things.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

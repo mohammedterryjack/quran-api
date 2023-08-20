@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَآتَيْنَا ثَمُودَ ٱلنَّاقَةَ مُبْصِرَةً فَظَلَمُواْ بِهَا } معناه كفروا وقوله تعالى: { وَمَا جَعَلْنَا ٱلرُّءْيَا ٱلَّتِي أَرَيْنَاكَ إِلاَّ فِتْنَةً لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلْمَلْعُونَةَ فِي ٱلقُرْآنِ } فالفِتنةُ: البَِلاءُ\n والشَّجرةُ المَلعونِة: الزَِّقومُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe verse \"And We gave Thamud the she-camel, plainly visible\" (Qur'an 54:29) means that they disbelieved, and the verse \"We only made the vision that We showed you a test for people, and the accursed tree in the Qur'an\" (Qur'an 17:60) means that the test is hardship.\n\n\nThe accursed tree: the zaqqum tree.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ صَفْحاً } معناه ننركُكُم فلا تُحاسبون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {Are the reminders to be cast aside from you carelessly?} Its meaning is: We will absolve you, so that you will not be held accountable.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

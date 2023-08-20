@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { ٱضْرِبُوهُ بِبَعْضِهَا } قالَ زَيدُ بن علي عليهما السلامُ: بالعَظمِ الذي يلي الغُضْروف\n وقالَ عليُ بن الحسين عليهما السلامُ بفخذِهَا أو بذَنبِهَا\n\n\n\n\nوقوله تعالى: { يُرِيكُمْ آيَاتِهِ } معناهُ يُعلمُكُمْ بِعَلامَاتِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {ithraboo bi-ba'dihi}, Zayd ibn Ali said, \"With the bone that is below the throat.\"\n Ali ibn al-Hussain said about this {thing}: \"With its leg or with its sin.\"\n And His saying, “He will show you His signs” – its meaning is that He will inform you of His signs.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

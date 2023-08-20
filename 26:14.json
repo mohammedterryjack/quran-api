@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَهُمْ عَلَيَّ ذَنبٌ } معناهُ عِندي لَهُمْ دَينٌ\n ويريدُ من أجلِ القَتيلِ الذي قَتلهُ، وكانَ خَبّازاً لِفرعون، واسمهُ فَاتَونُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And against them is a debt} [means] to me that they have a debt.\n\n\nHe wants revenge for the one who killed him, who was a baker for Pharaoh, and his name was Fatooun.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

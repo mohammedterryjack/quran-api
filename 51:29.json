@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَقْبَلَتِ ٱمْرَأَتُهُ فِي صَرَّةٍ فَصَكَّتْ وَجْهَهَا } قال الإِمامُ زيد بن علي عليهما السّلامُ: معناه ضَربَتْ بيدِها على وَجهِهَا\n\n\n\n\nوقوله تعالى: { عَجُوزٌ عَقِيمٌ } معناه لا تَلدُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And { his wife came forward in a hurry and she covered her face }. Imam Zayd bin Ali said: Its meaning is that she struck her hand on her face.\n\n\nAnd His saying, {an elderly woman who is barren} means that she will not give birth.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلْنَا نَوْمَكُمْ سُبَاتاً } معناه مَسبوتٌ وفِيهِ رُوحٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {And We have made your sleep [a means for] peace of mind} - its meaning is [a state of] peace and tranquility in which the soul rests.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

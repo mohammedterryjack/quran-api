@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُّحْصِنِينَ غَيْرَ مُسَٰفِحِينَ } فالمُحْصَنُ: العَفِيفَ\n والمُسَافِحُ: الزَّانِيُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {those who are muHSinin are those who are not muSafiHin} - the muHSan is the 'afif.\n The adulterer is the one who commits zina.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

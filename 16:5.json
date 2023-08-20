@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلأَنْعَامَ خَلَقَهَا لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ } فالدِّفّ: ما استدفي به من أوبارها\n ومنافع: سوى ذلك\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the words of Allah: {And the cattle, He has created them for you; in them is warmth and numerous benefits} So the warmth is that which covers you of their fur.\n\n\nAnd benefits: nothing else",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

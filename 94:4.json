@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَرَفَعْنَا لَكَ ذِكْرَكَ } قال: إِذا ذُكِرتُ ذُكِرتَ معي؛ فيقالُ: أشهدُ ألاّ إله إلاّ الله وأشهدُ أَنَّ محمداً رسولُ الله\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {And We have raised your mention} He said: \"Whenever I am mentioned, I am mentioned with you; so it is said: 'I bear witness that there is no god but Allah, and I bear witness that Muhammad is the Messenger of Allah.'\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

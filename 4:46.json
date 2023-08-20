@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُحَرِّفُونَ ٱلْكَلِمَ } معناهُ يُقلِّبونَ ويُغَيِّرونَ الكلمَ والكَلمُ جَماعَةُ كَلِمةٍ\n\n\n\n\nوقوله تعالى: { سَمِعْنَا وَعَصَيْنَا } معناهُ سَمِعْنَا قَولَكَ، وَعَصَينَا أَمْرَكَ\n { وَٱسْمَعْ غَيْرَ مُسْمَعٍ } معناه غَيرُ مَقْبُولٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {They change the word} its meaning is that they change and alter the word, and the word is a group of words.\n\n\nAnd His saying, \"We have heard and disobeyed\" - we have heard your command and disobeyed it.\n\n\nAnd listen to that which is not heard - meaning that which is not acceptable.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

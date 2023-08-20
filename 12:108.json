@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُلْ هَـٰذِهِ سَبِيلِيۤ } معناه دَعْوَتِي\n\n\n\n\nوقوله تعالى: { عَلَىٰ بَصِيرَةٍ } معناه عَلَى يَقينٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Say, 'This is my way,'\" means my invitation.\n\n\nAnd His saying, \"Upon a clear vision.\" Its meaning is \"upon certainty.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

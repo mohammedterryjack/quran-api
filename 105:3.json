@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقولهِ تعالى: { وَأَرْسَلَ عَلَيْهِمْ طَيْراً أَبَابِيلَ } فالطَّيرُ جَماعةٌ\n وأبابيلُ: جماعاتٌ\n قالَ الإِمامُ زيد بن علي عليهما السّلامُ: لَها خَراطيمُ مِثل خَراطيمِ الطَّيرِ، وأَكفُّ مثل أَكفِّ الكِلابِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The Almighty said: {And he sent against them birds} The bird is a group.\n\n\nAnd {Ababīl} groups.\n The Imam Zayd ibn `Ali, peace be upon them both, said: \"She has udders like a bird's udders, and a tail like a dog's tail.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

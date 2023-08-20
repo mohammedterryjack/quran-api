@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ } معناهُ تَستيقنُ أنْ يُفعَلَ بِهَا دَاهِيةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {You think that they are a small thing, but they are a great thing} means that you think that what they are doing is unimportant, but it is actually very important.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَوَاصَوْاْ بِٱلْحَقِّ وَتَوَاصَوْاْ بِٱلصَّبْرِ } معناه تَحاثُوا عليهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - exalted be He - \"And enjoin upon one another truth and enjoin upon one another patience\" - its meaning is that you should exhort one another to it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَّ يَسْمَعُونَ فِيهَا لَغْواً وَلاَ كِذَّاباً } معناه لا يَسمعونَ فيها بَاطلاً، ولا مأَثماً { جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَاباً } أي عَطاءً كَثيراً ويقال: كَافٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {They will not hear therein any vain speech or any lie}, its meaning is that they will not hear therein any falsehood or any sin {as a recompense from your Lord, an abundant reward}, that is, a great reward. And it is said: \"Kafin.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

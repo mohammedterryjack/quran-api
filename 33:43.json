@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { هُوَ ٱلَّذِي يُصَلِّي عَلَيْكُمْ وَمَلاَئِكَتُهُ } معناه هو الذِي يَرحمُكُمْ وتَدعُوا لَكم مَلائكتُهُ\n وقال: معنى يُصلّى: يُباركُ عَليكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He is the one who blesses you and His angels\" means that He is the one who has mercy on you and you call upon His angels.\n He said: The meaning of \"yusallā\" is \"may God bless you\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

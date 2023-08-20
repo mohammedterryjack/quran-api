@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَهَـٰذَا ذِكْرٌ مُّبَارَكٌ أَنزَلْنَاهُ } فالذِّكرُ المبَاركُ: هو القرآنُ الذي أُنزلَ عَلَى محمدٍ صلّى الله عليهِ وعَلَى آلهِ وسلَّمَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {And this is a blessed remembrance that We have sent down} - so the blessed remembrance is the Quran that was sent down upon Muhammad (peace and blessings of Allah be upon him and his family).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

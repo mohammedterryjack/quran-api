@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تُؤْمِنُوۤاْ إِلاَّ لِمَن تَبِعَ دِينَكُمْ } معناهُ وَلاَ تَصدِّقوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He: {And do not believe except in him who follows your religion} [means that] you should not believe except in him who follows your religion.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

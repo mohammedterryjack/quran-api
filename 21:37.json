@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { خُلِقَ ٱلإنْسَانُ مِنْ عَجَلٍ } معناه خُلِقَتْ العَجلةُ من الإِنسانِ كقولِهِ تعالى:\n\n[القصص: 76] والعُصبة: هي التي تَنوء بالمفاتيح\n وتَنوءُ: أي تَنهضُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Man was created from a {swift} creature,\" means that the creature was created from man, as His saying, \"And {He created} the creature from water.\"\n\n\nThe nerve is the one that is infused with the keys.\n And it {stands up / rises}: that is, it {awakens / becomes active}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

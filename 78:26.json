@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { جَزَآءً وِفَاقاً } معناه يُوافقُ أَعمالَهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of His saying, {an equivalent reward}, is that He will requite them in full for their deeds.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي رَوْضَةٍ يُحْبَرُونَ } فالرَّوضةُ: مُوضعٌ فِيهِ مَاءٌ ونَباتٌ\n ويُحبَرون: معناه يُسرُّونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {In a Rawdhah they are watered} - the Rawdhah is a place where there is water and vegetation.\n They are in love: its meaning is that they are content",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

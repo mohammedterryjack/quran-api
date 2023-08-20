@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَلَى ٱلأَرَآئِكِ يَنظُرُونَ } فالأَرائِكُ: السُّررُ في الحِجالِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Upon the clouds they look} - the clouds here are the stars in the sky.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَكَرَ ٱللَّهُ } معناهُ أَهْلَكَ الله\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, \"God has destroyed,\" means \"God has destroyed.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

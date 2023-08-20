@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجِئْنَا بِبِضَاعَةٍ مُّزْجَاةٍ } [معناه] قَلِيلةٌ يَسيرةٌ ويقالُ: زُيُوفٌ رَديّةٌ\n ويقالُ كَاسِدةٌ\n ويُقالُ: نَاقِصةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {And We have brought forth for you a diversified provision} [meaning] a little [amount] that is easy [to obtain] and it is said: [it is] few and scattered.\n\n\nIt is said that \"kasidah\" is a type of Arabic poetry.\n It is said: A defect.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

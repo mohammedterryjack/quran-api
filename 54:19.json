@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحاً صَرْصَراً فِي يَوْمِ نَحْسٍ مُّسْتَمِرٍّ } ، والصَّرصرُ: الشَّديدةُ ذات الصّوتِ\n والنَّحسُ: المَشؤمُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah: {We have sent against them a violent wind on a day of continuing misfortune} , and the violent wind is the strong one with the sound.\n\n\nAnd the Nuhas (evil eye): the person who is envied.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

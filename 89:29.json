@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱدْخُلِي فِي عِبَادِي } معناه في طَاعَتي { وَٱدْخُلِي جَنَّتِي } معناه في جَنّتي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Enter into My servants\" means in My obedience, \"And enter into My Paradise\" means in My Paradise.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

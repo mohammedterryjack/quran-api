@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ ٱلْعَذَابِ } أَي بِمُبعِدِهِ مِنْ العَذَابِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {And he is not to be removed from the punishment}, that is, far from the punishment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

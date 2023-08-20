@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ جَعَلْنَاكَ عَلَىٰ شَرِيعَةٍ مِّنَ ٱلأَمْرِ } معناه على طَريقةٍ وسُنةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Then We made you follow a path from the affair\" - meaning on a way and a sunnah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

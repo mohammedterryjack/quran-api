@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تُولِجُ ٱللَّيْلَ فِي ٱلْنَّهَارِ } معناهُ تَنْقُصُ مِن اللَّيلِ فتُزيدُ فِي النَّهارِ وكَذَلِكَ النَّهارُ فِي اللَّيلِ\n\n\n\n\nوقوله تعالى: { تُخْرِجُ ٱلْحَيَّ مِنَ ٱلْمَيِّتِ } معناهُ الطَّيبُ مِنَ الخَبِيثِ والمُسْلِمُ من الكَافِرِ\n ويقالُ: تُخرجُ الحَيَّ مَن النُطْفَةِ المَيتَةِ، وتُخْرِجُ النُطْفَةَ المَيتةَ مِن الحَيِّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He brings the night into the day}, means that the night decreases and the day increases, and likewise the day decreases and the night increases.\n\n\nAnd the saying of Allah, \"He brings the living out of the dead,\" means the good coming out of the evil, and the Muslim coming out of the disbeliever.\n\n\nIt is said that life comes from a dead germ, and that a dead germ comes from life.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

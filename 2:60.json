@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَلاَ تَعْثَوْاْ فِي ٱلأَرْضِ مُفْسِدِينَ } معناهُ لا تَفسُدوا فيها\n ويقالُ: عاثَ في الأرضِ وعَثا إِذا أَفسدَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, the Most High, {And do not spread corruption in the land} its meaning do not corrupt in it.\n It is said: \"He who corrupts on earth will be corrupted in the hereafter.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

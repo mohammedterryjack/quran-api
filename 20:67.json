@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَوْجَسَ فِي نَفْسِهِ خِيفَةً مُّوسَىٰ } يعني أَضمرَ خَوفاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"So Moses felt within himself fear,\" means that he felt fear within himself.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

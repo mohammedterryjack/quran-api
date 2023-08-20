@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱللَّيْلِ إِذَا عَسْعَسَ } معناه إذا أقبلَ\n ويقال: إذا أدبرَ",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And when the night {darkens} darkens, it means when it comes.\n It is said: If he turned his back",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّينَ } الحَواريونَ: هُم صَفوةُ الأَنبياءِ عليهم السّلامُ\n\n\n\n\nوقوله تعالى: { فَأَيَّدْنَا ٱلَّذِينَ آمَنُواْ عَلَىٰ عَدُوِّهِمْ } معناه قَويناهُم عَليهِم { فَأَصْبَحُواْ ظَاهِرِينَ } معناه قَاهرونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd [it is] as Jesus, son of Mary, said to the {Al-Hawariyyun}, who are the purified ones among the Prophets: \"Peace be upon you.\"\n\nAnd His saying, “So We supported those who believed against their enemy” – We gave them power over their enemy – “so they became the prevailing ones.”",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

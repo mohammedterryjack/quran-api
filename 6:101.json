@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ } معناهُ مُبتَدِعُهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"The Originator of the heavens and the earth\" - its meaning is that He created them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَّ يَجْزِي وَالِدٌ عَن وَلَدِهِ وَلاَ مَوْلُودٌ هُوَ جَازٍ عَن وَالِدِهِ } يعني لا يُغْنِي\n\n\n\n\nوقوله تعالى: { وَلاَ يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ } معناه الشَّيطانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Almighty: {No father is responsible for his son, nor is a child responsible for his father}, means that no one is responsible for anyone.\n\nAnd his saying, \"Do not let Satan deceive you about Allah.\" The meaning of Satan is deception.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

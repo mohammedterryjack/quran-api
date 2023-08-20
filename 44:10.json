@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱرْتَقِبْ يَوْمَ تَأْتِي ٱلسَّمَآءُ بِدُخَانٍ مُّبِينٍ } معناه فانتظرْ يومَ تأتي السَّماءُ بِدُخانٍ مُّبينٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allaah, {So wait for the Day when the sky brings a clear smoke} its meaning is: So wait for the Day when the sky brings a clear smoke.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

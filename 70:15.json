@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَلاَّ إِنَّهَا لَظَىٰ } معناه نارٌ",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Nay, but it is a blazing Fire!} its meaning is a fire",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ } فالعِهنُ: الصُّوفُ الأَحمرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the mountains will be like tufts of wool,\n\nThe wool referred to here is the red wool.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

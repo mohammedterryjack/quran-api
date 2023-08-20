@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا سَنُلْقِي عَلَيْكَ قَوْلاً ثَقِيلاً } معناه العملُ بفرائِضهِ وحُدودِهِ\n والثَّقيلُ: الكَريمُ\n يقال: فلانٌ يَثقلُ عَلَيَّ معناهُ يَكرُمُ عَليَّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, We will cast upon you a heavy word} [means] acting in accordance with its obligations and boundaries.\n\n\nAnd the heavy one: the generous one.\n It is said: So-and-so is { } upon me, meaning he honors me.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

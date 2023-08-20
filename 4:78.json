@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي بُرُوجٍ مُّشَيَّدَةٍ } معناهُ فِي حِصُونٍ، واحِدُهَا بُرجٌ\n والمُشيَّدَةُ: المُطَّولةُ\n والمُشيَّدُ: المُزَينُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {in fortified castles} means in fortresses, one of which is a castle.\n\n\nAnd the extended: the prolonged.\n\n\nAnd the adorned one: the one who is adorned",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ } معناه مُشرقةٌ حَسِنةٌ ويقال: فَرِحةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {on that day, faces will be radiant} - means that they will be beautiful and happy.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

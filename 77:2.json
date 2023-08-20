@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { فَٱلْعَاصِفَاتِ عَصْفاً } معناه الرِّيحُ { وٱلنَّاشِرَاتِ نَشْراً } معناه الرّيحُ\n ويقال: المُمطرُ\n ويقال: البَعثُ يوم القِيامةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{The winds are blowing} - this means the wind is blowing\n{The clouds are gathering} - this means the clouds are gathering\n It is said: The rain\n\nالمُمطرُ هو الماء الذي يُنازل من السماء في الشتاء والصيف.\n\nThe rain is the water that falls from the sky in winter and summer.\n\n\nIt is said that the resurrection will take place on the Day of Judgment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

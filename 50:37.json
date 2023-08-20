@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ فِي ذَلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُ قَلْبٌ } أي عَقلٌ\n\n\n\n\nوقوله تعالى: { أَوْ أَلْقَى ٱلسَّمْعَ } معناه استمعَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed in that is a reminder for whoever has a heart} [means] whoever has a mind.\n\n\nAnd His saying, \"Or he has given hearing,\" its meaning is \"listened.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ يُصْبِحَ مَآؤُهَا غَوْراً } يعني غائراً ذَاهِباً مُنقطعاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Or it {may become} a morning's {drink} {that is} cut off,\" means going {astray} {uninterruptedly}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

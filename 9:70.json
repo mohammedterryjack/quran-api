@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلْمُؤْتَفِكَاتِ } وهُم قَومُ لُوطٍ إِئتَفكَتْ بِهِم الأَرضُ معناهُ إنفكتْ بِهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And the {Mu'tafikat}\", referring to the people of Lot, who were swallowed up by the earth.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

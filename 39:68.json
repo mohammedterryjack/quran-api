@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَصَعِقَ مَن فِي ٱلسَّمَٰوَٰتِ وَمَن فِي ٱلأَرْضِ } معناه ماتَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So those in the heaven and earth fell unconscious}, means that everyone died.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

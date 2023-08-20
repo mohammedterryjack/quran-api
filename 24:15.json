@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذْ تَلَقَّوْنَهُ بِأَلْسِنَتِكُمْ } معناه تَقبلُونهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when you receive it with your tongues, accept it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

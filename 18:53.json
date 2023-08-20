@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَمْ يَجِدُواْ عَنْهَا مَصْرِفاً } يعني مَعْدِلاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His statement, the Most High, \"And they will not find for it any diversion\" meaning an equal [amount].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

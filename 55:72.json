@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حُورٌ مَّقْصُورَاتٌ فِي ٱلْخِيَامِ } واحدُها حَوراءُ وهي الشَّديدةُ بياض، بياض العَينِ\n والشَّديدةَ سواد، سَواد العَينِ ومقصوراتٌ أي مخدورات\n في الخِيامِ: المَنازلَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {Hurun Muqsaratu fi al-Khayam} One of them is Hurayah and she is the strong one, white, white of eye.\n\n\nAnd the strong black, black of the eye and {mukhdiratun}, any {mukhdurah}.\n\n\nAt night: the mansions.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

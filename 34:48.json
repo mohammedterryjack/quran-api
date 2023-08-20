@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ رَبِّي يَقْذِفُ بِٱلْحَقِّ } معناه يَأتي بالحقِّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Indeed, my Lord is coming with the truth} [Qur'an 41:53], its meaning is that He is coming with the truth.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

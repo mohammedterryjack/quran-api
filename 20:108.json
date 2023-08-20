@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ تَسْمَعُ إِلاَّ هَمْساً } معناه كلامٌ خَفي\n ويقال: نَقلُ الأَقْدامِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So listen not to the disbelievers, but only to a Whisper } its meaning is a hidden speech.\n It is said: \"The transfer of the feet\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

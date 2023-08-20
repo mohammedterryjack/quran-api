@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَإِنَّا لَمَرْدُودُونَ فِي ٱلْحَافِرَةِ } معناه لَمردُودونَ خَلقاً جَديداً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, We will return [to life] in the Earth}, means that We will return to new life.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

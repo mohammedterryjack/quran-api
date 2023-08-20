@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أُنَاسٌ يَتَطَهَّرُونَ } معناهُ من أَدبارِ الرِّجالِ والنِّساءِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"People who purify themselves\" - its meaning is from the backs of men and women.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

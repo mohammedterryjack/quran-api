@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِهِ عِلْماً } معناه هو عَالمٌ بأمورِ خَلقهِ مُتقدماً ومُتأخراً\n وَلاَ يَحيطُ بِه، وَلاَ يُدرِكَهُ أَحدٌ مِن خَلقِه تَبصراً أو بوهمٍ\n وإنما يُعرفُ بالآياتِ، ويثبُتُ بالعَلاماتِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"There is nothing between their hands and what is behind them, and they do not encompass it with knowledge\" - this means that He is knowledgeable of His creation, both past and future.\n\n\n{And none can comprehend it} {nor can anyone perceive it} {by sight or hearing}.\n\n\nIt is known by the signs and is confirmed by the evidence.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ يَدِينُونَ دِينَ ٱلْحَقِّ } معناه لا يَطِيعُونَ\n\n\n\n\nوقوله تعالى: { حَتَّىٰ يُعْطُواْ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَاغِرُونَ } معناه عن قهرٍ\n والصَغارُ: الذِّلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"They should not believe in the truth,\" means that they should not obey.\n\n\nAnd His saying, \"Until they give the ransom from their own hands while they are humiliated,\" means [that they will be humiliated] by coercion.\n\n\nAnd the young: the lowly.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

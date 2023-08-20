@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي لَوْحٍ مَّحْفُوظٍ } قال الإِمامُ زيد بن علي عليهم السلام: أُخبرتُ أَنَّ لَوحَ الذِّكرِ لَوحٌ واحدٌ، وإنَّ ذَلكَ اللوحُ من نُورٍ وإنهُ مَسيرةُ ثلاثمائةِ سَنةٍ والله أعلمُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe Imam Zayd ibn Ali said: I was told that the Tablet of Remembrance is one Tablet, and that it is made of light. It is the journey of three hundred years, and Allah knows best.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

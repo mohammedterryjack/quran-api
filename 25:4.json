@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنْ هَـٰذَا إِلاَّ إِفْكٌ ٱفْتَرَاهُ } فالإفكُ: البُهتانُ\n وافتراه: معناه: اختلقَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {This is nothing but a fabrication that you have made up} - so the fabrication is the lie.\n\n\nHe created it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

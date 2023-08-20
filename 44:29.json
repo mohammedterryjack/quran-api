@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَا بَكَتْ عَلَيْهِمُ ٱلسَّمَآءُ وَٱلأَرْضُ } يقال إنه ليس من مُؤمنٍ إلاّ وَلَهُ بَابٌ يَصعدُ فيهِ عَملُهُ وكلامُهُ\n وبابٌ يَخرُجُ منهُ رِزقُهُ\n فإذا ماتَ وفُقِدَ بَكيا عَليهِ أربعينَ صباحاً\n ولمْ يكنْ لآل فرعون أَعمالٌ صالحةٌ تَبكي ذلك عليهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah, {So the heaven and the earth wept for them}, it is said that there is not a believer except that he has a door that his deeds and words ascend through it.\n\n\nA door from which his provision comes out.\n\n\nIf he dies and is mourned over by his relatives for forty mornings,\n\n\n{The family of Pharaoh}'s deeds were not good; {this} makes them weep.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

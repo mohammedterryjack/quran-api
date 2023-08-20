@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَبَآءُوا بِغَضَبٍ مِّنَ ٱللَّهِ } معناهُ بانوا بِهِ\n\n\n\n\nوقوله تعالى: { ضُرِبَتْ عَلَيْهِمُ ٱلْمَسْكَنَةُ } معناهُ أُلْزِمُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, {And they repented with the wrath of Allah}, its meaning is that they repented with Him.\n The meaning of the verse {the dwelling place was inflicted on them} is that they were made to dwell.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

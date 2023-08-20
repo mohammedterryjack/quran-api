@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَوِ ٱتَّبَعَ ٱلْحَقُّ أَهْوَآءَهُمْ } فالحقُّ: الله عزَّ وجلَّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And if the truth had followed their desires, the truth: Allah is Most High and Glorious.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

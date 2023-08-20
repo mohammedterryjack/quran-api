@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ } معناه أُمرَ بأنْ يُقبرَ { ثُمَّ إِذَا شَآءَ أَنشَرَهُ } معناه أحياهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Then he killed him and buried him,\" means that he was ordered to bury {then, when he willed, he resurrected him}. This means that he resurrected him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

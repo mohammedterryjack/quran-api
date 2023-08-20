@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { الأَرْضَ المُقَدَّسَةَ الَّتِي كَتَبَ اللَّهُ لَكُمْ } معناهُ قَضَاهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {the sacred land which Allah has decreed for you} [means that] He has decreed it for you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

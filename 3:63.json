@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِن تَوَلَّوْاْ } معناهُ كَفَرُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {But if they turn away} [means] they disbelieve.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

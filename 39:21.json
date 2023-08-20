@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَسَلَكَهُ يَنَابِيعَ فِي ٱلأَرْضِ } معناه مياهٌ\n واحدُها يَنبوعٌ { ثُمَّ يَهِـيجُ } معناه فيصيرُ يابساً\n والحُطَامُ: الرُفاتُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He let rivers flow in the earth} means that water exists.\n\n\nOne of them is a spring {then it dries up} meaning it becomes a dry riverbed.\n\n\nAnd the debris: the rufaat.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

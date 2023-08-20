@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد الواسطي عن زيد بن علي عليهما السَّلامُ في قولهِ تعالى: { يُكَوِّرُ ٱللَّيْـلَ عَلَى ٱلنَّهَـارِ } معناه يَدخُلُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us that Ali ibn Ahmad related to him.\n\n\nHe said: \"It was narrated to us by 'Ata ibn al-Sa'ib from Abu Khalid al-Wasiti from Zayd ibn Ali, peace be upon them, regarding the saying of Allah, {He covers the night with the day} - its meaning is that He enters it.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

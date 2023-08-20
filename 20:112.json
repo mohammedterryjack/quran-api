@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ يَخَافُ ظُلْماً وَلاَ هَضْماً } معناه انتِقاصٌ\n وقال: غَصبٌ\n وقال لا يَخَافُ أَنْ يُؤخذَ بِمَا لَم يَعملْ\n فَهو قَولُهُ (ظُلماً) وَلاَ يَخافُ أَن يُنقَّصُ من عَملهِ الصالحِ شيئاً فذَلك الهَضمُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is no fear for those who have believed and done righteous deeds}, means that there is no decrease [in their reward].\n\n\nAnd he said: \"I have been deprived.\"\n He said that he is not afraid of being taken for what he has not done.\n\n\n\"And he (the oppressor) does not fear that any good will be reduced from his good deeds. That is the digestion.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

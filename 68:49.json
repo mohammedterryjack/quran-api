@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَنُبِذَ بِٱلْعَرَآءِ } معناه عَلَى وَجْهِ الأَرضِ ونُبِذَ: أَي أُلقِي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {We will surely show them Our signs on the horizons and within themselves} [41:53], its meaning is upon the face of the earth, and We will show them: that is, We will cast [them].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

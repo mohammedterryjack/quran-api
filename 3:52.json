@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَمَّآ أَحَسَّ عِيسَىٰ مِنْهُمُ ٱلْكُفْرَ } معناهُ عَرَفَ مِنْهُمْ الكُفْرَ\n\n\n\n\nوقوله تعالى: { ٱلْحَوَارِيُّونَ } هُم صَفْوةُ الأَنبياءِ عليهم السَّلامُ واحدُهم حَواري\n والحَوارِياتُ مِنَ النِّساءِ اللاتِي يَسكُنَّ القُرَى\n وَلاَ يَسْكُنَّ البَوادي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when Jesus { felt } their disbelief, he knew their disbelief.\n\n\nAnd God says: {\"The Hawariyoon\"} They are the purest of the Prophets, peace be upon them, and one of them is my confidant.\n And the women who stay in the villages are the ones who engage in conversation.\n\n\nAnd the deserts shall not be inhabited.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

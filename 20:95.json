@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَا خَطْبُكَ يٰسَامِرِيُّ } يعني ما أمْرُكَ\n وقال: إنَّ السَّامري كَان من أَهل كَرْمَانَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {So what is your command, O Samiri?} means, what is your order, O Samiri?\n\n\nAnd he said: \"The Samaritan was one of the people of Kerman.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَخَسَفَ ٱلْقَمَرُ } معناه ذَهبَ ضَوءُهُ، وكَذَلِكَ كَسَفَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And the moon will be eclipsed}, means that its light will disappear, and likewise it will be eclipsed.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

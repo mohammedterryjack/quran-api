@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ نَطْوِي ٱلسَّمَآءَ } معناه نَذْهَبُ بِهَا\n\n\n\n\nوقوله تعالى: { كَطَيِّ ٱلسِّجِلِّ لِلْكُتُبِ } وقال: { السِّجلُ: مَلكٌ\n وقال: كاتبٌ للنبي صلى الله عليه وعلى آلهِ وسلم اسمُهُ السِّجلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"The Day when We will roll up the heaven like a scroll\" - its meaning is that We will remove it.\n\n\nAnd His saying, {Like the pages of a book} and His saying: {The page: a kingdom}.\n\n\nAnd he said: The scribe of the Prophet (peace and blessings of Allaah be upon him) was named al-Sijill.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

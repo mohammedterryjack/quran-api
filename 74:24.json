@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنْ هَـٰذَآ إِلاَّ سِحْرٌ يُؤْثَرُ } معناه يُؤثرُ عَن غَيرِهِ ويخبرُ بهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, this is nothing but magic copied [from others].} Its meaning is that it is copied from others and informed about it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

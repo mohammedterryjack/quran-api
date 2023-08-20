@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا } فالخَاوي: [الخراب] الخَالي الذي لا أَنيسَ بهِ\n والعُرُوشُ: البيوتُ والأَبنِيةُ، واحدُها عَرْشٌ\n ومَا بينَ الثَّلاثةِ إِلى العَشَرةِ عُرُشٌ\n والعُرُوشُ أَكثرُ الكَلامِ\n\n\n\n\nوقولهُ تعالى: { لَمْ يَتَسَنَّهْ } معناهُ لَمْ تَأتِ عَليهِ السّنونُ؛ فَيَتغيَّر\n\n\n\n\nوقولهُ تعالى: { وَٱنْظُرْ إِلَى ٱلعِظَامِ كَيْفَ نُنْشِزُهَا } معناهُ كيفَ نَنْقُلُهَا إِلى مَواضِعهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And it is a desolate land on its [own] shoulders} - so the desolate one is the one who is empty and has no companion.\n\n\nAnd the {urush}: the houses and the families, one of which is the {arsh}.\n\n\nAnd what is between the three and the ten is the 'Arsh.\n And the {Uruush} are more talkative.\n\nAnd His saying, {He has not made it} its meaning is that the years have not come upon it; So it changes.\n\nAnd look at the bones, {how we raise them up}, meaning how we move them to their places.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

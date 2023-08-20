@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَفَرَأَيْتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ } أي تَسجرون\n يقال أوريتُ، ووريتُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd {the fire that you burn in} do you see it?\n It is said, \"Write!\" and \"Write!\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

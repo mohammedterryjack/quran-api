@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَدْخِلْ يَدَكَ فِي جَيْبِكَ } قال زيد بن علي عليهما السلام: إنما أُمر أَنْ يُدخِلهَا فِي جَيبةِ، لأنهُ لَمْ يكنْ لَهاكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And insert your hand into your bosom,\" Zayd ibn `Ali said, \"He was only ordered to insert it into his bosom, because it was not for you.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { جَنَّٰتٍ مَّعْرُوشَٰتٍ } قَد عَرُشَ عِنَبُها { وَغَيْرَ مَعْرُوشَٰتٍ } من النَّخلِ وَمن سَائِرِ الشَّجرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {Gardens of perpetual bliss} - its grapevines are {uninterrupted} and its other trees are from the palms and from other trees.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَعَمْرُكَ } معناه وحَياتُكَ و: { سَكْرَتِهِمْ } غَفْلَتهُم و: { يَعْمَهُونَ } معناهُ يَتَردَّدونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, { لَعَمْرُكَ } means your life and: { سَكْرَتِهِمْ } their neglect and: { يَعْمَهُونَ } means they are wandering.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

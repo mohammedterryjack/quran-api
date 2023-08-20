@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { أَوَكُلَّمَا عَاهَدُواْ عَهْداً نَّبَذَهُ فَرِيقٌ مِّنْهُم } معناهُ تَرَكَهُ فَرِيقٌ مِنْهُمْ\n وجَمعُهُ أَفْرِقاءُ، وأَفْرِقَةٌ، وفِرقٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Whenever they make a covenant, a group of them cast it aside}, its meaning is that a group of them abandoned it.\n\n\nAnd His gathering is of disparate people, and a community, and a division.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

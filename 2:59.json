@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَبَدَّلَ ٱلَّذِينَ ظَلَمُواْ قَوْلاً غَيْرَ ٱلَّذِي قِيلَ لَهُمْ } فقالوا: حِنطة حبَّة حمراء فِيها شَعيرةٌ\n\n\n\n\nوقولهُ تعالى: { فَأَنزَلْنَا عَلَى ٱلَّذِينَ ظَلَمُواْ رِجْزاً مِّنَ ٱلسَّمَآءِ } والرِّجزُ: العَذابُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the words of the Most High: {Then those who did wrong changed the word that was said to them} So they said: A lentil, a red bean, and a barley grain in it.\n {And We sent down upon those who wronged a punishment from the heaven} and the punishment is the punishment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

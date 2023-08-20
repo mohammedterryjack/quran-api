@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ فَتَنَّا } معناه بَلونَا\n\n\n\n\nوقوله تعالى: { فَلَيَعْلَمَنَّ ٱللَّهُ ٱلَّذِينَ صَدَقُواْ } معناه فليَمْيِزَنَ\n لأَنَّ الله عزّ وجلّ قَد عَلَّمَ الأَشياءَ كُلَّها قَبلَ أوان كَونِها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd indeed, We have put them to the test.\n\nAnd His saying - the Most High: {So let Allah know those who are true} its meaning is \"So let Allah distinguish those who are true\"\n\n\nBecause Allah, the Most High and Glorious, has taught us all things before they come into existence.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

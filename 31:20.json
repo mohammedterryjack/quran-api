@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَسْبَغَ عَلَيْكُمْ نِعَمَهُ ظَاهِرَةً وَبَاطِنَةً } معناه قَولُ لاَ إِلهَ إلاّ الله ظاهرةٌ باللسانِ باطنةٌ فِي القَلبِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And He has increased you in goodness [visible] and [in] the inner [invisible]} means the saying of \"There is no god but Allah\" is visible by the tongue and hidden in the heart.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

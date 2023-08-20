@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَتَى ٱللَّهُ بُنْيَانَهُمْ مِّنَ ٱلْقَوَاعِدِ } معناه دُمَّرَ الله عليهم - والله لَيس بِزَائلٍ ولا مُنتَقلٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {So Allah destroyed their building from the foundations} means that Allah destroyed them - and Allah is not wasteful or moving.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

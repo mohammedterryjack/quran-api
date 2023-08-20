@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِّن وُجْدِكُمْ } معناه من سِعَتِكُم\n\n\n\n\nوقوله تعالى: { وَأْتَمِرُواْ بَيْنَكُمْ بِمَعْرُوفٍ } يعني تَشَاورُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"From your wealth,\" means from your abundance.\n\n\nAnd His saying, \"And consult with one another in goodness/righteousness\" - this means that you should consult with one another.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

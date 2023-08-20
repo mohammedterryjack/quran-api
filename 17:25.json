@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِنَّهُ كَانَ لِلأَوَّابِينَ غَفُوراً } قال الإِمامُ الشهيدُ زيد بن علي عليهما السلام: الأَوابُ: الذي يُذنِبُ سِراً ويَتوبُ سِراً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah, {Indeed, it is for the repentant} Imam al-Shahid Zayd ibn Ali, peace be upon them, said: The repentant: the one who commits a sin secretly and repents secretly.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

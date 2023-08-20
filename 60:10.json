@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يٰأَيُّهَا ٱلَّذِينَ آمَنُواْ إِذَا جَآءَكُمُ ٱلْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَٱمْتَحِنُوهُنَّ } معناه اختَبِرُوهنَّ وجَرِّبُوهنَّ\n\n\n\n\nوقوله تعالى: { وَآتُوهُم مَّآ أَنفَقُواْ } معناه أَعطُوهم مهورَ النِّساءِ اللاّتي يَخرجنَ إليكم مِنهُم مُسلماتٍ\n\n\n\n\nوقوله تعالى: { وَلاَ تُمْسِكُواْ بِعِصَمِ ٱلْكَوَافِرِ } معناهُ بحَبلِهنَّ وسُنتِهنَّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{O you who have believed} when the believing women come to you as immigrants, {examine them} - that is, test and try them.\n\n\nAnd His saying, {And give them what they have spent}, means that you should give them the dowries of the women who come to you as Muslims.\n\nAnd his saying - {And do not take the disbelievers as allies instead of the believers. Do you not wish that Allah should forgive you for your sins?} - its meaning with their link and their custom.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

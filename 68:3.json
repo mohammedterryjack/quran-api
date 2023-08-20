@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنَّ لَكَ لأَجْراً غَيْرَ مَمْنُونٍ } أي غيرَ مَحسوبٍ\n ويقال: غَيرُ مَنقوصٍ\n والأَجرُ: الثّوابُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And indeed, for you there is reward, not unpaid} that is, not unreckoned.\n It is said: \"Not diminished\"\n\n\nAnd as for the reward, it is the recompense.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

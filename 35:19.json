@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا يَسْتَوِي ٱلأَعْمَىٰ } معناه الكافرُ { وَٱلْبَصِيرُ } معناه المؤمنُ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"The blind and the seeing are not equal\" - the disbeliever is like the blind, and the believer is like the seeing.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

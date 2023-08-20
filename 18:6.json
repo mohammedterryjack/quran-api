@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَعَلَّكَ بَاخِعٌ نَّفْسَكَ } معناه قَاتلُ نَفْسِكَ ومهُلِكِهَا\n\n\n\n\nوقوله تعالى: { بِهَـٰذَا ٱلْحَدِيثِ أَسَفاً } معناهُ نَدِمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd his saying, {So perhaps you would kill yourself with grief over them} [means that] you kill yourself and destroy it.\n\n\nAnd His saying, \"With this [hadith] I am grieved,\" its meaning is remorse.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

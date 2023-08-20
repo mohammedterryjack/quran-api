@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَلْ هُمْ فِي لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ } معناه من إحياءٍ بعدَ المَوتِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {But they are in clothing of new creation} means from resurrection after death.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

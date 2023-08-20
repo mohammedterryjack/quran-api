@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَّقَدْ جِئْتَ شَيْئاً نُّكْراً } معناه دَواهِي عُظمى\n\n\n\n\nوقوله تعالى: { زَكِيَّةً بِغَيْرِ نَفْسٍ } معناه مُطهّرةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"You have come with something great [i.e., a great act of disbelief].\" This means that you are extremely wicked.\n\n\nThe phrase \"zakiyyah an bi-ghayr nafs\" means \"purification without self.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَقْتُلُوۤاْ أَوْلاَدَكُمْ مِّنْ إمْلاَقٍ } معناهُ من فَقرٍ وَفَاقَةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And do not kill your children from {famaraq},\" means from poverty and need.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

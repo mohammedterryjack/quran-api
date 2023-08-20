@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذْ تُصْعِدُونَ } معناهُ تُباعِدُونَ فِي الأَرضِ\n\n\n\n\nوقوله تعالى: { فِيۤ أُخْرَٰكُمْ } معناهُ فِي أَخِرِكُم\n\n\n\n\nوقوله تعالى: { فَأَثَـٰبَكُمْ غَمّاًً بِغَمٍّ } فالغَمُّ الأَولُ: الجُرحُ والقَتْلُ\n والغَمُّ الأَخِيرُ: حِينَ سَمِعُوا بِقَتْلِ النَّبي صلى الله عليه وسلم\n ويُقالُ ما كَانوا يَرجُونَ مِنَ الغَنِيمةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when you {ascend} , you will be dispersed on the earth.\n\n\nAnd His saying, \"In the last of you\" - meaning in the last of you.\n\n\nAnd the saying of Allah: {Then you will be repaid with a grief for a grief} So the first grief is the wound and the killing.\n\n\nAnd the last grief: when they heard of the Prophet's (peace and blessings of Allaah be upon him) death.\n They used to hope for { } from the { }",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

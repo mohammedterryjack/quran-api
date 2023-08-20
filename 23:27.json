@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَفَارَ ٱلتَّنُّورُ } معناه ظَهرَ المَاءُ من مَسجدِ الكُوفةِ\n وقال: بالهند\n ويقال: على وَجهِ الأرضِ\n ويقال: طُلوعُ الفَجرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And the light of the sun disappeared,\" means that the water emerged from the Mosque of Kufa.\n He said: \"To India\"\n\n\nIt is said that on the face of the earth\n It is said: The dawn has risen.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلْكُبْرَىٰ } معناه السَّاعةُ تَطُمُّ عَلَى كُلِّ دَاهيةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when the great hour comes {}, it will come upon every person.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلاَّ يَجْعَلَ لَهُمْ حَظّاً فِي ٱلآخِرَةِ } معناهُ نَصيبٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Let them not have a share in the Hereafter} [means that] they will have no portion.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

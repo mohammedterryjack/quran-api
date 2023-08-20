@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَوْحَىٰ رَبُّكَ إِلَىٰ ٱلنَّحْلِ } أي ألْهَمَها إِلهَاماً ولَم يُرسِلْ إِليها رَسولاً\n\n\n\n\nوقوله تعالى: { وَمِمَّا يَعْرِشُونَ } معناه يَجعَلُونهُ عَرْشاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd your Lord inspired the bee, {saying}, \"Take for yourselves among the mountains, houses, and among the trees and [in] that which they construct. \n\n\n\nAnd His saying, {And of what they establish as a throne} [means that] they make it a throne.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

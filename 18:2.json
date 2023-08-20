@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال حدّثنا علي بن أحمد\n قالَ حدّثنا عطاءُ بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قوله تعالى: { مِّن لَّدُنْهُ } من عِندَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\n{He} said: {We} were told by {Ali ibn Ahmad}\n\n\nHe said, \"It was narrated to us by `Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn `Ali, may Allah be pleased with them, in his saying regarding Allah's statement, {From Him} from His side.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

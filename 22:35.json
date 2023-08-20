@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجِلَتْ قُلُوبُهُمْ } معناه فَزِعَتْ وَخَافَتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - Exalted is He, {And their hearts became fearful} - its meaning is that their hearts became afraid and terrified.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَزُلَفاً مِّنَ ٱلَّيْلِ } معناه ساعاتٌ مِنهُ واحد [تُـ]ـهَا زُلفَةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - {and {a little} from the night} - its meaning is one hour [of it is] {a little}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱنفِرُواْ ثُبَاتٍ } معناهُ جماعاتٌ\n واحدُها ثُبةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So march forth in the cause of Allah} means [that you should go forth] in groups.\n\n\nOne of them is a rock.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

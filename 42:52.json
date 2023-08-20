@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنَّكَ لَتَهْدِيۤ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ } معناه تَدعو إلى ذلك\n\n[الأنعام: 87] معناه دَعوناهُم إِليهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"You shall guide to a straight path.\" This means you should call to that.\n {Let us} call them to Him",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَنْ أَكُونَ ظَهِيراً لِّلْمُجْرِمِينَ } معناه مُعينٌ لَهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, {But I will not be an advocate for the criminals} [means that] he is {specifically} for them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

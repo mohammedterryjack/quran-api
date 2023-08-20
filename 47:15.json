@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِّن مَّآءٍ غَيْرِ آسِنٍ } معناه غيرُ مُتغيرٍ ولا مُنتنٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {from water that is not stagnant} means that it is neither changing nor decaying.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَآتُواْ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحْلَةً } معناهُ أَعْطُوا وصَدُقَاتُهِنَّ: مُهُورُهنَّ\n ونِحْلَةٌ\n عَنْ طِيبِ نَفْسٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And give the women their due dowries}, means give their due dowries: what is customary for them.\n\n\n{wanihlatun}\n\nThis word refers to a type of unguent or ointment.\n From a pure soul",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { آذَنتُكُمْ عَلَىٰ سَوَآءٍ } معناه أَعلَمتكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His statement, \"I have informed you of the truth equally,\" [means that] I have made you aware.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

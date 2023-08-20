@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَبِثَ فِي ٱلسِّجْنِ بِضْعَ سِنِينَ } يُقالُ اثنتي عَشرة سنةً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"So he remained in prison for a number of years,\" is said to be twelve years.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَالَ مَوْعِدُكُمْ يَوْمُ ٱلزِّينَةِ } معناه يومُ العِيدِ\n وقال: يومُ السَّبتِ\n وقال: يومُ سُوقٍ لَهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe meaning of the verse {Your appointment is on the Day of Adornment} is the Day of the Feast.\n\n\nHe said, \"Saturday is the day.\"\n He said: \"The day of the market is for them.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

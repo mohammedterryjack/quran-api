@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَبَتَّلْ إِلَيْهِ تَبْتِيلاً } [معناه] أَخلص لَهُ إخلاصاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd try to be sincere to him in your devotion.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

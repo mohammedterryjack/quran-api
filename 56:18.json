@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِأَكْوَابٍ وَأَبَارِيقَ } فالأَكوابُ: الأَباريقُ التي لا عُرى لها\n واحدُها كُوبٌ\n\n\n\n\nوقوله تعالى: { وَكَأْسٍ مِّن مَّعِينٍ } فالكأسُ: الإِناءُ بشَرابِهِ ولا يُسمى كأساً إلاّ بهِ\n والمَعينُ: الخَمرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {By the cups and by the stars} - the cups are the stars that have no veil over them.\n\n\nOne of them is a cup.\n\n\nAnd the saying of Allah, \"And a cup of drink from [the fruit of] a certain tree,\" the cup is the vessel with its drink, and it is not called a cup except with it.\n\n\nThe ma'ein is wine.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

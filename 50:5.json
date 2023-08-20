@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِيۤ أَمْرٍ مَّرِيجٍ } معناه مُختلطٌ\n ويقال: الشيءُ المُتغيرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"in an affair {marijin},\" means it is mixed.\n It is said: The variable thing.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

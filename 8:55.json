@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ شَرَّ ٱلدَّوَابِّ عِندَ ٱللَّهِ ٱلَّذِينَ كَفَرُواْ } والدَّوابُ تَتَّسعُ عَلَى النَّاسِ والبَهائِمِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Indeed, the worst of creatures in the sight of Allah are those who disbelieved} [Qur'an 8:55] - the creatures referred to here are the people and the animals.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

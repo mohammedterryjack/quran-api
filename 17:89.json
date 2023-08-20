@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ صَرَّفْنَا لِلنَّاسِ } يعني وَجّهنَا وبيّنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - Exalted is He, {And We have turned to the people} - means that We have turned Our Face and Our attention to the people.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

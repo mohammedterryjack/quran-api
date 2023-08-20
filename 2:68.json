@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { إِنَّهَا بَقَرَةٌ لاَّ فَارِضٌ وَلاَ بِكْرٌ عَوَانٌ } قالَ زيدُ بن علي عليهما السلامُ: الفارضُ: الكبيرةُ المُسنَّةُ\n والجمعُ الفَوارِضُ\n والبِكْرُ: الصَّغيرةُ\n وَعَوانٌ: لا صغيرةٌ ولا كبيرةٌ\n والجمعُ العُونُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Most High: {Indeed, it is a cow neither old nor young, but of middle age} - Zayd ibn `Ali, peace be upon him, said: \"The old one is the large, mature cow.\"\n\n\nAnd the obligatory alms\n\n\nAnd the small one is the young one.\n\n\nAnd {awaanun}: neither small nor large\n\n\nThe helping or contributing group",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

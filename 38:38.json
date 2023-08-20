@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَآخَرِينَ مُقَرَّنِينَ فِي ٱلأَصْفَادِ } معناه في الأَغلالِ، واحدُها صَفدٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And others tied together in the chains} [means that] among the shackles, one is Safad.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

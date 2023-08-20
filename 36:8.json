@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلَى ٱلأَذْقَانِ فَهُم مُّقْمَحُونَ } والأَذقانُ: مَجامعُ اللحى\n والواحد: ذِقنٌ\n وذقنُ الإنسانِ: مَجامعُ لحييهِ\n والمُقمحُ: الرافعُ رَأسه\n وكذلك المُقنعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {to the two nostrils, then they are snub-nosed}, and al-adhqan: the bridge of the nose.\n\n\nAnd the One: a nose\n We taste the human: a collection of life.\n\n\nAnd the pejorative: the one who raises his head\n\n\nAnd also the one who is confident",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱسْأَلُواْ أَهْلَ ٱلذِّكْرِ } قال: الإِمامُ زيدُ بن علي عليهما السلام: نَحنُ أَهلُ الذِّكرِ\n ويقالُ: أَهلُ الذِّكرِ مَن أَسلَمَ مِن أَهلِ التوراةِ والإِنجيلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {So ask the people of knowledge if you do not know}, Imam Zaid bin Ali said: We are the people of knowledge.\n\n\nAnd it is said: The people of dhikr are those who have submitted from the people of the Torah and the Injil.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

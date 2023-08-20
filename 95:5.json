@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ } معناه إلى أَرذلِ العمرِ، إلى أن يُبدِّلَ حالاً بعدَ حالٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Then We returned him to the lowest of the low,\" refers to the lowest point in old age, until he is replaced by another.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

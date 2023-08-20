@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلْنَا بَيْنَهُم مَّوْبِقاً } معناه مَهلكٌ والمَّوبقُ: المَوعدُ\n قال الإِمامُ زيد بن علي عليهما السَّلامُ: المَّوبقُ: وادٍ بينَ أَهلِ الضّلالةِ وأَهلِ الإِيمَانِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted is He: {And We have appointed a barrier between them} its meaning is a destroyer, and al-Mawbiq: the appointment.\n The Imam Zaid ibn Ali said, Peace be upon him: {The Mawbq} is a valley between the people of error and the people of faith.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

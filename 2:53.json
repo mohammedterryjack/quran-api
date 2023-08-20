@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَإِذْ آتَيْنَا مُوسَى ٱلْكِتَابَ وَٱلْفُرْقَانَ } أَي أَعْطَينَا\n والفُرْقَانُ: ما فرقَ بينَ الحقِّ والبَاطلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd [remember] when We gave Moses the Book and the criterion [of right and wrong]?\n\n\nAnd the criterion (of right and wrong): what has distinguished between truth and falsehood.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

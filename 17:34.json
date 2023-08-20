@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَقْرَبُواْ مَالَ ٱلْيَتِيمِ إِلاَّ بِٱلَّتِي هِيَ أَحْسَنُ } معناه بالتّجارةِ فيهِ\n\n\n\n\nوقوله تعالى: { إِنَّ ٱلْعَهْدَ كَانَ مَسْؤُولاً } معناهُ مطلوبٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And do not approach the orphan's property except with that which is better} [means] with trade in it.\n And His saying, {Indeed, the promise is [that it is] obligating} [means that it is] required.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

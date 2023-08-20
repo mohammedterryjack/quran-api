@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱعْمَلُواْ عَلَىٰ مَكَانَتِكُمْ } معناهُ عَلَى نَاحِيتِكُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Work on your position} means according to your capability.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

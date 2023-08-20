@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلُواْ للَّهِ مِمَّا ذَرَأَ } معناهُ خَلَقَ\n وَبَرَأَ مِثْلُه\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And they made for Allah from what He created…\" - this means that He created them.\n\n\nAnd He created his likeness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

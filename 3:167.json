@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَاتِلُواْ فِي سَبِيلِ ٱللَّهِ أَوِ ٱدْفَعُواْ } قالَ زَيدُ بن علي عليهما السَّلامُ: معناهُ كَثِّرُوا سَوادَكُم\n ورَابِطُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Fight in the way of Allah or} pay {tribute}, Zayd ibn Ali said: Its meaning is to increase your blackness.\n\n\nAnd keep your duty to Allah, O believers, that you may be successful.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

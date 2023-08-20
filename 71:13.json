@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَّا لَكُمْ لاَ تَرْجُونَ لِلَّهِ وَقَاراً } معناه عَظمتُهُ وتَخافُونَ عُقوبَتهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {What is it with you that you do not fear Allah and show Him due reverence?} Its meaning is His greatness and you fear His punishment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

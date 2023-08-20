@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ إِبْرَاهِيمَ لأَوَّاهٌ حَلِيمٌ } والأَواهُ: المُتضرعُ بالدعاءِ والأَواهُ: المُسّبحُ\n والأَواهُ: الرَّحيمُ\n والأَواهُ: المُوقنُ بالخَشْيَةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {Indeed, Ibrahim was {awwahun} halimun} and the {awwahun}: the one who is humble in prayer and the {awwahun}: the one who is swimmer.\n\n\nAnd the Most Merciful: the Most Compassionate.\n\n\nAnd the Awah are those who are certain of the Divine Decree.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأُمُّهُ هَاوِيَةٌ } معناه فمصيرُهُ إلى النَّارِ\n وكانَتْ العَربُ إذا وَقعَ الرَّجلُ فِي أمرٍ شَديدٍ، قالوا هَوتْ بهِ أُمُهُ\n ويقال: أمُ رَأسِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"His mother is a Hāwiyah,\" means that his destiny is the Fire.\n\n\nWhen an Arab man was in a difficult situation, they would say, \"His mother is with him.\"\n His mother's head is said.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا كُنَّا نَسْتَنسِخُ } معناه نَكتُبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the saying of Allah: {We were} is that we write.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

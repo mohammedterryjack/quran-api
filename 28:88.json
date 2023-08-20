@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كُلُّ شَيْءٍ هَالِكٌ إِلاَّ وَجْهَهُ } معناه إلاّ هُو\n ويقال: ما أُريدَ بِهِ وَجهَهُ مِن الأَعمالِ الصَّالِحةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe saying of the Almighty: {Every single thing will perish except His Face} means except He\n It is said: I do not intend by it the face of his righteous deeds.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

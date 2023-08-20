@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُوَّةٍ أَنكَاثاً } فالقُوةُ: الكُبَّةُ\n والأَنْكَاثُ: المَنقوضةُ مِنهَا\n\n\n\n\nوقوله تعالى: { دَخَلاً بَيْنَكُمْ } معناهُ فَسَادٌ\n\n\n\n\nوقوله تعالى: { هِيَ أَرْبَىٰ مِنْ أُمَّةٍ } معناه أكثرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {with power and great ability}, the meaning of \"power\" here is \"greatness\".\n\n\nAnd the ankath: the broken-off part of it.\n\n\nAnd His saying, \"Enter between you,\" means corruption.\n\n\nAnd His saying, \"She is the most beloved of all nations,\" means that she is more beloved.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَفَمَنْ هُوَ قَآئِمٌ عَلَىٰ كُلِّ نَفْسٍ بِمَا كَسَبَتْ } معناهُ دائِمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Who is he who will have power over every soul for what it has earned?} [Qur'an 4:85] Its meaning is always.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَّا كَانَ عَلَى ٱلنَّبِيِّ مِنْ حَرَجٍ } معناه من ضِيقٍ وإثمٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is no blame on the Prophet} means that there is no hardship or sin on him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

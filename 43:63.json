@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلأُبَيِّنَ لَكُم بَعْضَ ٱلَّذِي تَخْتَلِفُونَ فِيهِ } معناه كُلُ الذي تَختلفونَ فيهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"I will make clear to you some of what you differ about\" - its meaning is all that you differ about.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

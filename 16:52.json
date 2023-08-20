@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَهُ ٱلدِّينُ وَاصِباً } يعني دائماً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His is the religion, forever.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَآمَنَهُم مِّنْ خَوْفٍ } أي مِن الجُذُامِ\n ويقال: من أن يُغيروا في حَرمِهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"I have believed in them from {fear}\" - that is, from the punishment.\n It is said: Whoever changes in their sanctuary",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

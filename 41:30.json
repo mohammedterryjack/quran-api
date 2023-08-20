@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱلَّذِينَ قَالُواْ رَبُّنَا ٱللَّهُ ثُمَّ ٱسْتَقَامُواْ } معناه ثَبَتُوا على الإِيمانِ بالله، ولم يُفارقوا رسولَ الله صلى الله عليهِ وعلى آلهِ وسلّمَ ولا أهلَ بيتهِ عليهمُ السَّلامُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the verse, \"Those who say, 'Our Lord is Allah,' and then remain on the straight path\" is that they have affirmed their faith in Allah and have not abandoned the Messenger of Allah or the members of his household - may peace be upon them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

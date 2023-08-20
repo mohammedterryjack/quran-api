@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ يَلِتْكُمْ مِّنْ أَعْمَالِكُمْ شَيْئاً } معناه لا يَنقُصَكُم\n\n\n\n\nوقوله تعالى: { وَلَـٰكِن قُولُوۤاْ أَسْلَمْنَا } معناه اسْتَسلَمنا لِخوفِ القَتلِ والسَّبيِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {No fatigue will come to you in your [work for] Us} - its meaning is that nothing of your [good] deeds will be lost.\n\n\nAnd His saying, {But say, \"We have submitted\"}, means that we have submitted out of fear of death and destruction.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

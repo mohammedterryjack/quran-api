@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ } معناه يعاقبُهُم ويكافِئُهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd if Allah were to punish people for their wrongdoings, He would not leave any creature alive on the earth.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَفِيۤ أَمْوَالِهِمْ حَقٌّ لَّلسَّآئِلِ وَٱلْمَحْرُومِ } قال زيد بن علي عليهما السّلامُ: معنى السَّائل: الذي يسألُ بكفهِ\n والمَحرومُ: الذي لا يَسألُ الناسَ شيئاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And in their wealth is a right for the asker and the deprived}, Zayd ibn Ali said: The meaning of the asker is the one who asks with his own effort.\n\n\nThe needy person is one who does not ask others for anything.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

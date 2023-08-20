@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي عُتُوٍّ } معناه تَكبرٌ { وَنُفُورٍ } معناه تَولٍ عن الحَقِّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"In {I'tuwwin}\" means {and arrogance}, \"and {Nufuwwir}\" means turning away from the truth.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

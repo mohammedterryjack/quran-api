@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱلْيَوْمَ نُنَجِّيكَ بِبَدَنِكَ } معناهُ نُلقِيكَ عَلَى نَجْوةٍ وهي الإِرتفاعُ مِن الأَرضِ\n والبَدنُ كَانَ يَلبَسهُ فِرعَونُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying: {So today We will save you in your body} means that We will raise you up to a high place, which is the height from the earth.\n\n\nThe body was clothed in Pharaoh's finery.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

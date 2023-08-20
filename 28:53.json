@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا يُتْلَىٰ } معناهُ يُقرأْ عَلَيهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when the verses are recited to him, he listens to them attentively.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

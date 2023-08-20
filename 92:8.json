@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَمَّا مَن بَخِلَ وَٱسْتَغْنَىٰ } معناه بَخِلَ بما [لاَ] يبقى\n واستغنَى بغيرِ غِنى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd as for those who are stingy and content with what they have {وَأَمَّا مَن بَخِلَ وَٱسْتَغْنَىٰ}, it means that they are stingy with what will not remain.\n\n\nHe was content with what he had and did not desire more.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { زَهْرَةَ ٱلْحَيَاةِ ٱلدُّنْيَا } معناهُ زينةُ الدّنيا وجمالُها\n\n\n\n\nوقوله تعالى: { لِنَفْتِنَهُمْ فِيهِ } معناه لِنبلوَهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {the flower of life of the world}, means the adornment of the world and its beauty.\n\n\nAnd His saying, {We will test them in it}, means that We will put them to the test.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

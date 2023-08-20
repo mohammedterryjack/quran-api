@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلَّذِي جَعَلَ فِي ٱلسَّمَآءِ بُرُوجاً } معناه قصورٌ فِي السَّماءِ فيها حَرسٌ\n وقال البُروجُ: النُّجومُ العظامُ\n\n\n\n\nوقوله تعالى: { وَجَعَلَ فِيهَا سِرَاجاً } معناه شمسٌ وضياءٌ\n وسِراجٌ: معناه نُجومٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He who made in the heaven} means high towers in the heaven, in which there is a guard.\n\n\nAnd the stars said: \"The great stars.\"\n\n\nAnd His words, {And He made in it a lamp}, mean the sun and light.\n\n\nThe word \"wisrāj\" refers to stars.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيَسْأَلُونَكَ عَنِ ٱلرُّوحِ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّي } معناه من عِلمِ رَبّي، فإِنكُم لا تَعلمُونَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And they ask you about the spirit. Say: The spirit is from the matter of my Lord} Its meaning is from the knowledge of my Lord, for you do not know it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

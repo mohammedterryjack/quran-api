@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ آتَيْنَا لُقْمَانَ ٱلْحِكْمَةَ } معناهُ الفِقهُ، والإِصابةُ في القَولِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - \"And We had given Luqman wisdom\" - its meaning is the Fiqh, and being affected by the saying.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

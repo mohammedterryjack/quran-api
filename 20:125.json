@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَالَ رَبِّ لِمَ حَشَرْتَنِيۤ أَعْمَىٰ } معناه عَمِيّ عَن الحُجةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"My Lord, why have you raised me up blind?\" Means: I am blind to the evidence.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

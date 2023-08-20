@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَأُوْلَـٰئِكَ هُمُ ٱلْمُفْلِحُونَ } والمُفلحُ: المُصيبُ للخَيرِ الظَّافِرُ بِهِ\n والاسمُ الفَلاحُ، والفَلاَحُ: الخَيْرُ والفَلاحُ: التُّقَى، والمُفْلِحُ: المُتّقي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And those are the successful} and the successful are those who are afflicted with good and are content with it.\n\n\nThe name of felah (prosperity) and falah (prosperity) is good and prosperous, and the successful and prosperous are those who are righteous.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

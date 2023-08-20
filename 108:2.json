@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَصَلِّ لِرَبِّكَ وَٱنْحَرْ } معناه صلِّ بجَمعٍ، وانحرْ بِمنى\n ويقال: وانحرْ معناه استقبلْ القِبلةَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, Exalted is He, {So pray to your Lord and sacrifice [to Him alone]} [means] pray in congregation and sacrifice with intention.\n\n\nAnd it is said: \"And take our meaning as the meaning of the Qiblah.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمِنْهُمْ مَّن يَلْمِزُكَ فِي ٱلصَّدَقَاتِ } معناه يُعِيبُكَ ويَقعُ فِيكَ، ويَطعُنُ عَلَيكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd among them are those who criticize you for your charity. This means they find fault with you and pick on you, and slander you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

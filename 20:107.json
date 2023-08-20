@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَّ تَرَىٰ فِيهَا عِوَجاً وَلاۤ أَمْتاً } فالعِوجُ: ما إعوجَّ من المَحانيَ والمَسايلَ - والأَمتُ: الإِرتِفاعُ - ويقال: المَيلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is no crookedness or difficulty in it} - crookedness refers to anything that is difficult to pronounce or recite, and difficulty refers to anything that is high or elevated. And it is said, \"The mile is high.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

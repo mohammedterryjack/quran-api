@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَالَ ٱلَّذِينَ لاَ يَرْجُونَ لِقَآءَنَا } معناه لا يَخافُون لِقاءَنا\n\n\n\n\nوقوله تعالى: { لَوْلاَ أُنْزِلَ عَلَيْنَا ٱلْمَلاَئِكَةُ أَوْ نَرَىٰ رَبَّنَا } يَقولون ألا أنزل علينا الملائكةُ\n أو نرى ربَّنَا كما لو قالتْ بنو إسرائيل لموسى عليه السّلامُ:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And those who do not expect to meet Us say, \"Do not { } fear Allah.\"\n\nAnd His saying - Exalted is He - { Had not angels been sent down to us, or had we seen our Lord } they say, \"Why were not the angels sent down to us, or why did we not see our Lord?\"\n Or do we see our Lord as if the children of Israel said to Moses, peace be upon him:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

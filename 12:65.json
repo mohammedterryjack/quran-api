@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَنَمِيرُ أَهْلَنَا } معناهُ نَأتِيهُم بِالطَّعامِ\n\n\n\n\nوقوله تعالى: { كَيْلَ بَعِيرٍ } معناهُ حِمْلُ بَعيرٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {We will come to our people with food}, means that We will bring them food.\n\n\nAnd the saying of Allah, {Kail Ba'ir} means the load of an camel.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَوْفَ نُصْلِيهِمْ نَاراً } معناهُ نَشوِيهِمْ بالنّارِ ونَنضِجُهُمْ بِهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - the Most High - {We will surely burn them in a Fire} means that We will cook them in the Fire and roast them with it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

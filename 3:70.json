@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِمَ تَكْفُرُونَ بِآيَاتِ ٱللَّهِ } معناهُ تُكَذِّبُونَ بِكُتُبِ الله\n\n\n\n\nوقوله تعالى: { وَأَنْتُمْ تَشْهَدُونَ } معناهُ تَقِرُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, Exalted is He, {Why do you disbelieve in the signs of Allah?} Its meaning is that you disbelieve in the books of Allah.\n\n\nAnd you bear witness [to the truth] - meaning you affirm it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

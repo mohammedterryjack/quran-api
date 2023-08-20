@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَرْنَ فِي بُيُوتِكُنَّ } يعني إِلزمنَّ بِيوتَكُنَّ\n\n\n\n\nوقوله تعالى: { وَلاَ تَبَرَّجْنَ تَبَرُّجَ ٱلْجَاهِلِيَّةِ ٱلأُولَىٰ } التَّبرجُ: إِظهارُ الزِّينةِ والمَحاسنِ، وإبرازُهَا\n والجَاهليةُ الأَولى: ما بينَ إِدريس ونوح عليهما السَّلامُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {And stay in your homes} means that you should be committed to your homes.\n\nAnd His saying, {And do not display yourselves as [was] the display of the former times of ignorance.} The display: the showing of adornment and beauty, and the displaying of it.\n\n\nAnd the first ignorance: that between Idris and Noah, peace be upon them both.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

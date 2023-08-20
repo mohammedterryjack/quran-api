@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَلْقَيْنَا فِيهَا رَوَاسِيَ } معناه خَلَقْنا فِيها جِبَالاً ثَوابتَ\n\n\n\n\nوقوله تعالى: { مِن كُلِّ شَيْءٍ مَّوْزُونٍ } معنَاهُ بقدرٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd We have placed within it { mountains } firm.\n And His saying, {from every thing a {mawzun}} its meaning is with a measure.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

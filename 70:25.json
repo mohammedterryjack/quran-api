@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِّلسَّآئِلِ وَٱلْمَحْرُومِ } معناه صاحبُ الحِرفةِ الذي لَيسَ لَهُ في الإِسلامِ سَهمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {for the asker and the deprived} [means] the owner of the [letter of] divorce who has no share in Islam.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

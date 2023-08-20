@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَمَّآ أَحَسُّواْ بَأْسَنَآ } معناه وَجَدوا { يَرْكُضُونَ } معناه يَسرعُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when they felt Our might {they ran away} in haste.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

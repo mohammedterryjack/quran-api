@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَوْ تُسَوَّىٰ بِهِمُ ٱلأَرْضُ } معناهُ يدْخِلُونَ فِيهَا، فَتَعْلُوهُمْ الأَرضُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {if the earth were to be filled with them} means that they enter it, then the earth would be filled with them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

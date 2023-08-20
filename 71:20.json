@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِّتَسْلُكُواْ مِنْهَا سُبُلاً فِجَاجاً } معناه مَسالِكٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {that you should travel through it [the earth] a distance of} {mi'jan} {[a journey of] stages} - its meaning is {masalik}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

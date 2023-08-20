@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَيَسْأَلُونَكَ عَنِ ٱلْمَحِيضِ قُلْ هُوَ أَذًى } معناه قَذرٌ\n\n\n\n\nوقولهُ تعالى: { وَلاَ تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ } معناهُ حتَّى يَنقطعَ الدَّمُ عَنهُنَّ\n ويَتَطَّهَرْنَ: يَغْتَسِلْنَ بالماءِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {And they ask you about menstruation. Say, \"It is harmful\"}, its meaning is filthy.\n\nAnd His saying, {And do not approach them until they have purified themselves. } Its meaning is that they should not approach until the blood has stopped flowing.\n\n\nAnd they purify themselves: they wash with water",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

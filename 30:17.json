@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَسُبْحَانَ ٱللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ وَلَهُ ٱلْحَمْدُ فِي ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ وَعَشِيّاً وَحِينَ تُظْهِرُونَ } قال الإِمامُ زيد بن علي عليهما السّلامُ: التسبيحُ في هذه الآيةِ الصلواتُ الخمسِ\n فحينَ تُمْسونَ: صَلاةُ المَغربِ، وصَلاةُ العِشاءِ الآخرةِ\n وحين تُصْبحونَ: صلاةُ الفَجرِ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe Almighty said: {So exalt [ Allah ] when you come [to the evening] and when you enter the morning. And His is the praise in the heavens and the earth - and [in] the afternoon and when you come to the time when the day begins to decline.} Imam Zayd ibn Ali, peace be upon him, said: \"The Tasbih in this verse is the five prayers.\"\n\n\nWhen you pray: the prayer of the sunset, and the prayer of the last night.\n\n\nWhen you wake up, pray the fajr prayer.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

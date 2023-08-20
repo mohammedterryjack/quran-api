@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَاءَتْ سَيَّارَةٌ فَأَرْسَلُواْ وَارِدَهُمْ } والسَّيارةُ: الذين يَسيرونَ فِي الأَرضِ، يُسافِرُون فِيهَا\n والوَارِدُ: الذي يُورِدُ الماءَ فَيسقى لَهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the verse says: {And a caravan came, and they sent their messenger} and the caravan refers to those who travel on the earth, they journey through it.\n\n\nThe one who brings water and irrigates for them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

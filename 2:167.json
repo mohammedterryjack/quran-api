@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { كَذَلِكَ يُرِيهِمُ ٱللَّهُ أَعْمَالَهُمْ حَسَرَاتٍ عَلَيْهِمْ } وواحدُهَا حَسرةٌ\n وهي أشد النَدَامَةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Thus does Allah show them their deeds as regrets upon them,\" is one of those regrets.\n\n\nAnd she is the most regretted.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

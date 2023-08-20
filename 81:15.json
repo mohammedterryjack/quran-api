@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ أُقْسِمُ بِٱلْخُنَّسِ ٱلْجَوَارِ ٱلْكُنَّسِ } فالخُنَّسُ هي النّجومُ تَخنُسُ بالنّهارِ\n والجَوَارُ الكُنَّسِ: هي النّجومُ، وهي خَمسةُ كَواكبٍ مرجان وزحل وعطارد وبهرام والزهرةُ\n ويقال الجَوَارُ الكُنَّسِ: بقرُ الوَحشِ والظباء\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {I will not swear by the stars that twinkle at night}, for the stars are the ones that twinkle during the day.\n\n\nThe {jawār al-kunnas} are the stars, and they are the five planets Mercury, Venus, Mars, Jupiter, and Saturn.\n\n\nThe neighbor is called the \"neighbor of the beasts and the hyenas.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

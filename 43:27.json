@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ ٱلَّذِي فَطَرَنِي } معناه خَلَقني\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the saying of the Most High: {Except for the one who created me} is that He created me.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

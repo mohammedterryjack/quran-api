@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَلاَّ إِنَّ كِتَابَ ٱلْفُجَّارِ لَفِي سِجِّينٍ } معناه لَفي حَبسٍ\n ويقال: إِنَّ سِجِّيناً تَحتَ سُورِ إبليس في الأَرضِ السَّابعةِ السّفلى\n ويقال: في خَسَارٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Most High: {Indeed, the record of the wicked is in {Sijjīn}} means in imprisonment.\n It is said that there is a prison under the {sur} of Iblis in the lower seventh {earth}.\n It is said: In a loss",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

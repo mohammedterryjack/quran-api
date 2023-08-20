@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قالَ: حدّثنا علي بن أحمد\n قالَ: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَانِكُمْ } معناه بيَّنَها لَكُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n He said: Ali ibn Ahmad narrated to us\n\n\nHe said: \"It has been narrated to us by 'Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn 'Ali, upon them both be peace, regarding the words of the Almighty, '{Allah has decreed for you the ritual purification of your oaths}' - its meaning is that He has made it clear to you.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

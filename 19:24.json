@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيّاً } يعني نهراً صغيراً، وسَرياً بالنبطيةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Your Lord has made a stream flow beneath you,\" is a reference to a small river, flowing gently.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

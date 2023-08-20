@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا غَشِيَهُمْ مَّوْجٌ كَٱلظُّلَلِ } معناه سَحائبٌ سُودٌ كَثيرةُ الماءِ\n\n\n\n\nوقوله تعالى: { كُلُّ خَتَّارٍ } معناه غَدَّارٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when a wave covers them {like darkness}, it means that there are many black clouds full of water.\n\n\nAnd His saying, {Every choice} means Ghaddar.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

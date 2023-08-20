@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ أَنَزلَ ٱللَّهُ سَكِينَتَهُ } فالسّكينةُ: الوَقارُ، والسُّكونُ والطُّمأَنينةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: { Then Allah sent down His tranquility } So the tranquility: the dignity, and the calm and the security.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

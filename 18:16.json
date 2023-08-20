@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيُهَيِّئْ لَكُمْ مِّنْ أَمْرِكُمْ مِّرْفَقاً } [معناه] ما ارتُفِقَ بهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He will make your affairs {easeful} to you\" [means] that which is in accordance with what is easy for you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

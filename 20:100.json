@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَحْمِلُ يَوْمَ ٱلْقِيَامَةِ وِزْراً } يعني ثِقْلاً وإِثماً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He will bear the burdens of the Day of Resurrection,\" means a great weight and sin.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

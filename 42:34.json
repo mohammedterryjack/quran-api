@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ يُوبِقْهُنَّ بِمَا كَسَبُوا } معناه يَهلِكُنَّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, {or destroy them for what they have earned}, means to destroy them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

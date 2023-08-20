@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱلْفَارِقَاتِ فَرْقاً } معناه الرّسلُ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe phrase \"fal-fariqati farqan\" means \"the differences among the prophets.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

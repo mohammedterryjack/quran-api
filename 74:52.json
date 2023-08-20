@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَلْ يُرِيدُ كُلُّ ٱمْرِىءٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفاً مُّنَشَّرَةً } قال الإِمام زيد بن علي عليهما السلامُ: معناه أنَّ الكُفارَ قالوا: إن كانَ محمدٌ صادقاً، فليَصبح تَحتَ كُلِّ واحدٍ صَحيفةٌ أنَّ لَهُ الجَنةَ وأَنهُ آمنٌ مِنَ النَّارِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd {the saying of Allah, \"But every man among them desires that he should be given open pages [from the books of Paradise]\"}, Imam Zayd ibn Ali said: Its meaning is that the disbelievers said: \"If Muhammad is truthful, then let every one of us have a page from the Paradise, and that he is safe from the fire.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلأَرْضَ فَرَشْنَاهَا فَنِعْمَ ٱلْمَاهِدُونَ } معناه بَسَطناهَا\n والماهدُ: البَاسِطُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, \"And We have spread out the earth and placed therein stabilizers\" - its meaning is that We have flattened it.\n\n\nAnd the moon: the most extended.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

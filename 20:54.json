@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لأُوْلِي ٱلنُّهَىٰ } يعني لأُولي العُقُولِ\n واحدُها نُهْيةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Al-Uluww} (the Most High/Exalted), means for those with minds.\n {It is} one prohibition",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذَا خَوَّلَهُ نِعْمَةً مِّنْهُ } معناه أَعطاهُ\n\n\n\n\nوقوله تعالى: { وَجَعَلَ لِلَّهِ أَندَاداً } معناه أشباه وأَمثالٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"When He grants them a favor from Himself\" - this means He gives it to them.\n\n\nAnd His saying, \"Allah has made [some] like [others] in likeness.\" Its meaning is [that He has made] similarities and likenesses.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

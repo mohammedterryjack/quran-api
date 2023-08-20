@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ } فالجَنةُ: البُسْتَانُ، والجمعُ الجِنَانُ\n والرَّبوةُ: الموضِعُ المُرتَفعُ\n\n\n\n\nوقولهُ تعالى: { فَإِن لَّمْ يُصِبْهَا وَابِلٌ فَطَلٌّ } فالطَّلُ: النَّدى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Like a paradise of branches}, the paradise is the garden, and the jinn are the branches.\n\n\nThe ribāṭ is the elevated position.\n\n\nAnd the saying of the Most High: {But if a land does not receive it and a camel}, then the drought is the fault.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

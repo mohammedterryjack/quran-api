@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱسْتَيْأَسُواْ مِنْهُ } معناهُ يَئِسوا مِنهُ\n\n\n\n\nوقوله تعالى: { خَلَصُواْ نَجِيّاً } معناه اعتَزلُوا يَتشاورُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Despair not of Allah's mercy,\" its meaning is, \"Do not despair of Allah's mercy.\"\n And His saying, {They will be purified}, its meaning is that they will be divorced.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَن يُرِدْ فِيهِ بِإِلْحَادٍ } معناه بِعدُولٍ عَن الحَقِّ\n\n\n\n\nوقوله تعالى: { سَوَآءً ٱلْعَاكِفُ فِيهِ وَٱلْبَادِ } والعَاكِفُ: المُقيمُ بمكةَ\n والبَادي: الذي لا يَقومُ فِيهم من المَنازلَ، سَواءٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And whoever desires in it [the Qur'an] with injustice\" [means] turning away from the truth.\n\n\nAnd the saying of Allah, {Whether one is {engaged in} worship in it or {at home}} and {engaged in} worship: the one who is staying in Mecca.\n\n\nThe Bedouin: those who do not have permanent homes, regardless of whether they are Arabs or not.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

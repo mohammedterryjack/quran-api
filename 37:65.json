@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { طَلْعُهَا كَأَنَّهُ رُءُوسُ ٱلشَّيَاطِينِ } وهو نبتٌ قَبيحُ المَنظرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {It has come out as if it were the head of the devils} and it is a vile plant.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

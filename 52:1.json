@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السَّلامُ: في قولهِ: { وَٱلطُّورِ وَكِتَابٍ مَّسْطُورٍ } معنى الطُّور: الجبلُ\n والمَسطورُ: المَكتوبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n He said: Ali bin Ahmad narrated to us.\n\n\nHe said: It was narrated to us by 'Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn Ali, peace be upon them, that the meaning of the phrase \"wa al-tur wa kitabun mustawir\" is \"the mountain and the written book.\"\n\n\nAnd the one who is writing: the one who is written.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

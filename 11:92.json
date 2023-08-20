@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱتَّخَذْتُمُوهُ وَرَآءَكُمْ ظِهْرِيّاً } معناه جَعَلْتُموهُ خَلفَ ظِهُورِكُمْ، وتَركْتُمُوهُ وَلَم تَلتَفِتُوا إِليهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And you have taken it as an behind you} [means that] you have made it behind your back, and you have left it and did not turn to it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

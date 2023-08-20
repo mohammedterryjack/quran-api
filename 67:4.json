@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَنْقَلِبْ إِلَيْكَ البَصَرُ خَاسِئاً } معناه مُبعدٌ { وَهُوَ حَسِيرٌ } معناه مُعيّ مُنقطعٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Your sight will return to you in a state of confusion,\" means that it will be {distant} and {obscured}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

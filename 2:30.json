@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَنُقَدِّسُ لَكَ } والتَّقْدِيسُ: التَّطْهِيرُ\n ويقالُ: التَّقْدِيسُ: الصَّلاةُ\n\n\n\n\nوقولهُ تعالى: { نُسَبِّحُ بِحَمْدِكَ } معناه نُصلي لَكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And we sanctify you}, and sanctification: is purification.\n It is said: Al-taqdis: The prayer\n\n\nAnd His saying, \"We praise You,\" means we pray to You.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

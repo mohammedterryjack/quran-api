@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَآتَاكُمْ مَّا لَمْ يُؤْتِ أَحَداً مِّن ٱلْعَٱلَمِينَ } معناهُ المَّنُ والسُّلوى والحَجرُ والغَمَامُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And He has given you what He has not given to anyone else in the world} [means] al-Manna and al-Sulwa and al-Hajar and al-Ghamaam.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

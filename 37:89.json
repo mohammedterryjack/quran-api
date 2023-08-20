@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنِّي سَقِيمٌ } معناه مَطعون\n والسَّقيمُ: الهَالكُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Indeed, I am sick,\" means that He is infected.\n\n\nAnd the (one who is) certain (of the truth): the (one who is) destroyed.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

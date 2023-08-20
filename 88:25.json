@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ إِلَيْنَآ إِيَابَهُمْ } معناه رِجوعُهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"Indeed, to Us is their return\" [means that] their return is to Us.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

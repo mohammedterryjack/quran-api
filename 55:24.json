@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَهُ ٱلْجَوَارِ ٱلْمُنشَئَاتُ } فالجواري: السّفنُ والمُنشئاتُ: المجريات\n والأَعلامُ: الجبالُ واحدُها عَلَمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His are the ships in the heavens and the earth {and the mountains}, and all that is therein, and all that is between them.\n\n\nAnd the mountains: one of them is a sign.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

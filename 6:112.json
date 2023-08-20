@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { زُخْرُفَ ٱلْقَوْلِ غُرُوراً } معناهُ مُزيّنٌ مُحسَّنٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Exalt the word with glory\" - this means that it is beautiful and noble.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

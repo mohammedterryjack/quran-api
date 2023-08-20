@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَا ٱسْطَاعُوۤاْ أَن يَظْهَرُوهُ } معناه أن يُصِيرُوا فَوقهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {But they could not bear to show it} [means that] they could not become above it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

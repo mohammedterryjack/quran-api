@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ ٱللَّهِ } قال الإِمامُ زيد بن علي عليهما السلام: أما إنهُم لَم يَتكلموا بهِ\n ولكنْ عَلِمَ الله تعالى مَا في قلوبِهِم فأثنى عَلَيهم، ليرغبَ فيهِ رَاغبٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {Innama Nut'imukum Liwajhi Allahi} - Imam Zaid bin Ali said: They did not speak of it with their own mouths.\n\n\nBut Allah knows what is in their hearts, so He praised them, so that a desiring one may desire it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

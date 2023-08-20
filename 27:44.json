@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قِيلَ لَهَا ٱدْخُلِي ٱلصَّرْحَ } معناه القَصرُ\n وكانَ من قَواريرَ { فَلَمَّا رَأَتْهُ حَسِبَتْهُ لُجَّةً } معناه ماءٌ { [مُّمَرَّدٌ] } والمُمردُ: الطَّويلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {It was said to her, \"Enter the palace\"} means the palace.\n\n\nAnd there were {qawariir} of {falamma ra'at-hu hasibat-hu lujjatan} water {[mumarradun]} and the long one is the {mumarrad}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

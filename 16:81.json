@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلَ لَكُمْ مِّنَ ٱلْجِبَالِ أَكْنَاناً } معناه سِترٌ، واحدُها كِنٌّ\n\n\n\n\nوقوله تعالى: { وَجَعَلَ لَكُمْ سَرَابِيلَ تَقِيكُمُ ٱلْحَرَّ } معناه قُمصاناً { وَسَرَابِيلَ تَقِيكُم بَأْسَكُمْ } معناه دِرُوعٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - Exalted is He: {And He made for you from the mountains two} its meaning is concealment, and one of them is a kinn.\n\nAnd His saying, {And He made for you garments to protect you from the heat} [means] clothing {and garments to protect you from your fighting} [means] armor.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

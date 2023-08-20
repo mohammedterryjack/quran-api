@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَتُدْعَوْنَ إِلَىٰ قَوْمٍ أُوْلِي بَأْسٍ شَدِيدٍ } معناه إلى أهلِ الأوثانِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {You will be called to a people of severe [implied: physical] force} [refers to] the people of the idols.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَبْخَسُواْ ٱلنَّاسَ أَشْيَآءَهُمْ } معناه لا تَنْقُصُوهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"Do not withhold from the people the things they are owed\" - its meaning is do not cheat them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

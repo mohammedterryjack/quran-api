@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلْجِبَالَ أَرْسَاهَا } معناه ثّبَّتَها في الأَرضِ\n فَجَعَلَهَا أوتاداً { مَتَاعاً لَّكُمْ [وَلأَنْعَامِكُمْ] } معناه رِزقٌ لَكُمْ ولأَنعِامِكُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And the mountains He has set firm\" - its meaning is that He has firmly established them on the earth.\n\n\nAnd He made it a provision for you {and for your livestock} - a means of sustenance for you and your livestock.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

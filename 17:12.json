@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَحَوْنَآ آيَةَ ٱلَّيلِ } قال زيدُ بن علي عليهما السلام المَحو: هو السَّوادُ الذي فِي القَمَرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {Then We erase the sign of the night} Zayd ibn Ali said: \"It is the darkness that is in the moon.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

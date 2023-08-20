@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِن طُورِ سَيْنَآءَ } قال: الطُّورُ: الجَبلُ\n وسيناءُ اسمُ موضعٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"From the Mount of Sinai\" - He said: The Mount of Sinai is the mountain.\n\n\nThe city of Aswan is located in Egypt.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

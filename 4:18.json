@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَعْتَدْنَا لَهُمْ عَذَاباً أَلِيماً } معناهُ أَعدَدْنَا\n والأَلِيمُ: المُوجِعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " We have prepared for them a painful punishment.\n\n\nThe afflicted: the one who is in pain.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

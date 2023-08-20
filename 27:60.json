@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَنبَتْنَا بِهِ حَدَآئِقَ ذَاتَ بَهْجَةٍ } معناهُ جَنّاتٌ واحد[تُها] حَديقةٌ\n وذَاتُ بَهجةٍ: ذَاتُ حُسنٍ ويُراد بِها النَّخلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And We have caused to grow therein gardens of date palms and grapes}, means one garden [of date palms and grapes].\n\n\n{With a beautiful appearance: having beauty and desired by the palm tree.}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

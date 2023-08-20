@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلَى ٱلأَرْضِ ٱلْجُرُزِ } معناه البَلقعُ\n ومعناهُ الأَرضُ الغَليظةُ اليَابسةُ التي لم يُصبْها مَطرٌ\n وقال: هِي الأَرضُ التي لَيس فِيها نَباتٌ وقال: هي أَرض اليَمنِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Unto the earth, {will return}\" [Qur'an 20:55], means that the {blaq'} will return to the earth.\n\nThe {Earth} is the vast, dry land that has not been touched by rain.\n\nHe said: \"This is the land that has no plant.\" And he said: \"This is the land of Yemen.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

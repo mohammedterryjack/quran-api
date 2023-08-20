@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَفَلَمْ يَيْأَسِ ٱلَّذِينَ آمَنُوۤاْ } أَفلَم يَعلمْ وَيَتبينْ\n وهي لغةُ النَخَعِ\n\n\n\n\nوقوله تعالى: { وَلاَ يَزَالُ ٱلَّذِينَ كَفَرُواْ تُصِيبُهُم بِمَا صَنَعُواْ قَارِعَةٌ } معناهُ دَاهِيةٌ مُهْلكةٌ\n ويقالُ سَرِيَّةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Will those who believe not despair?\" Does He not know and is it not clear to Him?\n\n\nThis is the language of the scorpion.\n\n\nAnd the verse: {And those who disbelieve will continue to be afflicted by what they have done, a rolling [disaster]} means that they are doomed to destruction.\n\n\nThis is called a \"secret.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

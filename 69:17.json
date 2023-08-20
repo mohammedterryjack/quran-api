@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلْمَلَكُ } أي والملائكةُ { عَلَىٰ أَرْجَآئِهَآ } معناه على جَوانِبِهَا\n\n\n\n\nوقوله تعالى: { وَيَحْمِلُ عَرْشَ رَبِّكَ فَوْقَهُمْ يَوْمَئِذٍ ثَمَانِيَةٌ } معناه ثمانيةٌ مِن المَلائكةِ عَلَى صُورةِ الأَوعالِ\n ويقال: ثمانيةُ صُفوفٍ لا يَعلمُ عَددهُمْ إلاّ الله تعالى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {And the Kingdom} - that is, the Angels - {is on the sides thereof}, meaning on its sides.\n\n\nThe meaning of the verse {And the eight carry the Throne of your Lord above them that day} is that eight of the angels will be carrying the Throne of God above them on that day.\n It is said: \"There are eight rows {of people} of which Allah alone knows the number.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

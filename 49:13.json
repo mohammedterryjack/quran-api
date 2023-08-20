@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلْنَاكُمْ شُعُوباً وَقَبَآئِلَ } قال الإِمامُ زيد بن علي عليهما السَّلامُ: فالشُّعوبُ أَكبرُ القَبائِلِ\n\n\n\n\nوقوله تعالى: { لِتَعَارَفُوۤاْ } معناه لِتَعلمُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of the Most High: {And We have made you into peoples and tribes} Imam Zaid ibn Ali, peace be upon them, said: \"The peoples are the largest of the tribes.\"\n\n\nAnd His saying, \"Get to know one another,\" means that you should learn about one another.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

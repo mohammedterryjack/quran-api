@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا } معناهُ أَيْقَنتُم تباعدَ ما بِينَهِمَا\n والشِّقَاقُ: العَدَاوةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd if you fear division between them, {then be assured that} you will have peace between them.\n\n\nAnd the conflict: the hatred.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

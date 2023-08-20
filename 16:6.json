@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ } فالجِمالُ: أَنْ يُقالَ لِمنْ هَذِه؛ فيُقالُ لِفلانٍ\n وحين تُريحُونَ: تَرجِعونَ بالعشي إِلى مَرَاحِهَا\n وتَسرَحونَ: بالغَداةِ إِلى مَرَاعِيهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And in it you have beauty when you rest and when you rise} - the beauty here refers to someone being told, \"You are beautiful,\" whether they are resting or rising.\n\nWhen you {relax / take a break / rest}: you return to her {relaxation / break / rest}.\n You travel: in the morning to its meadows.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَنَأْتِيَنَّهُم بِجُنُودٍ لاَّ قِبَلَ لَهُمْ بِهَا } معناه لا طَاقَةَ لَهُمْ بِهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So I will come to them with armies no one can withstand}, meaning they have no power against it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَتَبَ ٱللَّهُ لأَغْلِبَنَّ أَنَاْ وَرُسُلِيۤ } معناه قَضَى الله\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Allah has decreed that I shall prevail, and that My messengers shall prevail,\" means that Allah has decreed that He shall prevail, and that His messengers shall prevail.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

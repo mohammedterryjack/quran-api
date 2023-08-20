@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّهُ لَقَوْلٌ فَصْلٌ } معناه لَقولٌ حَقٌّ { وَمَا هوَ بِٱلْهَزْلِ } معناه باللعبِ، ويقال: بالبَاطِلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, it is a statement [i.e., an expression of fact]}, its meaning is a true statement {and it is not a [mere] play [of words]}, its meaning is in vain.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱللَّهُ جَعَلَ لَكُمُ ٱلأَرْضَ بِسَاطاً } معناه مَهّدَها لَكُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the saying of Allah {And Allah has made for you the earth a flat place} is that He has made it a place of settlement for you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

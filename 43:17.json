@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ظَلَّ وَجْهُهُ مُسْوَدّاً وَهُوَ كَظِيمٌ } معناه مَكروبٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"His face was dark {and he was stern},\" means that He was covered {in darkness}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

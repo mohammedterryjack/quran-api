@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَفَرَأَيْتُمُ ٱللاَّتَ وَٱلْعُزَّىٰ } قال: هي أصنامٌ كانوا يَعبدُونَها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Do you then see the Lat and the 'Uzza}, he said: They are idols which they used to worship.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

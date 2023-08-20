@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَرَبَطْنَا عَلَىٰ قُلُوبِهِمْ } معناه أَلْهمنَاهُم الصَّبرَ\n\n\n\n\nوقوله تعالى: { لَّقَدْ قُلْنَا إِذاً شَطَطاً } معناهُ جَورٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {And We have placed restraints on their hearts} means that We have made them patient.\n And His saying - exalted be He - {We have said then firmly} - its meaning is injustice.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

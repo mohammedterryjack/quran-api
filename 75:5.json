@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَلْ يُرِيدُ ٱلإِنسَانُ لِيَفْجُرَ أَمَامَهُ } معناه يُقدمَ الذَّنبَ، ويُؤخرَ التَوبةَ\n ويقال: يَمضي أَمامَهُ راكباً راسَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of {But man desires to continue in sin} is that he commits the sin and then postpones repentance.\n He goes ahead of him, riding on his head",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ذَلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ آمَنُواْ } معناه وليّهُم ونَاصِرُهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis is because Allah is the patron of those who believe.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

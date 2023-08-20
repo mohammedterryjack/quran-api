@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَجَعَلْنَاهُنَّ أَبْكَاراً عُرُباً أَتْرَاباً } فالعُربُ: الحَسِناتُ التبعلُ لأزواجهنَّ\n والأَترابُ: الأَسنانُ والأَمثالُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So We have made them purest women, of equal age} [Qur'an 4:25], the Arabs are the good deeds that are attached to their spouses.\n\n\nAnd the teeth: the teeth and the like.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ } النَّجمُ: ما نَجُمَ من الأَرضِ ولم يقمْ على ساقٍ\n والشَّجرُ: ما قامَ على ساقٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the statement of the Most High: {And the star and the tree they prostrate themselves}. The star: whatever rises from the earth and does not stand on a leg.\n And the tree: that which rose upon a leg",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

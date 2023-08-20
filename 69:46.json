@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { ثُمَّ لَقَطَعْنَا مِنْهُ ٱلْوَتِينَ } معناه نياطُ القَلبِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " {Then We cut off from him the two veins} The meaning is the niyat of the heart.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

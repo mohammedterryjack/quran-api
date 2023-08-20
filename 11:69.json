@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { جَآءَ بِعِجْلٍ حَنِيذٍ } فالحَنيذُ: الشِّواءُ الذِي يَقْطُرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He has come with an an-ijlin hanithin}, which means \"the quick, intense cold.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

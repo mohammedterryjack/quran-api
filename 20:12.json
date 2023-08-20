@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِٱلْوَادِ ٱلْمُقَدَّسِ طُوًى } وتقرأ طِوَىً معناه طا الوادي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {In the sacred valley, Tawwa} and read Tiwaa with us meaning the valley Tawa.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

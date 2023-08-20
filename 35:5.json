@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ يَغُرَّنَّكُمْ بِٱللَّهِ ٱلْغَرُورُ } معناه أن يَعمل بالمعصيةِ، ويتَمنّى المَغفرةَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n{And let not Allah's Deceiver deceive you} His saying, Almighty, means that he works with sin and desires forgiveness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

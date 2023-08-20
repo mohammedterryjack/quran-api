@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ [وَنُحَاسٌ] } معناه نارٌ تأججُ ولا دُخان لَها\n والنُّحاسُ: الدُّخانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe verse says, \"There will be sent against you a {fire [and smoke]}.\" This means a fire that burns and has no smoke.\n\n\nAnd the copper: the smoke.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

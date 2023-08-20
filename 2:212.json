@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَٱلَّذِينَ ٱتَّقَواْ فَوْقَهُمْ } معناهُ أَفضلَ مَنْهم\n ويقال فَوقهم فِي الجَنَّة\n\n\n\n\nوقولهُ تعالى: { وَٱللَّهُ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ } معناه بغيرِ مُحاسبةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And those who fear Him above them,\" means that He is better than them.\n\n\nIt is said that above them in Paradise is a { }.\n\nAnd His saying, {And God provides for whoever He wills without account} [means] without [needing] a reckoning.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

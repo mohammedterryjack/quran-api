@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِأَيْدِي سَفَرَةٍ } معناه بأَيدي كَتبةٍ\n والسَّفرةُ بلغة النَبطِ\n والكَتبةُ: المَلائكةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"With My own hands I will journey,\" means with My own Book.\n\n\nAnd the Safrat were a people of Nabataean origin.\n\n\nThe {kitabah} are the angels.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

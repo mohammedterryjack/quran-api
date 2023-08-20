@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَيُزَكِّيهِمْ } معناهُ يُطهرُهُمْ\n وقالَ فِي سورةٍ أُخرى:\n\n[الكهف: 74] معناهُ مُطهَّرةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And He will purify them,\" means He will cleanse them.\n\n\nAnd he said in another surah:\n\n\nThe Cave: 74 Its meaning is purification.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

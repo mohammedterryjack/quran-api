@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَتَّخِذُونَ مِنْهُ سَكَراً وَرِزْقاً حَسَناً } السَّكَرُ: الحَرامُ والحَسَنُ: الرِّزقُ الحَلالُ\n ويقال: السَّكَرُ: الطَّعمُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of God: {You take from him {sugar and rich food} as a good thing.} Sugar: {forbidden} and rich food: {allowed}\n\n\nIt is said that \"sugar\" is the taste.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

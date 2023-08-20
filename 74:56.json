@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ } معناه أهلٌ أنْ تُتقى محارِمُهُ\n وأهلُ المَغفرةِ: معناهُ هو أهلٌ أنْ يَغفِرَ الذّنوبَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He is the possessor of taqwa and the possessor of forgiveness,\" means that it is incumbent upon you to be conscious of Him and to seek His forgiveness.\n\nThe people of forgiveness: The meaning is that they are people who forgive sins.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

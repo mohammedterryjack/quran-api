@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَفَّيْنَا عَلَىٰ آثَارِهِم } معناهُ أَتبَعنَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {We will follow their tracks} means that We will follow them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

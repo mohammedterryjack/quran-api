@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَآتَيْنَاهُ ٱلْحُكْمَ صَبِيّاً } معناه اللُّبُّ\n وقال: الفُرقانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"We gave him power as a child,\" means that He entrusted him with the affair.\n\n\nAnd he said: \"The Qur'an is the criterion (by which to judge).\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { خَلَقَ ٱلإِنسَانَ مِن صَلْصَالٍ كَٱلْفَخَّارِ وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ } قال الإِمام زيد بن علي عليهما السلام: الصِّلصالُ: الطِّينُ اليابسُ الذي لم يُطبخْ وإذا طُبخْ فهو فَخارٌ\n والمَارجُ: الخالطُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah: {He created man from a {Sulṣāl} like baked clay; and He created the jinn from a {Mārijin} of fire} Imam Zayd ibn `Ali, peace be upon them both, said: The {Ṣilṣāl} is the moist, cold clay that has not been baked; and if it is baked, it is {Fakhkhār}.\n\n\nAnd the {marju}: the {khaliT}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

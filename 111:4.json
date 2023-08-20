@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱمْرَأَتُهُ حَمَّالَةَ ٱلْحَطَبِ } هي أُمُ جَميلٍ بنت حَرب بن أمية كانتْ تَحملُ شوكاً فتطرحَهُ في طَريق رَسولِ الله صلّى الله عليهِ وآلهِ وسلمَ\n ويقال حَملها الحَطبُ: هو كِذبُها وسِعايتُها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And his wife was carrying a load of wood}, refers to Umm Jamil, the beautiful daughter of Haram ibn Amaya, who was carrying a bundle of wood which she then threw in the path of the Messenger of Allah (peace and blessings of Allah be upon him).\n It is said that the firewood carried it: it is its lie and its wideness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

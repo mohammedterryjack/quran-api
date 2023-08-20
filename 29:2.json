@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر، قال: حدّثنا علي بن أحمد قال: حدّثنا عطاءُ بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَهُمْ لاَ يُفْتَنُونَ } معناه لا يَبتلونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us: Ali ibn Ahmad told us: Ata' ibn al-Sa'ib reported from Abu Khalid from Zayd ibn Ali, peace be upon him, regarding the words of God, Most High, {And they shall not be tried} [i.e., they shall not be put to the test]: its meaning is that they shall not be afflicted.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

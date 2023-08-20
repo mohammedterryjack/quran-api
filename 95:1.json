@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nعن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَٱلتِّينِ وَٱلزَّيْتُونِ وَطُورِ سِينِينَ } فالتِّينُ: الذي يُؤكلُ والزَّيتونُ: الَّذِي يُعصرُ\n ويقال: التِّينُ والزَّيتونُ جَبلان\n والطّورَ: جَبلٌ وسيناء: الحسنُ بالحَبشيةِ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis is a quote from Abu Khalid, from Zayd ibn Ali, regarding the words of Allah {And the fig and the olive and Mount Sinai}. The \"fig\" refers to the fruit that is eaten, and the \"olive\" refers to the tree that is used for oil.\n\n\nIt is said that the fig and olive trees are mountains.\n\n\nAnd the Toor: a mountain and a city in the Habasha (Ethiopian) region.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

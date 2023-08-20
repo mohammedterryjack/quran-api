@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنِّي لَغَفَّارٌ لِّمَن تَابَ وَآمَنَ وَعَمِلَ صَالِحَاً } معناه لمنْ تَابَ مِنَ الشِّركِ، وعَمِلَ صالحاً مِن صَلاةٍ وصَومٍ، وغيرِ ذَلكَ منَ الفَرائضِ { ثُمَّ ٱهْتَدَىٰ } يعني ثَبَتَ عَلَى ذَلِكَ حتَّى ماتَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And indeed, I am forgiving to those who repent and have faith and do righteous deeds}, its meaning is for whoever repents from polytheism and does righteous deeds from prayers and fasting, and other than that from the obligations {then he has guidance}, meaning he is firm upon that until he dies.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

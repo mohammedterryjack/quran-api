@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَدَّرُوهَا تَقْدِيراً } معناه قُدِّرَتْ عَلَى قَدرِ رَيهِم لَيسَ فيها زِيادةٌ ولا نُقصانٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {They have valued it [the world] with an estimation}. Its meaning is that it is valued according to their estimation, there is neither increase nor decrease in it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

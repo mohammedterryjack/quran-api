@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كُلِّ أَفَّاكٍ أَثِيمٍ } معناه بَهَّاتٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the saying of the Most High: {Every fafak is thim} is Bahatun.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

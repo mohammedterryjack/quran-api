@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nحدّثنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ } معناه غيرُ مَحسوبٍ\n والممنونُ أيضاً: المَقطوعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWe were told by Abu Jafar\n\n\nHe said: Ali ibn Ahmad told us\n\n\nAt-Tirmidhi said, \"This hadith has been narrated by 'Ata' ibn Abi Rabah from Abu Khalid from Zayd ibn Ali, may peace be upon them, who said regarding the words of Allah, {They shall have a reward without end} [Qur'an 52:19], that it means 'a reward that is not calculable.'\"\n\n\nAnd the grateful one also: the one who is severed {from the world}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِ مَآباً } معناه سَبيلٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"Whoever wills may take a way to his Lord.\" Its meaning is a path.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

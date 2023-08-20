@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنِّي مُرْسِلَةٌ إِلَيْهِمْ بِهَدِيَّةٍ } معناه بآنيةٍ من ذَهبٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted be He: {And I am sent to them with a gift} [means that I am sent] with a gift of gold.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

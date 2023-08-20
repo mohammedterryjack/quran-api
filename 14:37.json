@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱجْعَلْ أَفْئِدَةً مِّنَ ٱلنَّاسِ } والأَفئِدةُ: الجَماعةُ! و: { تَهْوِىۤ إِلَيْهِمْ } معناهُ قُلوبُهم تَهوِي إِلى البَيتِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So make the hearts of mankind} and the hearts: the people! And: {be inclined to them} its meaning is their hearts be inclined to the House",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

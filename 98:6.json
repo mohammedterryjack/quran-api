@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْلَـٰئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ } معناه الخَلقُ الذين بَرأَهُم الله تعالى معناه خَلَقَهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Those are the worst of creatures,\" means those whom Allah has rejected, meaning He has created them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

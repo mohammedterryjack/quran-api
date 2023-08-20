@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَّن شَرَحَ بِالْكُفْرِ صَدْراً } معناه انْبَسَطَ إِلى ذَلكَ وطابتْ بهِ نَفسُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He who has opened up disbelief in his heart} means that he has become more open to that and his soul has become purified by it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

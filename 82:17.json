@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَآ أَدْرَاكَ مَا يَوْمُ ٱلدِّينِ } معناه يَومُ الجَزاءِ\n ويقالُ: الدِّينُ: الحِسابُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And what will make you know what the Day of Judgment is?} Its meaning is the Day of Recompense.\n\n\nIt is said that religion is the account.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

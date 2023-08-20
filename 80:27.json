@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَبّاً }  { وَعِنَباً وَقَضْباً } معناه فِصفِصةٌ وهي الرّطبةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"With love and with {anab} and with {qadb},\" its meaning is a fresh fig, which is ripe.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

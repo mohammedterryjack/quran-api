@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ يُغْنِي مَوْلًى عَن مَّوْلًى شَيْئاً } فالمَولى ابن العَمِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {No guardian can avail his ward anything} - so the guardian is the son of the [father's] brother.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

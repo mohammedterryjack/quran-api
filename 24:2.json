@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nحدّثنا أبو حعفر\n قال: حدّثنا علي بن أحمد\n قال حدّثنا عطاءُ بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ\n في قوله تعالى: { وَلاَ تَأْخُذْكُمْ بِهِمَا رَأْفَةٌ فِي دِينِ ٱللَّهِ } معناه رحمةٌ فِي تَركِ الضَّربِ\n\n\n\n\nوقوله تعالى: { طَآئِفَةٌ مِّنَ ٱلْمُؤْمِنِينَ } معناه رجلٌ فَما فَوقهُ إلى الألفِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWe were told by Abu Hafs that\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\n{It was} said {that} {we were told} by {Ata ibn al-Sa'ib} {from} {Abu Khalid} {from} {Zayd ibn Ali} {may peace be upon them both}.\n\nIn His saying, {And do not take them out of pity in the religion of Allah}, the meaning is mercy in leaving the [unnecessary] beating.\n And the saying of the Most High: {a group of believers} means a man and what is above him to the thousand.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

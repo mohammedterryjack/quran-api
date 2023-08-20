@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ رَبِّهِمْ } فالظَّنُّ: اليَقينُ\n ويكونُ الظَّنُ شَكْاً، ويكونُ تُهمةً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {those who believe that they are about to meet their Lord} - so belief is certainty.\n\n\nAnd suspicion will be a doubt, and it will be a charge.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

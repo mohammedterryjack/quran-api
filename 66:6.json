@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُوۤاْ أَنفُسَكُمْ [وَأَهْلِيكُمْ] } معناه امنعُوها أَنفسكم\n وعلموا أَهاليكُم وأَولادُكُم وادبُوهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Qawwamoo anfusakum [wa-ahliykum]} [Surat Al-'Asr], means \"Take care of yourselves and your families.\"\n\nAnd teach your {ahlaaki} and your children [the] {adab}\n\n\"And teach your family and your children good manners.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِّنْ أَزْوَاجِكُمْ } معناه ما أَصلَحَ لَكُم، يُريدُ الفَرْجَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"And leave what your Lord has created for you of your spouses\" - its meaning is what He has made permissible for you. He is intending the womb.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

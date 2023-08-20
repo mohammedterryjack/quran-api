@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَضَرَبْنَا عَلَىٰ آذَانِهِمْ } معناهُ بِالنَّومِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {We have placed Our hands over their ears} [refers to] sleep.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ضَرَبَ ٱللَّهُ مَثَلاً رَّجُلاً فِيهِ شُرَكَآءُ مُتَشَاكِسُونَ } فالرَّجلُ الشُكسُ: العَسرُ السَّيءُ الخُلقِ\n والسّلمُ: الصَحيحُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {He has set forth an example for those who disbelieve: the man with two partners who are always at odds with each other}, the man in this example is the poor and unfortunate one, while the two partners are his bad character traits.\n\n\nAnd peace be upon you: the correct one.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

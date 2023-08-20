@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِّن فَوْرِهِمْ } معناهُ مِنْ غَضَبِهِمْ هَذا\n\n\n\n\nوقوله تعالى: { بِخَمْسَةِ ءَالَٰفٍ مِّنَ ٱلْمَلاۤئِكَةِ مُسَوِّمِينَ } معناهُ مُعْلَمينَ بالصُّوفِ في نَواصِي الخَيلِ وأَذنابِها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {from their wrath} - this means from their anger.\n\n\nAnd His saying, {with five of the angels marked}, means those who are known by the Sufis to be at the reins of the horses and their tails.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

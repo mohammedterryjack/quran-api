@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تُصَعِّرْ خَدَّكَ } معناه تُعرِضُ عَنْهم تكبراً\n وقال: هو التَّشديقُ\n\n\n\n\nوقوله تعالى: { وَلاَ تَمْشِ فِي ٱلأَرْضِ مَرَحاً } يعني بَطراً وكبراً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd do not {turn your nose up at them in arrogance}. This means that you should not act arrogantly towards them.\n And he said: \"It is the {Tashdīq}\"\n\n\nAnd do not walk on earth arrogantly.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

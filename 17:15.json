@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَزِرُ وَازِرَةٌ } معناه آثِمةٌ { وِزْرَ أُخْرَىٰ } يعني إِثمَ أُخرى\n أَثِمتَهُ، وَلَمْ تَأْثَمْهُ الأَخرى مَنهُما\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"There is no bearer of burdens {wazirah} {wazirah}\", meaning that there is no other sin.\n\nYou committed the sin, and the other did not commit the sin from among them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

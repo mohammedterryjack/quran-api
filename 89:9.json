@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخْرَ بِٱلْوَادِ } معناه نَقَّبوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted is He - {And Thamud, who carved out the rock in the valley} means that they passed by.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

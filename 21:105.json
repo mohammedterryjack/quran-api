@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ كَتَبْنَا فِي ٱلزَّبُورِ مِن بَعْدِ ٱلذِّكْرِ } قال: الزَّبورُ زَبورُ دَاودَ\n ويقالُ: القُرآنُ\n والذِّكرُ: التَوراةُ\n ويقالُ الذِّكرُ: الذي نُسِخَتْ منهُ الكُتُبُ\n\n\n\n\nوقوله تعالى: { أَنَّ ٱلأَرْضَ يَرِثُهَا عِبَادِيَ ٱلصَّالِحُونَ } معناه: أرضُ الجَنةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {And We have indeed written in the Zabur [Psalms] after the [previous] remembrance} - that is, the Zabur of David.\n It is said: The Quran\n\n\nAnd the Zikr: the Torah\n\n\nAnd it is said that the dhikr is that which is copied from the books.\n The meaning of the verse: {The earth - it will inherit [all] - My righteous servants} is that the earth of Paradise.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

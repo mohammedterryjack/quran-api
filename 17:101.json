@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ آتَيْنَا مُوسَىٰ تِسْعَ آيَاتٍ بَيِّنَاتٍ } قال: الإِمامُ أَبو الحُسين زيد بن علي عليهما السَّلامُ: وهي الطُّوفانُ، والمَوتُ والجَرادُ، والقمَّلُ، والضَّفَادعُ، والدَّمُ، ولِسَانُهُ وعَصاهُ والبَحرُ\n ويقالُ الطُّوفانُ، والجَرادُ، والقُمّلُ، والضَّفادعُ، والدَّمُ، والعَصا، والسِنينُ ونَقصٍ منَ الثَّمراتِ، وَيَدُّهُ\n ويقالُ [الطُّوفان] والجَرادُ، والقُمّلُ، والضَّفادعُ، والدَّمُ، وعَصَاه، ويَدُّه، قال الإِمام زيد بن علي عليهما السلام: وكانتْ عَصا مُوسى عَليهِ السَّلامُ مِن عَوسجٍ، وَلَم تُسَخرْ لأحدٍ بَعدَهُ\n وكان اسمُها مَاسا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah: {And We have certainly given Moses nine clear signs} Abu al-Husayn Zayd ibn Ali, peace be upon him, said: These are the flood, and death, and locusts, and lice, and frogs, and blood, and his tongue and his staff, and the sea.\n The tornado, the locust, the lice, the frog, the blood, the stick, the years and the lack of fruits, and his hand.\n\nIt is said that {الطُّوفان} and the locust, and the mosquito, and the frog, and the blood, and his stick, and his hand, said Imam Zaid bin Ali peace be upon them: The staff of Moses peace be upon him was from {عَوسج}, and was not mocked by anyone after him.\n\n\nHer name was Masa.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

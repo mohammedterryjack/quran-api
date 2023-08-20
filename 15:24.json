@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ عَلِمْنَا ٱلْمُسْتَقْدِمِينَ مِنكُمْ } يعني في الصَّفِ المُتقَدِمِ من المَسجِدِ\n و { ٱلْمُسْتَأْخِرِينَ } في الصَّفِ الآخرِ\n ويقالُ: المستقدمينَ مَن مَاتَ من القرونِ، وفِي الخَيرِ\n ويقال: في صفوفِ القِتالِ والمستَأخرينَ مَنْ بَقي\n ويقالُ أُمةُ محمدٍ صلَّى الله عليهِ وآلهِ وسَلَّمَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {And We have certainly known the forward among you} [refers to] those in the front rows of the mosque.\n\n\nAnd {the last} in the last row.\n It is said: The deceased are those who have died from the generations, and in Paradise.\n It is said: In the ranks of those who fight and the latecomers, whoever remains\n###\nالجملة العربية: في صفوف القتال والمستأخرين من بقي\n\nThe Arabic sentence: In the ranks of those who fight and the latecomers, whoever remains\n The Muhammadan community is said to be { }.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

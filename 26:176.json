@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَذَّبَ أَصْحَابُ لْئَيْكَةِ ٱلْمُرْسَلِينَ } معناه الغَيْضَةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Those who reject the messengers of Lai'ta} means disbelief.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

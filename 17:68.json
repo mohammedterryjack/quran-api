@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ يُرْسِلَ عَلَيْكُمْ حَاصِباً } معناهُ رِيحٌ شَديدٌ تَحْصِبُ التُّرابَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nOr He will send against you a violent whirlwind { } which will { } the soil.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

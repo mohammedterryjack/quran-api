@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السَّلامُ في قولهِ تعالى: { ثُمَّ لَتُنَبَّؤُنَّ } معناه لَتُخْبَرونَّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\nHe said: \"Ata ibn as-Saaib narrated to us from Abu Khalid from Zayd ibn Ali, peace be upon them, regarding the saying of Allah, {Then you will be informed}, its meaning is 'you will be informed.'\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

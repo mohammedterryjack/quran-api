@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُسْتَخْفٍ بِٱلَّيلِ } معناه رَاكِبٌ رَاسَهُ فِي المَعَاصِي { وَسَارِبٌ بِٱلنَّهَارِ } [معناه] ظَاهِرٌ بِالنَّهارِ\n سَالِكٌ فِي سَربِهِ معناهُ فِي مَذْهَبِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Most Merciful in the night\" means a rider who raises his head in disobedience {and a sariib in the day} [meaning] one who is apparent in the daytime.\n\n\nThis term refers to someone who follows their own path in life, regardless of what others may think or believe.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

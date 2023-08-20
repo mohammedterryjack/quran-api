@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاءُ بن السّائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَٱلْمُرْسَلاَتِ عُرْفاً } معناه الرِّيحُ تُرسلُ بالمعروفِ\n ويقالُ: هي المَلائكةُ\n ويقالُ: عُرفٌ تَتبعُ بعضَها بَعضاً",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: Ali ibn Ahmad told us\n\n\nAta ibn al-Saaib narrated from Abu Khalid from Zayd ibn Ali, upon them both be peace, regarding the saying of Allah, Most High, {And the [angels] send down {the} wind} [Qur'an 15:22], meaning that the wind is sent with good.\n\n\nIt is said that they are the angels.\n It is said: some {uruf} are followed by others.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

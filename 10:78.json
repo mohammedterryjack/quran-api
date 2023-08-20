@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَجِئْتَنَا لِتَلْفِتَنَا } معناه لِتَصْرِفَنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Have you come to us to turn us away} means to divert us.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

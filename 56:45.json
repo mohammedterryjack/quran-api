@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّهُمْ كَانُواْ قَبْلَ ذَلِكَ مُتْرَفِينَ } معناه متكبرونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, “Indeed, they were before that indulgent” [means that] they were arrogant.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

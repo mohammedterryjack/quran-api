@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا كَانَ رَبُّكَ مُهْلِكَ ٱلْقُرَىٰ حَتَّىٰ يَبْعَثَ فِيۤ أُمِّهَا رَسُولاً } فأم القُرى: مَكةٌ وأُم كُلِّ شَيءٍ أَصلُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And your Lord is not one to destroy the cities until He sends in their mother a messenger} So the mother of the cities is Mecca and the mother of everything is its origin.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

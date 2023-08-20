@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَلاَّ لَمَّا يَقْضِ مَآ أَمَرَهُ } معناه كُلُّ ما افتُرِضَ عَليهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"No indeed! As soon as he has decreed what he will, he will do it\" - this means that whatever He has decreed will happen.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

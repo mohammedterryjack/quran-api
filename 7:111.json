@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَرْسِلْ فِي ٱلْمَدَآئِنِ حَاشِرِينَ } معناهُ شُرَطٌ\n\n\n\n\nوقوله تعالى: { أَرْجِهْ وَأَخَاهُ } معناهُ أَخِرْهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"And send [some] in the cities as spies\" - its meaning is a condition.\n\n\nAnd His saying, \"Arjih and his brother\" means his last brother.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

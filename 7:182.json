@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلَّذِينَ كَذَّبُواْ بِآيَاتِنَا سَنَسْتَدْرِجُهُمْ مِّنْ حَيْثُ لاَ يَعْلَمُونَ } الاْستِدْرَاجُ: أَن يَأتِيهِ الشَّيءُ مِنْ حَيثُ لاَ يَعْلَمُ وَلاَ يَشْعُرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the words of Allah: {And those who disbelieve in Our verses - We will gradually lead them from where they do not know} The descent: that the thing should come to him from where he does not know and does not feel",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

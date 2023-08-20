@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كُلَّمَا خَبَتْ } معناه طَفِئتْ { زِدْنَاهُمْ سَعِيراً } معناه وقودٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of God: {Whenever it became dark} means it extinguished {We increased them in fire} means fuel.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

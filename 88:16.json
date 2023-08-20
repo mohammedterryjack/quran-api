@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَزَرَابِيُّ مَبْثُوثَةٌ } معناه بُسُطٌ مُتفرقةٌ\n واحدُها زَرِيبةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {And the scattered zarabiyyu} - its meaning is dispersed and various.\n\n\nThe other one is a zarībah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

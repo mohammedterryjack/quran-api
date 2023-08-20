@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ يَأْتَلِ } معناه يَحلِفُ من [آليتُ]\n ويأتلُ: معناه لا يالُ أي لا يُقصِّرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {And let them not make [false] oaths} [means that] He forbids taking [false] oaths from [others].\n\n\nHe does not give up; this means that he does not falter or give in.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

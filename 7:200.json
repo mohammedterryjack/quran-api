@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِماَّ يَنَزَغَنَّكَ مِنَ ٱلشَّيْطَانِ نَزْغٌ } معناهُ يَسَخِفنَّكَ مَنهُ خِفةً وعَجلةً\n ونَزَغَ الشَّيطانِ: الإِفْسادُ بَينَ النَّاسِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Most High: {And if the devil should tempt you with a temptation} means that he will tempt you with fear and haste.\n\n\nAnd Satan sows discord: corruption between people.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

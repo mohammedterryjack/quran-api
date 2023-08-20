@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِنْ عُثِرَ } معناهُ فَإِنْ ظَهَرَ عَلَيهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying: {So if there should be} its meaning is: So if it should appear to him",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيُرْسِلَ عَلَيْهَا حُسْبَاناً مِّنَ ٱلسَّمَآءِ } معناه مَرامِي\n\n\n\n\nوقوله تعالى: { صَعِيداً زَلَقاً } قالَ الإِمامُ زيد بن علي عليهما السلام: الصَّعيدُ: وَجهُ الأَرضِ\n والزَّلقُ: الذي لاَ يَثْبتُ فِيهِ قَدمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And He will send against it a punishment from the sky}, means a punishment that will come down from the sky.\n\n\nAnd the saying of Allah, {a firm, flat land}, Imam Zaid bin Ali said: The earth is the face of the earth.\n\n\nAnd al-Zalaqu: that which does not have a foot placed firmly in it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

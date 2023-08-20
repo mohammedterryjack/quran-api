@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَدْ خَلَتْ مِن قَبْلِهِمُ ٱلْمَثُلاَتُ } معناه مَضَتْ مِن قَبْلِهِمْ الأَمْثَالُ\n ويقالُ الأَنباءُ: الأَمثَالُ\n ويقالُ المَثُلاتُ: النَّقَماتُ فِي الأَمَمِ التي عَصَتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And the examples of those who have passed away before them have already passed away,\" means that the examples of those who have passed away before them have already passed away.\n The similes are said to be the news.\n The similes are said: The punishments in the nations that disobeyed.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

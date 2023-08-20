@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن الإِمامُ زيد بن علي عليهما السلام في قولهِ تعالى: { قۤ } معناه اسم من أسماءِ القُرآن\n وقال: فَواتحُ يَفتحُ الله بِهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\nThe Imam Zayd ibn Ali said, regarding the meaning of the word \"Qur'an\" in the verse {Qur'an}: \"It is one of the names of the Quran.\"\n\n\nAnd he said, \"The keys to success are in Allah's hands.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَكَانَ ٱلْكَافِرُ عَلَىٰ رَبِّهِ ظَهِيراً } معناه مُعينٌ وقال: هَينٌ\n وقال: إنها نَزلتْ في أبي جَهل بن هُشام\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the disbeliever is against his Lord an opponent. This means that he is an assistant and says: Hain.\n\n\nAnd he said, \"It was revealed to my father, Jahl ibn Husham.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

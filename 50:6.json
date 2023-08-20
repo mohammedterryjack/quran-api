@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا لَهَا مِن فُرُوجٍ } معناهُ مِنْ فِتوقٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And she has no {furūj}} [i.e., no private parts that must be covered], means that she has no {fitwāq} [i.e., no private parts that must be covered].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

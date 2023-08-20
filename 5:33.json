@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُ } معناه يُعَادُونهُ\n\n\n\n\nوقوله تعالى: { أَوْ يُنفَوْاْ مِنَ ٱلأَرْضِ } معناه يُطردوا\n\n\n\n\nوقوله تعالى: { أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُم مِّنْ خِلافٍ } قالَ زيدُ بن علي عليهما السَّلامُ: تُقطَعُ يَدُهُ اليمنَى ورِجْلُهُ اليُسرى، يُخَالفُ بَينَ قَطْعِهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {they fight in the cause of Allah and His Messenger} means they return to Him.\n\n\nAnd His saying, {or they are expelled from the land} means they are expelled.\n\nAnd the saying of Allah {Or have their hands and feet cut off from opposite sides} Zaid bin Ali said: His right hand and left leg are cut off, opposite to the cutting.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

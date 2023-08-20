@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَسَوْفَ يَلْقَونَ غَيّاً } هو وادٍ فِي جَهنمَ مِن قَيحٍ يُقذَفُ فِيه الذينَ يَتّبعون الشَّهواتِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Then they will be driven to a severe torture}, is a valley in Hell of pus in which those who follow lusts are driven.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

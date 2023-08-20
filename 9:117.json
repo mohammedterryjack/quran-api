@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَزِيغُ قُلُوبُ فَرِيقٍ مِّنْهُمْ } معناهُ تَعدِلُ وَتَجورُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Their hearts have been perverted} means that they are unjust and wicked.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

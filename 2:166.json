@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَتَقَطَّعَتْ بِهِمُ ٱلأَسْبَابُ } معناهُ الأَوْصالُ التي كانتْ بينهم في الدنيا\n وواحدُهَا سَببٌ\n والسَّببُ أَيضاً الحَبْلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"And the causes between them were severed,\" meaning the ties that were between them in the world.\n \n\n{One of them is a reason.}\n\n\nAnd another reason is the rope.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

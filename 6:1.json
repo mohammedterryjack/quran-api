@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأَخبرنا أَبو جعفر، قَالَ حدّثنا عَليُّ بن أَحمد، قَالَ حدَّثنا عطاءُ بن السائب قالَ: حدَّثنا أبو خالد الواسطي عَن الإِمَامِ الشَّهيدِ أَبي الحسين زيد بن علي عليهما السَّلامُ\n في قولهِ تعالى: { وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَ } معناهُ خَلَقَها\n والظُّلماتُ الكُفرُ\n والنُّورُ: الإِيمانُ\n\n\n\n\nوقوله تعالى: { بِرَبِّهِمْ يَعْدِلُونَ } معناهُ يَجْعَلُونَ لَهُ مِثْلاً\n ويُشْركُونَ بهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWe were informed by Abu Ja'far that he said, Ali ibn Ahmad narrated to us that Ata' ibn al-Sa'ib narrated to us that Abu Khalid al-Wasiti narrated to us from the Imam al-Shahid Abu al-Husayn Zayd ibn Ali, peace be upon them both, that\n\n\nAnd in the words of the Almighty: {And He made the darkness and the light}, its meaning is that He created them.\n {And the darkness of disbelief}\n And the light: faith\n\nAnd His saying, {With their Lord, they are equitable} [means that] they make for Him an equal.\n And they associate with Him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَرَضَ هَـٰذَا ٱلأَدْنَىٰ } والعَرَضُ: الطَّمعُ\n والأَدنى: الأَقربُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {This is the lowest [of the low]} - and al-`araDhu (the lowest) is at-tama`u (the covetous).\n\n\nThe closest one is the nearest one.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِنَّهُ يَسْلُكُ مِن بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِ رَصَداً } معناه الملائكةُ يَحفَظُونَ رُسلَ الله صلواتُ الله عليهم مِنْ بينِ أَيديهِم ومِنْ خَلْفِهِم في الأَداءِ عن الله تعالى إلى خَلْقِهِ وحيهِ وأمرهِ ونَهيهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Indeed, He is mounted over their shoulders. And He is watching over them from before them and from behind them}, means that the angels are guarding the messengers of Allah and the prayers of Allah upon them, from before them and from behind them, in their performance for Allah, the Exalted, to His creation, and His life, and His command, and His prohibition.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

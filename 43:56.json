@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَجَعَلْنَاهُمْ سَلَفاً } معناه ممن مَضَى وسَلَفَ\n وقال: جَعَلناهم سَلَفاً: معناه أهواءٌ مُختلفةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So We made them predecessors} [means] those who have passed away and preceded.\n He said, \"We made them predecessors: { } different.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

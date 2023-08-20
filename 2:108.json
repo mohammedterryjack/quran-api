@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { سَوَآءَ ٱلسَّبِيلِ } معناهُ وسَطَ السَّبيلِ\n والسَّبيلُ: يُذكرُ ويؤنثُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {It is all the same [to Me] whether any of you conceals his speech or declares it openly}, means that He is equally pleased with those who conceal their speech and those who declare it openly.\n\n\nAnd the way: it is mentioned and it is feminine",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَوْ دُخِلَتْ عَلَيْهِمْ مِّنْ أَقْطَارِهَا } أي مِن جَوانبِها ونَواحِيها\n واحدُها قُطْرٌ\n\n\n\n\nوقوله تعالى: { ثُمَّ سُئِلُواْ ٱلْفِتْنَةَ لآتَوْهَا } الفِتنةُ: هي الكُفرُ وأَتَوْها: أعطوها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd if {it had entered upon them from its quarters} that is, from its sides and its regions\n Its radius is one.\n\n\nAnd the saying of Allah, {Then they will be asked about the Fitnah, where they will have fallen into it} The Fitnah: is disbelief, and they will have fallen into it: they will have given it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

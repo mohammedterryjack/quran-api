@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَثَابَهُمْ فَتْحاً قَرِيباً } معناه فَتْحُ خَيبرٍ\n ويقال: الفتوحُ التي تُفتحُ لَهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His words {and bestowed upon them a close victory} mean the opening of Khaybar.\n It is said: The victory that is opened for them",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

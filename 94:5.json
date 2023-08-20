@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِنَّ مَعَ ٱلْعُسْرِ يُسْراً } معناه ليكونَ الرَّجاءُ أعظمَ من الخَوفِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, with hardship comes ease} means that hope should be greater than fear.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

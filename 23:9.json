@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلَّذِينَ هُمْ عَلَىٰ صَلَوَاتِهِمْ يُحَافِظُونَ } معناه يُحافِظُونَ عَلَى أوقاتِها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd those who are mindful of their prayers, they guard them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

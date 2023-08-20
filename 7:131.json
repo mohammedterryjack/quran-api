@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلاۤ إِنَّمَا طَائِرُهُمْ عِندَ ٱللَّهِ } [معناهُ] حَظُّهُمْ وشأنُهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, their affair is with Allah } [means] their destiny and their fate.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

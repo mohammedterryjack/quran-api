@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِنَّ لِلَّذِينَ ظَلَمُواْ ذَنُوباً مِّثْلَ ذَنُوبِ أَصْحَابِهِمْ } معناه نَصيبٌ\n وقال: سَجيلٌ\n وقال: سبيلٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Indeed, for those who have wronged is a punishment like that of their companions} [means that their] share is proportionate.\n {And he said: \"A record.\"}\n He said: \"The way.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

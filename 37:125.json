@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَتَدْعُونَ بَعْلاً } يعني رباً وهي لُغةٌ يَمانيةٌ\n والبَعلُ في غَيرِ هذا المَوضِعِ: الزَّوجُ\n والبَعلُ: العِذْيّ مِنَ الأَرضِ\n والبَعلُ: اليَابسُ من التمرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Do you call upon Ba'l} [i.e., a god other than Allah] - this is an Arabic phrase meaning \"lord\" - is [in fact] a Yemeni dialect.\n\n\nAnd the ba'al in another place: the husband.\n\n\nAnd the ba'al: the 'idhayy from the earth.\n\n\nThe ba'al is the date palm that has dried up and died.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

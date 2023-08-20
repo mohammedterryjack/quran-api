@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ } معناهُ ولا تَتْبع شَهادَةَ الزّورِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " Do not follow the false testimony.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

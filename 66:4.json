@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا } معناه طَغتْ ومالتْ وَعَدلتْ\n\n\n\n\nوقوله تعالى: { وَإِن تَظَاهَرَا عَلَيْهِ } معناه تَعاونا عَليهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"If you turn to Allah, then indeed your hearts have been inclined [to righteousness]\" - this means that you have rebelled and disobeyed, but then you have turned back and repented, so your hearts are now right with Allah.\n\n\nAnd if you two cooperate against him,",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

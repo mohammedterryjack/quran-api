@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { رَبُّنَا ٱلَّذِيۤ أَعْطَىٰ كُلَّ شَيءٍ خَلْقَهُ ثُمَّ هَدَىٰ } معناه صَوّرهُ ثُمَّ هَداهُ مَعيشتَهُ\n ويقال: هَدَى: إِتيانُ الذكرُ الأُنثَى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, the Most High, {Our Lord, who has given every thing its creation, then guided it} its meaning is that He created it then guided it in its life.\n It is said: \"Guidance: Bringing the female remembrance\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

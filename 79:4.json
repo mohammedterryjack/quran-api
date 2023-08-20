@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n ويقالُ: هي السّفنُ { فَٱلسَّابِقَاتِ سَبْقاً } معناه الخَيلُ { فَٱلْمُدَبِّرَاتِ أَمْراً } معناه المَلائكةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nIt is said that the ships {the forerunners} refer to the horses {the organizers} refer to the angels.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَتَرْكَبُنَّ طَبَقاً عَن طَبقٍ } معناه حَالٌ بعدَ حَالٍ\n ويقال: أمرٌ بعدَ أمرٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"You will [all] be riding one upon another,\" means one state after another.\n This is said: One thing after another.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

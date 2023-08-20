@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَتُصِيبَكُمْ مِّنْهُمْ مَّعَرَّةٌ } معناه جِنايةٌ وَشَرٌ\n\n\n\n\nوقوله تعالى: { تَزَيَّلُواْ } معناه امتازوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Then you will be afflicted by them with a severe affliction}, means mischief and evil.\n And His saying – be exalted – {Tazayyalū} means ‘distinguish yourselves.’",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

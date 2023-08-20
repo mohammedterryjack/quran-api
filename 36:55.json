@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي شُغُلٍ فَاكِهُونَ } معناه افتضاضُ العَذارى وقال: مُعجبونَ\n وقال: في شُغلٍ عَمّا يَلقى أهلُ النَّارِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"In toiling, then to the fruit,\" its meaning is the abasing of the self, and He said, \"They are pleased.\"\n He said: \"In the occupation of {those who are} the people of the fire\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

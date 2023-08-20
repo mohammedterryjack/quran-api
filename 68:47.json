@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ } معناه يَعلمُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " Or do they have the knowledge of the unseen, so they are writing it?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

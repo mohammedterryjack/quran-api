@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَقِمِ ٱلصَّلاَةَ لِدُلُوكِ ٱلشَّمْسِ } مَعْنَاهُ غُرُوبُها\n وقال: زَوالُهَا { غَسَقِ ٱلَّيلِ } حِينَ غَرَبتْ الشَّمسُ\n وقَالَ: العَشاءُ الآخرُ\n وقالَ: صَلاةُ العَصرِ\n\n\n\n\nوقوله تعالى: { وَقُرْآنَ ٱلْفَجْرِ إِنَّ قُرْآنَ ٱلْفَجْرِ كَانَ مَشْهُوداً } قالَ زيدُ بن علي عليهما السلام\n فقرآن الفَجرِ: مَا يُقرأ بهِ صَلاَة الفَجرِ\n ومشهودٌ: تَحضُرُهُ مَلائِكةُ الليلِ ومَلائكةُ النَّهارِ\n فإِذَا انصرفوا صَعدتْ مَلائكةُ الليلِ، وبَقيتْ مَلائكةُ النَّهارِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Establish prayer at the decline of the sun} [means] its setting.\n He said: \"Her { departure } is the { twilight of night } when the sun sets.\"\n\n\nAnd he said, \"The last supper.\"\n\n\nAnd he said: \"The prayer of `Asr.\"\n\n\nAnd the saying of the Most High: {And the Qur'an at dawn. Indeed, the Qur'an at dawn is witnessed} Zayd ibn Ali said, peace be upon them both.\n\n\nThe Quran of Fajr: What is recited during the prayer of Fajr\n\n\nAnd it is witnessed: the angels of night and the angels of day bear witness to it.\n\n\n{When they have gone}, the angels of night ascend, and the angels of day remain.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

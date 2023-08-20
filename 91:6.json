@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nعن أبي خالد عن زيد بن علي عليهما السّلام في قولهِ تعالى: { وَٱلأَرْضِ وَمَا طَحَاهَا } معناه بَسطَها\n وكذلك دَحاها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis is a quote from Abu Khalid, quoting Zaid ibn Ali, regarding the meaning of the verse from the Quran, \"And the earth and whatever is upon it.\" { وَٱلأَرْضِ وَمَا طَحَاهَا } refers to the spreading out of the earth.\n\n\nAnd he also {dahaha} her.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

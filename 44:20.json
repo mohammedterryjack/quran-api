@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَن تَرْجُمُونِ } معناه تَقْتُلون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd his saying, \" {that you kill } \" means that you kill",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

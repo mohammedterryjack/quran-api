@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { آتُونِي زُبَرَ ٱلْحَدِيدِ } معناه قِطعُ الحَدِيد\n\n\n\n\nوقوله تعالى: { حَتَّىٰ إِذَا سَاوَىٰ بَيْنَ ٱلصَّدَفَيْنِ } يعني بين الجَبلينِ ويقال: الصُدُفَينِ\n\n\n\n\nوقوله تعالى: { أُفْرِغْ عَلَيْهِ قِطْراً } معناه صبُ عليهِ صفراً\n ويقال حَديدٌ ذَائبٌ\n ويقال هو الرَّصاصُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Bring me the iron} [means] cut the iron.\n\n\nAnd His saying, {Until, when he came between the two mountains}, [means] between the two mountains, and it is said: [the] two mountains.\n\n\nAnd His saying, \"Pour out upon him an overflowing measure,\" means bestow upon him complete and utter nothingness.\n\n\nAnd it is said that iron is a wolf.\n\n\nHe is the bullet.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

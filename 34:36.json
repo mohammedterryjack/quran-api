@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ } معناه يوسِّعُ عليه ويكثِّرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He gives abundantly to whom He wills,\" means that He gives them abundantly and in abundance.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

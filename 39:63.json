@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ } معناه المفاتيحُ\n واحدُها مَقليدٌ\n ويقال لها الأَقاليدُ\n واحدُها إقليدٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {the keys of the heavens and the earth} means the keys of knowledge.\n\n\nOne of them is a maqalid.\n\n\nIt is said of her that she is {aqalid} (intellectually precocious).\n\n\nOne of them is a eunuch.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

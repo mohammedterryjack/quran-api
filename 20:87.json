@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَآ أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا } يعني بِطَاقتَنا { وَلَـٰكِنَّا حُمِّلْنَآ أَوْزَاراً مِّن زِينَةِ ٱلْقَوْمِ } معناه حُمِّلنَا آثاماً مِن حُلى القِبطِ؛ فَقَذَفنَاها في الحُفرةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {We have not neglected your appointment with Our kingship}, means with Our {power}, {but We have carried the burdens of the people's adornment}. Its meaning is that We have carried the people's sins; so We cast them into the pit.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

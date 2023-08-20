@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَبِأَيِّ آلاۤءِ رَبِّكُمَا تُكَذِّبَانِ } فالأَلاءُ: النُّعماءُ واحدُها آلَّى، وأرادَ بهِ الجنَّ والإِنسَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah {So which of the favors of your Lord would you deny?} The favors are the bounties, and He intended by it the jinn and mankind.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

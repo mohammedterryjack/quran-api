@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِّن وَرَآئِهِ جَهَنَّمُ } معناه من أَمامِهِمْ\n\n\n\n\nوقوله تعالى: { مِن مَّآءٍ صَدِيدٍ } الصَّديدُ: القَيحُ والدَّمُ ويقال عُصَارةُ أَهلِ النَّارِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, {From behind them is the Fire} [means that] in front of them is the Fire.\n\n\nAnd His saying, {from water} - the water is pus and blood, and it is said that the people of Hell will be {pus and blood}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

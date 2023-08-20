@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلَّذِينَ سَعَوْا فِيۤ آيَاتِنَا مُعَاجِزِينَ } أي مسابِقِينَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd those who strive in Our signs are those who are racing.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱطَّيَّرْنَا بِكَ وَبِمَن مَّعَكَ } تشاءَ منا بِكَ وبِمن مَعَكَ\n\n\n\n\nوقوله تعالى: { بَلْ أَنتُمْ قَوْمٌ تُفْتَنُونَ } معناه تَبتلُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {We will show them Our signs in the horizons and within themselves until it becomes clear to them that it is the truth.} [Fussilat 41:53] - He wills that we show them the signs in the horizons and within themselves.\n\n\nAnd His saying, \"Indeed, you are a people who are tried,\" means that you are being tested.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { هُوَ ٱلأَوَّلُ وَٱلآخِرُ وَٱلظَّاهِرُ وَٱلْبَاطِنُ } فالأولُ: الذي كان ولا شيء غَيرهُ\n والأَخِرُ: الذي يكون ولا شيء مَعهُ\n والظَّاهرُ: الذي ليس ما ظَهرَ من الأَشياءِ بأقرب إليهِ مما بَطَنَ\n والبَاطنُ: الذي ليس ما بَطنَ من الأَشياءِ بأبعد عنهُ مما ظَهرَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He is the First and the Last, and the Outer and the Inner\" - so the First is He who was and nothing else was.\n\n\nAnd the last one: that which is and nothing else with it.\n\n\nThe apparent: that which is not what appears of things, nearest to it than what is hidden.\n\n\nAnd the baṭan (innermost) is that which is not baṭan (hidden) of things, furthest from what is dhahir (apparent).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

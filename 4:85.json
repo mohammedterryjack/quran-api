@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَكُنْ لَّهُ كِفْلٌ مِّنْهَا } معناهُ نَصيبٌ\n\n\n\nوقوله تعالى: { وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيْءٍ مُّقِيتاً } معناهُ مُقتَدرٌ\n ويقالُ حافِظٌ مُحيطٌ شَهِيدٌ\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There shall be a share for him therein}, means that he shall have a portion.\n\nAnd His saying - the Most High - {And Allah was over every thing determined} its meaning is determined.\n \n\nA hafiz is someone who is considered to be an expert in the field of Islamic jurisprudence.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

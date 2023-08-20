@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَتَنَازَعُونَ فِيهَا } معناه يَتَعاطُون فِيها { كَأْساً } معناه خمرٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {they compete in it} means they consume it {like a cup} meaning wine.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

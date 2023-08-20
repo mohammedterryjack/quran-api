@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَهُمْ فِيهَا زَفِيرٌ وَشَهِيقٌ } فالزَّفيرُ فِي الحَلقِ\n والشَّهِيقُ في الصَّدرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {Allāhumma} - in it {lahum fīhā zafīrun wa shahīqun} - the Zafīr is in the throat.\n\n\nThe panting in the chest.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا تَغِيضُ ٱلأَرْحَامُ وَمَا تَزْدَادُ } فالغَيضُ: نُقصانُ الوَلدِ، ما زَادتْ عَلَى تِسعَةِ أَشهرٍ؛ فَهو تَامٌ لِذَلِكَ النُّقْصَانُ، وهي الزِّيادَةُ! ويقالُ: ما تَغِيضُ الأَرْحامُ معناهُ مَا تُخرِجُ مِن الأَولادِ\n وَما كَانَ فِيها وَمَا تَزدَادُ معناهُ مَا يَحدُثُ فِيها\n\n\n\n\nوقوله تعالى: { وَكُلُّ شَيْءٍ عِندَهُ بِمِقْدَارٍ } معناهُ بِقَدرٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And the wombs shall not be emptied {and they shall not increase}\" - the \"emptying\" here refers to the loss of a child, which exceeds nine months; so that is the end of that loss, and the \"increasing\" is the opposite! And it is said: \"The wombs shall not be emptied\" means that no children will be born.\n\n\nAnd what is in it {it} and what does not increase its meaning {it} is what happens in it.\n\n\nAnd the saying of Allah, \"Everything is with Him in measure,\" means with a measure.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

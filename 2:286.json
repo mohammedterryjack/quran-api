@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { إِلاَّ وُسْعَهَا } معناهُ إِلا طَاقَتَها\n\n\n\n\nوقولهُ تعالى: { رَبَّنَا لاَ تُؤَاخِذْنَا إِن نَّسِينَآ } معناه تَركنا { أَوْ أَخْطَأْنَا } معناه جَهِلْنَا\n\n\n\n\nوقولهُ تعالى: { وَلاَ تَحْمِلْ عَلَيْنَآ إِصْراً } أَي ثِقْلاً، والإِصْرُ أَيضاً العَهدُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Except its vastness} means except its capacity.\n\nAnd His saying - the Most High: {Our Lord, do not take us to task if we should forget or make a mistake} means: do not take us to task if we should forget or make a mistake.\n\nAnd His saying, {And do not burden us with that which we have not the strength to bear} [Qur'an 2:286], meaning with a burden, and a burden also means a debt.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

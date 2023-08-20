@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كُلٌّ فِي فَلَكٍ يَسْبَحُونَ } معناه يَجرُون\n والفَلكُ: القُطبُ الذي تَدورُ بهِ النجومُ\n وقال: الفَلكُ: السَّماءُ!\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {All in the heavens and the earth praise Him} means they glorify Him.\n\n\nThe constellation: the point around which the stars revolve.\n {And the ship said: The heaven!}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

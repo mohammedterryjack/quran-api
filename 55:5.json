@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ } معناه بقدرٍ يَجريان\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {The sun and the moon are by measure} its meaning is in a manner that they both revolve.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

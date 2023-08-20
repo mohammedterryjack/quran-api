@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقوله تعالى: { ويْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ } الوَيلُ: وادٍ في جَهنمَ\n والهُمَزةُ: الطَّعانُ\n واللُّمَزَةُ: الذي يَأكلُ لحومَ النَّاسِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " {Woe to every slanderer and backbiter.} The woe: a valley in Hell.\n\n\nThe hamza is the sound of \"a\" when it is pronounced with a glottal stop.\n\n\nThe glutton: the one who eats the flesh of people.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

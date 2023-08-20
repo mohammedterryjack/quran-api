@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلسَّابِحَاتِ سَبْحاً } هي النّجومُ أيضاً تَسبحُ في الفُلكِ أي تَجري فيهِ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the {sabihat} are the stars as well, they travel in the sky.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

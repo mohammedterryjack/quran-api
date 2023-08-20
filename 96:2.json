@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nعن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { خَلَقَ ٱلإِنسَانَ مِنْ عَلَقٍ } معناه من دَمٍّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAccording to Abu Khalid, Zayd ibn Ali said regarding the verse {He has created man from a drop (of sperm)}: \"It means from blood.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

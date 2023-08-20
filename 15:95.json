@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا كَفَيْنَاكَ ٱلْمُسْتَهْزِئِينَ } وهم سبعةُ نَفرٍ مِنْ قَريشٍ: الوليدُ بن المُغيرة بن خالد المخزومي، والعاصُ بن وائل السهمي، وأبو زمعة الأَسود بن المطلب، والأَسودُ بن [عبد يغوث] الزهري، والحَارثُ بن قيس السُّهمي، وهو الحَارثُ بن عَيطَلة، وهي أُمهُ، وهَبّارُ بن الأَسود الأَسدي، وعبدُ يغوث بن وهب الزهري\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah: {We have sufficient for you against the scorners} and they are seven people from the Quraish: Al-Walid ibn al-Mughirah ibn Khalid al-Makhzumi, Al-'As ibn Wa'il al-Sahmi, Abu Zam'ah al-Aswad ibn al-Mutalib, Al-Aswad ibn [`Abd Yaghuth] al-Zuhri, Al-Harith ibn Qais al-Suhmi, which is Al-Harith ibn `Ata'ah, and his mother, Habbar ibn al-Aswad al-Asadi, `Ubd Yaghuth ibn Wahb al-Zuhri.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

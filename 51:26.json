@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَرَاغَ إِلَىٰ أَهْلِهِ } معناه عَدَلَ إليهم\n\n\n\n\nوقوله تعالى: { بِعِجْلٍ سَمِينٍ } معناه مشويّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"So he went back to his family,\" [means that] he became just to them.\n\n\nAnd His saying, \"With a speedy, heavy camel\" - this means a roasted camel.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

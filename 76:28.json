@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { نَّحْنُ خَلَقْنَاهُمْ وَشَدَدْنَآ أَسْرَهُمْ } معناه خَلقُهُم والأَسْرُ: المَفاصِلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"We have created them and strengthened their joints\" [Qur'an 51:47], means that He created them and the joints are the joints between their bones.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

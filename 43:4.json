@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nحدّثنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاءُ بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ عزَّ وجلَّ: { وَإِنَّهُ فِيۤ أُمِّ ٱلْكِتَابِ [لَدَيْنَا] } وأمُ كُلِّ شيءٍ أَصلُهُ\n والكتابُ: القُرآنُ وأُمهُ هي نُسختُهُ التي هي عندَ الله\n ولدينا: معناه عِندنَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWe were told by Abu Jafar\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\n\"And indeed, it is in the Mother of the Book [with us],\" and the Mother of all things is its origin.\n\n\nAnd the Book: The Quran and its mother are its copies which are with Allah.\n We have {two sons}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

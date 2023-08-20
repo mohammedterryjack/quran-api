@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱفْرُقْ بَيْنَنَا } معناهُ مَيِّز\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So leave Me alone with whoever disbelieves of them} [i.e., do not kill them]. Its meaning is distinguishing.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

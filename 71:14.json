@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَدْ خَلَقَكُمْ أَطْوَاراً } معناه عَلقةٌ ثم مُضغةٌ حتَّى تَمضي على التَّاراتِ السّبعِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Indeed, We have created you in stages\" [Qur'an 71:14] - meaning that He created you as clinging embryos, then as lumps of flesh, until He completed you as seven [perfect] beings.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

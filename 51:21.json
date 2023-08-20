@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَفِيۤ أَنفُسِكُمْ أَفَلاَ تُبْصِرُونَ } قال الإِمام زيد بن علي عليهما السلام: اعتدالُ خَلقِكُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And in yourselves. Do you not then see?} Imam Zaid ibn Ali said: \"Moderation in your actions is part of your nature.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

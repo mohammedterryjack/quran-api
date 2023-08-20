@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَرَتِّلِ ٱلْقُرْآنَ تَرْتِيلاً } معناه بَيّنهُ تبييناً\n ويقال: فَسّرهُ تَفسيراً ويقال: بَعضُهُ عَلَى إثرِ بَعضٍ\n ويقال: ابتدِهِ حَرفاً حرفاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And recite the Qur'an with clear recitation} means making it clear.\n\n\nIt is said: \"Interpret it as an interpretation,\" and it is said: \"Some of it is on the basis of some of it.\"\n It is said: \"Start with one letter at a time.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

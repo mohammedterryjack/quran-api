@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قِنْوَانٌ دَانِيَةٌ } فالقِنو: هو العِذقُ\n والاثْنَانُ: قنوَانُ\n ودَانيةٌ: معناه قَريبَةٌ\n\n\n\n\nوقوله تعالى: { وَيَنْعِهِ } معناهُ مَدرَكَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Qinwanun daniyah} - the Qinw is the Udhq.\n\n\nAnd the two: the Qanun\n\n\nWadiya: This means \"nearby\" or \"close by\".\n\n\nAnd His saying, \"Be!\" - that is, His command - it is comprehended.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱللَّيْلِ إِذْ أَدْبَرَ } معناه كان آخرهُ\n وأدبرَ: معناه وَلَّى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the night when it {turned away} - its meaning is that it ended.\n And he turned away: its meaning is \"and he walked away\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

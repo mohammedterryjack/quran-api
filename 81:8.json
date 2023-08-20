@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا ٱلْمَوْءُودَةُ سُئِلَتْ } معناه المدفونةُ حَيةً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when the buried is asked { } its meaning is the living",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

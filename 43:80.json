@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَمْ يَحْسَبُونَ أَنَّا لاَ نَسْمَعُ سِرَّهُمْ وَنَجْوَاهُم } معناه يَظُنونَ أنهُ تَخفى علينا أَسرارُهم فيما بينَهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He: {Do they think that We do not hear their secrets and their private conversation?} Its meaning: They think that their secrets and what is between them is hidden from Us.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تُرْهِبُونَ بِهِ عَدْوَّ ٱللَّهِ وَعَدُوَّكُمْ } معناه تَخْزُونَ ويقالُ: تُخِيفُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {You shall strive against the disbelievers and the hypocrites} [means that] you shall expose and confront them. And it is said, {You shall fear them} [i.e. the disbelievers and hypocrites].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

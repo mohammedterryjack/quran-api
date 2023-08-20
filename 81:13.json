@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ } معناه قُرِبتْ { عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ } من خيرٍ أو شَرٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd when the Garden is brought near { and the hearts are { made to know } what they have brought } of good or evil.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

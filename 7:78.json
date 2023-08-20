@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { جَاثِمِينَ } معناهُ بعضُهم عَلَى بَعضٍ جثُوم\n والجَاثمُ: المَيتُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They are those who are} [i.e., the people of Paradise], some of them on top of others, [i.e., in different levels], dead.\n\n\nAnd the corpse: the deceased",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

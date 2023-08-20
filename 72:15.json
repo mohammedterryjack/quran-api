@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَمَّا ٱلْقَاسِطُونَ } معناه الجائرونَ الكافرونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd as for the unjust {qāsṭūn}, they are the disbelievers.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

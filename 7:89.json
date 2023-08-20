@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱفْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِٱلْحَقِّ } معناهُ احكِمْ بَينَنَا وبينَهُمْ\n والفَتَّاحُ: القَاضِي\n وسُؤالُ الحُكمِ بِالحَقِّ إِنَّما هُوَ سُؤالُ الانتِقَامِ فِي عَاجِلِ الدّنيا\n وسُؤالُ الحُكمِ بالحَقِ فِي الآخِرةِ لاَ وجهَ لِسُؤالِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - the Most High: {Judge between us and our people with truth} - its meaning is: judge between us and them with truth.\n\n\nAnd the key: the judge\n\n\nThe question of judging by what is right is nothing but the question of taking revenge in this world.\n\n{The question of judging according to what is right in the Hereafter has no face to its question}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

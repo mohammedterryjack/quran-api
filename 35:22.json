@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n و: { ٱلأَمْوَاتُ }: الكفارُ\n\n\n\n\nوقوله تعالى: { وَلاَ ٱلظِّلُّ وَلاَ ٱلْحَرُورُ } فالحَرورُ بالنَّهارِ وقال: الحَرور بالليلِ، والسُمومُ بالنَّّهارِ\n وهما شِدةُ الحَرِّ ووهجُهُ\n وقال الظّلُّ: الجَنةُ\n والحَرورُ: النَّارُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the dead are the disbelievers.\n\n\nAnd the saying of Allah, \"Neither the darkness nor the heat\" - the heat is during the day, and He said: \"The heat is during the night, and the cold is during the day.\"\n\n\nAnd the heat of the sun and the brightness of its light.\n\n\nThe shadow said: \"The Garden.\"\n\n\nThe fire is burning.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

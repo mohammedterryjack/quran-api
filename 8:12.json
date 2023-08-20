@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱضْرِبُواْ فَوْقَ ٱلأَعْنَاقِ } معناه فاضْرِبُوا الأَعْنَاقَ\n\n\n\n\nوقوله تعالى: { وَٱضْرِبُواْ مِنْهُمْ كُلَّ بَنَانٍ } فالبَنَانُ: أَطرافُ الأَصَابعِ واحدُها بَنَانَةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Strike above the necks,\" means strike at the necks.\n\n\nAnd His saying, {And strike them at every joint}, so the joint is the extremities of the fingers, and one of them is a joint.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

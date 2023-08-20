@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليه السّلامُ في قولهِ تعالى: { فِيهَا يُفْرَقُ كُلُّ أَمْرٍ حَكِيمٍ } معناه يَقضي ويُدبِّرُ في الليلةِ المباركةِ وهي ليلةُ القَدرِ يَقضي فيها أمرَ السَّنةِ من الأَرزاقِ وغيرِ ذلك إلى مثلِها من السَّنةِ الأَخرى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\nHe said: Atta ibn al-Sa'ib narrated to us from Abu Khalid from Zayd ibn Ali, peace be upon him, regarding the words of Allah, {in it every matter of wisdom is decided} [Qur'an 44:4], meaning that He decrees and plans on the blessed night, which is the Night of Decree, and He decrees on that night the matters of the year in terms of sustenance and other things similar to it for the other years.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

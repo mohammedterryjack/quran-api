@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَنَبِّئْهُمْ } معناه أَخبرهُم\n\n\n\n\nوقوله تعالى: { كُلُّ شِرْبٍ مُّحْتَضَرٌ } والشِّربُ: المَصيبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And tell them means inform them.\n\n\nAnd His saying, {Every drink is [sought after]}, and drinking is [the] misfortune.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَصْرٍ مَّشِيدٍ } معناه مُزّينٌ بالشِّيدِ: وهو الجصُ والجيارُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And a fortified fortress} its meaning is adorned with stone: which is the wall and the moat.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

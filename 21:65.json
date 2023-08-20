@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ نُكِسُواْ عَلَىٰ رُءُوسِهِمْ } معناه قُلِبُوا، وقُهِرُوا بالحُجةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Then they will be overturned on their heads} [means] they will be turned over, and they will be compelled by the evidence.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

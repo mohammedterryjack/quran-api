@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُدْهَآمَّتَانِ } أي خَضراوان كالسّوادِ من شِدةِ رَيِّهِما\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {two Muđhammatan}, that is, two black [things] like coal, because of the intensity of their blackness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

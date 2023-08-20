@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَمَّنْ هُوَ قَانِتٌ آنَآءَ ٱلَّيلِ سَاجِداً وَقَآئِماً يَحْذَرُ ٱلآخِرَةَ وَيَرْجُواْ رَحْمَةَ رَبِّهِ } فقانتٌ معناه مُطيعٌ والقَانتُ: القَائمُ أيضاً\n وأناءُ الليلِ: سَاعاتُهُ، واحدُها آنى\n ويَحذرُ الآخرةَ: معناه عذابُ الآخرةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n\"He who is mindful of the Hereafter and fears Allah, and keeps himself from impure things - he is truly mindful of Allah.\" (Quran, 79:40-41)\n\n\"Qanit\" here means \"mindful\" or \"obedient\", and \"qaim\" means \"one who stands\".\n\n\nDuring the night: its hours, one of them being An-Nahar.\n He warns against the Hereafter: its meaning is the punishment of the Hereafter.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

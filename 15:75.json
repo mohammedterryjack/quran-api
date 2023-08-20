@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِلْمُتَوَسِّمِينَ } معناه للمتَفرسينَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, the Most High: {For those who measure} means for those who are arrogant.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

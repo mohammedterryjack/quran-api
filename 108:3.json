@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ شَانِئَكَ هُوَ ٱلأَبْتَرُ } معناه مُبغضُكَ وعَدوكَ الذي لا عَقِبَ لَهُ\n وذلكَ العاص بن وائل السّهمي\n ويقالُ: كَعبُ بن الأَشرف اليهودي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, your enemy is the one who is cut off} [means] that He hates you and your enemy is the one who has no successor.\n\n\nThis is the 'As bin Wail al-Sahmi.\n\n\nIt is said that the Ka'aba was built by the Jewish patriarch Abraham.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { خَيْراً مِّنْهُ زَكَـاةً } يعني ديناً { وَأَقْرَبَ رُحْماً } [أي] مَودةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Exalted is He}, \"A better religion than Islam {and closer to mercy}\" [i.e. to Allah's mercy] - that is affection.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

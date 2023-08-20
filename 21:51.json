@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ آتَيْنَآ إِبْرَاهِيمَ رُشْدَهُ مِن قَبْلُ } معناه هَداهُ صَغيراً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And We have certainly given Ibrahim guidance before,\" means that We have given him guidance when he was young.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

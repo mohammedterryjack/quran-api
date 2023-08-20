@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدثنا علي بن أحمد\n قال: حدّثنا عطاء بن السّائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَلَوْلاَ أَن كَتَبَ ٱللَّهُ عَلَيْهِمُ ٱلْجَلاَءَ لَعَذَّبَهُمْ } معناه الخُروجُ من أرضٍ إلى أرضٍ\n وهو الحَشرُ\n ويقالُ: القَتلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad narrated to us.\"\n\n\n{And had it not been for Allah's decree of exile, He would have punished them} [means] moving from one land to another.\n\n\nAnd it is the Resurrection.\n\n\nIt is said that killing is",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

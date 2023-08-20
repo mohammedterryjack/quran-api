@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَمِنْهُمْ أُمِّيُّونَ لاَ يَعْلَمُونَ ٱلْكِتَابَ إِلاَّ أَمَانِيَّ } قالَ زيدُ بن علي عليهما السلام: معناهُ إِنَّما هُم أَمثالُ البَهائِمِ لا يَعْلَمونُ شَيئاً إِلاَّ أَنْ يَتَمنوا على الله تعالى الباطلَ، وما لَيسَ لَهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the words of the Almighty: {And there are some of them who are illiterate and do not know the Book but only follow their desires}, Zayd ibn Ali said: It means that they are like livestock, they do not know anything except that they desire evil against Allah Almighty, and they have no",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

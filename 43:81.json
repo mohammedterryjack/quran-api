@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِن كَانَ لِلرَّحْمَـٰنِ وَلَدٌ فَأَنَاْ أَوَّلُ ٱلْعَابِدِينَ } معناهُ الآنفين والرَّادينَ لَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, if the Most Merciful had a son, then I am the first of [His] worshippers} [means that] the infidels and the denyers of Him are now far from Him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

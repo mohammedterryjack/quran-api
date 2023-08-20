@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ } معناهُ كَالِحَةٌ عَابِسةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {and faces on that day [will be] humbled} - its meaning is like a black cloud.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

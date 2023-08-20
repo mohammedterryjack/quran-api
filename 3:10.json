@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَن تُغْنِيَ عَنْهُمْ أَمْوَالُهُمْ وَلاَ أَوْلاَدُهُم مِّنَ ٱللَّهِ شَيْئاً } معناه من عِنْدِ الله شيئاً\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Their wealth and their children will not avail them against Allah at all\" - this means that nothing from Allah will avail them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلِتَصْغَىۤ إِلَيْهِ أَفْئِدَةُ } معناه تَميلُ والأَفْئِدَةُ جَمعُ فوْادٍ\n ويقالُ: صَغوتُ إِليهِ، وأَصْغَيتُ إِليهِ\n\n\n\n\nوقوله تعالى: { وَلِيَقْتَرِفُواْ مَا هُم مُّقْتَرِفُونَ } معناه يَتَوافَقُوا وَيَعْمَلوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And incline your hearts to Him} means to be attracted and \"the heart\" is the place of emotions.\n\n\nI called out to him, and I beckoned to him.\n And His saying, {And let them compete in [good] deeds} - its meaning is that they agree and they act.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

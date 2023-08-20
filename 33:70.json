@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَوْلاً سَدِيداً } معناه قاصدٌ، وهو قَولُ لاَ إله إلاّ الله\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the saying of Allah {Qawlan Sadidan} is intentional, and it is the saying \"There is no god but Allah.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

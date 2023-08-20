@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَنَّكَ لاَ تَظْمَأُ فِيهَا وَلاَ تَضْحَىٰ } قالَ زيدُ بن علي عليهما السَّلامُ: فلا تَظمأُ: فَلا تَعطشُ\n ولا تَضحى: معناه لا تُصيبُكَ الشَّمسُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And you will not thirst in it, nor will you be exposed to the sun} - Zayd ibn Ali said: \"Do not thirst: do not be thirsty.\"\n\n\nDo not be exposed to the sun.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

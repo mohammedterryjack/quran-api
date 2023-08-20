@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا وَجَدْنَآ آبَآءَنَا عَلَىٰ أُمَّةٍ } معناه على مِلةٍ واستقامةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"We found our fathers on a way\" - meaning on a path of truth and justice.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

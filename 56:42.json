@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي سَمُومٍ وَحَمِيمٍ وَظِلٍّ مِّن يَحْمُومٍ } فاليَحمومُ الدّخانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {in a smoke and a heat and a dark cloud from which is} - the fire.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

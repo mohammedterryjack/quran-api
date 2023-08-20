@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَلْفَحُ وُجُوهَهُمُ ٱلنَّارُ } معنا تَشْوِيهِ، حتى تُقلَّص شَفتهُ العُليا، وتَبلغَ وسَطَ رَأسهِ، وَتَسترخِي شَفتهُ السُّفلى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {Their faces will be scorched by the Fire}, that is, their faces will be transformed, until the upper lip is shortened and the lower lip is lengthened, and the skin on their faces becomes black.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

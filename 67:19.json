@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوَلَمْ يَرَوْا إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَافَّاتٍ } معناه باسطاتٌ اجنحتهنَّ، ويَقبِضنَّ فَيضرِبنَّ بأَجنِحتِهنَّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He: {Do they not see the birds above them { with wings outstretched }?} The meaning of {with wings outstretched} is that their wings are spread out, and they flap them and fly with them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

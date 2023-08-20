@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱللَّهُ ٱلَّذِي خَلَقَكُمْ مِّن ضَعْفٍ } معناه صغارٌ أطفالٌ والضَّعفُ: يَجيءُ بعدَ الكِبرِ بفتحِ الضَادِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe verse \"God is the one who created you from weakness\" refers to children and the weak: those who come after the elderly and are vulnerable.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

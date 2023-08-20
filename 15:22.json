@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَرْسَلْنَا ٱلرِّيَاحَ لَوَاقِحَ } معناه الرِّيحُ تُلقِحُ السَّحابَ، ثُمَّ تَمرُ بِهِ، ثُمَّ تُدُرهُ، كَما تَدُرُ المُلقَحَةُ، ثُمَّ تَمطِرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the verse: {And We have sent the winds to pollinate} means that the wind pollinates the clouds, then it passes through them, then it scatters them, as the pollinator scatters the pollen, then it rains.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

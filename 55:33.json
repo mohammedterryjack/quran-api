@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُواْ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلأَرْضِ } فأَقطارُها: جَوانِبُها\n وتَنفُذُوا: معناه تَفوتُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, the Most High, {If you are able to pass through the regions of the heavens and the earth} then their regions are their sides.\n\n\nAnd you shall pass away {like} {a cloud that is driven away by the wind}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

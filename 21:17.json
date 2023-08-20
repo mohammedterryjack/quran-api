@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَوْ أَرَدْنَآ أَن نَّتَّخِذَ لَهْواً } معناه نساءٌ وهي لغةٌ يمانيةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {If We had willed, We could have taken pleasure}, means that women are a source of pleasure.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

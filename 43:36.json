@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَن يَعْشُ عَن ذِكْرِ ٱلرَّحْمَـٰنِ } يَعمى عَنه\n\n\n\n\nوقوله تعالى: { نُقَيِّضْ لَهُ شَيْطَاناً } معناه نُهيئءُ لَهُ { فَهُوَ لَهُ قَرِينٌ } معناه صَاحبٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And whoever is {unmindful of the Most Merciful} - We have prepared for him a Blaze.\n\n\nAnd His saying, {We will appoint a Satan for him}, its meaning is that we will {abandon him}, its meaning is that he will have a companion.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

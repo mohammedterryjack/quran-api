@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ } معناه يُخبرون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Do they have the Unseen with them, that they are writing it down?} means, they are being informed.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

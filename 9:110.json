@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ يَزَالُ بُنْيَانُهُمُ ٱلَّذِي بَنَوْاْ رِيبَةً فِي قُلُوبِهِمْ إِلاَّ أَن تَقَطَّعَ قُلُوبُهُمْ } والرَّيبةُ: الشَّكُ\n وإِلاَّ أَنْ تَقَطعَ قُلوبُهُم: معناهُ إِلاَّ أَنْ يَموتُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The { building they built remains unstable in their hearts unless their hearts are cut off } and the instability: the doubt.\n Unless their hearts are cut off: meaning unless they die",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

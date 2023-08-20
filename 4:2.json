@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَتَبَدَّلُواْ ٱلْخَبِيثَ بِٱلطَّيِّبِ } فالخَبيثُ: الحَرَامُ والطَّيبُ الحَلالُ\n\n\n\n\nوقوله تعالى: { كَانَ حُوباً كَبِيراً } معناهُ إِثمٌ كَبيرٌ\n ويقالُ حُوَبَاً وَحَوَباً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And do not exchange the bad for the good.} So the bad is the forbidden and the good is the permissible.\n\n\nAnd His saying - { kāna ḥūbāan kabīrāan } - means a great sin.\n\n\nAnd it is said {huwaabaan wa hawaabaan},\n\nwhich means \"he is gone and gone.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

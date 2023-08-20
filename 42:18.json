@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱلَّذِينَ يُمَارُونَ فَي ٱلسَّاعَةِ } معناه يَشكُّونَ فيها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of {those who are in doubt about the Hour} is that they will be doubting in it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { إِنَّ ٱللَّهَ ٱصْطَفَاهُ عَلَيْكُمْ } معناهُ اخْتَارهُ فملكَهُ\n\n\n\n\nوقولهُ تعالى: { وَزَادَهُ بَسْطَةً فِي ٱلْعِلْمِ وَٱلْجِسْمِ } فالبسطَةُ: الزِّيادَةُ والبسْطَةُ: الطّولُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the {Allah has chosen him} is that he chose him and his kingdom.\n\n\nAnd His saying, {And He increased him in knowledge and in body} - so the increase is in knowledge and the increase is in body.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

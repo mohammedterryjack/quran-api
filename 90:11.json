@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ ٱقتَحَمَ ٱلْعَقَبَةَ } فالاقتحامُ في الشَّيءِ: الدُّخولُ فيهِ\n والعَقبةُ: جَبلٌ وراء جهَنمَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So do not attempt to go back [on your word]} - for \"attempting\" in a thing is to enter into it.\n\n\nAnd the 'Aqabah: a mountain behind Hell.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

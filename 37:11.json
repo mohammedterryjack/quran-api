@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱسْتَفْتِهِمْ } معناه فسَلْهُمْ\n\n\n\n\nوقوله تعالى: { مِّن طِينٍ لاَّزِبٍ } معناه لاَزمٌ لاَزقٌ\n واللازبُ من الطينِ اللزجُ\n ويقال: الجَيدُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, \"Ask them,\" its meaning is \"consult them.\"\n\n\nAnd His saying, {from a clay that is not wet} [means that] it is not necessary [for the clay] to be wet.\n\n\nAnd the {lazb} is from the {tayin} {lazaj}.\n\n\nIt is said that goodness is the best.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَإِذَا خَلَوْاْ إِلَىٰ شَيَاطِينِهِمْ } وهو كلُّ غاوٍ، ومُتردٍ من الجِّنِ والإِنسِ، والدَوابِّ\n واحدُهُمْ: شَيْطَانٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {And when they went to their devils} which refers to every evil and wicked Jinn and human, and animal.\n One of them is a Satan.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

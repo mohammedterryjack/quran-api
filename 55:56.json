@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَاصِرَاتُ ٱلطَّرْفِ } معناه لا تَطمَحُ أبصارهنَّ إِلى غَيرِ أزواجهنَّ\n\n\n\n\nوقوله تعالى: { لَمْ يَطْمِثْهُنَّ } معناه لم يَمسْهُنَّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {The end} [of marriage] is that their eyes should not incline to anyone else.\n\n\nAnd His saying, {He has not touched them} means that He has not had sexual intercourse with them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

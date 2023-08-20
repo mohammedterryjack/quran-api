@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَانَ ٱلنَّاسُ أُمَّةً وَٰحِدَةً } قالَ زيدُ بن علي عليهما السَّلامُ: يريدُ بِهِ آدمَ صلى الله عليه\n والأُمَّةُ: المِلَّةُ\n\n\n\n\nوقولهُ تعالى:\n\n[الرعد: 30] معناه مَضتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"The people were one nation,\" Zayd ibn Ali said, \"He [Adam] wanted by it [the people] to be Allah.\"\n The nation: the language\n\n\nAnd His saying, {Exalted is He},\n\n\nThe thunder: 30] Its meaning is {that it has passed}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

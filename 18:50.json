@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَفَسَقَ عَنْ أَمْرِ رَبِّهِ } معناهُ خَرجَ عَنهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {So he broke away from the command of his Lord} means he left it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

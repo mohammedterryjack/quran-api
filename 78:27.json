@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّهُمْ كَانُواْ لاَ يَرْجُونَ حِسَاباً } معناه لا يَخافونَ\n ويقال: لا يُبالونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Indeed, they were not expecting an account} [means that] they were not fearing.\n They are not concerned.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

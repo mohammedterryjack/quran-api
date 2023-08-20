@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُصْهَرُ بِهِ مَا فِي بُطُونِهِمْ } معناه تَسيلُ أَمعاؤهم وتَتَناثرُ جِلُودُهم، حتَّى يَقومَ كُلُّ عُضوٍ عَلَى حَيالِهِ، يَدعو بالويلِ والثُّبُورِ\n ويُصهَرُ: معناه يُذابُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {He will make them taste the severe torment} [means] the flowing of their entrails and the scattering of their skins, until every limb stands on its own, calling for destruction and ruin.\n\n\nAnd he is revealed: meaning that he is drawn out",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

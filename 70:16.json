@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { نَزَّاعَةً لِّلشَّوَىٰ } معناه لليدينِ والرّجلينِ والرّأسِ من الآدميينَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{Nazzāʿatun lil-shawwāʾ} means for the hands and feet and head of the human beings.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

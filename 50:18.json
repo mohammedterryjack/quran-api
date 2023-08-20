@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { رَقِيبٌ عَتِيدٌ } معناه حافظٌ\n عتيدٌ: أي حَاضرٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Raqeebun 'Ateedun}, means \"a watchful guardian.\"\n Present",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ أَخَذْنَآ آلَ فِرْعَونَ بِٱلسِّنِينَ وَنَقْصٍ مِّن ٱلثَّمَرَاتِ } معناهُ الجِدوبُ وآلُ فِرعونَ: أَهلُ دِينهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And We took the Children of Pharaoh by the years and a deficiency in fruits} means the decline and Pharaoh's people: the people of his religion.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أَبو جعفر قالَ: حدَّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السَّلامُ في قولِه تعالى: { وَذَكِّرْهُمْ بِأَيَّامِ ٱللَّهِ } معناهُ بِنِعَمِ الله\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us that Ali ibn Ahmad told him\n\n\nHe said: We were told by `Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn `Ali, peace be upon them, regarding the saying of Allah, {And remind them of the days of Allah}, that it means the goodness of Allah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

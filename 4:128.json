@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنِ ٱمْرَأَةٌ خَافَتْ مِن بَعْلِهَا نُشُوزاً أَوْ إِعْرَاضاً } معناه ذهابٌ عنها، أَو تغير ما\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And the saying of Allah: {And if a woman fears from her husband rebellion or aversion} means going away from her or changing what",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

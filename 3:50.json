@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلأُحِلَّ لَكُم بَعْضَ ٱلَّذِي حُرِّمَ عَلَيْكُمْ } والبَعضُ فِي معنى الكُلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And I have made lawful to you some of what was forbidden to you.} And some of it is in the meaning of all.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

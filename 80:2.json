@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n و: { ٱلأَعْمَىٰ } عَمرو بن أم مكتوم انتهى إلى النبي صلى الله عليهِ وعلَى آلهِ وسلمَ وهو يَدعو قريشاً إلى الإِسلامِ، فَشغلَ عَنهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd: {The Blind} 'Amr ibn 'Umayr came to the Prophet (peace be upon him) and called on the Quraysh to accept Islam. But they ignored him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

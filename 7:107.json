@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُعْبَانٌ مُّبِينٌ } وهو الذَّكرُ مِن الحيَّاتِ\n\n\n\n\nوقوله تعالى:\n\n[طه: 22] معناه من غَيرِ مَرضٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is no god but He, the Clear Truth}, and He is the All-Knowing from the [worlds of] the living.\n\nAnd His saying, {Exalted is He}, \"O Iblees, what prevented you from prostrating to that which I created with My hands? Were you arrogant [then], or were you [one] of the arrogant?\"\n\n\nThis means \"without illness.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

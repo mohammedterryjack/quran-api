@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَنْفَضُّواْ مِنْ حَوْلِكَ } معناهُ لانْصَرَفوا فِي الأَرضِ بكُلِّ وَجهٍ\n\n\n\n\nوقوله تعالى: { فَإِذَا عَزَمْتَ } معناه أَجْمَعتَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They have spread out on the earth}, means that they have dispersed in all directions on the earth.\n\n\nAnd the saying of Allah, \"When you have decided\" - its meaning is that you have agreed unanimously.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَفَلاَ يَنظُرُونَ إِلَى ٱلإِبْلِ كَيْفَ خُلِقَتْ } معناه كَيف تقَوم بحَملِها وهي بَاركةٌ\n ويقال الإِبلُ: السَّحابُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Do they not look at the camel - how it was created?} [means that] how it bears its load is a blessing.\n The camel is said: The clouds\n\nThis is a metaphor meaning that the camel is slow and sluggish like the clouds.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

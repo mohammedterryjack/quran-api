@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: فَأَوْجَسَ مِنْهُمْ خِيفَةً } معناه أضمرَ خَوفاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And he felt from them fear {which means he sensed fear}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

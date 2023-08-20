@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ يُزَوِّجُهُمْ ذُكْرَاناً وَإِنَاثاً } [أي] غلامٌ وجَاريةٌ\n { وَيَجْعَلُ مَن يَشَآءُ عَقِيماً } معناه لا يُولدَ لَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, \"He will marry them to { boys and girls }\" [i.e.] a youth and a maiden.\n\n\nAnd He makes whom He wills sterile.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

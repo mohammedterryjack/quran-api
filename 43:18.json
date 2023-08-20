@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوَمَن يُنَشَّأُ فِي ٱلْحِلْيَةِ وَهُوَ فِي ٱلْخِصَامِ غَيْرُ مُبِينٍ } قال الإِمامُ زيد بن علي عليهما السّلامُ: هُنّ النِّساءُ\n فَرَّقَ بين زَيّهنَّ وزيّ الرِّجالِ\n ونَقَصهنَّ فِي المِيراثِ والشَّهادةِ، وأَمرهن بالعُدةِ، وسَماهن الخَوالفَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, the Most High, {And is one who is born in the abode of luxury and he is in dispute not clear} said Imam Zayd bin Ali, peace be upon them both: They are the women.\n\n\nHe distinguished between the women and the men.\n\n\nAnd we reduced them in inheritance and testimony, and we ordered them to obey their husbands, and we called them by the names of the males.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nعن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { تَصْلَىٰ نَاراً حَامِيَةً } معناه حَارةٌ { تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ } معناه حَارةٌ قَد انتهى حرُّها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis is a reference to the verse in the Qur'an where Allah says \"They will enter a blazing Fire.\" The word \"blazing\" here refers to a fire that is so hot that it has reached its maximum heat.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

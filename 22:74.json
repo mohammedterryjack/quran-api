@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَا قَدَرُواْ ٱللَّهَ حَقَّ قَدْرِهِ } معناه ما عَظَّموهُ حَقَّ عَظمتِهِ، ولا عَرَفُوه حَقَّ مَعرفتِهِ، ولاَ وَصَفوهُ حَقَّ وَصفِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They have not estimated Allah with His true estimation}, means they have not given Allah His due reverence, nor have they recognized His true greatness, nor have they described Him with His true description.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

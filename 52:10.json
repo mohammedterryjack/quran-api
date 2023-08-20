@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَسِيرُ ٱلْجِبَالُ سَيْراً } معناه فتسيرُ هي والأَرضُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the verse \"And the mountains will travel\" means that the mountains and the earth will travel.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

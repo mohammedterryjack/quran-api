@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ضَرَبَ ٱللَّهُ مَثَلاً عَبْداً مَّمْلُوكاً لاَّ يَقْدِرُ عَلَىٰ شَيْءٍ } يعني ليسَ لَهُ شَيءٌ، ولاَ يَملِكُ شَيئاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, { Allah has set forth an example for those who disbelieve: the wife of Noah and the wife of Lot }. This means that they had no power or control over anything.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

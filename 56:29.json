@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَطَلْحٍ مَّنضُودٍ } فالطّلحُ: الموزُ\n والطّلحُ: العُظامُ، الكَثيرُ الشَّوكِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And {an opposing walah},\" meaning the walah is the coconut.\n\n\nAnd Talh: The bones, the many thorns",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

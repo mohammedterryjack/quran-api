@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَعَذَابُ ٱلآخِرَةِ أَشَقُّ } معناهُ أَشدُّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the punishment of the Hereafter is more severe.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

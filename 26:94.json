@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَكُبْكِبُواْ فِيهَا هُمْ وَٱلْغَاوُونَ } معناه جُمِعوا فِيها بَعضُهم عَلَى بَعضٍ\n يُريدُ مُشركي قُريش\n وقال: دَمَّروا الكُلَّ هُم والغَاوون: معناهُ الآلِهةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd his saying, {And they will be gathered in it, they and the jinn}, means that they will be gathered together in it, some on top of others.\n The partners of Quraysh wish\n\n\nHe said: \"Destroy all of them, gods and mortals alike.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

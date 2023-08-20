@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ يَكُنْ فِي صَدْرِكَ حَرَجٌ مِّنْهُ } معناهُ ضِيقٌ ويقالُ: شكٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {There should not be any difficulty in your heart regarding him} - its meaning is [that there should be] no anxiety, and it is said: [this is] doubt.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَطَعَاماً ذَا غُصَّةٍ } معناه لا يَسوغُ في الحَلقِ\n ويقالُ: إنهُ شَجرةُ الزَّقرمِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And food for a person in need\" - this means that it is not permissible to take more than one's fill.\n It is said that it is the tree of the firewood.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

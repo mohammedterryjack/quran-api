@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَغْطَشَ لَيْلَهَا وَأَخْرَجَ ضُحَاهَا } معناه نُورُها، وشَمسُها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And it became shrouded by the night and it emerged by the morning} [means] its light and its sun.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

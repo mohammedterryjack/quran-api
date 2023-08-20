@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ يَرَوْنَ فِيهَا شَمْساً وَلاَ زَمْهَرِيراً } فالشَّمسُ: الحَرُّ\n والزَّمهريرُ: البَردُ",
-      "translations": []
+      "translations": [
+        {
+          "translation": " { They will not see therein any sun or moon } The sun: the heat\n\n\nAnd the Zemzem well: the cold.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

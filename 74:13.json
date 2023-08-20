@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَبَنِينَ شُهُوداً } أي حضوراً قال كانوا عشرةً ويقال: ثلاثةُ عَشر\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And the sons {as witnesses}\" - that is, present - said: \"They were thirteen.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

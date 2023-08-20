@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَنَزَعْنَا مَا فِي صُدُورِهِم مِّنْ غِلٍّ } معناه من عَداوةٍ\n\n\n\n\nوقوله تعالى: { إِخْوَاناً عَلَىٰ سُرُرٍ مُّتَقَابِلِينَ } معناه لا يَنظرُ بَعضُهم فَي قَفا بَعضٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd We will remove whatever resentment is in their hearts.\n\n\nAnd His saying, {O brethren on opposite sides of the saddle} [means that] some of them do not look at another when he stops.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

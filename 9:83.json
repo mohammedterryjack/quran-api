@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَعَ ٱلْخَالِفِينَ } معناهُ معَ الذِينَ خَلفوا بعدَ الشَاخصينَ\n والخَوالفُ: النِّساءُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {with the disbelievers} means with those who followed after the two witnesses.\n\n\nAnd the Khawālif: the women",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

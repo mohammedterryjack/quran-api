@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَيَّانَ يُبْعَثُونَ } معناه متَى يُحيَونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, \"When will they be resurrected?\" Its meaning is when will they be alive again?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَفِيهِ يَعْصِرُونَ } معناه تَحتَلِبُونَ ويقالُ تَنجُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And in it they will be squeezed} [means] that they will be crushed and it will be said, \"You are being destroyed.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

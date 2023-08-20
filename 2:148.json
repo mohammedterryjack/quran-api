@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَلِكُلٍّ وِجْهَةٌ } معناهُ قِبلةٌ\n { هُوَ مُوَلِّيهَا } معناهُ هو مُوجِهُهَا\n صلواتهم إِلى بيتِِ المَقْدسِ، وصَلواتُهُم إِلى الكَعبةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {For every people is a direction}, its meaning is a qiblah.\n\n\n{He is her wali} means that he is her guardian.\n\nTheir prayers are to the Holy House, and their prayers are to the Kaaba.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

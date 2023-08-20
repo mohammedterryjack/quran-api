@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ إِرَمَ [ذَاتِ ٱلْعِمَادِ] أي ألم تَعلمْ\n وهما عَادان، عادُ الأُولى: وهي إِرمُ ذَاتِ العِمادِ معناه ذَات الطُّولِ\n وعادٌ الأَخيرة: وهم أهلُ عَمودٍ\n ويقال الذين قاتَلهم مُوسى عليه السّلامُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nDid you not see how your Lord dealt with the people of 'Ad? With the strong and mighty city of Iram?\n\n\nAnd they were both {Ulamā'}, the first {Ulamā'}: and she was {Irmū} of {al-'Imād} {ma'nā} {aḏ-ḏātil}.\n\n\nThe last of the Waad are those who are of the column.\n\n\nThose who fought against Moses (peace be upon him)",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

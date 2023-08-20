@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَيَاةً طَيِّبَةً } يعني القُنوع { وَلَنَجْزِيَنَّهُمْ أَجْرَهُم } ثَوابُهم فِي الآخرةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {a life of goodness}, means contentment {and We will give them their reward in full}. Their reward in the Hereafter will be great.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

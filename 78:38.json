@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلاَئِكَةُ صَفّاً } معناه مَلكٌ أَعظمُ من المَلائكةِ خَلقاً\n ويقال: الرُّوحُ: بنو آدم ويقال: هم عَلَى صُورةِ بَني آدم، وهم في السَّماءِ يأكلونَ، ولهم أيدٍ وأرجلٌ ورءوسٌ، وليسوا بملائكةِ\n\n\n\n\nوقوله تعالى: { إِلاَّ مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَقَالَ صَوَاباً } معناه حَقٌ وشهادةُ أن لاَ إلهَ إلاّ الله مُنتهى الصَّوابِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {The day the Spirit and the angels stand in ranks} means that there is a king greater than the angels in creation.\n\nIt is said: The spirit: the sons of Adam, and it is said: They are in the image of the sons of Adam, and they are in the sky eating, and they have hands and feet and heads, and they are not angels.\n\nAnd His saying, {Except for those whom the Most Merciful has allowed and said, \"Righteous\"} [means] the truth and [the] testimony that there is no god but Allah, the Most Righteous.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

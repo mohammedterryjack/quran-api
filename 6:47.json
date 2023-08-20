@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَغْتَةً أَوْ جَهْرَةً } فالبَغتةُ: معنا [هَا] الفَجْأةُ وجَهرةٌ معنا [ها] عَلانِيةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Suddenly or openly}, the meaning of [ha] is surprise, and [ha] is an open announcement.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

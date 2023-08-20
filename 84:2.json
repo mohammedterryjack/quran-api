@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدَّثنا عطاء بن السّائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ } معناه سَمِعتْ\n وحُقَّتْ: معناه حُقَّ لَها أن تَسمعَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\n{He said:} Ali ibn Ahmad told us\n\n\nHe said: \"It was narrated to us by 'Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn Ali, may peace be upon them, regarding the saying of Allah, {And she has submitted to her Lord and has been decreed [by Him]} - its meaning is that she has heard [His command].\"\n\n{She} is entitled: {It} {is} her right to {hear}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

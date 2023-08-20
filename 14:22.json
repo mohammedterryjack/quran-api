@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَّآ أَنَاْ بِمُصْرِخِكُمْ } معناه بِمُعينِكُم\n\n\n\n\nوقوله تعالى: { إِنِّي كَفَرْتُ بِمَآ أَشْرَكْتُمُونِ مِن قَبْلُ } يعني بَرئتُ مِنكُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"I am not responsible for your destruction\" [Qur'an 6:149] means with your destruction.\n\n\nAnd His saying, {Indeed, I have disbelieved in what you have associated with Me before}, means that I have disowned you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِأَلْفٍ مِّنَ ٱلْمَلاۤئِكَةِ مُرْدِفِينَ } أي مُتَتَابِعينَ\n ويقالُ وراءُ كُلِّ مَلكٍ ملكٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {with a thousand of the angels, in succession} - that is, following one another.\n\n\nAnd it is said that behind every king there is another king.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

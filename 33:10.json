@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: أخبرنا علي بن أحمد\n قال: أخبرنا عطاء بن السائب عن أبي خالد عن الإِمام زيد بن علي عليهما السَّلامُ في قولهِ تعالى: { وَإِذْ زَاغَتِ ٱلأَبْصَارُ } معناه حَارَت { وَزُلْزِلُواْ } معناه ابتِلُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\n{He said: Ali ibn Ahmad told us}\n\n\nHe said: Ata' ibn al-Saa'ib reported to us from Abu Khalid from Imam Zaid ibn Ali, peace be upon them both, regarding the words of God Almighty, \"And when the eyes turn away\" {wa idh zaghat al-absar} - meaning \"when they turn away in desire\" - \"and they are overcome with desire\" {wa zulziloo} - meaning \"they are tempted and tried\".",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

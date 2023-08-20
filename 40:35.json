@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلَّذِينَ يُجَادِلُونَ فِيۤ آيَاتِ ٱللَّهِ بِغَيْرِ سُلْطَانٍ } معناه بِغيرِ بُرهانٍ وَلاَ حُجةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the verse {those who argue about the verses of God without evidence} is without evidence or proof.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

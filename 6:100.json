@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَخَرَقُواْ لَهُ بَنِينَ وَبَنَٰتٍ } معناهُ اخْتَلَقُوا\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And {And they broke their covenant with him and rejected his messengers} means they created him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

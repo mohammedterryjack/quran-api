@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِذَا هُم مِّنَ ٱلأَجْدَاثِ إِلَىٰ رَبِّهِمْ يَنسِلُونَ } معناه من القُبورِ\n واحدُها جَدثٌ\n ويَنسِلون: معناه يُسرعونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {Then when they are [resurrected] from their graves to their Lord they will be led [straight]} Its meaning is from the graves.\n\n\nThis one is new.\n They are quick.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

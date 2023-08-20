@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱتَّخَذُوۤاْ أَحْبَارَهُمْ وَرُهْبَانَهُمْ أَرْبَاباً مِّن دُونِ ٱللَّهِ } فالأَحْبَارُ: العُلماءُ\n والرُّهبانُ: العُبَّادُ\n قال زيد بن علي عليهما السلام ما صَلُّوا وَلاَ صَامُوا ولكن أَطَاعُوهُمْ فِي مَعصيةِ الله تَعالى، فَسُموا لِطَاعتِهم لَهُمْ أَربَاباً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah: {And they took their scholars and monks as lords besides Allah } So the scholars are the ulama.\n\n\nAnd the monks: the servants\n Zaid ibn Ali said, \"They neither prayed nor fasted, but they obeyed them in disobedience to Allah. So they made them their gods for their obedience to them.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

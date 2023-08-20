@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا هَدَيْنَاهُ ٱلسَّبِيلَ } معناه بَيّنا لَهُ سُبلَ الخَيرِ والشَّرِ\n فمنهم شَاكرٌ لِنعمِ الله تعالى ومنهُم كَافرٌ بِهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, We have shown him the way} [means that] We have made clear to him the way of good and evil.\n\n\nSome of them are grateful to Allah for His blessings, while others deny them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

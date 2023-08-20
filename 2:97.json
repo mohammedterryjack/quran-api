@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { قُلْ مَن كَانَ عَدُوّاً لِّجِبْرِيلَ } فجبرُ: عبدٌ وإيلٌ: هو الله تعالى: مِثلُ عبدُ الله\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Who is an enemy to Gabriel?} So Gabriel: A servant and Iyl: He is Allah Almighty: Like the servant of Allah",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

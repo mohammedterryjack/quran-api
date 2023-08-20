@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ يَحْطِمَنَّكُمْ سُلَيْمَانُ وَجُنُودُهُ } معناه لا يَكْسُرنَّكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - be glorified - {… will not break you into pieces}, means: will not crush you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

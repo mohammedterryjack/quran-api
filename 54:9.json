@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَالُواْ مَجْنُونٌ وَٱزْدُجِرَ } معناه أَسفرَ جنونهُ\n ويقال: استطر\n والمُزدجرُ: المُنتهى المُتعظُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the {Qawaloo} said: \"Majnoonun and azdujira.\" This means that their madness has intensified.\n\n\nAnd it is said: \"Take counsel.\"\n\n\nAnd the Muzdajr: the ultimate Mu'taz",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

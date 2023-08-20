@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَشَرَوْهُ } معناه بَاعُوهُ { بِثَمَنٍ بَخْسٍ } معناهُ نَاقصٌ قَليلٌ\n ويقالُ ثَمنٌ حَرامٌ\n وقالوا كَانتْ عشرين درهماً ويقال: أَربَعونُ درهماً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"And sell them [in exchange] for a small price\" - this means that they should be sold for a price that is less than their worth.\n\n\nThe price of something is said to be haram if it is unfair or excessively high.\n They said it was twenty dirhams, and it is said: forty dirhams.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

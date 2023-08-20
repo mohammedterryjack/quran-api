@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { ٱدْخُلُواْ فِي ٱلسِّلْمِ كَآفَّةً } قالَ زيدُ بن علي عليهما السلامُ: فالسِّلْمُ: الإِسلاَمُ\n وكافَةً: أي جميعاً\n والسَّلمُ فِي آيةٍ أخرى: الصلحُ\n قالَ:\n\n[الأنفال: 61] معناه للصلْحِ\n وجَنَحُوا: معناهُ مَالُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the words of the Most High: {Enter into Islam completely}, says Zayd ibn Ali, may peace be upon him: So Islam is complete submission.\n All\n\n\nAnd peace be upon another verse: Al-Salaam.\n\n\nHe said:\n\n\nThe meaning of this classical Arabic phrase is \"for the sake of peace.\"\n\n\nAnd they will be asked, \"What have you amassed?\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

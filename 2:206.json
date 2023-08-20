@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَلَبِئْسَ ٱلْمِهَادُ } معناهُ الفِرَاشُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe most despised bed is the one in which people have sex.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَلَىٰ حِينِ غَفْلَةٍ مِّنْ أَهْلِهَا } قال الإِمامُ زيد بن علي عليهما السّلامُ: كَان نُصفُ النَّهارِ وهم غَافِلون: أي قَائِلونَ\n\n\n\n\nوقوله تعالى: { فَوَكَزَهُ مُوسَىٰ } معناه دَفَعهُ فِي صَدرهِ { فَقَضَىٰ عَلَيْهِ } يعني قَتلهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Upon a time of heedlessness from its people}, Imam Zayd ibn Ali said, regarding the meaning of 'a time of heedlessness': It was half the day and they were heedless – that is, they were saying.\n\n\nAnd His saying, \"So Moses struck him with his fist,\" means that he killed him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

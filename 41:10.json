@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَدَّرَ فِيهَآ أَقْوَاتَهَا } معناه معاشُها في هذه الأرضِ ما ليس في هذهِ، وفي هذهِ ما ليس في هذهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And He has determined in it [the earth] its [creature's] sustenance}, means that its creatures will have their sustenance on this earth, which is not in this [heavenly] realm, and in this [heavenly] realm, which is not in this [earthly] realm.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا كَانَ ٱللَّهُ لِيُعْجِزَهُ } معناه يَفُوتُهُ ويَسبِقُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {And Allah is not to be defeated}, its meaning is that He [i.e. Allah] will not be defeated and will not be preceded [i.e. in time].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

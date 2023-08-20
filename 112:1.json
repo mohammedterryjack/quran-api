@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقولهِ تعالى: { قُلْ هُوَ ٱللَّهُ أَحَدٌ } معناه واحدٌ { ٱللَّهُ ٱلصَّمَدُ } ، فالصَّمدُ: هو السَّيدُ الذي لَيسَ فَوقَهُ أحدٌ\n ولا يُدانيهِ أحدٌ\n المَرغوبُ إليه عِندَ الرّغائبِ\n المَفزوعُ إليهِ في النَّوائبِ\n والصَّمدُ: الباقي الدَائمُ\n ويقال: هو الله أحدٌ: ليسَ مَعهُ شَريكٌ",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe saying of the Most High: {Say, He is Allah , the One} its meaning is One {Allah is the Self-Sufficient} , so Al-Samad: He is the Lord who is not above him anyone\n No one can convict him.\n\n\nThe desired one is desired by those who desire.\n\nThe preposition \"to\" is assigned to him in the functions.\n\n\nAnd as-Samad is the Everlasting.\n\n\nIt is said: \"He is God, the One. He has no partner.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

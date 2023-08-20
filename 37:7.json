@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَحِفْظاً مِّن كُلِّ شَيْطَانٍ مَّارِدٍ } معناه متمردٌ عاتٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And keep yourself protected from every rebellious devil} means being defiantly resistant to every enemy.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

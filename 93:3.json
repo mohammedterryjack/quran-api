@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَا وَدَّعَكَ رَبُّكَ } أي ما تركَكَ { وَمَا قَلَىٰ } معناه ما أبغضَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Your Lord has not abandoned you} that is, He has not left you {nor hates} its meaning He does not detest you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

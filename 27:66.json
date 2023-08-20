@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَلِ ٱدَّارَكَ عِلْمُهُمْ } معناه اجتمعَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " But { } has gathered their knowledge.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

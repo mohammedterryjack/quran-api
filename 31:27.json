@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَّا نَفِدَتْ كَلِمَاتُ ٱللَّهِ } معناه أمرُ الله قال: الإِمامُ زيد بن علي عليهما السّلامُ: يقولُ لو كانَ البَحرُ وسَبعةُ أَبحرٍ فيها مدادٌ، لأَملى الله عليهم مَن خَلقهِ حتَّى تَفنى الأَقلامُ وتَيبسُ البُحورُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe saying of the Most High: {The words of Allah are not exhausted} means the command of Allah. Imam Zayd ibn Ali, peace be upon him, said: If the sea were ink and seven seas after it, Allah would exhaust those who created it until the pens were exhausted and the seas became dry.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

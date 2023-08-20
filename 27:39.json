@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَالَ عِفْرِيتٌ مِّن ٱلْجِنِّ } وهو المُبالغُ فِي الشَّيءِ\n وقال: هو آصف بن الشيطان بن إبليس، والذي عِندهُ عِلمٌ من الكِتابِ: هو آصف بن بريخا الخَير\n\n\n\n\nوقوله تعالى: { قَبْلَ أَن تَقُومَ مِن مَّقَامِكَ } معناه مِن حِين أنْ تَجلِسَ للنَّاسِ إِلى أَنْ تَقومَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Most High: {Qala 'Ifritun min al-Jinni} and it is the one who is excessive in something.\n\n\nAnd he said: \"As-Sufi ibn Shaytan ibn Iblis is the one who has knowledge of the Book. He is As-Sufi ibn Barikh al-Khayr.\"\n\n\nAnd His saying, {before you stand up from your place}, means from the time you sit to the time you stand up.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

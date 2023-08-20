@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا ٱلْبِحَارُ سُجِّرَتْ } معناه فَاضتْ\n ويقالُ: ذهبَ ماؤُها ويَبِسَتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And when the sea {is set on fire} means it boils\n\n\nIt is said that his milk has gone bad and has spoiled.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

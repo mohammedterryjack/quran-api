@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تَلْمِزُوۤاْ أَنفُسَكُمْ } معناه لا تَعيبُوا { وَلاَ تَنَابَزُواْ بِٱلأَلْقَابِ } معناه لا تَقولُوا يا كافرُ يا فاسقُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And do not disparage yourselves}, means do not {discredit one another with nicknames}. This means do not say, \"O disbeliever,\" or \"O sinner.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

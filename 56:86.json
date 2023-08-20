@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { غَيْرَ مَدِينِينَ } معناه غير مَجْزِيينَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {ghayr madinin} [literally: \"not of those who are indebted\"], its meaning is \"not of those who are unjust.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

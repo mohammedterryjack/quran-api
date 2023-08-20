@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَن كَانَ فِي ٱلْمَهْدِ صَبِيّاً } يعني صارَ فِي المَهدِ\n وقال المَهدُ: حِجرُهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He who was in the cradle a child} means that he became in the cradle\n\n\nAnd the Mahdi said: \"Its stone.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَتَّىٰ تَفْجُرَ لَنَا مِنَ ٱلأَرْضِ يَنْبُوعاً } معناه ماءٌ يَنْبَعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Until it bursts forth for us from the earth, a gushing spring} [means] water that gushes forth.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

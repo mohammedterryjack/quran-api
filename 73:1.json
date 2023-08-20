@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { يٰأَيُّهَا ٱلْمُزَّمِّلُ } معناه مُتلفِّفُ بثيابِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: Ali ibn Ahmad narrated to us, saying: Ata ibn al-Sa'ib narrated to us from Abu Khalid from Zayd ibn Ali, peace be upon them, regarding the saying of Allah, {O you who have believed} its meaning is \"one who covers himself with his clothes.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

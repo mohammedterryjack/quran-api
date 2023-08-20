@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ نَافِلَةً } معناه غَنيمةٌ\n ويقال: النَافلةُ: ابن العمّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd (We) bestowed upon him (the gift of) Isaac and (the gift of) Jacob as an additional bounty.\n The nephal is the son of the uncle",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَرْسِلْهُ مَعَنَا غَداً يَرْتَعْ وَيَلْعَبْ } معناهُ يَبتَغي وَيلهُو\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Send him with us tomorrow that he may enjoy himself and play\" - its meaning is that he should seek and play.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقولهِ تعالى: { ٱلْوَسْوَاسِ ٱلْخَنَّاسِ ٱلَّذِى يُوَسْوِسُ } ثم يَخنُسُ قال الإِمامُ زيد بن علي صلواتُ الله عليهِ: ما مِنْ مَولودٍ إلاّ وَعَلَى قَلبِهِ الوَسْوَاسُ الخَنّاسُ\n فإِذَا عَقَل فَذَكرَ الله تعالى خَرَجَ ذَلِكَ من قَلبِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe Almighty said: {The Whisperer, the Slinker}, then he sinks. Imam Zaid ibn Ali, may Allah's blessings be upon him, said: There is no child but that the Whisperer, the Slinker, is on his heart.\n\n\nWhen one's mind is at peace, and they remember Allah, that peace will come from their heart.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

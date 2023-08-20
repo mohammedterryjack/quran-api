@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { إِنَّ ٱلَّذِينَ آمَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَارَىٰ وَٱلصَّابِئِينَ }\n قالَ زيدُ بن علي عليهُما السلامُ: معنى هَادُوا: تَابُوا\n وهُدنا إِليكَ: تُبنا إِليكَ\n والصَّابِئونَ: قومٌ من اليَهودِ والنَّصارى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Indeed, those who have believed and those who are Jews and Christians and Sabians}\n Zayd ibn `Ali, peace be upon him, said: The meaning of \"Hādū\" is \"repent\".\n\n\nWe have been guided to you: we submit to you.\n\n\nAnd the Sabians: a people from among the Jews and the Christians.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

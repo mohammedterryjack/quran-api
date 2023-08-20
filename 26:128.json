@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ } معناه بِكلِّ مُرتفعٍ من الأَرضِ\n وقالَ: الطَّريقُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {Do you build on every high place a sign of amusement?} Its meaning is with every elevated place from the earth.\n He said: \"The road\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

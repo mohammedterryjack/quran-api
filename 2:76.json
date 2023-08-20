@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { قَالُوۤاْ أَتُحَدِّثُونَهُم بِمَا فَتَحَ ٱللَّهُ عَلَيْكُمْ } قالَ زيدُ بن علي عليهما السلامُ: معناهُ بما مَنَّ الله عليكم؛ فيحتجوا عليكم بهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {They will say, \"Are you informing them of what Allah has opened up to you?\"} Zaid ibn Ali said: This means what Allah has given you; so they will argue against you with it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { جُدَدٌ بِيضٌ } معناه طَرائقُ بيضٍ\n\n\n\n\nوقوله تعالى: { وَغَرَابِيبُ سُودٌ } معناه جِبالٌ سُودٌ\n والغَرابيبُ: هي السّودُ\n ويقال: أسود غربيب\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"renewed white [paths],\" means the white paths [of guidance].\n\n\nAnd His saying, \"The mountains are black,\" means that the mountains are black.\n\n\nThe term \"gharabiyya\" refers to black people.\n\n\nIt is said: \"The black of the grape.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقوله تعالى: { إِن يَثْقَفُوكُمْ } معناه يَلقُوكُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe meaning of the verse is that if they catch you, they will kill you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِّن قَبْلِ أَن نَّطْمِسَ وُجُوهاً فَنَرُدَّهَا } معناهُ نُسَوّيها حتّى تَعودَ كأقْفَائِهمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {before We touch their faces and turn them} means that We will make them perfect so that they will return as they were.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

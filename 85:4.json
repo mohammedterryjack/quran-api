@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُتِلَ أَصْحَابُ ٱلأُخْدُودِ } معناه لُعِنَ أصحابُ الإِخْدُودِ، والإخدودُ: الحُفرة والجَمعُ أخاديدٌ\n وكانوا باليَمنِ فَحَفَروا للمؤمنينَ هذه الحُفرةِ ثم أوقدوا فيها ناراً وقذفُوهم فيهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {the people of the ditch were killed}, means the people of the ditch were cursed, and the ditch is the grave and the gathering of the dead.\n\n\nAnd they were in Yemen, so they dug this trench for the believers, then they lit a fire in it and threw them into it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّنَا نَخَافُ أَن يَفْرُطَ عَلَيْنَآ أَوْ أَن يَطْغَىٰ } معناه أنْ يَتسَلّطَ عَلينا ويُعاقِبَنا\n وقالَ: يعجلُ عَلينا\n ويَطغَى: يَعتدي عَلينا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, we fear that he will be overbearing or rebellious} [means that] he will dominate us and punish us.\n He said: \"He is coming towards us quickly.\"\n\n\nAnd he transgresses: he is aggressive towards us.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

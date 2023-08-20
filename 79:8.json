@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُلُوبٌ يَوْمَئِذٍ وَاجِفَةٌ } معناه خَائفةٌ { أَبْصَارُهَا خَاشِعَةٌ } أي مُتواضعةٌ ذَليلةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Most High: { hearts on that day will be pounding } means afraid { their eyes will be lowered } meaning submissive and lowly",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

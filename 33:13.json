@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يٰأَهْلَ يَثْرِبَ } يَثربُ: أَرضُ المَدينةِ\n ومَدينةُ النبي صلى الله عليه وعلى آلهِ وسلم في نَاحيةٍ مِن يَثرب\n\n\n\n\nوقوله تعالى: { لاَ مُقَامَ لَكُمْ } معناه لاَ مكانَ لَكُم تُقيمون فِيهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"O Ahl al-Yathrib,\" Yathrib is the land of Madinah.\n\n\nAnd the city of the Prophet (peace be upon him and his family) in a part of Yemen.\n\nAnd His saying, {There is no place for you [to stand]} [means that] there is no place for you to stand in it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

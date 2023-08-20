@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيَقْدِرُ } معناه وَيقْدِرُ من قولهِ:\n\n[الطلاق: 7]\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He is Able,\" - His saying that He is Able, from His saying:\n\n\nDivorce: 7",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

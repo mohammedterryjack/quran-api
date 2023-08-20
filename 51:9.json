@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُؤْفَكُ عَنْهُ مَنْ أُفِكَ } معناه يُدْفَعُ عنهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {He repels from it whoever is repelled} [means that] He repels from him whoever is repelled.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

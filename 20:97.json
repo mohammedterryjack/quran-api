@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ مِسَاسَ } يعني لاَ مُخالطةٌ\n\n\n\n\nوقوله تعالى: { لَّنُحَرِّقَنَّهُ } معناه لَنَبْردَنّهُ بالمَبارِدِ { ثُمَّ لَنَنسِفَنَّهُ فِي ٱلْيَمِّ } معناه لَنَذْريه فِي البَحرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is no god but He} means that there is no one who is close to Him in His attributes.\n\nAnd His saying, {We will surely burn it} means that We will burn it with cold. {Then We will surely throw it into the sea} means that We will drown it in the sea.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

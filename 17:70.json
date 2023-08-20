@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلاً } قال: الإِمام زيد بن علي عليهما السلامُ: معى التفضيلُ ها هنا أنهُ لَيسَ مِن دَابةٍ إِلاَّ تَأكلُ بفَمِها، إِلاَّ بَني آدم فإنهُ يَأكلُ بيَدهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Most High: {And We have favored them over many of those We have created with a preference} said: Imam Zayd ibn Ali, peace be upon him, said: The preference here is that he is not from a creature that eats with its mouth, except for the children of Adam, for he eats with his hand.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

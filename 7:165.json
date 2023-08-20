@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِعَذَابٍ بَئِيسٍ } معناهُ شَديدٌ\n ويقالُ وجيعٌ أليمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The meaning of the verse {with a severe punishment} is severe.\n\n\nIt is said that pain is severe.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

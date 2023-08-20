@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَاتِ مَآءً ثَجَّاجاً } معناه من السَّماءِ\n ويقال: من الرِّيحِ\n ويقال: مِنَ السَّحابِ\n والثَّجاجُ: المُنصبُّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And {We have sent down from the} firmaments {a} drink {which is} cold.\n\n\nAnd it is said: \"From the wind.\"\n\n\nAnd it is said: From the clouds\n\n\nAnd the {thajaj}: the appointed one",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

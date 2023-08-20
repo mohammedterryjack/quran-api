@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُّقَرَّنِينَ فِي ٱلأَصْفَادِ } معناه السَّلاسِلُ والأَغْلاَلَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Muttaqarriina fi as-Safaadi}, means the chains and shackles.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

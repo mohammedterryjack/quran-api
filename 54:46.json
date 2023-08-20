@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ } معناه أَعظمُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the Hour is more grievous and more binding.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

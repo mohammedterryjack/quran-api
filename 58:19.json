@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱسْتَحْوَذَ عَلَيْهِمُ ٱلشَّيْطَانُ } معناه غَلَبَ عليهِم وحازَهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His words, {the Satan has taken control over them}, means that he has overpowered them and taken them captive.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

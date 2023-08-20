@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَطَفِقَ مَسْحاً بِٱلسُّوقِ } معناه ما زَالَ يَضرِبُ أسواقَ الخَيلِ وأعناقَها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So he stroked their necks} means that he continued to strike the necks of the horses and their riders.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

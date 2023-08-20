@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأْتُواْ بِهِ عَلَىٰ أَعْيُنِ ٱلنَّاسِ } معناه أظهِرُوهُ ومثلُهُ جَاءوا بِهِ عَلَى رِءوسِ الخَلقِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So bring it forth before the people's eyes}, its meaning is to make it manifest and its likeness is that they came with it upon the heads of the people.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

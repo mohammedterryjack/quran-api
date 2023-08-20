@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { آنَآءَ ٱللَّيْلِ } معناهُ سَاعاتُهُ\n واحدُها إِنيٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"At night\" - it means its hours.\n\n\nOne of them is surely me.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

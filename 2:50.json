@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { آلَ فِرْعَوْنَ } فآلُ: أَهلُ دِينهِ\n وآلُ الرّجلِ: قَومُهُ وعِتْرتُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {the family of Pharaoh}, that the family: the people of his religion.\n\n\nAnd his family: his tribe and his kinsmen.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قالَ: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { جَعَلُوۤاْ أَصَابِعَهُمْ فِيۤ آذَانِهِمْ وَٱسْتَغْشَوْاْ ثِيَابَهُمْ } معناه غَطُّوا بهَا رُءوسَهُمْ\n\n\n\n\nوقوله تعالى: { وَأَصَرُّواْ وَٱسْتَكْبَرُواْ ٱسْتِكْبَاراً } وأصروا: معناه وأقاموا عليه واستكبروا: معناه تعظموا وتجبروا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\n{He} said: {We} were told by {Ali ibn Ahmad}\n\n\nHe said: It was narrated to us by 'Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn 'Ali, may Allah be pleased with them both, regarding the statement of Allah, Most High, {They make their fingers into their ears to keep out the thunderclaps}, meaning that they cover their heads with them.\n\n\nAnd they persisted in their rebellion and arrogance, refusing to submit.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

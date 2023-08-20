@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَنِّي مَسَّنِيَ ٱلشَّيْطَانُ بِنُصْبٍ } معناه ببلاءٍ وشرٍ في جَسدي { وَعَذَابٍ } في بَدني!\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - the Most High - {Indeed, Satan has touched me with hardship and suffering} means affliction and evil in my {body} and punishment in my body!",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

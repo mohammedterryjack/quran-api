@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَجَعَلْنَاهُمْ أَحَادِيثَ } معناه عِبرٌ\n\n\n\n\nوقوله تعالى: { وَمَزَّقْنَاهُمْ كُلَّ مُمَزَّقٍ } معناه فَرقْناهُم وبَدَّدناهُم كُلَّ مُفرقٍ مُبددٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"We made them {ahadeeth}\" means an allegory.\n\n\nAnd His saying, {And We have torn them asunder}, means that We have divided them and increased them in every way.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَمَنْ عُفِيَ لَهُ } معناهُ مَنْ تُركَ لَهُ\n ويقالُ العَفو أَخْذُ الدِّيةِ\n وقال ابن عباس: كانَ القِصَاصُ فِي بني إِسرائيل، ولمْ يكنْ لَهُمْ دِيةٌ\n فقالَ الله تعالى لِهَذِهِ الأُمةِ: { كُتِبَ عَلَيْكُمُ ٱلْقِصَاصُ فِي ٱلْقَتْلَى ٱلْحُرُّ بِالْحُرِّ وَٱلْعَبْدُ بِٱلْعَبْدِ وَٱلأُنثَىٰ بِٱلأُنْثَىٰ فَمَنْ عُفِيَ لَهُ مِنْ أَخِيهِ شَيْءٌ } فالعَفو: أَنْ يَقْبلَ الدِيةَ فِي العَمدِ اتّباعاً بالمَعْروفِ\n قالَ زيدُ بن علي عليهما السلامُ فيتَّّبعُ الطَالبُ بالمَعروفِ ويُؤدي المطْلوبُ إِليهِ بإِحْسَانٍ { ذٰلِكَ تَخْفِيفٌ مِّن رَّبِّكُمْ وَرَحْمَةٌ } مما كُتِبَ على مَنْ كَانَ قَبْلَكُمْ\n\n\n\n\nوقولهُ تعالى: { فَمَنِ ٱعْتَدَىٰ بَعْدَ ذٰلِكَ } معناهُ مَنْ قَتَلَ بَعدَ أَخْذِ الدّية؛ فإنه يقتل، ولا تقبل منه الدّية\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Whoever is forgiven (by Allah) will be forgiven,\" means whoever is left alone (by Allah) will be left alone.\n\n\nThe taking of the debt is called 'afw (pardon/forgiveness).\n\n\nAnd Ibn Abbas said: \"Retaliation was in force among the children of Israel, but they had no right of compensation.\"\n Allah said to this nation: {Retaliation is prescribed for you in the matter of the murdered: the free for the free, and the slave for the slave, and the female for the female. But if any remission is made by the brother of the slain, then grant any reasonable demand, and compensate him with handsome gratitude. This is a concession and a mercy from your Lord. After this whoever exceeds the limits shall be in grave penalty.} So at-Tafiyah (pardon/remission) is to accept the Diyah (blood-money) in Qisas (retaliation) following Ma'ruf (that which is known to be good).\n\n\nZaid ibn Ali said, \"The student should follow what is good and fulfill his obligations to his teacher with kindness. This is a lightening of your load from your Lord and a mercy.\" This is what is written for those before you.\n\n\nAnd the saying of Allah, {But whoever kills after that} means whoever kills after taking the ransom; he will kill, and the ransom will not be accepted from him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

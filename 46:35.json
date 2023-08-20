@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱصْبِرْ كَمَا صَبَرَ أُوْلُواْ ٱلْعَزْمِ مِنَ ٱلرُّسُلِ } معناه أُولوا العَزمِ أربعةٌ، نوحٌ، وإبراهيمُ، وهودٌ، ومحمدٌ عليهم السّلامُ\n وقيلَ كَانَ لُوطٌ، وشُعيبُ، وهودٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So be patient, [O Muhammad], as were those of determination among the messengers} [means that] the people of determination are four: Noah, Abraham, Moses, and Muhammad - upon them be peace.\n\n\nIt is said that Lut, Shu'ayb, and Hud were",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

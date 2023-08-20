@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱذْكُرْ فِي ٱلْكِتَابِ إِبْرَاهِيمَ } معناه اقصُصْ قُصَّتَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd mention in the Book [the story of] Abraham,",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

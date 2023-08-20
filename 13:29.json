@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { طُوبَىٰ لَهُمْ وَحُسْنُ مَآبٍ } [معناه] خيرٌ لهُمْ ويقالُ: غِبْطَةٌ لَهُم\n ويقالُ: الجَنةُ وهي بالهِنْدِيةِ\n والمَاَبُ: المُنْقَلبُ والمَرجِعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Blessed are them and good is the homecoming\" [meaning] is good for them, and it is said: \"Disappointment is for them.\"\n\n\nIt is said that paradise is in India.\n\n\nAnd the turning away: the turning away and the returning.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

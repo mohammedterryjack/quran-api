@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَسْأَلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرْسَاهَا } معناه متى زمانُها؟ ويقالُ: مُنتهاها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {They ask you about the Hour - when will it be?} Its meaning is when its time will come? And it is said: its end.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

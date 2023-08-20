@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَبِئْسَ ٱلْمَوْلَىٰ وَلَبِئْسَ ٱلْعَشِيرُ } معناه أبناءُ العَمِ\n ولَبئس العشيرُ: الخَليطُ المُعاشرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"The worst of all creatures and the worst of all tribes,\" means the sons of the aunt.\n\n\nThe worst of people are those who mix with others indiscriminately.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

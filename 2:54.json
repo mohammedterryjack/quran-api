@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَتُوبُوۤاْ إِلَىٰ بَارِئِكُمْ } أًي خَالِقِكُمْ\n\n\n\n\nوقولهُ تعالى: { فَٱقْتُلُوۤاْ أَنفُسَكُمْ }\n قالَ: فقاموا صَفين\n فَقتلَ بَعضُهُمْ بَعضاً، حتَّى قِيلَ لَهُمْ كُفُّوا، فكانَتْ شَهادةً للمقتُولينَ، وتوبةً للأَحياءِ مِنهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So turn to your Lord} - that is, to your Creator.\n\n\nAnd the saying of Allah: { So kill yourselves }\n\n\nHe said: \"So they rose, two men.\"\n\n\nSo they killed one another, until they were told to stop, and it became a testimony for those who were killed, and repentance for the survivors.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

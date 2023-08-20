@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { جَعَلَهُ دَكَّآءَ } يعني مَدكُوكاً مُلزقاً بالأَرضِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He made it a dakka'a} [i.e. an object of ridicule], means that it was crushed and flattened to the ground.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

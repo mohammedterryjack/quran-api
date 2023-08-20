@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَقَالُواْ إِنَّمَا سُكِّرَتْ أَبْصَارُنَا } معناهُ غُشِيتْ فذَهبتْ\n ويقالُ: سُكِرَتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - exalted be He: {Their eyes did not swerve, nor did they blink} [Qur'an 52:24], its meaning is that their eyes did not swerve, meaning they did not look away, and they did not blink, meaning they did not close their eyes.\n\n\nAnd it is said: \"Sukirat\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

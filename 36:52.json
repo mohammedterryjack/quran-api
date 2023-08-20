@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مَن بَعَثَنَا مِن مَّرْقَدِنَا } معناه من أَهبَّنا من مَّرقدِنا معناه من مَنامِنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He who raised us from our sleep} means He who brought us back to life from our sleep, meaning He who revived us from our slumber.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

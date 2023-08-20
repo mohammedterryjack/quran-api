@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمِنَ ٱلْلَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ } قال زيد بن علي عليهما السلام التَّهجّدُ: القَيامُ بَعدَ النَّومِ والهُجودُ: النَّومَ أيضاً\n\n\n\n\nوقوله تعالى: { عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَاماً مَّحْمُوداً } فالمَقامُ المَحمودُ: الشَّفاعةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {And from the night, so pray with it an extra prayer for you} Zaid bin Ali, may Allah be pleased with them both, said: \"Tahajud is standing after sleep and Hudud is sleep as well.\"\n\n\nAnd His saying, \"Your Lord may raise you to a praised station\" - the praised station is intercession.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر قال: حدّثنا علي بن أحمد، قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السَّلامُ في قولهِ تعالى: { ذِي ٱلطَّوْلِ } معناه ذو الغِنى والتَفضلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us that Ali ibn Ahmad said: Ata' ibn al-Sa'ib told us on the authority of Abu Khalid on the authority of Zayd ibn Ali, peace be upon him, that the meaning of the verse {of the long stature} is \"one who is wealthy and virtuous.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

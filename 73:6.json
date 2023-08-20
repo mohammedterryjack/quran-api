@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ نَاشِئَةَ ٱللَّيْلِ } معناهُ قِيامُهُ، وهي بلسانِ الحَبشةِ يقال: نَشأ أي قَامَ\n والنَّاشِئَةُ: قيامُ الليلِ كُلِّهِ\n ويقال: ما بينَ المَغربِ والعِشاءِ\n ويقال: مِنْ بَعدِ العِشاءِ إلى الصُّبحِ\n\n\n\n\nوقوله تعالى: { أَشَدُّ وَطْأً } معناه ركوبٌ\n ويقال: القِيامُ في الليلِ أَثبتُ في الخَيرِ\n ويقال: يواطئُ قَلبهُ وسَمعهُ { وَأَقْوَمُ قِيلاً } معناه أحفظُ للقُرآنِ\n ويقال: أَثبتُ قِراءةً\n ويقال: أجدرُ أنْ يواطىءَ لَكَ سَمعُكَ وبَصرُكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, the rising of the night} [means] its coming, and it is in the Habasha tongue that it is said: \"nas'a\" [means] \"it rose\" or \"it stood\".\n\n\nAnd the night-time: the entirety of the night\n\n\nIt is said that {what is between} the Maghreb and {the evening} is {the best}.\n It is said: From after {the evening meal} until morning.\n The saying of the Most High: { The most severe punishment } means punishment\n It is said that staying up at night is more {rewarding/beneficial}.\n\n\nIt is said that one's heart and ears should be in agreement {and that one should be firm in saying}, meaning that one should memorize the Quran.\n It is said: \"I have read.\"\n It is said: \"I find it more likely that your hearing and sight {will be obstructed}.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

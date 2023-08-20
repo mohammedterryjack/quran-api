@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَدْ جَآءَكُمْ بَصَآئِرُ مِن رَّبِّكُمْ } معناهُ حُجَجٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted is He: {Indeed there have come to you proofs from your Lord} - its meaning is evidences.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

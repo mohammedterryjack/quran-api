@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمِزَاجُهُ مِن تَسْنِيمٍ } معناه من عَينٍ في الجَنةِ { يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ } صِرفاً أي خَالصاً، تُمزجُ لأَصحابِ اليَمينِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And the taste of His provision - for those who guard against evil - } is from a spring in Paradise {in which the righteous drink}. Exclusively and purely. It is mixed for the people of the right.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ أَصْحَابَ ٱلْيَمِينِ } معناه أطفالُ المُسلمين لا يُحاسبون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Almighty: {Except for the companions of the right} means the children of Muslims are not held accountable",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

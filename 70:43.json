@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ يَخْرُجُونَ مِنَ ٱلأَجْدَاثِ } معناه من القُبورِ واحدُها جَدثٌ\n\n\n\n\nوقوله تعالى: { كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ } معناه إلى عَلمٍ يُسرعون، ويُقالُ إلى غاياتٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {the day they come out of the graves} - means one of their graves.\n\n\nAnd His saying, \"They are as if they were to a fixed point they hasten\" means they are to knowledge they hasten, and it is said to goals.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

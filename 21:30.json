@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَنَّ ٱلسَّمَٰوَٰتِ وَٱلأَرْضَ كَانَتَا رَتْقاً فَفَتَقْنَاهُمَا } معناه كانتْ السّمواتُ والأرضُ واحِدةً فَفَتَق من الأَرضِ سَبعَ أرضينَ\n ويقال: فَتقَ السَّماءَ بالمطرِ والأَرضَ بالنَّباتِ\n والرَّتقُ: التي لا ثَقبَ فيهَا\n\n\n\n\nوقوله تعالى: { وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَيْءٍ حَيٍّ } معناهُ من النُّطفةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the verse {The heavens and the earth were joined together, then We separated them} is that the heavens and the earth were one, then He separated the seven earths from the earth.\n It is said: The sky is {fatqa} by the rain and the earth is {fatqa} by the plant.\n\n\nAnd the rattaq (lit. \"that which has no piercing\") is that which has no piercing in it.\n\n\nAnd His saying, \"We have made from water every living thing\" - this means that everything comes from a drop of water.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

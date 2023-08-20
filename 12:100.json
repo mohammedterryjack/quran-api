@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ } معناهُ عَلَى السَّريرِ\n\n\n\n\nوقوله تعالى: { وَجَآءَ بِكُمْ مِّنَ ٱلْبَدْوِ } معناه من البَادِيةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And he raised his parents high upon the throne} His meaning was upon the bed.\n\n\nAnd His saying, \"He has brought you forth from the wilderness\" - this means from the desert.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

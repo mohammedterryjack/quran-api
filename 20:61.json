@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَيُسْحِتَكُم بِعَذَابٍ } معناه يَستَأصِلَكُمْ\n ويقالُ: سَحَتهُ وأَسْحَتهُ لغتان\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, { \"So I will surely strike you with a punishment\" } its meaning is that He will cut you off.\n\n\nIt is said: \"He has mastered his language(s) {and} has become an expert in them.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

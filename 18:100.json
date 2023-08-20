@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍ لِّلْكَافِرِينَ عَرْضاً } يعني أُبرِزَتْ حتَّى رَأوهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And {We have displayed Hell that Day for the disbelievers} meaning it was displayed clearly for them to see it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

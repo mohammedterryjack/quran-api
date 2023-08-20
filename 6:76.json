@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَمَّا جَنَّ عَلَيْهِ ٱلْلَّيْلُ } معناهُ غَطّاهُ\n\n\n\n\nوقوله تعالى: { فَلَمَّآ أَفَلَ } معناه غَابَ وزَالَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - Exalted is He - \"Then when the night {covered} him\" - its meaning is that it enveloped him.\n\n\nAnd when the {afala} came, it meant that he had gone and disappeared.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

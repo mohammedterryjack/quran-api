@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَفَدَيْنَاهُ بِذِبْحٍ عَظِيمٍ } فالذَّبحُ: المَذبُوحُ\n والذَّبحُ: الفِعلُ\n والعَظيمُ: المُتقبلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"We sent him with a great sacrifice.\" The sacrifice is the one who is killed.\n\n\nAnd the sacrifice: the act\n\n\nAnd the great one: the receiver",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

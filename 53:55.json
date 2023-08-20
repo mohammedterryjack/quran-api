@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَبِأَيِّ آلاۤءِ رَبِّكَ تَتَمَارَىٰ } فالآلاءُ: النُّعماءُ واحدُها الَّى\n وتَتَمارى: أي تَشكُّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So which of the favors of your Lord would you deny?} So the favors are the bounties and one of them is that\n\n\nAnd you continue: meaning you are in doubt.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

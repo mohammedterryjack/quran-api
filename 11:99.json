@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلرِّفْدُ ٱلْمَرْفُودُ } معناه المُعَانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe verse \"Al-Rifdu Al-Marfud\" means \"the sought-after provision\".",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

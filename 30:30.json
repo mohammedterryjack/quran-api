@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِطْرَتَ ٱللَّهِ ٱلَّتِي فَطَرَ ٱلنَّاسَ عَلَيْهَا } معناه خِلقَتُهُمْ التي خَلَقَهم عَليها\n وقال: الإِسلامُ\n\n\n\n\nوقوله تعالى: { لاَ تَبْدِيلَ لِخَلْقِ ٱللَّهِ } معناه لدينِ الله\n ويقال: لا إخصاء\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"The nature of God is that which He created humans upon\" - this means His creating them upon that nature.\n\n\nAnd he said: \"Islam\"\n\n\nThe saying of Allah, \"There is no change in the creation of Allah,\" means that there is no change in the religion of Allah.\n\n\nIt is said: \"There is no distinction.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

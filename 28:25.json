@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَجَآءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَى ٱسْتِحْيَآءٍ } معناه واضعةٌ يَدهَا عَلَى وَجهِهَا\n\n\n\n\nوقوله تعالى: { إِنَّ أَبِي يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا } معناه ثوابُ ما سَقيتَ لَنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, the Most High, {So one of them came running, walking on her hands} means that she was walking with her hands on her face out of shyness.\n\n\nAnd His saying, \"Indeed, my father invites you that he may give you the reward for what you have done for us.\" This means that you will be rewarded for what you have done for us.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

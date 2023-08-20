@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَعَنِتُّمْ } معناهُ أَصابَكُم العَنتُ، وهو الضَّررُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe phrase {la'anittum} means \"I curse you,\" and it refers to the harm that has come to you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

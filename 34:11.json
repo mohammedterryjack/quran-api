@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَنِ ٱعْمَلْ سَابِغَاتٍ } [أي] دِروعاً واسعةً طويلةً\n\n\n\n\nوقوله تعالى: { وَقَدِّرْ فِي ٱلسَّرْدِ } معناه مساميرُ الدِّروعِ معناه لا تَغْلُظ فَتَدِق المَساميرُ ولا تَدِق فَتسلس\n ولكن اجعلهُ قدراً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Do good deeds} [that is] extensive, long lasting\n###\n\n\nAnd His saying, {And He has determined in the Sird} means the string of pearls, which means that the pearls should not be too close together, so that they touch each other, nor too far apart, so that they become loose.\n\n\nBut make it a reasonable amount.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

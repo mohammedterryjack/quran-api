@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَكَّالُونَ لِلسُّحْتِ } معناهُ للرُّشَى\n\n\n\n\nوقوله تعالى: { فَٱحْكُمْ بَيْنَهُمْ بِٱلْقِسْطِ } معناه بالعَدلِ\n فالمُقْسِطُ: العَادِلُ والقَاسِط: الجَائِرُ الكَافِرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying {Akkaloona lis-suhti}, its meaning is for rushing.\n\nAnd His saying - the Most High: { So judge between them by that which is just } its meaning is with justice.\n\n\nThe just person is the one who is fair and equitable, while the unjust person is the one who is unfair and unbalanced.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

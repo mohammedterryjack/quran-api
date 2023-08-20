@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِٱلْغُدُوِّ وَٱلآصَالِ } معناه بالعَشّياتِ\n واحدُها أَصيلٌ والجَمعُ أُصُلٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"With the dawn and at dusk\" [means] with the two {ash-shiyat} (the times of day).\n\n\nOne of them is the original, and the rest are derived.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَذَاباً فَوْقَ ٱلْعَذَابِ } قالَ زيدُ بن علي عليهما السلامُ معناهُ عَقارِبٌ لَها أَنيابٌ كَأنيابِ النَّخلِ الطّوالِ، وهي أَفاعي النَّار!\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe Glorious Quran says: {A punishment above the punishment} Zaid ibn Ali said, may peace be upon them both, its meaning is that the fire has branches like the branches of a palm tree, and it is the most intense of fires!",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

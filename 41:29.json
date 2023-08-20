@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَال الَّذِينَ كَفَرُواْ رَبَّنَآ أَرِنَا ٱلَّذَيْنِ أَضَلاَّنَا مِنَ ٱلْجِنِّ وَٱلإِنسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا } معناه إبليس، وابن آدم الذي قتلَ أخاهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah: {And those who disbelieve say, \"Our Lord, show us those who have misled us from among the jinn and the people that we may put them beneath our feet.\"} Its meaning is Iblis, and Adam's son who killed his brother.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

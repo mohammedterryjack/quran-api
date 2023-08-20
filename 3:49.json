@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأُبْرِىءُ ٱلأَكْمَهَ وٱلأَبْرَصَ } فالأَكمَهُ: الذي تَلِدُهُ أُمُّهُ أَعمى، والجمعُ الكُمْهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And I will clear the Akmah and the Abraas} So the Akmah are those who are born blind, and the plural is Kumh.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

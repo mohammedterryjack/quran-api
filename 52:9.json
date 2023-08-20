@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْراً } معناه تَدُورُ بما فيهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"The Day the heaven will {swarm} with a swarm,\" its meaning is that it will {swarm} with whatever is in it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

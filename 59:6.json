@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلاَ رِكَابٍ } فالإيجافُ: السَّيرُ إلى الأَعداءِ\n والرِّكابُ: الإِبلُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allaah (swt): {But you did not attack him with any horses or riders} - meaning: marching towards the enemy.\n\n\n{And} the riders: the camels.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

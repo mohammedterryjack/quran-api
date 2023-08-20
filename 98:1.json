@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nعن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { مُنفَكِّينَ } معناه زائلونَ عما هُم عَليهِ مُنتهونَ عَنهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis is a saying of Abu Khalid, from Zayd ibn Ali, peace be upon them, concerning the words of the Almighty {those who are driven out}: meaning those who are driven away from what they are holding onto.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

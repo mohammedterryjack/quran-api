@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا عَلَّمْتُمْ مِّنَ ٱلْجَوَارِحِ مُكَلِّبِينَ } معناهُ الصَوائِدُ\n من البَازِ والصّقرِ، والكِلابِ\n وغَيرِ ذَلِكَ\n مُكَلبِّينَ معناهُ أَصحابُ كِلابٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And what you have taught of the beasts of prey} [means] the hunting dogs.\n\n\nFrom the eagles and the falcons, and the dogs.\n\n\nAnd other than that\n\n\n{People} who own {dogs}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

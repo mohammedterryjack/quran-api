@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَرَىٰ كُلَّ أُمَّةٍ جَاثِيَةً } معناه قد جَثتْ عَلَى الرُّكبِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Every nation has been raised up\" - meaning that each nation has been carried on its back.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

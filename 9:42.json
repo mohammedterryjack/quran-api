@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَوْ كَانَ عَرَضاً قَرِيباً } معناهُ غَنِيمةٌ قَرِيبةٌ\n\n\n\n\nوقوله تعالى: { وَلَـٰكِن بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ } معناهُ السَّفرُ والسَّيرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {if it was an easy matter} means an easily attainable reward.\n\n\nAnd His saying, {But the hardship overtook them} means traveling and journeying.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

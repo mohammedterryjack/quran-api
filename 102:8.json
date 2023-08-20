@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ } عن الأَمنِ والصِّحةِ\n ويقال: عن الفَراغِ والصَّحةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Then you will be asked on that day about the pleasure}, about security and health.\n\n\nIt is said that leisure and health are two of the most important things in life.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَّيْسَ لَهُمْ طَعَامٌ إِلاَّ مِن ضَرِيعٍ } معناه من الشَّرقِ اليَابسِ، وهو ضَربٌ من الشَّوكِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And the saying of God: {They will have no food except from what is gleaned} means from the fallow land, and it is a metaphor from thorns.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

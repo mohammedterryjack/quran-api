@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيَدْرَؤُاْ عَنْهَا ٱلْعَذَابَ } معناه يَدفعُ عَنها الحدُّ والرَّجمُ\n والعَذابُ: الحَبسُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And they will be protected from the punishment} means that He will remove the punishment from them and the stoning.\n\n\nAnd the punishment: imprisonment",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

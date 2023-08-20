@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَفِي ٱلسَّمَآءِ رِزْقُكُمْ } قال الإِمام زيد بن علي عليهما السَّلامُ: معناه المَطرُ { وَمَا تُوعَدُونَ } يومُ القِيامةِ من الثَّوابِ والعِقابِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {And in the heaven is your provision}, Imam Zayd bin Ali, peace be upon him, said: Its meaning is the rain {and what you are promised} on the Day of Resurrection in terms of rewards and punishments.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

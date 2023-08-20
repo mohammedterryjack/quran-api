@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { زَجْرَةٌ وَاحِدَةٌ } معناه صَيحةٌ واحدةٌ وهي النَفخةُ الآخرةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {one blast} means one shout, and that is the final blowing of the trumpet.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

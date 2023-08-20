@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِذْ قُضِيَ ٱلأَمْرُ وَهُمْ فِي غَفْلَةٍ } يعني أهلَ الدّنيا فِي غَفلةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {When the matter is decided, and they are in a state of carelessness} [means] the people of the world in a state of carelessness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

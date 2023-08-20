@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنِّي لأَظُنُّكَ يٰفِرْعَونُ مَثْبُوراً } يعني مَلعُوناً وقالَ: مَمنوعٌ وقال: مُهلكٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe saying of the Most High: {And I certainly think that you, Pharaoh, are doomed to destruction. } Meaning: Cursed. And he said: Forbidden. And he said: Destruction.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

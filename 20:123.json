@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَنِ ٱتَّبَعَ هُدَايَ فَلاَ يَضِلُّ وَلاَ يَشْقَىٰ } معناه لا يَضِلُ: في الدّنيا\n وَلاَ يَشقى: فِي الأَخرةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {But whoever follows My guidance will neither go astray [in the world] nor suffer}. Its meaning is that he will not go astray: in this world.\n\n\nAnd he will not be harmed in the hereafter.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

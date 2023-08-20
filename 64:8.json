@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَآمِنُواْ بِٱللَّهِ وَرَسُولِهِ وَٱلنّورِ ٱلَّذِيۤ أَنزَلْنَا } فالنُّورُ: القُرآنُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {So believe in Allah and His Messenger and the Light that We have sent down}, the Light is the Qur'an.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

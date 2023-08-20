@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِن يَدْعُونَ مِن دُونِهِ إِلاَّ إِنَٰثاً } معناهُ مَواتٌ من حَجرٍ، أَو مَدَرٍ، أَوْ مَا أَشبهُ ذَلِكَ\n\n\n\n\nوقوله تعالى: { شَيْطَٰناً مَّرِيداً } معناهُ مُتَمرِدٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Except those who are dead} [means] stones, or clay, or what is similar to that.\n The saying of the Most High: {Shaytanan Mureedan} means Mutamarrid",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

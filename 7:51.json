@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱلْيَوْمَ نَنسَاهُمْ } معناهُ نُؤخِرهُم ونتركُهمْ من الرَّحمةِ\n\n\n\n\nوقوله تعالى: { كَمَا نَسُواْ لِقَآءَ يَوْمِهِمْ هَـٰذَا } معناهُ تَكُوهُ وجَحَدُوهُ ولَمْ يُؤمنوا بِه\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"Today We will forget them\" - meaning We will postpone their punishment and leave them out of mercy.\n\nAnd His saying, {As they forgot the appointment of this their day}, its meaning is their denial and their rejection, and they did not believe in it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

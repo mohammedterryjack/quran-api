@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَعَمِيَتْ عَلَيْهِمُ ٱلأَنبَـآءُ } معناه خَفِيتْ عَلَيهِم الأَخبارُ\n وقال: الحججُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"The news has come to them,\" means that the news has been hidden from them.\n\n\nAnd he said: \"The proofs {al-hujjat} are conclusive.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

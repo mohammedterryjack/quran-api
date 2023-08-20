@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ يَرْقُبُواْ فِيكُمْ إِلاًّ وَلاَ ذِمَّةً } معناهُ لاَ يَخَافُونَ\n والإِلُ هو الله عزَّ\n وجلَّ\n والإِلُ: القَرابةُ\n والإِلُ: المِيثاقُ\n والذِّمةُ: العَهدُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is no fear in you} means they are not afraid.\n And (He) is God, the Most High.\n\n\nAnd He is the Glorious One.\n And the tie: kinship\n\n\nAnd the covenant: the oath.\n\n\nThe dhiimah (guarantee) is the obligation.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ يَأْتِيَهُمُ ٱلْعَذَابُ قُبُلاً } معناه مُقابَلَةٌ\n وقُبُلاً يعني أَولاً\n وقبلةٌ معناه مُعاينةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, { the punishment will come to them } means that it will come to them in turn.\n\n\nAnd {qubulan} means {awalan}.\n\n\nA \"waqbah\" is a preview or a previewing.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

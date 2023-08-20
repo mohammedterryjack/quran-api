@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى { أَوِّبِي مَعَهُ } نِيبي وأهلَهُ\n وقال: أوِّبي معناه سبِّحي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd his saying, {I will be with him} - this is a promise to his people.\n\n\nAnd he said, \"I will go with you.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

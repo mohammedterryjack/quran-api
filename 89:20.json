@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n ويقال: يأكل نَصيبَهُ ونَصيبَ صَاحبهِ { وَتُحِبُّونَ ٱلْمَالَ حُبّاً جَمّاً } معناه شَديدٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nIt is said: \"He eats his share and his companion's share {and you love money very much}.\" This means very much.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

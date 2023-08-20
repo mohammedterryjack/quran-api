@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَأَنتَ عَنْهُ تَلَهَّىٰ } معناه تَغافلُ عنهُ بغَيرهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {But you are distracted from it} [means] that you are neglectful of it for the sake of others.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

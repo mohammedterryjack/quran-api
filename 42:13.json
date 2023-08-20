@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { شَرَعَ لَكُم مِّنَ ٱلدِّينِ } معناه أَظهرَ لكم من الدِّينِ ما وصَّى بهِ نُوحاً من تَحريمِ نِكاحِ البَناتِ والأَخواتِ\n\n\n\n\nوقوله تعالى: { كَبُرَ عَلَى ٱلْمُشْرِكِينَ } معناه عَظُمَ عليهم\n\n\n\n\nوقوله تعالى: { يَجْتَبِيۤ إِلَيْهِ مَن يَشَآءُ } معناه يَكرُمُ و: { يُنِيبُ } معناه يَتوبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - {He has ordained for you from religion} means He has shown you from religion what Nuh enjoined upon you of the prohibition of marrying sisters and daughters.\n\n\nAnd His saying, {Most exalted is He above those who associate others with Him}, means that He is greatly exalted above them.\n\nAnd His saying, {He chooses to His self whomever He wills}, its meaning is He honors, and: {He repents}, its meaning is He repents.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

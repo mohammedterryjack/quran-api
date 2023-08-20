@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ يَجْرِمَنَّكُمْ شِقَاقِيۤ } معناه لا يَحمِلَنكُمْ\n وشِقَاقِي معناهُ ضِراري\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {There is no sin on you for what you differ about} means that He does not hold you accountable for your differences.\n\n\nAnd my separation from you is harmful to me.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

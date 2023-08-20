@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَحُورٌ عِينٌ } فالحورُ: السَّوادُ الحَدقِ\n ويقال الحُورُ: الذي يَحارُ فيهِ الطَّرفُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"And {Hurun 'Ainun}\", the Hurun here meaning the blackness of the pupil.\n The hoopoe is said to be the one in which the extremity hops.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلَمْ تَرَ أَنَّ ٱللَّهَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلأَرْضَ } معناه أَلَمْ تَعلمْ، وَلَيسَ بِرؤيةِ عَينِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nDo you not see that Allah has created the heavens and the earth? This means: do you not know, and is not by sight of the eye.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

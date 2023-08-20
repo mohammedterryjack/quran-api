@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَهَبُ لِمَن يَشَآءُ إِنَاثاً } أي لا ذِكورَ مَعهُنَّ { وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ } أي لاَ إناثَ مَعهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {He gives to whom He wills females} i.e. no males with them {and He gives to whom He wills males} i.e. no females with them",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

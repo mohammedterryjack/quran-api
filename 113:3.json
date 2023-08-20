@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ } فالغَاسِقُ: الليل\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd from the evil of the dark night when it comes",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

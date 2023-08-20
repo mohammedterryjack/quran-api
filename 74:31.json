@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ يَرْتَابَ } يعني ولا يَشُكَّ\n\n\n\n\nوقوله تعالى: { ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ } معناه شَكٌّ ونِفاقٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, \"And do not doubt\" means \"and do not disbelieve.\"\n\n\nThe verse \"those who have diseased hearts\" refers to those who are doubtful and hypocritical.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

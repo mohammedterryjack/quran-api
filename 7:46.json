@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَعَلَى ٱلأَعْرَافِ رِجَالٌ } قالَ زيدُ بن علي عليهما السَّلامُ هو سورٌ بين الجَنةِ والنَّارِ\n والأَعرافُ: كُلُّ موضعٍ مُرتفعٍ مُشرفٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the words of the Almighty: {And on the mountains are men} Zayd ibn `Ali, peace be upon him, said that it is a barrier between Paradise and Hell.\n\n\nAnd the mountains: every high and elevated place.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

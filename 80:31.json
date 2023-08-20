@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَفَاكِهَةً وَأَبّاً } معناه حَشيشٌ، فالفاكهةُ لبني آدم والأَبُّ لأَنعامِهِم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {and fruits and a father} means hashish, so the fruit is for the children of Adam and the father is for their animals.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

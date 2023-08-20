@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَالَ قَآئِلٌ مِّنْهُمْ إِنِّي كَانَ لِي قَرِينٌ } معناه صاحبٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allaah: {Qaala qa'ilun minhum innee kana lii qareenun} means \"I had a companion.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

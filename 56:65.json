@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَوْ نَشَآءُ لَجَعَلْنَاهُ حُطَاماً } معناه رُفاتٌ\n\n\n\n\nوقوله تعالى: { فَظَلْتُمْ تَفَكَّهُونَ } معناه تَتَعجبون\n ويقال تَتَلاومون\n ويقال: تندمون وهي لغة لعُكلٍ وتميم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {If We willed, We could have made it [into] rubble}, means that it [i.e., the city] is in ruins.\n\n\nAnd His saying, {So you have become confused}, means you are amazed.\n \n\nYou're reciting!\n\n\nIt is said: You regret and it is a language for {ukl} and Tammim.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَوْ نَشَآءُ جَعَلْنَاهُ أُجَاجاً } معناه مالحٌ أشد مَا يكونُ الملوحة\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {If We willed, We could have made it [a] more intense [affliction]} means that it is more severe than what the stench would be.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

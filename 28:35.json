@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَنَشُدُّ عَضُدَكَ بِأَخِيكَ } معناه سنُقويكَ بِهِ، ونُعينُكَ عليه\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"We will strengthen your arm with your brother\" means that We will support you and help you with him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

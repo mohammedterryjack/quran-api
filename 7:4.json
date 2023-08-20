@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَجَآءَهَا بَأْسُنَا بَيَاتاً } أي ليلاً بيتهم بياتاً وهم نيامٌ\n\n\n\n\nوقوله تعالى: { أَوْ هُمْ قَآئِلُونَ } أي نَهاراً إِذا أَقالُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Then came Our wrath by night} - meaning that their night became a night of wrath and they were asleep.\n Or are they saying, \"Every day { } when they speak?\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

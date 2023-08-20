@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { طَلْعُهَا هَضِيمٌ } معناه قَدْ ضُمَّ بَعضُها إلى بَعضٍ\n وقال المُذَنَّبُ من الرُّطبِ\n وقولهِ الهَضيمُ: البُسرُ البَالِغُ إذا عَظُمَ عَذُوقُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"It will vanish in a breath\" - its meaning is that it will be joined to another thing.\n\n\nAnd the preacher said of the ripe date (i.e. the date that is ready to be eaten),\n\n\nAnd his saying, \"The fully-grown camel, when it is struck on the neck.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

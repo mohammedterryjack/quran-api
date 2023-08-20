@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَوْ يَجِدُونَ مَلْجَئاً أَوْ مَغَارَاتٍ أَوْ مُدَّخَلاً لَّوَلَّوْاْ إِلَيْهِ وَهُمْ يَجْمَحُونَ } فالمَلْجَأُ: الهَربُ، والجَوزُ فِي الجَبلِ\n والمَغاراتُ: السِّربُ في الأَرضِ\n والمُدْخَلُ: فَيقالُ هو الموتُ\n ويَجْمَحونَ: معناهُ يَطمَحونَ: وهو الإِسراعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {If they were to find a refuge, or a cavern, or a place to enter, they would turn to it and be sure to hide themselves in it} - the refuge here means escape, and the cavern is in the mountain.\n\n\nAnd al-Mughārāt: The as-Sirb in the earth.\n\n\nAnd the entrance: it is said that death is its entrance.\n They aspire: its meaning is they aspire: and it is haste.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

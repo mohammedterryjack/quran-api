@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَّجَعَلْنَا لِمَن يَكْفُرُ بِٱلرَّحْمَـٰنِ لِبُيُوتِهِمْ سُقُفاً مِّن فِضَّةٍ وَمَعَارِجَ عَلَيْهَا يَظْهَرُونَ }\n والمعَارجُ: هي الدَّرجُ\n ويَظهَرونَ: معناه يَعلُونَ ويَصعَدُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {We have made for those who disbelieve in the Merciful houses of silver, and [for] them are stairs [of silver] by which they ascend}\n\n\nAnd the ma'arij are the degrees (of ascent or descent).\n\n\nThey show themselves {off}, meaning they act arrogant and superior.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

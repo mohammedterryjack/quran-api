@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلْيَنظُرِ ٱلإِنسَانُ إِلَىٰ طَعَامِهِ } معناه إلى مَدخلِهِ ومخرجِهِ\n فَجعلَ ذَلكَ لَهم آيةً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {So let man look at his food}, means to look at his entrance and his exit.\n\n\nHe made that a sign for them",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

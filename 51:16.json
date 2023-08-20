@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { آخِذِينَ مَآ آتَاهُمْ رَبُّهُمْ إِنَّهُمْ } معناه الفَرائضُ\n\n\n\n\nوقوله تعالى: { كَانُواْ قَبْلَ ذَلِكَ مُحْسِنِينَ } أي قَبلَ أن تُنّزلَ الفرائضُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, { those who take what their Lord has given to them }, refers to the obligatory duties.\n\n\nAnd His saying, {they were [the] best of people} - meaning before the obligatory [duties] were revealed.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

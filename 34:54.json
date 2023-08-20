@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَمَا فُعِلَ بِأَشْيَاعِهِم مِّن قَبْلُ } معناه بأعوانِهِم وأصحابِهم\n وقال: بالأُمم الذي كانوا على منهاجِهم ومَذهبِهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAs He did with those before them, Allah will do with them according to their actions and those of their companions.\n He said: \"By the nations who were on their way and their belief.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

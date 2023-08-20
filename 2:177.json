@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَٱلصَّابِرِينَ فِي ٱلْبَأْسَآءِ وٱلضَّرَّآءِ } معنى البَأْساء: الجوعُ والضَّراء: المَرضُ\n والبأْسُ: القِتالُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the verse {And the patient in adversity and hardship} means that the adversity is hunger and hardship is sickness.\n\n\nAnd the sword: the battle.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

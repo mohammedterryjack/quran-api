@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَخْلَدَ إِلَى ٱلأَرْضِ } معناهُ نَزَعَ وَرَكَنَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His statement, \"He shall remain on the earth\" - meaning He will take root and establish Himself.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

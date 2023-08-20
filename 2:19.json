@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { أَوْ كَصَيِّبٍ مِّنَ ٱلسَّمَآءِ } فالصَّيِّبُ: المطرُ\n وجمعُهُ صَيَائِبُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Or like a rainstorm from the sky}, the rainstorm is the rain.\n\n\nAnd his rewards are great.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

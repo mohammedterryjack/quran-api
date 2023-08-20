@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَٱذْكُرُواْ ٱللَّهَ فِيۤ أَيَّامٍ مَّعْدُودَاتٍ } قالَ زيدُ بن علي عليهما السلامُ: هي أَيامُ التَّشْرِيقِ\n والأَيامُ المعلوماتُ: هي عَشرُ ذِي الحجةِ من أولِهَا\n\n\n\n\nوقولهُ تعالى: { فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلاَ إِثْمَ عَلَيْهِ } قال هي مغفرةٌ لهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of the Most High: {And remember Allah in days numbered} said Zayd ibn Ali peace be upon him: They are the days of Tishriq\n\n\nThe days of knowledge are the ten days of Dhul-Hijjah, starting from the first of them.\n\n\nAnd the saying of Allah, {Whoever hurries in two days, there is no sin on him}, He said, \"This is forgiveness for them.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَذٰلِكَ نَقُصُّ عَلَيْكَ } معناه نُخبِرُ\n و: { مِنْ أَنْبَآءِ مَا قَدْ سَبَقَ } أَي قَد مَضَى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, \"Thus do We detail the signs for you\" - its meaning is that We inform [you].\n And {of the news of what has passed before} that is, what has passed",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

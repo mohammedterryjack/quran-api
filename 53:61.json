@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَنتُمْ سَامِدُونَ } معناه غَافلون\n ويقال: لاَهُون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {You are [all] asleep}, means you are unaware.\n It is said: {they are} weak",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

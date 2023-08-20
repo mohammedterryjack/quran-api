@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بِٱلْبَيِّنَاتِ وَٱلزُّبُرِ } فالزُّبرُ: الكُتبُ\n واحدُها زَبورٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {with the clear proofs and the scriptures} - so the scriptures are the books.\n\n\nOne of them is a psalm.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيُطْعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِ [مِسْكِيناً وَيَتِيماً وَأَسِيراً] } معناه على شَهوتِهِ مِسكيناً ويتيماً وأسيراً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His statement, \"And they give food out of love for Him [to the needy, and the orphan, and the captive],\" means that they give food to the needy, the orphan, and the captive out of their love for Allah.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

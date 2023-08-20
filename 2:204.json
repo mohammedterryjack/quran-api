@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَهُوَ أَلَدُّ ٱلْخِصَامِ } فالأَلَدُ: الشّديدُ الخُصومةِ بالبَاطِلِ\n والجمعُ لُدٌّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And He is the Strongest of opponents}, so the Strongest of opponents is the one who is most vehement in opposing falsehood.\n\n\nAnd the gathering is for good.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَخَّرَهَا عَلَيْهِمْ } معناه أَدامَها عَلَيهِمْ\n\n\n\n\nوقوله تعالى: { سَبْعَ لَيَالٍ وَثَمَانِيَةَ أَيَّامٍ حُسُوماً } معناه مُتتابعاتٌ مُتوالياتٌ\n\n\n\n\nوقوله تعالى: { كَأَنَّهُمْ أَعْجَازُ نَخْلٍ خَاوِيَةٍ } معناه أصولُها خَاويةٌ يعني دَراسة\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He has made it subservient to them}, means that He has made it subject to them.\n\nAnd His saying, the Most High, {seven nights and eight days without} meaning successive consecutive.\n\n\nAnd His saying, {As if they were a tree that has been cut down} means that its roots are cut off, meaning that it is studied.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

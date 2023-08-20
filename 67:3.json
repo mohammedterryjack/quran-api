@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قالَ: حدّثنا علي بن أحمد\n قالَ: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { هَلْ تَرَىٰ مِن فُطُورٍ } معناه من صِدوعٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n He said: Ali ibn Ahmad narrated to us\n\n\nHe said: \"`Ata' ibn al-Sa'ib narrated to us from Abu Khalid from Zayd ibn `Ali, upon them both be peace, regarding the saying of Allah, {Do you see any flaw} its meaning is from fear.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

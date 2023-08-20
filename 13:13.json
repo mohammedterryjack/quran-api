@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيُسَبِّحُ ٱلرَّعْدُ بِحَمْدِهِ } قالَ: فالرَّعدُ مَلكٌ يَزْجُرُ السَّحابُ بِصَوتِه\n والرَّعْدُ: الرِّيحُ\n والرَّعدُ: الصّوتُ\n\n\n\n\nوقوله تعالى: { وَهُوَ شَدِيدُ ٱلْمِحَالِ } معناه العقُوبةُ والمَكرُّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the thunder proclaims His glory with praise. Said: So the thunder is a king who drives away the clouds with his voice.\n\n\nAnd the thunder: the wind.\n\n\nAnd the thunder: the sound.\n\n\nAnd His saying, {And he is severe in punishment} means the punishment and the plot.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

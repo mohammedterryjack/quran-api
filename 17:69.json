@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَارَةً أُخْرَىٰ } يعني مرةً أُخرى\n والجَمعُ تاراتٌ وتيرٌ\n\n\n\n\nوقوله تعالى: { فَيُرْسِلَ عَلَيْكُمْ قَاصِفاً مِّنَ ٱلرِّيحِ } معناه حاطمٌ يَحطِمُ كُلَّ شَيءٍ\n\n\n\n\nوقوله تعالى: { لاَ تَجِدُواْ لَكُمْ عَلَيْنَا بِهِ تَبِيعاً } معناه من يَطلُبَكُم بِتَبعةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"another time\" means once again.\n\n\nAnd the gathering of stars and planets.\n\nAnd His saying - exalted be He: {Then a blast [of wind] will hit you from where you do not expect}, its meaning is a destroyer that destroys everything.\n\nAnd His saying, {You will not find for yourselves against Us any substitution}, its meaning is that no one will ask you for allegiance.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

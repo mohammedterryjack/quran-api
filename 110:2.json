@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقولهِ تعالى: { وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِي دِينِ ٱللَّهِ أَفْوَاجاً } يعني جماعاتٍ في تَفرقةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe saying of the Most High: {And you see the people entering into the religion of God in droves} means groups in a division.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

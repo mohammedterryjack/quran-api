@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ قَفَّيْنَا عَلَىٰ آثَارِهِم بِرُسُلِنَا } معناه أَتبعنا\n\n\n\n\nوقوله تعالى: { مَا كَتَبْنَاهَا عَلَيْهِمْ } معناه ما أمرناهم بهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {then We followed their tracks with Our messengers}, means that We followed them\n\nAnd His saying, {We have not imposed upon them} [means] that We have not commanded them with it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

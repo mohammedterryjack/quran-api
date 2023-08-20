@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { فَٱذْكُرُونِيۤ أَذْكُرْكُمْ } قالَ زيدُ بن علي عليهما السلامُ: معناهُ اذكروني بطاعتي، أَذْكُرْكُمْ بمَغْفِرتِي\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd his saying - the Most High: {So remember Me; I will remember you.} Zayd ibn Ali - peace be upon him - said: Its meaning is: \"Remember me through obedience, and I will remember you through forgiveness.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

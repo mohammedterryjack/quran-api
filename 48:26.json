@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَأَلْزَمَهُمْ كَلِمَةَ ٱلتَّقْوَىٰ } معناه أن لا إله إلاَّ الله\n\n\n\n\nوقوله تعالى: { إِذْ جَعَلَ ٱلَّذِينَ كَفَرُواْ فِي قُلُوبِهِمُ ٱلْحَمِيَّةَ } معناه العصبيةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - the Most High - {And enjoin upon them al-taqwa}, its meaning is that there is no god but Allah.\n\n\nAnd His saying - Almighty - \"{Those who disbelieve have {the hatred} in their hearts}\": its meaning is [that they have] the hostility.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

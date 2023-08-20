@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n{ وَأَمَّا مَنْ خَافَ مَقَامَ رَبِّهِ } معناه مَقامُ يَوم الحِسابِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd as for those who fear the standing of their Lord, they will have their standing on the Day of Judgment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَقِيَّتُ ٱللَّهِ خَيْرٌ لَّكُمْ } معناه طَاعةُ الله خَيرٌ لكم\n ومُرافقتكُم إِيّاه\n ويقالُ: مَا أَبقى لَكُمْ مِن الحَلاَلِ خَيرٌ لَكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"God's remaining [with you] is better for you\" - this means that obedience to God is better for you.\n\n\nAnd with you is He.\n\n\nIt is said: \"What is left for you of solutions is better for you.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

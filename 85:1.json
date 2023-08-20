@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السّائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قوله تعالى: { وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ } البُروجُ: هي النجوم\n ويقال: قُصورٌ في السّماءِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: Ali ibn Ahmad told us\n\n\nHe said: It was narrated to us by `Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn `Ali, peace be upon them, regarding the saying of Allah, Most High, \"And the heaven, with the {stars}\": the stars are the planets.\n It is said: {Qusūr} in the {Samaa'}\n\nIt is said that there are palaces in the sky.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

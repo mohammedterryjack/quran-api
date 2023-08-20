@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَحْرٍ لُّجِّيٍّ } مضافٌ إلى اللُّجةِ\n وهوَ مُعظمِ البَحرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"a lujjīyyin sea,\" is added to [the sea's] lujjah.\n\n\nAnd he is the vastness of the ocean.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

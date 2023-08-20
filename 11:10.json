@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَئِنْ أَذَقْنَاهُ } معناه أمسَسْنَاهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd if We were to give him a taste of Our punishment, {indeed, We would make him taste it} [i.e., make him experience it].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

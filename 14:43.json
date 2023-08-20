@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُهْطِعِينَ } معناهُ يُدِيمُونَ النَّظَرَ\n ويقالُ مُسرعونَ\n\n\n\n\nوقوله تعالى: { مُقْنِعِي رُءُوسِهِمْ } معناهُ رافعوا رُءُوسهم\n\n\n\n\nوقوله تعالى: { وَأَفْئِدَتُهُمْ هَوَآءٌ } معناهُ مَنْحَرِفةٌ لاَ تَعي شَيئاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {those who are} {mutaḥṭaʿīna} {maʿnahu} {yudīmuna} {al-naḍara} means they are continuing to look.\n They are said to be {speedy}.\n\n\nAnd His saying, {Muqni'i ru'usihim} [their heads will be raised], means that their heads will be raised.\n And His saying, {And their hearts are distracted} [Qur'an 5:43], its meaning is a deviation that does not encompass anything.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

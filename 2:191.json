@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَٱقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُم } معناهُ حَيثُ لَقَيْتُمُوهُمْ\n\n\n\n\nوقوله تعالى: { وَٱلْفِتْنَةُ أَشَدُّ مِنَ ٱلْقَتْلِ } فالفِتْنَةُ ها هنا: الكفرُ، ويقالُ للكافِرِ هذا رجلٌ مَفْتُونٌ فِي دِينِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Most High: {And kill them wherever you find them} means wherever you find them.\n\n\nAnd the verse: {And the Fitnah is worse than killing} So Fitnah here refers to disbelief, and it is said of the disbeliever that he is a man who is Fitnah in his religion.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

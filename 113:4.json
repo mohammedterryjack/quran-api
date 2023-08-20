@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمِن شَرِّ ٱلنَّفَّاثَاتِ فِي ٱلْعُقَدِ } معناه السَّواحرُ يَنفِثنَّ في الظُلمِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And from the evil of the blowers in the darkness}, means the sorcerers who blow into the darkness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِذَا جَآءَتِ ٱلصَّآخَّةُ } معناه يومُ القِيامةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And when the {Sakhkhah} comes, it means the Day of Resurrection",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

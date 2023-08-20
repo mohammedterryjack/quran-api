@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلاَ تُؤْتُواْ ٱلسُّفَهَآءَ أَمْوَالَكُمُ } معناهُ النِّساءُ والصِّبيَانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah: {And do not give foolish people your wealth} means the women and children.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

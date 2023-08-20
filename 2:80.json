@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَقَالُواْ لَن تَمَسَّنَا ٱلنَّارُ إِلاَّ أَيَّاماً مَّعْدُودَةً } معناهُ أربعونَ يوماً، قَدْرَ ما عَبَدوا العِجلَ\n\n\n\n\nوقولهُ تعالى: { قُلْ أَتَّخَذْتُمْ عِندَ ٱللَّهِ عَهْداً } مَعناهُ وعدٌ وميثاقٌ\n والجمعُ: العهودُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of the Most High, \"The fire will not touch us except for a limited number of days,\" means forty days, according to how much they hastened.\n\n\nAnd the saying of Allah, \"Have you taken a covenant with Allah?\" Its meaning is a covenant and a promise.\n\n\nAnd the gathering: the obligations.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

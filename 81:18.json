@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n ويقال، أظلمَ { وَٱلصُّبْحِ إِذَا تَنَفَّسَ } معناه طَلَعَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nIt is said that the {most unjust} is when the morning breathes.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

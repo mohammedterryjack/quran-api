@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمِنَ ٱلَّذِينَ قَالُواْ إِنَّا نَصَارَىٰ } قالَ زيدُ بن علي عليهما السلامُ: هُمْ قَومٌ سُموا بِقَريةٍ يُقالَ لَها نَاصِرة، وَكَانَ عِيسى بن مَريمَ عَلَيهما السَّلامُ يَنزِلُهَا\n\n\n\n\nوقوله تعالى: { فَأَغْرَيْنَا بَيْنَهُمُ ٱلْعَدَاوَةَ وَٱلْبَغْضَآءَ } معناه هَيَّجْنَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd { among those who say, \"We are Christians\" } Zayd bin 'Ali, peace be upon them both, said: They are a people who are called by the name of a city, Nasirah, and Jesus son of Mary, peace be upon him, used to descend to them.\n\n\nAnd the saying of the Almighty: {We have instilled between them hatred and hostility} means that we have made them hate each other.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

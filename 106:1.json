@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقوله تعالى: { لإِيلاَفِ قُرَيْشٍ } معناه نِعمتي عَلَى قُريشٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Most High: {In return for the Quraysh} means my favor upon the Quraysh.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

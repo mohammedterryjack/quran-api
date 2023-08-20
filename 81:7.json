@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ } معناه ضُمَّ إِليها قرناؤُها وأشكالُها ويقالُ: زُوجتْ أي ألقتْ\n ويقال: دُخولُ الأَرواحِ في الأجسادِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd when the souls are {joined together}, it means that their generations and their forms are joined together, and it is said: \"She is joined,\" meaning, \"She is cast.\"\n It is said that the souls enter the bodies",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

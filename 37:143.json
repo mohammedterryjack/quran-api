@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَوْلاَ أَنَّهُ كَانَ مِنَ ٱلْمُسَبِّحِينَ } معناه من المُصلين\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Why should he not have been among the worshippers?} means from among those who pray.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

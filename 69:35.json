@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَيْسَ لَهُ ٱلْيَوْمَ هَا هُنَا حَمِيمٌ وَلاَ طَعَامٌ إِلاَّ مِنْ غِسْلِينٍ } معناه ما غُسِلَ من الجِراحِ والدّبرِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - Exalted is He: {So today there is no remorse for him, nor is there any food except that of those who are being cleansed} [means] that which is washed from the wounds and the dirt.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

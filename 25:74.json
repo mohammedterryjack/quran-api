@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ } معناه مُطيعونَ لَكَ يَعبِدُونَكَ فيُحسنون عِبادَتَكَ، ولا يَجرّونَ علينا الجَرائرَ\n\n\n\n\nوقوله تعالى: { وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَاماً } معناه أَئمةٌ فِي الخَيرِ يُقتدى بِنا\n وقال مِثالٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Our Lord, grant us from our spouses and our offspring a coolness of the eyes} [means] those who obey you, who worship you, and who do not incur sin upon us.\n\nAnd His saying, {And make us leaders for the righteous}, its meaning is Imams in good, who are followed by us.\n\n\nAnd he said, \"For example,\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

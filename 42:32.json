@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمِنْ آيَاتِهِ ٱلْجَوَارِ فِي ٱلْبَحْرِ كَٱلأَعْلاَمِ } فالجَواري: السفنُ\n واحدُها: جاريةٌ\n والأَعلامُ: الجِبالُ\n واحدُها عَلَمٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd among His signs is the creation of the ships in the sea, like mountains. These ships are a sign of His power and might.\n The one that is running\n The mountains are the landmarks.\n\n\nOne of them is a scholar.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

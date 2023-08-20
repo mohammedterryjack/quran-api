@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { عَلَى ٱلْمُوسِعِ قَدَرُهُ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُ } فالمُقْتِرُ: القَليلُ المَالِ\n وكَذلِكَ المُملِقُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {On the one who is spacious, his measure, and on the one who is restricted, his measure} - so the restricted one is the one who has little money.\n\n\nAnd so it goes.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

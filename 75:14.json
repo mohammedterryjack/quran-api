@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَلِ ٱلإِنسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ } معناه شهيدٌ على نَفسهِ { وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ } معناه ولو اعتذرَ\n ويقال: ولو تَجردَ من ثِيابهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, man is a witness over himself}, means that man is a witness to his own self {even if he were to present his excuses}.\n And it is said: \"If only he would strip himself of his clothes!\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

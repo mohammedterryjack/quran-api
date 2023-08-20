@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمِنْهُمْ مَّن قَضَىٰ نَحْبَهُ } معناه نِذْرُهُ\n والنَّحبُ: المَوتُ\n والنَّحبُ: الخَطرُ العَظيمُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {But among them is he who has given his life to Allah } its meaning is his vow.\n And love: death.\n\n\nThe love: the great danger.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

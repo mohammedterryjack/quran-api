@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَلَغَ أَشُدَّهُ } معناه انتِهاءُ سِنّهِ وشَبابِهِ وَقُوتِهِ من قَبلُ أَن يَأَخُذَ فِي النُّقصَانِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {He has reached the most intense of ages} means the end of his youth and his strength before he begins to decline.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَبَشِّرِ ٱلْمُخْبِتِينَ } معناه المُطيعون\n وقال: المُتواضعونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying - {And give glad tidings to the obedient} - its meaning is the obedient.\n The humble ones said",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لِّيَغْفِرَ لَكَ ٱللَّهُ مَا تَقَدَّمَ مِن ذَنبِكَ وَمَا تَأَخَّرَ } قال الإِمام زيد بن علي عليهما السلامُ: معناه لِيغفرَ الله لأُمتِكَ بكَ مَا تَقدمَ مَنْ ذَنبِهم وما تَأخرَ\n وذلكَ إن لهم الشَّفاعةَ يَومَ القِيامةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the verse is: \"May Allah forgive your people for their sins, both past and future, through you.\" Imam Zayd ibn Ali said: \"This means that Allah will forgive your people for their sins, both past and future, through you.\"\n\n{And that is because they have the intercession on the Day of Resurrection.}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

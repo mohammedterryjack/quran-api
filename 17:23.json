@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ تَقُل لَّهُمَآ أُفٍّ وَلاَ تَنْهَرْهُمَا } قالَ الإِمامُ الشهيدُ أبو الحسين زيد بن علي بن الحسين عليهم السلام معناه: لاَ تَمْنَعُهُما شَيئاً أرادهُ، وإِنْ وَجدتَ مِنهُمَا رِيحاً يُؤذِيكَ فَلاَ تَقُلْ لَهُمَا أُفّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nDo not say to them {uff} and do not scold them. Imam al-Shaheed Abu al-Husayn Zayd ibn Ali ibn al-Husayn, peace be upon them, said: Do not prevent him from anything he wants. And if you find a smell from them that bothers you, do not say to them {uff}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

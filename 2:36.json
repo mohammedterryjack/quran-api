@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { مَتَاعٌ إِلَىٰ حِينٍ } أَي إِلى وقتٍ، والمَتَاعُ: الزَّادُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Mata'un ila hinin} - that is, until a time - and Mata'un refers to the provision.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

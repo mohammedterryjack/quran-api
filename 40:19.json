@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَعْلَمُ خَآئِنَةَ ٱلأَعْيُنِ } قال: والرَّجلُ يكونُ في القَومِ، فتمر بِهمْ المَرأةُ، فيريهُم أنهُ يَغضُ نَظرَهُ، فإذا رأى منهُم غَفلةً، لَحِظَ إليها؛ فإنْ خَافَ أنْ يَفطِنوا لَهُ غَضَّ نَظرَهُ، فإذا رأى منهُم غَفلةً، لَحِظَ إليها؛ فإنْ خَافَ أنْ يَفطِنوا لَهُ غَضَّ نَظَرَهُ، وَقدْ اطلعَ الله تَعالى مَن قَلبهِ أنهُ ودَّ أنهُ نَظَرَ إلى عَورتِها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd Allah says: {He knows the treachery of the eyes} i.e. a man is in a group of people, and a woman passes by them, and she shows them that she is lowering her gaze, and when she sees one of them looking at her, she looks at him; if she fears that they will suspect him, she lowers her gaze again. And Allah has knowledge of the one whose heart is inclined towards her.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

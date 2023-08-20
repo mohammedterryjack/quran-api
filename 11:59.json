@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كُلِّ جَبَّارٍ عَنِيدٍ } فالجَبَّارُ: المُتَكبِّرُ عَن عِبادةِ الله تَعالى والجَبَّارُ: الطَّويلُ العَظيمُ\n والجَبَّارُ: الفَتاكُ في غَيرِ حَقٍ\n والجَبَّارُ: القَاهِرُ\n والعَنيدُ: الجَائرُ العَادِلِ عَن الحَقِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah {Every arrogant oppressor} The arrogant is the one who is proud of his worship of Allah and the arrogant is the one who is long and great.\n\n\nAnd the oppressor: the aggressor who is not in the right.\n And the oppressor: the conqueror\n\n\nThe stubborn one is the one who is unjust in his dealings with others.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

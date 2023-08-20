@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nحدّثنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { أَضَلَّ أَعْمَالَهُمْ } معناه لا يَقبَلُ مع الكُفرِ عَملاً\n وقد كانتْ لَهُم أعمالٌ فأضلَها يومَ القِيامةِ، فلا يَقدِرون على شيءٍ مما كَسِبوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWe were told by Abu Jafar\n\n\nHe said: Ali ibn Ahmad told us\n\n\n\"He said: 'It was narrated to us by 'Ata' ibn al-Sa'ib, from his father, from Zayd ibn 'Ali, may Allah be pleased with them both, regarding the saying of Allah, {Their deeds have gone astray} - meaning that their deeds will not be accepted along with disbelief.\"\n\nAnd they had deeds, so they led them astray on the Day of Resurrection, so they will not be able to [do] anything of what they earned.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

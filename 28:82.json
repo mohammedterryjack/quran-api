@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيْكَأَنَّ ٱللَّهَ يَبْسُطُ } معناه ألا تَعلمْ أَنَّ الله يَبسُطُ الرِّزقَ لِمن يَشاءُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"Indeed, Allah enlarges the provision for whom He wills and restricts [it] for whom He wills,\" {wa-yuka'anna Allaha yabsutu} means, \"Do you not know that Allah enlarges the provision for whoever He wills and restricts it for whoever He wills?\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

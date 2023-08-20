@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا بَلَوْنَاهُمْ } أي خَبَّرنَاهم { كَمَا بَلَوْنَآ أَصْحَابَ ٱلْجَنَّةِ } وهي بستانٌ باليمن بِقَريةٍ يُقالُ لَها ضَروانُ، بينها وبينَ صَنعاء ستةُ أميالٍ\n ويقالُ: عَشرَ ميلاً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe {We have put them to the test} mentioned here refers to the {We have put them to the test} as mentioned in the story of the people of the garden {as we put the people of paradise}. The garden is a garden in Yemen in a city called Darwan, six miles between it and Sana'a.\n\n\nIt is said that ten miles is a long way.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

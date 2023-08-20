@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَ فِيهَا غَوْلٌ } معناه أَذى وذهابُ عَقلٍ\n وقال: وجعُ البَطنِ { وَلاَ هُمْ عَنْهَا يُنزَفُونَ } معناه لا ينقطعُ ذلك عنهم، ولا تَنْزِفُ عُقُولُهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"There is no power or might except with Allah\" - this means that intellectual effort and going against reason are both futile.\n And he said: \"The abdomen { and they are not from it they flow }\" means that it does not break away from them, and their minds do not flow.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

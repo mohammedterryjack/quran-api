@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَرْهَقُهَا قَتَرَةٌ } [معناه] تَغشاها ذلةٌ وشِدةٌ ويقال: القَترةُ: الغَبرةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {it will overwhelm her with darkness} [meaning] it will overwhelm her with disgrace and hardship. And it is said, \"The darkness\": the darkness of ignorance.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

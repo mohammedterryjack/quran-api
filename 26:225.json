@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي كُلِّ وَادٍ يَهِيمُونَ } معناه في كُلِّ فَنٍّ يَجوزون\n وهم شعراءُ المشركين عبد الله بن الزَبَعْري، وعبد الله بن خَبطل، وأبو مشافع الأشعري\n والذين آمنوا منهم عبد الله بن رواحة، وحسان بن ثابت، وكعب بن مالك\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"In every valley they will be humbled,\" means in every aspect they will be allowed.\n\n\nAnd the poets of the polytheists were Abdullah ibn Zubayr, Abdullah ibn Khabbat, and Abu Mish'af al-Ash'ari.\n\n\nAnd those who believed among them were Abdullah ibn Rawahah, Hassan ibn Thabit, and Ka'b ibn Malik.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

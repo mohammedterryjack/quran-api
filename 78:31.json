@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ لِلْمُتَّقِينَ مَفَازاً } معناه النَّجاةُ من النَارِ\n ويقالُ: المَفازُ: المَسرةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Indeed, there is for the righteous [escape from] a fire}, [means] the salvation from the Hellfire.\n It is said: The Mafaz is the Masarah",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

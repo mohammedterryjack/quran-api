@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱلَّذِينَ كَفَرُواْ يُنَادَوْنَ لَمَقْتُ ٱللَّهِ أَكْبَرُ مِن مَّقْتِكُمْ أَنفُسَكُـمْ } معناه مَقتُ الله إيّاكُم في الدُّنيا كَان أكبرَ من مَقتِكُم أَنفسكُم إذا عاينتُم العَذابَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He: {Indeed, those who disbelieve - they invite the anger of Allah upon themselves, more than their [inviting] your anger upon themselves. Their souls are more condemned to destruction} [means that] the anger of Allah is upon you in this world, more than your anger upon yourselves, when you see the punishment.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

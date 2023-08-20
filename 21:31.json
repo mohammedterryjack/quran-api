@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلْنَا فِي ٱلأَرْضِ رَوَاسِيَ أَن تَمِيدَ بِهِمْ } فالرَّواسيُ: الجبالُ الثَوابتُ\n وتَمِيدَ بِهِم: معناه تَميلَ بِهِم\n\n\n\n\nوقوله تعالى: { وَجَعَلْنَا فِيهَا فِجَاجاً سُبُلاً } معناه مَسالِكٌ\n واحدُها فجٌّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He: {And We have placed within the earth firm mountains, lest it should shift with them} - the mountains are firm.\n And he inclined toward them {with kindness}.\n\nAnd His saying - Exalted is He: {And We have made therein mountains standing firm,} [this] means firm pathways.\n\n\n{One of them is a fajj.}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

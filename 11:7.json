@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَكَانَ عَرْشُهُ عَلَى ٱلْمَآءِ } معناهُ العزُّ والسُّلطانُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His throne was on the water { } meaning His power and sovereignty.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

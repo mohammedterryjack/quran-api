@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِن نَّشَأْ نُغْرِقْهُمْ فَلاَ صَرِيخَ لَهُمْ } [معناه] فلا مُستغيثَ لَهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And if We should will, We could drown them; then there would be no shout for them} [meaning] then there would be no one to help them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

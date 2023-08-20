@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ } معناه علينا أن نَجمعَهُ في صَدرِكَ\n وأن نُؤلفَهُ\n ويقال: حِفْظهُ وتَأليفَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"Indeed, it is upon Us [to administer],\" is that We gather it [i.e. the Qur'an] in your heart.\n\n\nAnd that we should unite it\n It is said: Preserve it and author it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

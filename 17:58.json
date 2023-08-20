@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِن مِّن قَرْيَةٍ إِلاَّ نَحْنُ مُهْلِكُوهَا } بالمَوتِ { أَوْ مُعَذِّبُوهَا } بالسَّيفِ\n\n\n\n\nوقوله تعالى: { كَانَ ذٰلِك فِي ٱلْكِتَابِ مَسْطُوراً } معناهُ مَكتوبٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And no city but We will destroy it} [by] death {or punish it} [with] the sword.\n And His saying, {It is in the Book, excellently recorded}, its meaning is [that it is] written.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَأْتُوۤاْ إِلَيْهِ مُذْعِنِينَ } معناه مُنقادينَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {They come to Him groaning} its meaning is moaning",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

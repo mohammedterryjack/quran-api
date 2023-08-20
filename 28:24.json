@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ثُمَّ تَوَلَّىٰ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّي لِمَآ أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ } قال الإِمام زيد بن علي عليهما السّلامُ: كان موسى عليه السلام حينَ وردَ الماءَ، لَتُرى خُضرةُ البَقلِ من بَطنِهِ من الهُزَالِ، وما سألَ يَومئذٍ إِلاّ أكلةً من طَعامٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThen he {turned} to the shade and said, \"My Lord, I am in need of whatever good You have sent down to me.\" Imam Zayd ibn Ali (as) said: \"When Musa (as) came to the water, you would see the greenness of the spinach from his stomach because of hunger. That day, he did not ask for anything except a meal of food.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

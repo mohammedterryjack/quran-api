@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يُرْسِلُ ٱلرِّيَاحَ بُشْراً بَيْنَ يَدَيْ رَحْمَتِهِ } معناهُ مِن كُلِّ مَهبٍ وَجانبٍ ونَاحيةٍ\n\n\n\n\nوقوله تعالى: { أَقَلَّتْ سَحَاباً } معناهُ سَاقتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"He sends the winds as a glad tiding before His mercy\" - this means that from every direction and side, there is hope.\n The saying of the Most High: {The clouds have lessened} means that it has rained.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

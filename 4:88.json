@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱللَّهُ أَرْكَسَهُمْ } معناهُ نَكَّسَهُمْ وَرَدَّهُمْ فِيهِ ويقالُ: أَهْلَكهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd God says: {And Allah will destroy them} This means that He will destroy them and return them to Him. And it is said: He will destroy them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ لَكَ فِي ٱلنَّهَارِ سَبْحَاً طَوِيلاً } يعني قرآناً طويلاً ويقال: دُعاءٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - exalted be He - {Indeed, for you in the day [is] a long [period of] time [in which to] worship} means a long Qur'an, and it is said: [it is a] du'a' (supplication).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

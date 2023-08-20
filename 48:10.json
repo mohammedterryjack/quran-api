@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَدُ ٱللَّهِ فَوْقَ أَيْدِيهِمْ } معناه قُدرتُهُ ومِنتُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {The hand of Allah is over their hands}, means His power and His victory.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

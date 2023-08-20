@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَقَالُواْ لِجُلُودِهِمْ لِمَ شَهِدتُّمْ عَلَيْنَا } قال: إنّ معناها الفروجُ\n ولكن الله عَزّ وجلّ كنى عنها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And {they said to their skins: \"Why have you testified against us?\"} He said: \"Indeed, its meaning is the private parts.\"\n\n\nBut Allah, the Almighty, is free from {that}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

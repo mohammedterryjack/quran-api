@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { خُذُوهُ فَٱعْتِلُوهُ } معناه سُوقوهُ { إِلَىٰ سَوَآءِ ٱلْجَحِيمِ } أي وسَطَهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His statement, {Take them and strike them} means sell them {in the Fire}. That is, place them in the middle.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

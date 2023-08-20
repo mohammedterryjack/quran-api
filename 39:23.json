@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱللَّهُ نَزَّلَ أَحْسَنَ ٱلْحَدِيثِ كِتَاباً مُّتَشَابِهاً } معناه يَشبهُ بَعضُهُ بَعضاً، ويَصدقُ بَعضهُ بَعضاً و: { مَّثَانِيَ } أي قد ثُني فيهِ الأَنباءُ والأَخبارُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe Qur'an is the best book because it is similar to other books and it is true.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

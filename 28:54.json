@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَيَدْرَؤُنَ بِٱلْحَسَنَةِ ٱلسَّيِّئَةَ } معناه يَدْفعونَ بِهَا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {And they repel with the good the evil} [means that] they repel it with it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

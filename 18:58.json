@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَّن يَجِدُواْ مِن دُونِهِ مَوْئِلاً } يعني مَلجأً\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " They will not find, besides Him, an refuge.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

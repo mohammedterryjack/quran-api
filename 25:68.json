@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَن يَفْعَلْ ذٰلِكَ يَلْقَ أَثَاماً } والآثامُ: وادٍ في جَهنَّمَ والآثامُ: الجَزاءُ\n والآثامُ: العِقابُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd the saying of Allah: {And whoever does that will have thrown} and the sin: a valley in Hell and the sin: the punishment.\n\n\nAnd the Athaam: the punishment",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

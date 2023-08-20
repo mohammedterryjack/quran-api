@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ ٱلْحِسَابِ } معناه نَصيبُنا من الآخرةِ قبلَ يومِ الحِسابِ\n والقِطُّ: الكِتابُ\n والجمعُ القُطوطُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, \"Expedite for us our share before the Day of Account,\" means our share of the Hereafter before the Day of Account.\n\n\nAnd the cat: the book.\n\n\nThe cats are gathering.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

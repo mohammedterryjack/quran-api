@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّ ٱلَّذِينَ كَفَرُواْ بِٱلذِّكْرِ } معناه بالقُرآنِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe meaning of the {saying of those who disbelieve in the Qur'an} is in the Qur'an.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

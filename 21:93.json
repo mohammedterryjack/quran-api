@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَتَقَطَّعُوۤاْ أَمْرَهُمْ بَيْنَهُمْ } معناه تَفرَّقُوا واختلَفُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He: {And they cut off their affair between them} [i.e. they became divided and disagreed].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

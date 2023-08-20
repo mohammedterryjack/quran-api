@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يٰأَيُّهَا ٱلنَّبِيُّ جَاهِدِ ٱلْكُفَّارَ وَٱلْمُنَافِقِينَ } قال زيدُ بن علي عليهما السَّلام معناهُ جَاهدِ الكفارَ بالسَّيفِ\n والمُنافقينَ: بالحُدُودِ معناهُ أقِم عَليهم حُدودَ الله تَعالى\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe saying of the Most High: {O Prophet, strive against the disbelievers and the hypocrites} Zayd ibn `Ali, may Allah be pleased with him, said: Its meaning is \"to strive against the disbelievers with the sword.\"\n The hypocrites: with its meaning that Allah has set boundaries for them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

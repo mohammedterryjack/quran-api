@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِلاَّ مُكَآءً وَتَصْدِيَةً } فالمُكاءُ: الصَّوتُ والصّفيرُ\n والصَّوتُ يَصْفِرُ كَمَا يَصْفِرُ المُكاءُ، وهو طَائِرٌ، والتَصْدِيَةُ التـَصْفِيقُ بالأَكُفِ\n\n\n\n\nوقوله تعالى: { فَذُوقُواْ } معناهُ فَجَرِّبُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {Except a cry and a protection} So the cry is the sound and the silence.\n\n\nAnd the sound grows fainter as the echo does, it is like a bird, and the act of silenced applause with the palms.\n\n\nAnd His saying, {Taste}, means, \"So try.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

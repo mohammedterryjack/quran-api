@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ } معناه زَيَّنتْ لَكم أَنفُسُكُم ويقالُ: بل أمَرتكُم أنفسُكُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Indeed, your own selves have made things seem alluring to you\" - this means that your own selves have made things seem attractive to you, and it is said, \"Indeed, your own selves have ordered you to do so.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

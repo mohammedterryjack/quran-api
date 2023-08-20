@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِذَا كَالُوهُمْ أَوْ وَّزَنُوهُمْ يُخْسِرُونَ } معناه كالُوا لَهم، أو وَزنوا لَهم، يُخسِرونَ: أي يَنقُصونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd when they weigh them or weigh them, they lose. {And when they weigh them or weigh them, they lose} means that they weigh them or weigh them, they lose: They lose.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

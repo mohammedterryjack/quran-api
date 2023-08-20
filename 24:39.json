@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَسَرَابٍ بِقِيعَةٍ } والسَّرابُ: يَكونُ نِصفَ النَّهارِ\n والقِيعةُ والقَاعُ واحدٌ\n وهو المُستوى من الأَرضِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Kasara bin qi'ah} - and the half is the half of the day.\n\n\nThe roof and the ceiling are one.\n\n\nAnd it is the level of the earth.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

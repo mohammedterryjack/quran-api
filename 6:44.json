@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِذَا هُمْ مُّبْلِسُونَ } معناه نَادِمُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when they are in despair, they will realize that they have sinned.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَمُولَةً وَفَرْشاً } فالحَمولةُ: الكِبارُ مِن الإِبلِ والفَرشُ: الصِغار\n ويقالُ الفَرشُ: الغَنمُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: { } The burden: the camel and the bedding: the young.\n\n\nThe term \"farasha\" refers to a type of camel.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

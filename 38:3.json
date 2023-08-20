@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَّلاَتَ حِينَ مَنَاصٍ } معناه ليس بحينِ نَزوٍ ولا فِرارٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {and do not take a step forward when you are in doubt} [means] not [taking a step] when you are in [a state of] negligence or [trying to] escape.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

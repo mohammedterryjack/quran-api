@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِن لَّدُنْكَ } معناه من عِنْدِكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe saying of the Almighty: {From your Lord} means from your side.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

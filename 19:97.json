@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قَوْماً لُّدّاً } واحدهم أَلدُّ\n وهم الفُجارُ\n ويقال: صمٌ ويقال: عوجٌ عن الحَقِّ\n وقال: هو شَديدُ الخُصومةِ بالباطِلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"A people {ldd}\": one of them is the Alddu.\n\n\nAnd the wicked are those who commit crimes.\n\n\nIt is said: \"He is deaf\" and it is said: \"He is crooked from the truth.\"\n\n\nAnd he said, \"He is a strong opponent of falsehood.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

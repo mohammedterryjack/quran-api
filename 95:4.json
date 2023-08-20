@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَقَدْ خَلَقْنَا ٱلإِنسَانَ فِيۤ أَحْسَنِ تَقْوِيمٍ } معناه في أحسنِ صُورةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"We have created man in the best of forms\" - meaning in the best of shapes.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

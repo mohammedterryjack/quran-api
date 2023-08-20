@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ خَلَقْنَاكُمْ ثُمَّ صَوَّرْنَاكُمْ } قال زيد بن علي عليهما السَّلامُ: خلقناكُم فِي أَصلابِ الرِّجالِ، وصوّرناكُمْ فِي أَرحامِ النِّساءِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd {the words of the Most High: \"And We have created you, then We have shaped you\"} Zayd bin Ali, may peace be upon him, said: We have created you in the wombs of men, and We have shaped you in the wombs of women.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

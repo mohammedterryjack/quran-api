@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَعَلْنَاهُمْ أَحَادِيثَ } معناه مَثَلٌ يُتَمثلُ بهم في الشّرِ\n ولا يقالُ ذلك فِي الخَيرِ\n\n\n\n\nوقوله تعالى: { تَتْرَا } معناه تتابعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - {And We have made them into examples} - its meaning is a similitude that is embodied by them in evil.\n\n\nThis cannot be said of good things.\n\n\nAnd His saying, \"Be!\" - it is {Tatrā} - its meaning is \"to follow\".",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

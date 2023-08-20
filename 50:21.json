@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَجَآءَتْ كُلُّ نَفْسٍ مَّعَهَا سَآئِقٌ وَشَهِيدٌ } قال الإِمامُ زيد بن علي عليهما السَّلامُ: فالسَّائقُ: الذي يَسوقُها إلى أَمرِ الله تعالى\n والشَّهيدُ: الذي يَشهدُ عليها بمَا عَملتْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {And every soul will come with it a driver and a witness} - Imam Zayd ibn Ali said: So the driver is the one who will take it to the command of Allah.\n The witness: the one who testifies against her for what she did.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

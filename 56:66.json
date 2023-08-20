@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا لَمُغْرَمُونَ } معناه مُعذَّبون\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " {We are to be punished} means that we are to be punished.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

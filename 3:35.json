@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { نَذَرْتُ لَكَ مَا فِي بَطْنِي مُحَرَّراً } معناهُ خَالِصٌ دائِمٌ لاَ يُخالِطَهُ شَيءٌ مِن أَمْرِ الدُّنيا\n والمُحَرَّرُ: المُعْتَقُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: {I have left for you what is in my stomach clean} its meaning is pure, perpetual, and nothing from the matters of the world mixes with it.\n\n\nAnd the one who is freed from slavery is the one who is liberated.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

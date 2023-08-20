@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا لَهُ مِنْهُمْ مِّن ظَهِيرٍ } معناه من مُعينٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And his saying, {And he has no helper from among them} its meaning is from a supporter.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

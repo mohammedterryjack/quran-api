@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَبْتَغُونَ إِلَىٰ رَبِّهِمُ ٱلْوَسِيلَةَ } معناه: القُربَةُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {They seek to their Lord the means} its meaning is: The proximity",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

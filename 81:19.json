@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ } معناه جبريلُ عليهِ السّلامُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, it is the word of a noble Messenger} [means that] Gabriel, peace be upon him, [is the one who spoke].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

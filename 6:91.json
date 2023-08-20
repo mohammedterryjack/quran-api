@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَمَا قَدَرُواْ ٱللَّهَ حَقَّ قَدْرِهِ } معناهُ مَا عَرَفوا الله حَقَّ مَعْرِفَتِهِ وَلاَ عَظَّمُوهُ حَقَّ عَظَمتِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, the Most High, {And they have not honored Allah with the honor due to Him} means they did not know Allah with the knowledge due to Him nor did they magnify Him with the magnification due to Him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

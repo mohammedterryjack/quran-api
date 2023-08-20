@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأَخبرنا أَبو جعفر قال: حدثنا علي بن أحمد، قال: حدثنا عطاء بن السائب عن أبي خالد الواسطي عن زيد بن علي عليهما السَّلامُ في قوله تعالى: { مِن لَّدُنْ } معناهُ مِنْ عِند\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far reported: Ali ibn Ahmad told us: Ata' ibn al-Sa'ib reported to us from Abu Khalid al-Wasiti from Zayd ibn Ali, peace be upon them, regarding the saying of Allah, Most High, \"from Our presence\" meaning \"from Our side.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَفَتَحْنَا عَلَيْهِمْ } معناهُ لَرَزقناهُم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {We have opened} [refers to] Our providing them.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

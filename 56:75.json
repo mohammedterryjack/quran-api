@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلاَ أُقْسِمُ بِمَوَاقِعِ ٱلنُّجُومِ } معناه أقسمُ بالقُرآنِ نَزلَ نُجوماً متفرقاً ثلاث آياتٍ أو أربع أو خمس آياتٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " I swear by the places of the stars (that this is the truth). Meaning: I swear by the Quran that was revealed in three, four or five verses.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

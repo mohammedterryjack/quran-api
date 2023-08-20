@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَمَّا أَسْلَمَا وَتَلَّهُ لِلْجَبِينِ } معناه صَرعهُ\n فالجبينُ ها هنا الجَبهةُ عن يمينٍ وشِمالٍ\n وأسلما: معناه إتفقَ أَمرُهما\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Then when they have both submitted and he has inclined his forehead [to the ground]\". Its meaning is that he prostrated himself.\n\n\n{The forehead} is here, the front, on the right and left.\n\n\nAnd they agreed: their meaning is that they agreed on the matter.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

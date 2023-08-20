@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَ يَدْعُوكُمْ فَتَسْتَجِيبُونَ بِحَمْدِهِ } قالَ الإِمامُ زيد بن علي عليهما السَّلامُ: يَخرُجُونَ مِن قِبُورِهم يَقُولُونَ سُبحانَكَ وبِحَمْدِكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nThe Almighty says: {The day when you will be called, you will respond with His praise.} Imam Zaid bin Ali, peace be upon him, said: They will come out of their graves saying, \"Glory to You and praise You.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

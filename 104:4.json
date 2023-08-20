@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَلاَّ لَيُنبَذَنَّ فِي ٱلْحُطَمَةِ } معناه لَيرمينَّ بهِ في نَارِ الله المُوقَدةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High: { There is none who will be thrown into the Fire } meaning He will cast him into the fire of Hell which is lit",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

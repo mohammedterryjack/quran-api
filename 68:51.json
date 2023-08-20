@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَيُزْلِقُونَكَ } معناه ليُزِيلُونكَ\n وقيل: ليُصرِعونكَ\n وقيل: ليُزهِقونَكَ بأبصارِهِمْ حتّى يَلقُوكَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"They will surely {push you},\" means they will surely remove you.\n They said: \"Let them strike you.\"\n It was said: \"They will overwhelm you with their eyes until they meet you.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

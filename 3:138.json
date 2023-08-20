@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { هَـٰذَا بَيَانٌ لِّلنَّاسِ وَهُدًى وَمَوْعِظَةٌ } [معناهُ] بَيَانٌ مِن العَمَى، وهُدَىً مَنَ الضَّلاَلَةِ، ومَوعِظَةٌ مَنَ الجَهلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis is a statement for the people, a guidance and a warning. It is a statement from the ignorant, a guidance from the misguided, and a warning from the ignorant.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

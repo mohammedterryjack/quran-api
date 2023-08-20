@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nعن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { فَجَعَلَهُ غُثَآءً أَحْوَىٰ } فالغُثاءُ: البَالي الهَشيمُ\n والأَحوى: الأَسودُ يَصيرُ يابساً بَعدَ خُضرةٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis is a reference to Abu Khalid, Zayd ibn Ali, who said in reference to the Quranic verse {And he made it [the earth] an empty wasteland}, that the \"empty wasteland\" refers to the bald and hairless.\n\n\nAnd the black one turns into a greenish-black after a while.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

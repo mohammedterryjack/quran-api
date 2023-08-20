@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فِي سِدْرٍ مَّخْضُودٍ } أي لا شوكَ لها\n ويقال: المُوقرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"in a palm tree { that is undisturbed }\" - meaning, without any thorns.\n It is said: The one who is {muqrir}\n\nThe one who is {muqrir} is someone who is {muqrir} to {muqrir}.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

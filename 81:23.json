@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَقَدْ رَآهُ بِٱلأُفُقِ ٱلْمُبِينِ } معناه حَيثُ تَطلَعُ الشّمسُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His statement, \"He has seen it in the clear horizon\" - this means when the sun rises.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱهْدِنَا ٱلصِّرَاطَ ٱلْمُسْتَقِيمَ } فالهِدَايةُ: التثبيتُ\n والهِدايةُ: البَيانُ\n وهو قولُهُ عزَّ وجلَّ:\n\n[فصلت: 17] والصِّراطُ: الطريقُ: والمستقيمُ: الواضحُ البيّنُ\n\n\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Show us the straight path} So guidance is: firmness\n\n\nAnd guidance: explanation\n And His saying, “Exalted and Majestic is He,”\n\n\nThe Qur'an states: \"As for the straight path, it is the path; and as for the clear proof, it is the evidence.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

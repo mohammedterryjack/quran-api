@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَذٰلِكَ يَجْعَلُ ٱللَّهُ ٱلرِّجْسَ عَلَى ٱلَّذِينَ لاَ يُؤْمِنُونَ } وهو العَذَابُ\n والرِجْزُ مِثلُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah: {Thus does Allah make the filth [of disbelief] upon those who do not believe} and that is the punishment.\n\n\nAnd the punishment is like the crime.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

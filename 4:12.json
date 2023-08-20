@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِن كَانَ رَجُلٌ يُورَثُ كَلَٰلَةً } فالكَلاَلَةُ: مَنْ لَمْ يَرِثهُ أَبٌ أَو ابنٌ\n والكَلاَلَةُ: الأُخْوةُ والأَخَواتُ مِنَ الأُمِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd if a man should inherit a {kalālah} then the kalālah is whoever is not inherited by a father or a son.\n\n\nThe term \"kalala\" refers to a person's brothers and sisters from their mother.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

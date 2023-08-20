@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَمْ حَسِبْتَ أَنَّ أَصْحَابَ ٱلْكَهْفِ وَٱلرَّقِيمِ } الرَّقيمُ: الوادي\n وقال: القَريةُ\n وقال: اللّوحُ المَكتوبُ فيهِ أَسماءُ أَصحابِ أهلِ الكهفِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nOr do you think that the people of the cave and the {rraqeem} are the same?\n\nThe {rraqeem} are the people of the valley.\n He said: \"The village.\"\n\n\nAnd he said, \"The written plaque in it { } the names of the people of the Cave.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

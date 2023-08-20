@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَمَن كَانَ يَرْجُواْ لِقَآءَ رَبِّهِ } معناه ثَوابُ رَبِّهِ\n\n\n\n\nوقوله تعالى: { وَلاَ يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدَاً } معناه رَبٌّ!\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, { Whoever is hoping for the meeting with his Lord } [means] the reward of his Lord.\n\n\nAnd His saying, \"Do not associate anyone with the worship of your Lord,\" means that He is the Lord.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

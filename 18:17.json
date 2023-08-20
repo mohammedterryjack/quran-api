@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { تَّقْرِضُهُمْ ذَاتَ ٱلشِّمَالِ } معناه تَقْطَعُهُم وتُجَاوِزَهُم\n\n\n\n\nوقوله تعالى: { وَهُمْ فِي فَجْوَةٍ مِّنْهُ } معناهُ فِي نَاحيةٍ مِن الكَهفِ\n وقال: هو المَكانُ المُتَطاطِئ\n ويقالُ: فِي مُتسعٍ\n والجَمعُ فَجَواتٌ وفِجاءٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"Turn to them with your right side\" [Qur'an 30:22], means to turn away from them and to ignore them.\n\n\nAnd His words, {And they are in a state of suspense from it}, mean that they are in a part of the cave.\n He said: \"This is the place of intersection.\"\n It is said: In a {multitude}\n\nIt is said: In a multitude.\n\n\nAnd the {jam'} (collecting together) is {fajawatun} (plural of {faj'}) (syllables), and {fija'un} (plural of {faja'a}) (vowels).",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

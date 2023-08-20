@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\n { ٱلرِّجْزَ } الطَّاعونُ\n\n\n\n\nوقوله تعالى: { بِمَا عَهِدَ عِندَكَ } معناه بَمَا أَوصاكَ بِهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe plague is the worst of all evils.\n\n\nAnd His saying, \"According to what is {with you}\" - meaning, according to what He has enjoined upon you.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

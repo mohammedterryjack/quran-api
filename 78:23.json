@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لاَّبِثِينَ فِيهَآ أَحْقَاباً } فالحُقبُ الواحدُ: ثَمانونُ سنةً من سِنينِ الآخرةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd (remember) when Allah said, {Let them live for a while in their disbelief}, the one (i.e. the lifetime in this world) is eighty years.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

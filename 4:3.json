@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَإِنْ خِفْتُمْ } معناهُ أَيقَنْتُمْ\n\n\n\n\nوقوله تعالى: { فَٱنكِحُواْ مَا طَابَ لَكُمْ مِّنَ ٱلنِّسَآءِ } معناه ما أحِّلَ لَكُمْ\n\n\n\n\nوقوله تعالى: { أَدْنَىٰ } معناهُ أَقربُ\n و { أَلاَّ تَعُولُواْ } أَلاَّ تَجُورُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {So if you are fearful} its meaning is that you are certain.\n\n\nAnd the saying of Allah, \"Marry those that are suitable for you of the women,\" means that you should marry those whom you are allowed to marry.\n\n\nAnd His saying, {the nearest}, its meaning is the closest.\n\n\nDo not oppress or be oppressive.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

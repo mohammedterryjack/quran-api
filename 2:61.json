@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { مِن بَقْلِهَا وَقِثَّآئِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا } فالفُومُ الحِنطةُ\n وواحدُهَا فُومةٌ، ويقالُ: الفُومُ: هو الثّومُ\n\n\n\n\nوقولهُ تعالى: { وَضُرِبَتْ عَلَيْهِمُ ٱلذِّلَّةُ وَٱلْمَسْكَنَةُ } فالذِّلةُ: الصِّغارُ وإِعطاءُ الجِّزيةِ والمَسْكَنةُ: الفَقرُ\n\n\n\n\nوقولهُ تعالى: { وَبَآءُو بِغَضَبٍ مِّنَ ٱللَّهِ } أَي احتملوهُ\n وبَاءُوا بهِ: معناهُ أَقرُّوا بهِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, {from its baqlih and qitha'ih and foomih and adasih and basalih}, so the foom is the hinzah.\n\n\nOne of them is a clove, and it is said: al-foom is garlic.\n\n\nAnd the saying of Allah {And the humiliation and the abasement was imposed on them}, the humiliation is the smallness and the giving of the punishment, and the abasement is the poverty.\n\n\nAnd His saying, {And they bore with patience the anger of Allah} - that is, they endured it.\n They agreed with him: meaning they affirmed him",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

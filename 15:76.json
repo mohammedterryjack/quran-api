@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَإِنَّهَا لَبِسَبِيلٍ مُّقِيمٍ } معناهُ بطَريقٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - exalted be He: {And indeed, it is a path [leading] to uprightness} its meaning is in a way that is straight/upright.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

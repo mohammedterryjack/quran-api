@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لأُعَذِّبَنَّهُ عَذَاباً شَدِيداً } معناه أَنتِفُ رِيشَهُ وأُلقِيهِ في الشَّمسِ للنَملِ\n\n\n\n\nوقوله تعالى: { أَوْ لَيَأْتِيَنِّي بِسُلْطَانٍ مُّبِينٍ } معناه بحُجةٍ وبعُذرٍ بَيّنٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {I will punish him with a severe punishment} means that you pluck his mustache and throw him into the sun for the ants.\n\nAnd His saying, {Exalted is He}, \"Bring me a clear sign.\" Its meaning is with evidence and a clear excuse.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

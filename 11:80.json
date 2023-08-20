@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَوْ آوِيۤ إِلَىٰ رُكْنٍ شَدِيدٍ } معناهُ أصير فاُنصرْ\n والرُّكنُ الشَّدِيدُ: العَشِيرةُ\n والشَّديدُ: العَزيزُ المَنِيعُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {or go to a strong fortification}, means to become victorious.\n\n\nAnd the strong pillar: the tribe.\n\n\nAnd the Strong One: the Mighty One who protects",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

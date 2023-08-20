@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا } معناه أنَّ الأَرضَ تُخبِرُ عمّا عُملَ فيها من خَيرٍ أو شَرٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {On that day it will inform them of what they did}, means that the earth will inform of the good or evil that was done upon it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { قُلْتُمْ مَّا يَكُونُ لَنَآ أَن نَّتَكَلَّمَ بِهَـٰذَا } معناه ما يَنبغي لَنا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, {You said, \"It will not be for us to speak to him\"} [means] \"It is not for us to speak to him.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

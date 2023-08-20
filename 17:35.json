@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَزِنُواْ بِٱلقِسْطَاسِ ٱلْمُسْتَقِيمِ } معناهُ العَدلُ\n واسم القِسطاسِ لَفظةٌ رُومِيةٌ ومعناهُ بِالعَدلِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And weigh with the balance that is true} [i.e., the scales that give a true weight], its meaning is justice.\n\n\nThe term \"justicia\" is a Latin word meaning \"justice\".",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

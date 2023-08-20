@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { هَلْ فِي ذَلِكَ قَسَمٌ لِّذِى حِجْرٍ } معناه لذي عَقلٍ\n ويقالُ: لذي سِنٍّ ويقال: لذي حلمٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Is there a portion for whoever has a stone [heart]?} Its meaning is for whoever has a mind.\n\n\nAnd it is said: \"For one of good character\" and it is said: \"For one of good judgement.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { أَلَمْ نَجْعَلِ ٱلأَرْضَ كِفَاتاً } معناه كِنٌ وأوعيةٌ يعني يَكونونَ فيها أحياءً، ويُدفَنونَ فيها إذا مَاتوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {Have We not made the earth a container?} [means that] they will be in it - alive or dead.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

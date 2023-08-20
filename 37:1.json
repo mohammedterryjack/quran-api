@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد الواسطي عن زيد بن علي عليهما السَّلامُ في قولهِ تعالى: { وَٱلصَّافَّاتِ صَفَّا } أي الملائكة { فَٱلزَّاجِرَاتِ زَجْراً } أي الملائكة",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: \"Ali ibn Ahmad told us...\"\n\n\nHe said: \"Ata ibn al-Sa'ib narrated to us from Abu Khalid al-Wasiti from Zayd ibn Ali, peace be upon them, regarding the words of Allah, {And the [angels] who are near [to Allah ] are never too proud to worship Him} [i.e. the angels], {And they never get tired [of His worship]}, [i.e. the angels], {And they never get bored} [i.e. the angels].\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

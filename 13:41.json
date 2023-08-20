@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { نَنقُصُهَا مِنْ أَطْرَافِهَا } معناهُ نُذهبُ بِعلمائِها وعُبادِها\n\n\n\n\nوقوله تعالى: { لاَ مُعَقِّبَ لِحُكْمِهِ } معناهُ لاَ رادَّ ولاَ تَغيُّرَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"We will reduce it from its edges\" - this means that we will take away its scholars and worshippers.\n\n\nAnd His saying, {There is no one to change His judgement}, means that there is no one to reverse or change it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

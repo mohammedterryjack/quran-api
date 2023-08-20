@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَلاَ تَيَمَّمُواْ ٱلْخَبِيثَ مِنْهُ تُنْفِقُونَ } معناهُ لا تَعمَدُوا\n والخَبِيثُ: الرَديءُ منهُ\n\n\n\n\nوقولهُ تعالى: { إِلاَّ أَن تُغْمِضُواْ فِيهِ } معناه تُرخِصوا فيهِ لأَنْفُسِكُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"Do not complete the evil from it, you spend,\" means do not persist.\n And the evil one: the bad one of them\n\nAnd His saying - {Except that you {should} incline in it} - His meaning is that you should show mercy to yourselves.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

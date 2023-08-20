@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَٱلَّذِي ٱسْتَهْوَتْهُ ٱلشَّيَاطِينُ } معناه حَيَّرتهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His statement, \"The devils have enticed him\" - this means they have confused him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

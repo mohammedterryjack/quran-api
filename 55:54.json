@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُتَّكِئِينَ عَلَى فُرُشٍ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ } فالبَطائنُ: الظّواهرُ\n والإِستبرقُ ليس في صفاقةِ الدِّيباجِ ولا خفة الفَريدِ\n\n\n\n\nوقوله تعالى: { وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ } فالجَنى: الثمارُ التي تُجنى والدَّاني: القَريبُ الذي لا يَعي الجَاني\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, { those who recline on their couches, secure in their homes } - the \"batin\" here are the apparent things.\n\n\nAnd the isbriq (a type of horse) is not in the safaqah (group of horses) of the diabaj (a type of horse), nor is it in the khafah (group of horses) of the farid (a type of horse).\n\n\nAnd the saying of Allah, \"He has made the two gardens of Paradise equal in size.\" The janna is the fruit that is harvested, and the dani is the close one who does not see the janna.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

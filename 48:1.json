@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nأخبرنا أبو جعفر\n قال: حدّثنا علي بن أحمد\n قال: حدّثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { إِنَّا فَتَحْنَا لَكَ فَتْحاً مُّبِيناً } معناه قَضَينا لَكَ قَضاءً بَيناً، وحكمنا لَكَ حُكماً يُريدُ فَتحَ خَيبر\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAbu Ja'far told us.\n\n\nHe said: Ali ibn Ahmad told us\n\n\n{\n\nHe said: It was narrated to us by 'Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn Ali, may Allah be pleased with them, regarding the words of Allah, {We have opened for you a clear victory}, meaning that We have decreed for you a clear victory, and We have judged for you a judgement that You desire, the opening of Khaibar.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

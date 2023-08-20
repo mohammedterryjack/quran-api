@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nعن أبي خالد عن زيد بن علي عليهما السّلامُ في قولهِ تعالى: { وَٱللَّيْلِ إِذَا سَجَىٰ } معناه سَكَنَ\n ويقال: استوى\n ويقال: إذا أَقبلَ فَغطى كُلَّ شَيءٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThis is from Abu Khalid, from Zaid ibn Ali, peace be upon them, regarding the verse {And when the night fell}, which means \"when it became quiet.\"\n\n\nThis is said to be the highest level.\n It is said: \"If he comes, he will cover everything.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

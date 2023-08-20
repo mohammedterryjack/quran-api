@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مُّتَّكِئِينَ عَلَيْهَا مُتَقَابِلِينَ } معناه لا ينظرُ بَعضُهم إِلى قَفا بعضٍ أينما شاؤوا تَقابلُوا\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {those who recline on it will face each other} [means that] they will not look to the qafa of one another wherever they wish; they will face each other.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

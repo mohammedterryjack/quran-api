@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { كَذَّبَتْ ثَمُودُ بِطَغْوَاهَآ } معناه بأجمعِها\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe saying of the Almighty: {Thamud disbelieved in their arrogance} means in its entirety.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَٱحْلُلْ عُقْدَةً مِّن لِّسَانِي يَفْقَهُواْ قَوْلِي } معناه تَمتَمةٌ أَو فَأفأةٌ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying, {And untie the knot from my tongue so that they may understand my words} [Qur'an 20:27], its meaning is tammah [uninterrupted, continuous] or fa'fah [eloquent, flowing].",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

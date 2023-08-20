@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nقولهِ تعالى: { إِنَّآ أَعْطَيْنَاكَ ٱلْكَوْثَرَ } هو نَهرٌ في الجَنةِ عليهِ من الآنيةِ عددُ نجومُ السَّماءِ\n والكَوثرُ: الخَيرُ الكَثيرُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The saying of the Most High: {We have given you al-Kawthar} is a river in Paradise, on which are an number of the stars of heaven.\n\n\nAnd {al-kauthar} is the abundance of good.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

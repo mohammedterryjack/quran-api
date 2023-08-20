@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { طَائِرُكُم مَّعَكُمْ } [معناه] حَظُّكُمْ من الخَيرِ والشَّرِ\n وقال: طَائرِ الرَّجلِ: عَملُهُ\n وقال: كِتابُهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And His saying, “Your bird is with you” [i.e., will not be lost]. {Your bird} [i.e., your lot in life] is with you, good and bad.\n\n\nAnd he said: \"The man's work is like that of a bird.\"\n\n\nAnd he said: \"His book.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

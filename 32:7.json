@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { ٱلَّذِيۤ أَحْسَنَ كُلَّ شَيْءٍ خَلَقَهُ } أحسنَ: معناه أتقنَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the saying of Allah, \"He who has made everything well has created it\" - \"well\" means \"skillfully\".",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

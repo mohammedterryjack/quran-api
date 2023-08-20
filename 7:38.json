@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { حَتَّىٰ إِذَا ٱدَّارَكُواْ فِيهَا جَمِيعاً } معناهُ اجتمعوا فِيها\n\n\n\n\nوقوله تعالى: { عَذَاباً ضِعْفاً } معناهُ عَذابين\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Until they reach it all together} means that they will all gather in it.\n\n\nAnd His statement, {a punishment double} [refers to] two punishments.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

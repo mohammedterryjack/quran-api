@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { لَهُ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا وَمَا بَيْنَ ذٰلِكَ } قالَ الإِمامُ زيد بن علي عليهما السلام: ما بين أيدينا: الآخرةُ\n وما خَلفنا: الدُّنيا\n وما بين ذلك النفختان\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd His saying - the Most High - { whatever is between our hands and whatever is behind us }. Imam Zayd ibn `Ali, peace be upon them both, said: \"Whatever is between our hands\": the Hereafter.\n\n\nAnd we left the world behind.\n\n\nAnd between those two breaths",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

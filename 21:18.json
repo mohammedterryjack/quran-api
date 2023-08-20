@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَلَكُمُ ٱلْوَيْلُ مِمَّا تَصِفُونَ } فالويلُ: وادٍ في جهنّمَ من قَيحٍ مما يَسيلُ من صَديدِ أهل النَّارِ\n وتَصِفونَ: معناه تَكذِبُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " And the saying of Allaah {And to you is the torment, what you describe} So the torment: a valley in Jahannam from pus that flows from the pus of the people of the Fire.\n\n\nAnd you lie: it means you are lying.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

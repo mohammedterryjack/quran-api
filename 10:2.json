@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nحَدثنا أَبو جعفر، قالَ: حدثنا علي بن أحمد، قال: حدثنا عطاء بن السائب عن أبي خالد عن زيد بن علي عليه السلام في قولِه تعالى: { لَهُمْ قَدَمَ صِدْقٍ عِندَ رَبِّهِمْ } معناهُ سَابقةٌ\n ويقالُ: ثَوابُ صِدقٍ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWe were told by Abu Ja'far that he said: We were told by Ali ibn Ahmad that he said: It was narrated to us by 'Ata' ibn al-Sa'ib from Abu Khalid from Zayd ibn Ali that he said regarding the words of Allah, {They have preceded [in faith] with a good precedent} [i.e. they have been true to their covenant with Allah], its meaning is that they are ahead [of others].\n The reward of a truth is truth.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

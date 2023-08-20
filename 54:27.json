@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ } معناه انتَظرهم واصبرْ، وهذا قَبلَ أنْ يُؤمرُ بالقِتالِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {So wait for them and be patient} means to wait for them and be patient, and this is before being ordered to fight.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

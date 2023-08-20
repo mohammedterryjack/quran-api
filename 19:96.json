@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { سَيَجْعَلُ لَهُمُ ٱلرَّحْمَـٰنُ وُدّاً } معناه مَحبةٌ فِي صِدورِ المؤمنين\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " The Most Merciful will place affection in the hearts of the believers.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { إِنَّا لَمَّا طَغَا ٱلْمَآءُ } معناه بَغَى { حَمَلْنَاكُمْ فِي ٱلْجَارِيَةِ } في السَّفينةِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, {Indeed, when the water rose}, meant that He {carried you in the [floating] ship}. In other words, He rescued you from the deluge.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { وَآتَاكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ } معناهُ مِنْ كُلِّ مَا لَمْ تَسأَلُوهُ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - the Most High - {And He has given you from all that you ask of Him} means from all that you do not ask of Him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

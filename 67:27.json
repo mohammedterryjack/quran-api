@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { فَلَمَّا رَأَوْهُ زُلْفَةً } معناه معاينةٌ قريبةٌ\n\n\n\n\nوقوله تعالى: { وَقِيلَ هَـٰذَا ٱلَّذِي كُنتُم بِهِ تَدَّعُونَ } أي تُكَّذِبونَ وتَرِدُونَ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying - {But when they saw it as a mirage} - means that they saw it close up.\n\n\nAnd the saying of Allah: {And this is what you were calling on} that is, you were disbelieving and you were wanting.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

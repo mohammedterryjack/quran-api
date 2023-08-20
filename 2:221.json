@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقولهُ تعالى: { وَلاَ تَنْكِحُواْ ٱلْمُشْرِكَاتِ حَتَّىٰ يُؤْمِنَّ } معناه مِمَّنْ لسن من أَهلِ الكِتابِ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd his saying, {And do not marry polytheistic women until they believe} [means] whoever We have not given from the People of the Book.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",

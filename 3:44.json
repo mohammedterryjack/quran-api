@@ -110,7 +110,13 @@
       "author": "زيد بن علي",
       "year": "120",
       "text": "\nوقوله تعالى: { مِنْ أَنَبَآءِ ٱلْغَيْبِ } معناهُ مِنْ أَخْبَارِهِ\n\n\n\n\nوقوله تعالى: { وَمَا كُنتَ لَدَيْهِمْ } معناهُ عِنْدَهُمْ\n\n\n\n\nوقوله تعالى: { إِذْ يُلْقُون أَقْلاَمَهُمْ } معناهُ قِدَاحُهُمْ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying, \"From the news of the unseen\" - meaning from His news.\n\n\nAnd His saying, \"You were not with them\" - meaning, with them [at the time].\n\n\nAnd His saying, {When they cast their pens} [means] their quills.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "ابن عربي",
