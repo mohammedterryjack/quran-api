@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ ومن يبتغ غير الإسلام ديناً } المراد من الإسلام ههنا: التوحيد الذي هو دين الله في قوله: { أَسْلَمْتُ وَجْهِي لله } وهو المذكور في الآية التي قبلها، وما وصف شموله لجميع الأديان ويلزمه الانقياد التام الطوعي المذكور في فاصلة الآية بقوله:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd whoever seeks a religion other than Islam, { } Islam here: the tawhid which is the religion of Allah in His saying: { I have submitted my face to Allah } and it is the mentioned in the verse before it.,\n\nAnd what is {shamoolah} for all religions and requires complete voluntary adherence as mentioned in the ayah {faasila} with His saying:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ وما كان الله } ليضلّهم عن طريق التسليم والانقياد لأمره والرضا بحكمه { بعد إذ هداهم } إلى التوحيد العلمي ورؤية وقوع كل شيء بقضائه وقدره { حتى يبين لهم } كل ما يجب عليهم اتقاؤه في كل مقام من مقامات سلوكهم ومرتبة من مراتب وصولهم، فإن أقدموا في بعض مقاماتهم على ما تبين لهم وجوب اتقائه فهو يضلهم لكونهم مقدمين على ما هو ذنب حالهم وهو فسق في دينهم والعياذ بالله من الضلال بعد الهدى\n { إنّ الله بكل شيء عليم } يعلم دقائق ذنوب أحوالهم وإن لم يتفطن لها أحد فيؤاخذ بها أهل الهداية من أوليائه كما ورد في الحديث الرباني:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{And God was not} to lead them astray from the path of submission and obedience to His command and contentment with His ruling {after He had guided them} to the knowledge-based unity and perceiving the occurrence of all things according to His decree and measure {so that He might make clear to them} all that they should beware of in all aspects of their behavior and in all ranks and stations.,\n\n{If they offer some of their positions on the basis of what is clear to them as a requirement of piety, it will only lead them astray, because they are putting themselves forward on the basis of their own sinfulness, which is a corruption in their religion. Allah is the One to be sought for protection from such error after guidance has been given.}\n\n\n\"Indeed, Allah is All-Knowing with regards to everything.\" He knows the minutest details of people's sins and their circumstances, even if no one else is aware of them. And He will take those who are guided by Him to account for them, as is mentioned in the Revealed Hadith:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ ولئن أذقنا الإنسان منا رحمة } إلى آخره، ينبغي للإنسان أن يكون في الفقر والغنى والشدّة والرخاء والمرض والصحة واثقاً بالله متوكلاً عليه لا يحتجب عنه بوجود نعمة ولا بسعيه وتصرّفه في الكسب ولا بقوّته وقدرته في الطلب ولا بسائر الأسباب والوسائط لئلا يحصل اليأس عند فقدان تلك الأسباب والكفران والبطر والأشر عند وجودها فيبعد بها عن الله تعالى وينساه فينساه الله بل يرى الإعطاء والمنع منه دون غيره، فإن أتاه رحمة من صحة أو نعمة شكره أولاً برؤية ذلك منه وشهود المنعم في صورة النعمة، وذلك بالقلب ثم بالجوارح باستعمالها في مراضيه وطاعته والقيام بحقوقه تعالى فيها ثم باللسان بالحمد والثناء متيقناً بأنه القادر على سلبها، محافظاً عليها بشكرها مستزيداً إياها اعتماداً على قوله تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{And if We were to show mankind the mercy from Us} to the end,\n\nIt is fitting for a human being to be in poverty and wealth, in hardship and ease, in sickness and health, trusting in God and depending on Him, not hiding from Him in the presence of a blessing or in his own striving and conduct in earning and in his power and ability to seek and in all other causes and means, lest despair should overtake him at the loss of those causes and at the disbelief and arrogance and evil present when they are there, and he should turn away from God, the Exalted, and forget Him. But if he should see the giving and withholding of those things from him as from other than God, then God will forget him., If he is graced with good health or any other blessing, he should be grateful to God first and foremost, seeing that as a blessing from Him.,\n\nAnd that is with the heart, then with the limbs, by using them in sickness and obedience, and by fulfilling the rights of Allah with them, then with the tongue, by praising and thanking Allah, confident that He is able to take them away.,\n\nPreserve her with thanksgiving and make her depend on His saying, the Most High:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

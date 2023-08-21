@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n وفي الإنسان أصفر لغلبة نورية إدراكها بمجاورة القلب، إذ الصفرة حمرة عليها البياض { فاقعٌ لونها } لصفاء استعدادها وشعشعان شعاع نور القلب عليها { تسر الناظرينَ } لقوة نور استعدادها وتشعشعها والناظرون هم الكاملون المطلعون على الاستعدادات لوجوب محبتهم للمستعدّين المستبصرين وذوقهم بحضورهم",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd in man, yellow predominates over white in terms of the light that is perceived around the heart.,\n\n{Zero} is red, with {white} on it for purity and brightness of heart {attracting the onlookers}. The onlookers are the complete and enlightened ones who are aware of the preparations for the love and taste of the prepared and perceptible.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

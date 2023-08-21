@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n  { زُين للناس حبّ الشهوات } لأن الإنسان مركب من العالم العلويّ والسفليّ، ومن نشأته وولادته تحجبت فطرته وخمدت نار غريزته وانطفأ نور بصيرته بالغشاوات الطبيعية والغواشي البدنية، والماء الأجاج من الذّات الحسيّة، والرياح العواصف من الشهوات الحيوانية، فبقي مهجوراً من الحق في أوطان الغربة وديار الظلمة يسار به، مبلوّاً بأنواع النصب والتعب، فإذا هو بشعشعة نور من التميز ولمعان برق من عالم العقل، وداعٍ ينادينه من الهوى والشيطان، فتبعه فصادف منزلاً نزهاً، وروضة أنيقة، فيها ما تشتهي الأنفس وتلذّ الأعين، فاستوطنه وشكر سعيه ورضيه مسكناً وقال:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{Zun lil-nās ḥubb ash-shahwāt} li-'an al-'insān markab min al-'ālam al-'ulwiyy wa-s-sufliyy\n\n\"He has adorned people with the love of desires\" because humans are composed of the upper and lower worlds.,\n\nAnd He who created him and gave him birth { } has veiled his nature { } and extinguished his sight { } with natural veils and bodily coverings.,\n\nAnd the ajaja water from the hasiya self,\n\nAnd the violent winds are from the animal desires.,\n\nHe remains an exile from the truth in the lands of the West and the dark regions of injustice.,\n\nThey are both exhausted from all the work they have to do., If he is with a {flash of light} of distinction and {brilliance} of mind from the world.,\n\nAnd farewell to him who is called by love and Satan.,\n\nHe then met a man on the street and spoke to him.,\n\nA stylish garden,\n\n{In it are what the souls desire and the eyes delight in.},\n\nHe made his home there and was grateful for his efforts and pleased with his dwelling, saying:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

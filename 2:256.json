@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ لا إكْرَاه في الدين } لأن الدين في الحقيقة هو الهدى المستفاد من النور القلبي، اللازم للفطرة الإنسانية، المستلزم للإيمان اليقيني\n كما قال تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThere is no compulsion in religion, because religion is ultimately the guidance that is derived from the light of the heart.,\n\n{The necessary thing for the human fiftieth},\n\nThe things required for true faith\n\n\nAs the Almighty said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

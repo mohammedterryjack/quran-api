@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ كان الناس أمّة واحدة } أي: على الفطرة ودين الحق، كما قال صلى الله عليه وسلم:\n\n \" كلّ مولود يولد على الفطرة \" \n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nPeople were one nation, meaning they were on the fitrah (natural state) and of the true religion.,\n\nAs the Prophet Muhammad (peace be upon him) said:\n \"Every newborn is born on the fitrah\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

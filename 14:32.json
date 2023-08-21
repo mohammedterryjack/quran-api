@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ الله الذي خَلَقَ } سموات الأرواح وأرض الجسد { وأنْزَلَ من } سماء عالم القدس ماء العلم { فأخْرَج به } من أرض النفس ثمرات الحكم والفضائل { رِزْقاً لكم } وتقوى القلب بها { وسَخرَ لكم } أنهار العلم بالاستنتاج والاستنباط والتفريع والتفصيل { وسخر لكم } شمس الروح وقمر القلب { دَائِبِين } في السير بالمكاشفة والمشاهدة { وسخّر لكم } ليل ظلمة صفات النفس ونهار نور الروح لطلب المعاش والمعاد والراحة والاستنارة { وآتاكم من كل ما سألتموه } بألسنة استعداداتكم، فإنّ كل شيء يسأله بلسان استعداده كمالاً يفيض عليه مع السؤال بلا تخلف وتراخ كما قال تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{Allah, the One who created} the heavens and the earth of the body {and sent down from} the sky the water of knowledge {and brought it out with it} from the earth of the soul, the fruits of wisdom and virtue {as sustenance for you} and the heart's fortitude with it {and made it subservient to you}, the rivers of knowledge with deduction and induction and analogy and specification {and made it subservient to you}, the sun of the soul and the moon of the heart {always}, in the journey with investigation and observation {and made it subservient to you}, the night of the soul's darkness and the day of the heart's light, in order to seek livelihood and return and ease and clarity {and gave you everything you asked for} with your tongues, the preparations of your hearts.,\n\nEverything asks its preparedness in perfection to answer with no delay or hesitation as Allah says:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { واعْلَموا أنما أمْوَالكم وأولادكم فِتْنَة } أي: حجاب لكم لاشتغالكم بها عن الله، أو شرك لمحبتكم إياها كحبّ الله { وأنّ الله عنده أجرٌ عظيمٌ } فاطلبوه بالتجرّد عنها ومراعاة حق الله فيها",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nAnd know that your wealth and your children are a trial. That is, a veil for you to keep you from Allah.,\nOr take your love for Him as your love for Allah {And that Allah's reward is great}. So seek Him with self-denial in relation to her and fear Allah in her.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n ولما وجد القلب متاعه من إدراك المعاني المعقولة عند العقل العملي دون الوهم { قال معاذ الله أن نأخذ إلا من وجدنا متاعنا عنده إنّا } إن أخذنا الوهم مكانه وآويناه إلينا وألقينا إليه ما ألقينا إلى أخينا كنا مرتكبين الظلم العظيم لوضعنا الشيء في غير محله\n ويأسهم منه شعورهم بعدم تكفيل الوهم إياهم وتمتيعهم بدواعيه وحكمه - وكبيرهم الذي ذكرهم موثق أبيهم الذي هو الاعتقاد الإيماني، وتفريطهم في يوسف عند حكومة الوهم هو الفكر، ولهذا قال المفسرون: هو الذي كان أحسنهم رأياً في يوسف ومنعهم عن قتله",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWhen the heart finds pleasure in understanding sensible things {as opposed to mere imagination}, it says: \"May Allah protect us from taking what we find pleasurable from anyone other than the one who provides us with that pleasure. If we take what is imaginary in place of what is real, and attribute it to ourselves, while attributing to him what we have attributed to our brother, we will have committed a great injustice by placing something in its wrong place.\"\n\nAnd he contributes to their feeling of {insufficiency} in not fulfilling their {delusions} about him and following their {desires} - and their {greatest} one whom their {trustworthy} father mentioned, who is the {belief} of {faith}.,\n\nAnd they {exceeded their bounds} in Joseph, when they {followed} the government of {falsehood}.,\n\nAnd for this reason, the commentators say: he is the one who had the best opinion of Joseph and prevented them from killing him.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

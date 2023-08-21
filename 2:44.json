@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ أتأمرونَ الناسَ بالبِر } الذي هو الفعل الجميل الموجب لصفاء القلب، وزكاء النفس الزائد منها بالتنوّر { وتَنسَونَ أنفسكم } أفلا تفعلون ما ترتقون به من مقام تجلّي الأفعال إلى تجلّي الصفات { وأنتُم تَتْلُونَ } كتاب فطرتكم الذي يأمركم باتباع محمد في دينه السالك بكم سبيل التوحيد { أفلا تعقِلونَ } تعيير بالغ، وتهييج لحميتهم",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\nDo you order people to do what is right, which is the beautiful deed that leads to the purity of the heart?,\nThe {self-purification} of the excess of the soul by {forgetting} yourselves, do you not then do what you are elevated by in terms of the manifestation of actions to the manifestation of {qualities}? You {read} the Book of your Nature which orders you to follow Muhammad in the religion of the path with you of Tawhid {do you not understand}? A change for the better.,\n\nAnd excite them for their meat",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n ولذلك ذكر بلفظ التمني الذي هو طلب ما يمتنع حصوله للطالب لامتناع سببه { للرّجال } أي: الأفراد الواصلين { نصيبٌ مما اكْتسبوا } بنور استعدادهم الأصليّ { وللنساء } أي: الناقصين القاصرين عن الوصول { نصيبٌ مما اكْتَسبن } بقدر استعدادهنّ { واسْألوا الله من فَضْله } أي: اطلبوا منه إفاضة كمال يقتضيه استعدادكم بالتزكية والتصفية حتى لا يحول بينكم وبينه فتحتجبوا وتتعذبوا بنيران الحرمان منه { إنّ الله كان بكل شيءٍ } مما يخفى عليكم، كامناً في استعدادكم بالقوّة { عَلِيماً } فيجيبكم بما يليق بكم كما قال:\n\n[إبراهيم، الآية: 34] أي: بلسان الاستعداد الذي ما دعاه أحد به إلاّ أجاب، كما قال:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd so He mentioned the word \"al-tamanni\" (the desirer), which is the request of something that the student cannot have {for men}, that is, those who are able to {obtain a share of what they have acquired}, with the light of their original preparation {and for women}, that is, those who are deficient in their ability to {obtain a share of what they have acquired}, according to their level of preparation {and ask Allah for His bounty}. That is, ask Him for the outpouring of perfection that your preparation requires in purity and cleanliness, so that you are not veiled from Him and you suffer the torment of being cut off from Him {for indeed, Allah is with everything}. That which is hidden from you.,\n\nAs you are preparing with {wisdom}, I will respond to you with what is appropriate for you, as He said:\n\n\nIbrahim, {This is the verse:} [34] {That is, the tongue of readiness, which no one has called with it but has answered},\n\nAs he said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

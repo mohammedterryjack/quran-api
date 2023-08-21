@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ وإن تصْبِروا } على ما يبتليكم الله به من الشدائد والمحن والمصائب، وتثبتوا على مقتضى التوحيد والطاعة { وتتقوا } الاستعانة بهم في أموركم والالتجاء إلى ولايتهم { لا يضرّكم كيدهم شيئاً } لأن المتوكل على الله، الصابر على بلائه، المستعين به لا بغيره، ظافر في طلبته، غالب على خصمه، محفوظ بحسن كلاءة ربه، والمستعين بغيره مخذول موكول إلى نفسه، محروم عن نصرة ربه\n كما قال الشاعر:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd if you remain patient through the difficulties and trials that Allah tests you with, He will reward you greatly.,\n\nAnd establish the foundations of Tawheed and obedience {and fear Allah}. Seek help from them in your affairs and turn to their rulers {their plots will not harm you in any way}, because those who rely on Allah will not be harmed by the schemes of others.,\n\nThe patient one endures their hardship.,\n\nThe one who relies on Him has no need for anyone else., He is jobless., The discount is usually on him,\n\nThis [is] protected by the good will of God.,\n\nAnd the one who seeks help from others is abandoned and left to fend for himself.,\n\n{He is} deprived of the help of his Lord.\n\n\nAs the poet said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

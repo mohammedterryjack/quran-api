@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { ومثل الذين كَفَروا } أي: مثل داعي الكفار المردودين { كمثل } الناعق بالبهائم فإنها لا تسمع إلا صوتاً ولا تفهم ما معناه فكذا حالهم { يا أيها الذين آمنوا } إن كنتم موحدين تخصون العبادة بالله فلا تتناولوا إلا من طيبات ما رزقناكم، أي: ما ينبغي في العدالة أن يستعمل من المرزوقات { واشكروا لله } باستعمالها فيما يجب أن تستعمل على الوجه الذي ينبغي أن تستعمل بالقدر الذي ينبغي، فإنّ التوحيد يقتضي مراعاة الاعتدال والعدالة في كل شيء اقتضاء الذات ظلها ولازمها\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{Those who disbelieve} are like {the example} of the barking dog that cannot hear anything except its own voice, and does not understand what it is saying. Similarly, {O believers}, if you are united in your worship of Allah, do not consume anything except what is good and pure that He has provided for you.,\n\nWhat is just should be used from the {marzuqat} in a way that is just, thanking Allah with them in the way that is due.,\n\nThe Unity requires that we consider equity and justice in all things, as a requirement of our own selves and what is necessary for us.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

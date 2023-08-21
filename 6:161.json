@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ قل إنني هداني ربّي إلى صراط مستقيم } إلى طريق التوحيد الذاتي { ديناً قيماً } ثابتاً أبداً لا تغيره الملل والنِحل ولا تنسخه الشرائع والكتب { ملّة إبراهيم } التي أعرض بها عن كل ما سواه بالترقي عن جميع المراتب مائلاً عن كل دين وطريق باطل فيه شرك ما، ولو بصفة من صفات الله تعالى",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nSay: \"I am guided by my Lord to a straight path - { a religion of } { pure } { monotheism }. Never will it change, and neither will the ways of the insects and animals change. This is } { the religion of Abraham } - { the one he presented to the world as superior to all other religions, regardless of their position or status. All other religions are false and based on polytheism.\",\n\nAnd if one of the attributes of Allah Ta'ala",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

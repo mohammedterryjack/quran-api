@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n وقوله: { إني اصطَفَيتك على الناس برسالاتي } هو أول درجة الاستنباء بعد الولاية { فخذ ما آتيتك } بالتمكين { وكن من الشاكرين } بالاستقامة في القيام بحق العبودية، كما قال النبي عليه السلام:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd His saying: {I have chosen you over the people with My messages} is the first degree of predestination after {so take what I have given you} with empowerment {and be of those who are grateful} by being upright in fulfilling the rights of servitude., The Prophet (peace be upon him) said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

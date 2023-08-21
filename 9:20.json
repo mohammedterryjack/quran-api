@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ الذينَ آمنوا } علماً { وهاجروا } الرغائب الحسية والمواطن النفسية بالسلوك في سبيل الله وجاهدوا بأموال معلوماتهم ومراداتهم ومقدوراتهم بمحو صفاتهم في صفات الله { وأنفسهم } بإفنائها في ذات الله { أولئك أعْظَم دَرَجة } في التوحيد { عند الله }",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{ Those who have believed } in knowledge { and migrated } from the materialistic and worldly attachments and inclinations, and instead dedicated their lives and actions to God, and strived with their wealth, knowledge, and abilities to nullify their own attributes in favor of God’s { and instead sacrificed themselves } for the sake of God, { such are of a greater degree } in terms of their monotheism { in the sight of God }.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

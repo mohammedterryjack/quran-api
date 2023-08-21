@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { إنّ الله اصطفى آدمَ ونُوحاً } الاصطفاء أعمّ من المحبة الخلة، فيشمل الأنبياء كلهم لأنهم خيرة الله وصفوته، وتتفاضل فيه مراتبهم، كما قال تعالى:\n\n[البقرة، الآية: 253]، فأخص المراتب هو المحبة، وأشار إليه بقوله تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n\"Indeed, Allah chose Adam and Noah above all other people.\" The selection is greater than mere love or closeness.,\n\nAll the prophets are included because they are the best of God's creation and His chosen ones.,\n\nAnd in it they differ in their ranks.,\n\nAs the Almighty said:\n The Cow\n\nالبقرة\n\n{al-baqarah}\n\nThe Cow,\n\nAnd among His signs is the creation of the heavens and the earth, and the diversity of your languages and your colors. Indeed, in that are signs for those of knowledge.,\n\nThe highest rank is love.,\n\nAnd He referred to him in His saying, \"Exalted be He.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

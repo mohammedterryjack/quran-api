@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { له دعوة الحق } أي: الدعوة الحقيّة التي ليست بالباطل له لا لغيره يدعو نفسه فيستجيب كما قال تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nHe has the true invitation {of Allah}, that is, the true invitation that is not based on falsehood, for which he calls himself and responds as Allah has said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

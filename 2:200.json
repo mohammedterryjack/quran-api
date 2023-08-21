@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ فإذا قضيتم مناسككم } وفرغتم من الحجّ { فاذكروا الله كذكركم آباءكم أو أشدّ ذكراً } أي: فلا تكونوا كأهل العادة مشغولين بذكر الأنساب والمفاخرات وسائر أحوال الدنيا، فإنّ ذلك يكدّر وقتكم ويقسي قلوبكم بل كونوا مشتغلين بأنواع الذكر والمذاكرة مع الإخوان مثل ما كنتم تذكرون أحوال الأنساب وسائر أحوال الدنيا قبل السلوك أو كما يذكر الناس هذه الأحوال بالعادة وأبلغ أو أقوى وأكثر ذكراً منها ليبقى صفاؤكم ويهتدي بكم الناس { فمن الناس من يقول ربنا } أي: لا يطلب إلا متاع الدنيا ولا يشتغل إلا بذكرها ولا يعبد الله إلا لأجلها { وما له في الآخرة من خلاق } فإنّ توجهه إلى الأخس يمنعه عن قبول الأشرف لعدم نهوض همّته إليه واكتساب الظلمة المنافية للنور",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{When you have completed your Hajj} and have freed yourselves from all {obligations}, remember Allah as you remember your {forefathers} - or even more so. This means that you should not be like the people of the world who are busy with remembering their ancestors and their achievements and other worldly affairs.,\n\nThis will waste your time and harden your hearts. Rather, engage in remembrance and reflection with your brothers, as you would remember the lineage and other worldly affairs before taking action, or as people ordinarily remember such things. And make the remembrance stronger and more frequent than those things, so that your hearts remain pure and people can guide you {to those who say, \"Our Lord\"}. That is, they only seek the worldly things and are only occupied with remembering them, and they only worship God for them {and have no share in the Hereafter}. Their focus on the latter prevents them from accepting the nobler [path], because their ambition is not directed towards it, and they acquire the darkness that is opposed to the light.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

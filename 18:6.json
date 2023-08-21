@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { فلعلك باخع } أي: مهلك { نفسك } من شدّة الوجد والأسف على توليهم وإعراضهم، وذلك لأن الشفقة على خلق الله والرحمة عليهم من لوازم محبة الله ونتائجه ولما كان صلى الله عليه وسلم حبيب الله ومن لوازم محبوبيته محبته لله لقوله:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " You may be { destroying yourself } out of the intensity of your awareness and regret at having to deal with them and their opposition.,\n\nAnd that is because the mercy of Allah and His compassion for His creatures are among the signs of His love for Allah, and the results of that love. And because the Prophet Muhammad is the beloved of Allah and among the signs of His love for the Prophet is His love for Allah, as He said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

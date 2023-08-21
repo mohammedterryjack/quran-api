@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { عسى ربكم أن يرحمكم } بعد القهر بالفناء والمحو بتجليات الصفات بالإحياء ويبعثكم بالبقاء بعد الفناء، ويثيبكم بما لا عين رأت ولا أذن سمعت ولا خطر على قلب بشر\n { وإن عدتم } بالتلوين في مقام الفناء بالظهور بأنائيتكم { عدنا } بالقهر والإفناء كما قال تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n\"I hope your Lord will have mercy on you after you have been afflicted and will restore you after you have been destroyed. And I hope He will raise you up after you have been raised up.\",\n\nAnd He will bestow upon you that which your eyes have not seen, your ears have not heard, and your hearts have not imagined.\n\n\nAnd if you {return} to coloring in the garden with your {clothes}, we will return to severity and punishment, as Allah says:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

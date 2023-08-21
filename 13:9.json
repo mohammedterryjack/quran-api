@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { عَالِم } غيب ما في الاستعدادات من قوة القبول وشهادة الكمالات الحاضرة الخارجة إلى الفعل { الكبير } الشأن الذي يجل عن إعطاء ما يقتضيه بعض الاستعدادات بل يسع كلها فيعطيها مقتضياتها { المُتعال } عن أن ينقطع فيضه فيتأخر عن حصول الاستعداد وينقص مما يقتضيه",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{عالم} is someone who knows the full extent of what is required {الكبير} to do something, and who {المتعال} is not hindered by any lack of preparation in actually doing it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

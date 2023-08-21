@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ وإذْ قال موسى لِقومِه إن الله يَأمركم أنْ تذبحوا بَقرةً } هي النفس الحيوانية، وذبحها قمع هواها الذي هو حياتها ومنعها عن أفعالها الخاصة بها بشفرة سكين الرياضة { قالوا أتتخذنا } مهزوّاً بنا، وتستخفنا لنطيعك ونتسخر لك كما جاء في حق فرعون: فاستخف قومه فأطاعوه\n { قال أعوذُ بالله أنْ أكونَ مِن الجاهلين } الاستخفاف والاستهزاء وطلب الترؤس هو فعل الجهال",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd recall when Moses said to his people, \"Indeed, Allah commands you to slaughter a cow.\" This is the animal soul.,\n\nAnd slaughter her, suppress her life which is her very own, and forbid her from doing that which is natural to her with the {they said} sharp blade of sport., {We will} humble ourselves to you and {we will} mock you as Pharaoh did. {He} humbled his people and they obeyed him.\n I seek refuge in God from being one of the ignorant {Qāla ʾaʿūḏu billāhi an ʾakūna min al-jahilīna} Al-istikhfāf wa-al-istihzā' wa-ṭalab al-tarṣus huwa faʿl al-jahīl\n\n\"I seek refuge in God from being one of the ignorant.\" Making fun of and belittling others, as well as seeking honor and status, are the actions of the ignorant.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

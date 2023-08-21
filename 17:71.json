@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { يوم ندعو } إلى آخره، أي: نحضر { كل } طائفة من الأمم مع شاهدهم الذي يحضرهم ويتوجهون إليه من الكمال ويعرفونه سواء كان في صورة نبيّ آمنوا به كما ذكر في تفسير قوله:\n\n[النساء، الآية: 41] أو إمام اقتدوا به أو دين أو كتاب أو ما شئت على أن تكون الباء بمعنى مع أو ننسبهم إلى إمامهم وندعوهم باسمه لكونه هو الغالب عليهم وعلى أمرهم المستعلي محبتهم إياه على سائر محباتهم { فمن أوتي كتابه بيمينه } أي: من جهة العقل الذي هو أقوى جانبيه وبعث في صورة السعداء { فأولئك يقرؤون كتابهم } دون غيرهم لاستعدادهم للقراءة والفهم لأن الذي أوتي كتابه بشماله، أي: من جهة النفس التي هي أضعف جانبيه لا يقدر على قراءة كتابه وإن كان مقروؤًا لذهاب عقله وفرط حيرته { ولا يظلمون } أي: لا ينقصون من صور أعمالهم وكمالاتهم وأخلاقهم شيئاً قليلاً",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nWe call on { } to the end.,\n\n\"Every nation has a {witness} who brings them and leads them to perfection, regardless of whether they are in the form of a prophet. They believe in him as mentioned in the interpretation of the verse:\n\n\nThe women,\n\nThe verse: 41] Or {a leader} that they should follow, or {a religion}, or {a book}, or {whatever} they want, that {the letter B} should have the meaning of \"with\" or {we ascribe them} to their leader and {we call them by his name} because he is the most common one among them and their most {elevated} love is for him, over all their other loves { whoever is given his book in his right hand } that is, from the perspective of the mind which is the stronger of his two sides, and he is sent in the form of the {happy} { those who read their book } without others, in preparation for reading and understanding, because { whoever is given his book in his left hand },\n\nThis refers to someone whose mental faculties are so weak that they cannot read a book, even if it is read to them, and their mind is so confused and agitated {that they are not unjust}. This means that they do not fall short in their deeds, character, or morality in any way.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

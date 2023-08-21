@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { ومن كان في هذه أعمى } عن الاهتداء إلى الحق { فهو في الآخرة } كذلك { وأضلّ سبيلاً } مما هنا لأن له في هذه الحياة آلات وأدوات وأسباباً يمكنه الاهتداء بها وهو في مقام الكسب باقي الاستعداد إن كان ولم يبق هناك شيء من ذلك\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{And whoever is in this blindness} of being misguided from the truth {then he is in the Hereafter} likewise {and more astray from the path}. This is because he has in this life {instruments and means} by which he can be guided, and he is in a position to gain {the rest of what he needs} if he has not already.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

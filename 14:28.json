@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ بدّلوا نِعْمَة الله } التي أنعم بها عليهم في الأزل من الهداية الأصلية والنور الاستعدادي الذي هو بضاعة النجاة { كُفْراً } أي: احتجاباً وضلالة، كما قال تعالى:\n\n[البقرة، الآية: 16] أضاعوا النور الباقي واستبدلوا به اللذة الحسية الفانية، فبقوا في الظلمة الدائمة { وأحلوا قومهم } من في قوى نفوسهم أو من اقتدى بطريقتهم وتأسى بهم وتابعهم في ذلك { دار البوار }",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nReplace the blessing of Allah {which He has bestowed upon them in eternity} with original guidance and the prepared light {of disbelief}, which is the possession of salvation.,\n\nAs Allah said:\n The Cow\n\nالبقرة\n\n{al-baqarah}\n\nThe Cow,\n\nThey have wasted the remaining light and replaced it with fleeting earthly pleasures.,\n\nAnd they will remain in everlasting darkness { and enslave their people } either through their own power or by following their ways and being led astray by them { in the home of the wicked }.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

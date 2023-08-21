@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\nوالعام الذي { فيه يغاث الناس وفيه يعصرون } هو وقت تمتيعه للنفس عند الاطمئنان التام والأمن الكلي",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd the year in which {people are nourished and they flourish} is the time when one follows one's own desires with complete assurance and total security.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

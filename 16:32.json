@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\nوأما المتّقون عن المعاصي والمناهي، الواقفون مع أحكام الشريعة، المعترفون بالتوحيد والنبوّة على التقليد لا التحقيق، وإلا لتجرّدوا بعلم اليقين عن صفات النفس إلى مقام القلب، فتتوفاهم الملائكة طيبين على صورة أخلاقهم وأعمالهم الطيبة الجميلة، فرحين مستبشرين { يقولون سلام عليكم ادخلوا الجنّة } أي: الجنة المعهودة عندهم، وهي جنة النفوس من جنات الأفعال { بما كنتم تعملون }\n { وقال الذين أشركوا لو شاء الله ما عبدنا من دونه من شيء } إنما قالوا ذلك عناداً وتعنتاً عن فرط الجهل، وإلزاماً للموحدين بناء على مذهبهم، إذ لو قالوا ذلك عن علم ويقين لكانوا موحدين لا مشركين بنسبة الإرادة والتأثير إلى الغير، لأن من علم أنه لا يمكن وقوع شيء بغير مشيئة من الله، عَلِم أنه لو شاء كل من في العالم شيئاً لم يشأ الله ذلك لم يمكن وقوعه، فاعترف بنفي القدرة والإرادة عما عدا الله تعالى فلم يبق مشركاً، قال الله تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd as for the righteous, they are above transgressing and sinning., The Waqfees are with the rulings of Sharia,\n\nThose who recognize the Oneness of God and the Prophethood of Muhammad {peace be upon him} do so based on tradition, not personal discovery.,\n\nUnless you purify your hearts with the knowledge of certainty {of Allah}, you will not reach the station of the heart.,\n\nThe angels take them in charge, in a good way, according to their character and their good, beautiful deeds.,\n\nWe are two happy and contented people {saying \"Peace be upon you\" as we enter Paradise}. In other words, the Paradise that is customary for them.,\n\nThis is the abode of the souls, from among the abodes of the actions {according to what you did}.\n\nAnd those who associate { } said, \"If Allah had willed, we would not have worshipped anything other than Him, not a single thing.\" They have said this out of obstinacy and arrogance, due to their excessive ignorance.,\n\nAnd as required by the monotheists according to their creed., If they had said this about knowledge and certainty, they would have been united, not polytheists, in terms of will and effect towards others.,\n\nBecause whoever knows that nothing can happen without the will of Allah,\n\n{He} knows that if everyone in the world wanted something, if Allah did not will it, it could not happen.,\n\n{Admit that you have no power or will except that which God has given you, and you will no longer be a polytheist.},\n\n\"God said, '{}'\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

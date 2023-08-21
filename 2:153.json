@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { يا أيها الذين آمنوا } الإيمان العيانيّ { استعينوا بالصبر } معي عند سطوات تجليّات عظمتي وكبريائي { والصلاة } أي: الشهود الحقيقي بي { إنّ الله مع الصابرين } المطيقين لتجليات أنواره\n  { ولا تقولوا لمن يقتل في سبيل الله } أي: يجعل فانياً مقتولة نفسه في سلوك سبيل التوحيد ميتاً عن هواه، كما قال رسول الله صلى الله عليه وسلم:\n\n \" موتوا قبل أن تموتوا \" \n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n{O you who have believed} in the clear faith {seek help through patience and prayer} with me at the unveiling of my great and glorious {and prayer} i.e. the true witnesses of His {Indeed, Allah is with the patient} who are tolerant of the unveilings of His lights.\n\n\nDo not say to those who kill in the name of God { } that they are making a martyr of themselves by dying for the cause of monotheism.,\n\nAs the Messenger of Allah said:\n \"Die before you die.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

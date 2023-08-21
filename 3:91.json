@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ فلن يقبل من أحدهم ملء الأرض ذهباً } إذ لا تقبل هناك إلا الأمور النورانية الباقية لأن الآخرة هي عالم النور والبقاء، فلا وقع ولا خطر للأمور الظلمانية فيها الفانية\n وهل كان سبب كفرهم واحتجابهم إلا محبّة هذه الفواسق الفانية؟، فكيف تكون سبب نجاتهم وقربهم وقبولهم وندبتهم وهي بعينها سبب هلاكهم وبعدهم وخسرانهم وحرمانهم",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{ Let no one among them fill the earth with gold } For only the remaining spiritual things are accepted there, because the Hereafter is the world of light and permanence.,\n\nThere is neither harm nor danger to the unjust things in it.\n\n\nAnd was not the reason for their disbelief and rejection but the love of these wicked transgressors?,\n\nHow can they be the reason for their survival and closeness, and their acceptance and favor, when they themselves are the reason for their destruction and after them, and their loss and deprivation?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

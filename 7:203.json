@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "",
-      "translations": []
+      "translations": [
+        {
+          "translation": "",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

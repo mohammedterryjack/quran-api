@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ للذين اسْتَجَابوا لربّهم } بتصفية الاستعداد عن كدورات صفات النفس { الحُسْنى } أي: المثوبة الحسنى وهو الكمال الفائض عليهم عند الصفاء المعبر عنه بقوله تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{For those who respond to their Lord} by preparing themselves for the purification of their souls {by doing the best they can}, that is, by striving for the best and most perfect outcome, as expressed by Allah's saying:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

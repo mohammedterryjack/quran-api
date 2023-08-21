@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ إنما جعل السبت على الذين اختلفوا فيه } أي: ما فُرِض عليك إنما فرض عليهم فلا يلزمك اتباع موسى في ذلك بل اتباع إبراهيم",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{The Saturday} is only for those who differ about it; that is, it is not obligatory for you to follow Moses in that, but rather to follow Abraham.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

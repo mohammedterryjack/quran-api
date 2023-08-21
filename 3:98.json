@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ ومنْ يَعْتصم بِالله } بالانقطاع عما سواه، والتمسك بالتوحيد الحقيقيّ { فقد هُدي إلى صِرَاطٍ مُسْتقيم } إذ الصراط المستقيم هو طريق الحق تعالى، كما قال:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd whoever clings to Allah {with complete devotion}, renouncing all other things -,\n\nAnd cling to true monotheism; {for He has guided you to the straight path} - for the straight path is the path of Allah.,\n\nAs he said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

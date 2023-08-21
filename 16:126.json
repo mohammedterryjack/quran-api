@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n  { وإن عاقبتم } الخ، أي: الزموا سيرة العدالة والفضيلة لا تجاوزوها فإنها أقلّ درجات كمالكم، فإن كان لكم قدم في الفتوة وعرق راسخ في الفضل والكرم والمروءة فاتركوا الانتصار والانتقام ممن جنى عليكم وعارضوه بالعفو مع القدرة واصبروا على الجناية فإنه { لهو خير للصابرين } ألا تراه كيف أكده بالقسم واللام في جوابه وترك المضمر إلى المظهر حيث ما قال: لهو خير لكم، بل قال:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd if you should { } the Kh,\n\n{Ayy: az-zamoo sayratal-`adala wal-fadheelah la tajawazooha fi-annahaa aqallud-darajaat kamalakum}\n\nFollow the path of justice and virtue, and do not exceed it, for it is the least of your perfections.,\n\nIf you have a foot in the door and a strong neck in the face of adversity, then leave victory and revenge to those who have wronged you and forgive them with the ability to do so, and be patient in the face of suffering, for {it is better for the patient}. Do you not see how he affirms this with his oath and curse in his response, and leaves the fault to the appearance, where he says: \"It is better for you\", But he said:\n\n\"{وَجَدْنَا آبَاءَنَا عَلَىٰ أُمَّةٍ وَجَدْنَاهُمْ صَالِحِينَ}\"\n\"We found our fathers on a righteous path, and we found them following the truth.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

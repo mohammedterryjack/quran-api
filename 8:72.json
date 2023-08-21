@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ إن الذين آمنوا وهاجروا } إلى آخر الآية، بالفحوى تدلّ على أن الفقير القائم بالخدمة في الخانقاه والبقعة ليس عليه خدمة المقيم بل المسافر لقوله تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n\"Those who have faith and migrated...\" to the end of the verse,\n\nThe poor man mentioned in the verse is not responsible for serving the resident, but the traveler, as Allah says:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

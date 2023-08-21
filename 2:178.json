@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\nالقصاص قانون من قوانين العدالة، فُرِض لإزالة عدوان القوّة السبعية، وهو ظلّ من ظلال عدله تعالى فإنه إذا تصرّف في عبده بإفنائه فيه عوّضه عن حرّ روحه روحاً موهوماً خيراً منه، وعن عبد قلبه قلباً موهوباً، وعن أنثى نفسه نفساً موهوبة كاملة",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe punishment is a just law among the laws of justice., The imposition of the removal of the aggression of the Seven Powers,\n\nAnd He is the shadow of His justice, for if He deals with His servant in justice, He will compensate him for the free spirit he has with a better, imagined spirit.,\n\nAnd about {Abd Qalb} - he had a beloved heart.,\n\nAnd about a female, herself a full beloved.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

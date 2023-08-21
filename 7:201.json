@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ إنّ الذين اتّقوا } الشرك { إذا مسّهم طائف } لمسة { من الشيطان } بنسبة الفعل إلى الغير { تذكروا } مقام التوحيد ومشاهدة الأفعال من الله { فإذا هم مُبْصِرون } فعالية الله، فلا يبقى شيطان ولا فاعل غير الله في نظرهم",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{ Those who are mindful of } the associating { if they are touched by } a touch { of Satan } in proportion to the act towards the others { they remember } the station of Tawhid and witnessing the actions from Allah { then they are seen } the efficacy of Allah.,\n\n{There is no devil or doer of evil in their sight, but only Allah.}",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

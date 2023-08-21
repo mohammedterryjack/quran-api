@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ إنما بغْيكم على أنفسكم } إلى آخره، البغي ضدّ العدل، فكما أن العدل فضيلة شاملة لجميع الفضائل وهيئة وجدانية لها فائضة من نور الوحدة على النفس فالبغي لا يكون إلا عن غاية الانهماك في الرذائل بحيث يستلزمها جميعاً فصاحبها في غاية البعد عن الحق ونهاية الظلمة كما قال:\n\n \" الظلم ظلمات يوم القيامة \" \n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{Only your own selves are to be blamed} in the end.,\n\nThe oppressor is against justice.,\n\nAs justice is a comprehensive virtue encompassing all other virtues, and has an innate disposition that exceeds the light of unity within oneself, so injustice can only be the result of the utmost wickedness, which requires all those who partake in it to be far removed from truth and the end of darkness, as is said:\n \"The wrongdoings of the Day of Judgment are darker.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

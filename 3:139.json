@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { ولا تَهنوا } في الجهاد عند استيلاء الكفار { ولا تَحزنوا } على ما فاتكم من الفتح وما جرح واستشهد من إخوانكم { وأنتُم الأعْلَون } في الرتبة لقربكم من الله وعلو درجتكم بكونكم أهل الله { إن كنتم } موحدين، لأنّ الموحد يرى ما يجري عليه من البلاء من الله فأقلّ درجاته الصبر إن لم يكن رضا يتقوّى به فلا يحظن ولا يهن { الأيام } الوقائع وكل ما يحدث من الأمور العظيمة يسمى يوماً وأياماً، كما قال تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nDo not be discouraged in the battle when the enemy is superior in numbers, and do not grieve over what you have lost in terms of victory or casualties. You are the superior ones in rank, due to your closeness to God and your high status in His sight. If you are truly united,,\n\nSince the monotheist sees the trials that befall him from Allah as the least of his degrees of patience, if he is not content with them, he will neither be grieved nor will he be { days } The events that occur are called a day and days.,\n\n\"As the Almighty said:\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

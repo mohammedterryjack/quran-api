@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ إنهم فتية آمنوا بربّهم } إيماناً يقيناً علمياً على طريق الاستدلال أو المكاشفة { وزدناهم هدى } أي: هداية موصلة إلى عين اليقين ومقام المشاهدة بالتوفيق",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThey are young men who have believed in their Lord {with a firm faith} - i.e. with a faith that is based on knowledge and certainty, or {with a clear proof} - i.e. a guidance that leads to the eye of certainty and the level of witnessing with success.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

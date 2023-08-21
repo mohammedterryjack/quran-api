@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { قُلْ بِفَضْل الله } أي: بتوفيقه للقبول في المقامات الثلاثة { وبرحمته } بالمواهب الخلقية والعلمية والكشفية في المراتب الثلاث فليعتنوا وإن كانوا يفرحون { فبذلك فليفرحوا } لا بالأمور الفانية القليلة المقدار، الدنيئة القدر والوقع { هو خيرٌ مما يجمعون } من الخسائس الفاسدة والمحقرات الزائلة من جملة الحطام إن كانوا أصحاب دراية وفطنة وأرباب قدر وهمة",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{Say, \"By the grace of Allah\"} i.e. by His acceptance in the three stations {and His mercy} with the created, intellectual and unveiling graces in the three degrees, so let them take heed and even if they are rejoicing {let them rejoice} not in transient, little, perishable things.,\n\nThe best { thing } that they can collect from the corrupt and worthless parts of the rubble is if they are people of knowledge and understanding, and have power and influence.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { لن تَنَالوا البرّ } كلّ فعل يقرّب صاحبه من الله فهو برّ، ولا يمكن التقرّب إليه إلا بالتبرّي عما سواه، فمن أحب شيئاً فقد حجب عن الله تعالى به وأشرك شركاً خفيّاً لتعلق محبته بغير الله، كما قال تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": " You will not reach righteousness until you spend from that which you love. And whatever you spend - indeed, Allah is Knowing of it.,\n\nAnd no one can come close to Him except by doing what is beyond Him., Whoever loves something has set up a barrier between God and it, and committed a hidden form of polytheism by attaching their love to something other than God.,\n\nAs Allah says:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

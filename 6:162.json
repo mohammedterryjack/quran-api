@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { قل إن صلاتي } أي: حضوري بالقلب وشهودي بالروح { ونسكي } أي: تقرّبي أو كل ما أتقرّب به بالقلب { ومحياي } بالحق { ومماتي } بالنفس كلها { لله } لا نصيب لي ولا لأحد غيري فيها لأني قمت به له بالفناء فلا وجود لي ولا لغيري حتى يكون لي حظ ونصيب { ربّ العالمين } أي: له باعتبار الجمع في صورة تفاصيل الربوبية { لا شريك له } في ذلك جمعاً وتفصيلاً { وبذلك أُمرت } أي: أُمرت أن لا أرى غيره في عين الجمع ولا في صورة التفاصيل حتى أعمل له كما وصفني تعالى بقوله:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nSay: \"My prayer, {my} attendance {and} my sacrifice, {my} life {and} my death, are {for} Allah, the Lord of the {universe}, {with} no partner {for Him in that}. {And} that is {what} I have been commanded, {and} I am {the} first {of} those who submit.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { سواء منكم من أسرّ القول } في مكمن استعداده { ومن جهرَ به } بإبراز العلم من القوّة إلى الفعل { ومن هو مُسْتَخف } بليل ظلمة نفسه { و } من هو { سارِبٌ } بخروجه من مقام النفس وذهابه في نهار نور الروح",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{ Whether you are from among those who speak } in a position of readiness { or from among those who proclaim } by making knowledge manifest from strength to action { or from among those who are concealing } in the darkness of night their own selves { or from among those who are } openly manifest in their departure from the station of the self and their going forth into the daytime light of the spirit",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

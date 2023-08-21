@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ الحَمْدُ لله الذي خَلَقَ السموات والأرض } ظهور الكمالات، وصفات الجمال والجلال على مظاهر تفاصيل الموجودات بأسرها الذي هو كمال الكل",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nPraise be to God, who created the heavens and the earth. The perfections are manifested.,\n\nThe attributes of beauty and grandeur are found in the details of the things that make up the whole.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

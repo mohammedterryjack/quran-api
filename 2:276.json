@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ يمْحَق الله الربا } وإن كان زيادة في الظاهر { ويربي الصدقات } وإن كان نقصاناً في الشاهد، لأنّ الزيادة والنقصان إنما يكونان باعتبار العاقبة والنفع في الدارين\n والمال الحاصل من الربا لا بركة له، لأنه حصل من مخالفة الحق فتكون عاقبته وخيمة وصاحبه يرتكب سائر المعاصي إذ كلّ طعام يولد في أكله دواعي وأفعالاً من جنسه، فإن كان حراماً يدعوه إلى أفعال محرمة، وإن كان مكروهاً فإلى أفعال مكروهة، وإن كان مباحاً فإلى مباحة، وإن كان من طعام الفضل فإلى مندوبات، وكان في أفعاله متبرّعاً متفضلاً، وإن كان بقدر الواجب من الحقوق فأفعاله تكون واجبة ضرورية، وإن كان من الفضول والحظوظ فأفعاله تكون كذلك، فعليه إثم الربا وآثار أفعاله المحرّمة المتولدة من أكله على ما ورد في الحديث:\n\n \" الذنب بعد الذنب عقوبة للذنب الأول \" \n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nGod destroys riba (usury), whether it is an increase in the apparent amount or a decrease in the witnessed amount.,\n\nBecause increase and decrease can only be considered in terms of the outcome and benefit in the two abodes.\n\n\nThe money earned through usury is not blessed.,\n\nBecause he has committed a wrong, his consequence will be bad and his companion will commit all other sins. For every food that is eaten produces effects and actions of its own kind., If it is unlawful, it calls for unlawful acts.,\n\nAnd if it is detestable, then to detestable actions.,\n\nAnd if it is permissible, then to permissibility.,\n\nAnd if it is from the food of favor, then it is to be given to those who are appointed.,\n\nHe was a generous and preferential donor.,\n\nAnd if he were to do the obligatory acts of rights, then his actions would be obligatory too.,\n\nAnd if it is from virtue and good fortune, then its actions will be likewise., It is a sin to eat {usury} and the unlawful actions that are born from it, as is mentioned in the hadith.\n\n\n\"The punishment for a sin is another sin, and the punishment for the first sin is the second sin.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ وما كان هذا القرآن } اختلاقاً { من دون الله ولكن تصديق الذي بين يديه } من اللوح المحفوظ { وتفصيل الكتاب } الذي هو الأمّ له كقوله تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{And this Qur'an was not created without Allah, but is a confirmation of what is between His Hands –} from the preserved tablet – {and a detailed explanation of the Book} which is the mother of it, as Allah says:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

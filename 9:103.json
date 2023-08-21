@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\nولما وفقوا للقسم الأول ببركة صحبة الرسول وتزكيته إياهم وتربيته لهم قال: { خُذْ من أمْوَالهم صَدَقة } إذ المال هو سبب ظهور النفس وغلبة صفاتها ومدد قواها ومادة هواها كما قال عليه الصلاة والسلام:\n\n \" المال مادة الشهوات \" \n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when they fulfilled the first part of their covenant with the Messenger, and purified themselves for him, and raised him up among them, he said: {Take from their wealth alms} For wealth is the cause of the appearance of the self and the predominance of its qualities, and the strengthening of its power and the material of its desires, as the Messenger of Allah said:\n\n\n\"Money is the root of all evil.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

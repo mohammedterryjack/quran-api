@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { الذينَ يُنفقونَ } عمم الإنفاق أولاً وثانياً بحسب الأوقات والأحوال ليعلم أنه لا يتفاوت بها، بل بالقصد والنيّة { الذين يأكلون الربا لا يقومون } إلى آخره، آكل الربا أسوأ حالاً من جميع مرتكبي الكبائر، فإنّ كل مكتسب له توكل ما في كسبه قليلاً كان أو كثيراً، كالتاجر والزارع والمحترف، إذ لم يعينوا أرزاقهم بعقولهم ولم تتعين لهم قبل الاكتساب فهم على غير معلوم في الحقيقة، كما قال رسول الله صلى الله عليه وسلم:\n\n \" أبى الله أن يرزق المؤمن إلا من حيث لا يعلم \" \n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThose who spend {in Allah's cause} both in prosperity and in adversity, in order to learn that Allah does not change His blessings based on circumstances.,\n\nBut those who eat riba with the intention of {those who eat riba do not stand} at the end,\n\nEating riba is worse than committing any of the major sins.,\n\n{Everyone} who earns {something} has {some degree of} reliance on what they have earned, whether it is little or much.,\n\nThe merchant, the farmer, and the professional.,\n\n{Since they have not been assigned their sustenance by their minds, and since they were not given knowledge before they acquired it, they are in reality ignorant.},\n\nAs the Messenger of Allah (peace and blessings of Allah be upon him) said:\n \"God does not want to provide for the believer from where he does not know.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

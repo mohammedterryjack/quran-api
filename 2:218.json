@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { إن الذين آمَنوا } يقيناً { وهاجَرُوا } أوطان النفس ومألوفات الهوى { وجاهَدُوا في سبيلِ الله } وجنود الشيطان والنفس الأمّارة { أولئك يَرْجون رحمة الله } تجليات الصفات وأنوار المشاهدة",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n{ Those who have believed } with certainty { and emigrated } have abandoned their homeland and their dearest possessions for the sake of Allah { and fought in the way of Allah } against the armies of Satan and the rebellious soul. { They are the ones who hope for the mercy of Allah. } They hope to see the manifestation of Allah's attributes and the light of His countenance.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

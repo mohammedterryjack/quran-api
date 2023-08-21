@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ ويصنع الفلك } إلى آخره، تفسيره على ما دل عليه الظاهر حق يجب الإيمان به وصدق لا بدّ من تصديقه كما جاء في التواريخ من بيان قصة الطوفان وزمانه وكيفيته وكميته\n وأما التأويل فمحتمل بأن يؤوّل الفلك بشريعة نوح التي نجا بها هو ومن آمن معه من قومه كما قال النبي عليه الصلاة والسلام:\n\n \" مثل أهل بيتي مثل سفينة نوح، من ركب فيها نجا ومن تخلّف عنها غرق \" \n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nThe ship is {made} to last.,\n\nThis interpretation is based on what is apparent from the evidence, and it is obligatory to believe in it and affirm it. There is no doubt that one must affirm it as it is stated in the histories, including the story of the flood, its timing, how it happened, and how much water was involved.\n\n\nAnd as for interpretation, it is possible that the astrologer interprets the chart according to the Noahic law by which he and those who believed with him from his people were saved, as the Prophet (peace and blessings of Allaah be upon him) said:\n\n\nMy family is like the ship of Noah,\n\nWe stick together through thick and thin.,\n\"He who boards her will be safe, and he who falls behind her will drown.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

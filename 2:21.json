@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ يا أيها الناسُ } ثم لما فرغ من ذكر السعداء والأشقياء، دعاهم إلى التوحيد\n وأوّل مراتب التوحيد: توحيد الأفعال، فلهذا علّق العبودية بالربوبية ليستأنسوا برؤية النعمة، فيحبوه، كما قال:\n\n \" خلقت الخلق وتحببت إليهم بالنِعَم \" \n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nO people! Then, when he has finished mentioning those who are fortunate and those who are unfortunate,,\n\nHe called them to monotheism\n\n\nAnd the first of the ranks of Tawhid is Tawhid al-Af'al - the Oneness of Allah's Actions.,\n\nThis is why servitude is tied to worship, so that they may never take the blessing for granted., They love him,\n\nAs he said:\n\n\n\"I have created humanity, and I have shown them kindness.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

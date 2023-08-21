@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { ادْع إلى سبيل ربّك } الخ، أي: لتكن دعوتك منحصرة في هذه الوجوه الثلاثة لأن المدعو إما أن يكون خالياً عن الإنكار أو لا، فإن كان خالياً لكونه في مقام الجهل البسيط غير معتقد لشيء، فإما أن يكون مستعداً غير قاصر عن درك البرهان بل يكون برهاني الطباع أو لا\n فإن كان الأول فادعه بالحكمة وكلمه بالبرهان والحجة واهده إلى صراط التوحيد بالمعرفة، وإن كان قاصر الاستعداد فادعه بالموعظة الحسنة والنصيحة البالغة من الإنذار والبشارة والوعد والوعيد والزجر والترهيب واللطف والترغيب، وإن كان منكراً ذا جهل مركب واعتقاد باطل فجادله بالطريقة التي هي أحسن من إبطال معتقده بما يلزم من مذهبه بالرفق والمداراة على وجه يلوح له أنك تثبت الحق وتبطل الباطل لا غرض لك سواه\n { إنّ ربك هو أعلم بمن ضلّ عن سبيله } في الأزل لشقاوته الأصلية فلا ينجع فيه أحد هذه الطرق الثلاثة { وهو أعلم بالمهتدين } المستعدّين، القابلين للهداية لصفاء الفطرة",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nCall upon the way of your Lord.,\n\n{Please be specific in your invitation to these three people, because the invitee may either be free of disbelief or not.},\n\nIf it were empty, it would be because it is in the position of simple ignorance, not believing in anything., Either he is able to grasp the proof without being limited, or the proof is printed.\n If he is the first, then call him with wisdom and speech with evidence and guidance to the path of Tawheed with knowledge., And if he is deficient in readiness, then let him be called to good admonition and comprehensive advice, from warning and encouragement, and promise and threat, and rebuke and terror, and kindness and encouragement.,\n\nAnd if there is something abhorrent to him from his ignorant beliefs and false convictions, then argue with him in the best way possible, using gentle persuasion to show him that you are affirming the truth and disproving the falsehood, without any other ulterior motive.\n\n{ Indeed, your Lord knows best who has strayed from His way } in eternity for His original justice, and no one will be saved in these three ways { and He knows best who is guided } the prepared,\n\nThose who are eligible for guidance to purify their nature",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

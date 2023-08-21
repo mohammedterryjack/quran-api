@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ هو الذي يُريكم } برق لوامع الأنوار القدسية والخطفة الإلهية { خوفاً } أي: خائفين من سرعة انقضائه وبطء رجوعه { وطَمَعاً } أي: طامعين في ثباته وسرعة رجوعه { ويُنْشئ } سحاب السكينة { الثقَال } بماء العلم اليقيني والمعرفة الحقة",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{He is the one who shows you} the light of the sacred and divine {fear}, that is, afraid of its rapid extinction and slow return {and hope}, that is, eager for its stability and speed of return {and creates} the cloud of {darkness} with the water of certain knowledge and true understanding.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { لا تخُونُوا الله } بنقض ميثاق التوحيد الفطري السابق { و } تخونوا { الرسول } بنقض العزيمة ونبذ العقد اللاحق { وتخونوا أماناتكم } من المعارف والحقائق التي استودع الله فيكم بحسب الاستعداد الأول في الأزل بإخفائها بصفات النفس { وأنتم تعلمون } أنكم حاملوها، أو تعلمون أنّ الخيانة من أسوأ الرذائل وأقبحها",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nDo not betray Allah by breaking the covenant of Tawhid (monotheism) and betray the Messenger by breaking the covenant of allegiance and betray your trust by concealing the knowledge and truths that Allah has entrusted to you according to your readiness in eternity. You know that you are responsible for them., Or do you know that betrayal is from the worst of messages and the most hated?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

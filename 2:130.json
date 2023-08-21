@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { ومن يرغب عن ملّة إبراهيم } أي: ملّة التوحيد { إلا من سفه نفسه } إلا من احتجب عن نور العقل بالكلية وبقي في مقام ظلمة نفسه",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n {And whoever desires other than the religion of Islam} that is, the religion of monotheism {except one who begrudges himself} except one who is veiled from the light of reason and remains in the position of self-imposed darkness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ كما أرسلنا } أي: كما ذكرتم بإرسال رسول { فيكم } من جنسكم ليمكنكم التلقيّ والتعلم، وقبول الهداية منه لجنسية النفس ورابطة البشرية { فاذكروني } بالإجابة والطاعة والإرادة { أذكركم } بالمزيد والتوالي للسلوك وإفاضة نور اليقين { واشكروا لي } على نعمة الإرسال والهداية بسلوك صراطي على قدم المحبة أزدكم عرفاني ومحبتي { ولا تكفرون } بالفترة والاحتجاب بنعمة الدين عن المنعم، فإنه كفران بل كفر",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAs We have sent { } meaning: As you have been reminded by the sending of the Messenger { } from among you so that you may receive and learn.,\n\nRemember me by responding and being obedient and willing. I remind you to continue and persist in your behavior and to ignite the light of certainty. Thank me for the blessing of sending and guidance by behaving on the path of love. I will increase your knowledge and love. Do not forget, during the period of withdrawal from the blessings of the religion, the favor of the Most Merciful.,\n\nThey are unbelievers, not just disbelievers.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ إنّ الله لا يغفر أن يُشْرك به } إشارة إلى أنّ الشقاوة العلمية الاعتقادية مخلّدة لا تتدارك أبداً دون العملية، أي: لا يستر بوجوده ولا يفني بذاته من يثبت غيره في الوجود وكيف وأنه يناوبه بوجوده",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{Indeed, Allah does not forgive that one should associate with Him} This is a reference to the fact that intellectual apostasy is permanent and cannot be removed without action.,\n\nHe is not hidden by his existence, nor does he cease to exist by himself; rather, he proves the existence of others by his own existence, and how could he do otherwise?",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

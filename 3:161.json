@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ وما كان لنبيّ أن يغلّ } لبعد مقام النبوّة وعصمة الأنبياء عن جميع الرذائل، وامتناع صدور ذلك منهم مع كونهم منسلخين عن صفات البشرية، معصومين عن تأثير دواعي النفس والشيطان فيهم، قائمين بالله متّصفين بصفاته { يأت بما غلّ } أي: يظهر على صورة غلوله بما غلّ بعينه",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nIt is not for a prophet to have any personal gain after receiving prophecy and the immunity of the prophets from all blame.,\n\nThis prevents them from possessing human qualities.,\n\n{Ma'soomin} are immune to the effects of {nafs} and {shaitan} on them.,\n\nWe are those who stand by Allah, and who are characterized by His attributes. He comes with what is great. That is, He appears in all His greatness.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

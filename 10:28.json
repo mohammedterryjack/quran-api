@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ ويوم نحشرهم جميعاً } في المجمع الأكبر عين جمع الوجود المطلق { ثم نقول للذين أشركوا } منهم أي: المحجوبين الواقفين مع الغير بالمحبة والطاعة { مكانكم } أي: الزموا مكانكم { أنتم وشركاؤكم } ومعناه: وقفوا مع ما وقفوا معه في الموقف مع قطع الوصل والأسباب التي هي سبب محبتهم وعبادتهم وتبرّء المعبود من العابد لانقطاع الآلات البدنية والأغراض الطبيعية التي توجب تلك الوصل وهو معنى قوله: { فزيلنا بينهم } أي: مع كونهم في الموقف معاً فرقنا بينهم في الوجهة وذلك عند علوّ رتبة المعبود ودنوّ رتبة العابد وتباين حاليهما إذا كان المعبود شريفاً كالملائكة والمسيح وعزير وأمثالهم ممن له السابقة عند الله كما قال تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nOn the Day when We will gather them all together, We will ask those who worshipped others {as partners with God} among them: \"Where are your {partners} now?\" They will have no answer but to say: \"By God, we were not {worshippers of others}\". {We will then separate them} from one another, and their {partners} will say: \"It was not us that you {worshipped}\".",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

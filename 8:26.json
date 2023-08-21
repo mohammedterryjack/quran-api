@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ واذكروا إذ أنتم قليل } القدر، لجهلكم وانقطاعكم عن نور العلم { مُسْتَضعفون في } أرض النفس { تخافون أن يتخطفَكُم الناس } أي: ناس القوى الحسيّة لضعف نفوسكم { فآواكم } إلى مدينة العلم { وأيدكم بنصره } في مقام توحيد الأفعال { ورزقكم من } طيبات علوم تجليات الصفات { لعلكم تشكرون } نعمة العلوم والتجليات بالسلوك فيه",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nRemember when you were few in number?,\n\nYour ignorance and disconnection from the light of knowledge { make you weak in } the land of the soul { you fear that people will kidnap you } i.e. people with strong spiritual powers will take advantage of your weakness { so take you } to the city of knowledge { and help you with his support } in the position of the unity of actions { and provide you with } the good things of knowledge, the manifestations of the attributes { so that you may be grateful } for the blessing of knowledge and manifestation through your behavior in it.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

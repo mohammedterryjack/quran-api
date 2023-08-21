@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { إنّ الله مع الذين اتّقوا } بقاياهم وأنياتهم بالاستهلاك في الوحدة والاستغراق في عين الجمع { واللذين هم مُحْسِنون } بشهود الوحدة في عين الكثرة،والطاعة في عين المعصية، والقيام بالأمر والنهي في مقام الاستقامة، وإبقاء حقوق التفاصيل في عين الجمع، فلا يحجبهم الفرق عن الجمع ولا الجمع عن الفرق، ويسعهم مراعاة الحق والخلق للرجوع إلى الكثرة بوجود القلب الحقانيّ\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{Indeed, Allah is with those who fear Him and those who are of good character,} [who] consume in moderation and dive deeply into the unity of Allah {and those who are good-doers} [whose] witness is the unity of Allah in the midst of many people.,\n\nAnd obedience is in the eye of disobedience.,\n\nAnd performing the command and the prohibition in the position of uprightness,\n\nAnd keep the details in the public eye.,\n\n{} should not keep people from coming together, and coming together should not keep people from {}.,\n\nAnd it enables them to consider right and wrong in order to return to the majority with a truthful heart.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

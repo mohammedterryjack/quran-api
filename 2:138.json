@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { صبغة الله } أي: آمنا بالله وصبغنا الله صبغة، فإن كل ذي اعتقاد ومذهب باطنه مصبوغ بصبغ اعتقاده ودينه ومذهبه\n فالمتعبدون بالملل المتفرّقة مصبوغون بصبغ نيتهم، والمتمذهبون بصبغ إمامهم وقائدهم، والحكماء بصبغ عقولهم، وأهل الأهواء والبدع المتفرّقة بصبغ أهوائهم ونفوسهم، والموحدون بصبغة الله خاصة التي لا صبغ أحسن منها ولا صبغ بعدها\n كما قال رسول الله صلى الله عليه وسلم:\n\n \" إن الله تعالى خلق الخلق في ظلمة ثم رشّ عليهم من نوره، فمن أصاب من ذلك النور اهتدى، ومن أخطأ ضلّ \" \n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{The dyeing of Allah} that is, we believe in Allah and we have dyed ourselves with the dye of Allah.,\n{ } is beliefs and creed are artificially imposed and not innate.\n The idolators are dyed with the various colors of their own desires.,\n\nAnd those who adhere to the imam and leader of their choice,\n\nAnd the wise men dye their minds.,\n\nAnd the people of desires and innovations are varied in their desires and souls.,\n\nAnd the Muwahidun, with the special ink of Allah, which is the best ink and cannot be improved upon.\n As the Messenger of Allah said:\n \"Indeed, Allah has created the creation in darkness, then He showered them with His light., Whoever is touched by that light will find guidance.,\n\nAnd whoever is in error [i.e., deviation from the truth] has gone astray.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

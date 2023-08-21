@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ وإذْ قالَ ربكَ للملائكةِ } إذ: إشارة إلى السرمد الذي هو من الأزل إلى الأبد، والقول هو إلقاء معنى تعلق مشيئة الله تعالى بإيجاد آدم في الذوات القدسية الجبروتية التي هي الملائكة المقرّبون والأرواح المجرّدة والملكوتية التي هي النفوس السماوية إذ كل ما يحدث في عالم الكون له صورة قبل التكوين في عالم الروح الذي هو عالم القضاء السابق، ثم في عالم القلب الذي هو قلب العالم المسمّى باللوح المحفوظ، ثم في عالم النفس أي: نفس العالم الذي هو لوح المحو والإثبات المعبر عنه بالسماء الدنيا في التنزيل كما قال تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nAnd when your Lord said to the angels, \"I am going to create a human being from clay.,\n\nAnd the saying is that the will of Allah is associated with the finding of Adam in the sacred Jabrutian creatures, which are the angels, the pure spirits, and the royal creatures which are the celestial souls. For everything that happens in the world of creation has a form in the world of spirit which is the world of pre-destination., {Then in the world of the heart which is the heart of the world called the Preserved Tablet},\n\nThen in the world of the mind, that is, the world of the mind which is the tablet of the unseen and the proof thereof in the earthly heaven, as Almighty said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

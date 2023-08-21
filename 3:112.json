@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ ضُرِبَتْ عليهم الذِلة } لأنّ العزّة لله جميعاً، فلا نصيب فيها لأحد إلا لمن تخلّق بصفاته بمحو صفات البشرية، كالرسول والمؤمنين الذين هم مظاهر عزّته، كما قال الله تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{The humiliation was inflicted on them} because all glory belongs to God., {No one will inherit it except those who create it with their own attributes, free from the attributes of humanity.},\n\nLike the Messenger and the believing men and women who are his witnesses,, As Allah said:\n\n\n\"وَلَقَدْ صَرَّفْنَا لَهُمْ فِي الْكِتَابِ كُلَّ شَيْءٍ حَتَّىٰ عَلِمُوا أَنَّ اللَّهَ حَقُّّهُ وَأَنَّ عِلْمًا الغَيْبِ لَّهُ عَلَىٰ رَبِّهِمْ وَأَنَّ السَّاعَةَ أَكْبَرُ مِنْ ذَٰلِكَ وَلَقَدْ جَعَلْنَا فِي أَعْيُنِهِمْ حُبًّا لِّلْجَنَّةِ وَزِينَّاهُمْ فِيهَا بِجَمِيعِ أَنْوَارِهَا وَلَهُمْ فِيهَا مُعَيِّبٌ كَمَا لَهُمْ فِي الدُّنْيَا مِنْ أَعْيُنِ النِّسَاءِ وَلَهُمْ فِيهَا مُغَفِرَةٌ وَرِضْوَانٌ عَظِيمٌ\n\nIn the Quran, we have explained everything in detail, so that they may know that Allah is the truth, and that knowledge of the unseen is with Him. And that the Hour is coming. We have made it clear to them in their own eyes that the Paradise is the truth, and We have made them long for it. We have made it seem beautiful to them, with all its beauty. They will have therein whatever their souls desire, and whatever their eyes find delight in. They will have therein whatever they ask for. It is a blessing from Allah. And it is a great favor.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

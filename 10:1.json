@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ الر } إشارة إلى الرحمة التي هي الذات المحمدية لقوله تعالى:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{Al-Rahman} is a reference to the mercy which is the essential Muhammadan quality, as evidenced by the saying of Allah, \"Most Merciful.\"",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

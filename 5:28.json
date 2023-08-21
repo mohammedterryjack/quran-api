@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ ما أنا بباسط يدي إليكَ لأقتلك } لأني لا أبطل أعمالك التي هي شديدة في مواضعها من المحسوسات ولا أقطع عنك حياتك التي هي مدد النفس والهوى ولا أمنعك عن فعلك الخاص بك إذ العقل يعلم أنّ المصالح الجزئية وأحكام المحسوسات والمعاني الجزئية المعلقة بها وترتيب أسباب المعاش كلها لا تحصل ولا تتيسر إلا بالوهم ولولا الرجاء وحصول الأماني والآمال الصادرة عن الوهم لم يتيسر لأحد ما يتمعش به { إني أخاف الله ربّ العالمين } لأني أعرفه، وقال:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{I am not extending my hand to you to kill you} because I do not despise your deeds which are harsh in their places of sensory perception, and I will not cut off your life which is the sustenance of the soul and the heart, and I will not prevent you from doing your own thing, for the mind knows that the partial interests and the rulings of sensory perception and the partial meanings attached to them, and the arrangement of the means of subsistence, all of them cannot be achieved and are not easy to attain except by imagining, and if it were not for the hope and the attainment of security and the hopes emanating from the imagination, nothing would be easy for anyone to achieve. {I fear God, the Lord of the Worlds}, because I know Him.,\n\nAnd he said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

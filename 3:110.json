@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ كُنْتم خيرَ أمّة } لكونكم موحدين، قائمين بالعدل الذي هو ظله { تأمُرون بالمَعْروف وتَنْهَون عن المُنْكر } إذ لا يقدر على ذلك إلا الموحد العادل لعلمه بالمعروف والمنكر، كما مرّ في تأويل قوله:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nYou are the best nation { } because you are united.,\n\nYou are enjoined to be just, {you are commanded to do what is right and to forbid what is wrong}, for only the One who is All-Just can do that, knowing what is right and what is wrong.,\n\nAs it is mentioned in the interpretation of the saying:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

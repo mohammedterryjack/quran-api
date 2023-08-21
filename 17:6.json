@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ ثم رددنا لكم } الدولة بتنوّركم بنور القلب وإقبالكم على الصدر وانصرافكم إلى مقتضى نظر العقل ورأيه { وأمددناكم بأموال } العلوم النافعة والحِكَم العقلية والشرعية والمعارف القلبية { وبنين } من الفضائل الخلقية والهيئات النورانية { وجعلناكم أكثر نفيراً } بكثرة الفضائل والملكات الفاضلة والأخلاق الحسنة",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{Then We turned to you} The state enlightens you with the light of the heart, and your inclination towards the breast, and your return to the dictates of reason and opinion {and We provided you with} beneficial sciences, rational and legal judgments, and heart-based knowledge {and built you} from noble character traits and spiritual faculties {and made you more virtuous} with the abundance of virtues, good character traits, and noble manners.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

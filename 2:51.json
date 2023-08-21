@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ وإذ وَاعَدنا مُوسى } بعد فراغه من مقاومة آل فرعون وإهلاكهم { أربعينَ ليلةً } يخلص لنا فيها لترفع بها الغشاوات الطبيعية التي حجبت قلبه عن معدن النور في الأربعين التي خلق فيها بدنه عند تكوّنه جنيناً واحتجابه بالنشأة عن الفطرة كما ورد في الحديث\n\n \" خمر طينة آدم بيده أربعين صباحاً \" \n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{And We promised Moses}, after he had finished his struggle against the Pharaoh and destroyed them {forty nights}, that in it We would purify him from the natural veils that had covered his heart from the Light of God that had created him in the womb, and his return to the fitrah (innate human nature) from which he had departed at birth, as is mentioned in the hadith.\n\n\n{Adam's clay wine} is forty {mornings} in his hand.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

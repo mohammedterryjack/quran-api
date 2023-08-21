@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ وأنفقوا في سبيل الله } ما معكم من العلوم بالعمل بها ولا تدّخروها لوقت آخر عسى لا تدركونه فلا شيء أضرّ من التسويف { ولا تلقوا بأيديكم إلى } تهلكة التفريط وتأخير العمل بالعلم وإنفاقه في مصالح النفس فإنه موجب للحرمان { وأحسنوا } أي: وكونوا في عملكم مشاهدين { إنّ الله يحبّ المُحْسنين } المشاهدين في أعمالهم ربّهم، مخلصين له فيها",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{And spend in the way of Allah} whatever knowledge you have in practical terms, and do not withhold it for a later time, lest you fail to achieve it. Nothing is more harmful than procrastination {and do not throw your hands into} destruction by wasting time and delaying the work of acquiring knowledge and spending it in the interests of the self, for this leads to deprivation {and be excellent} i.e. be witnesses in your work {Indeed, Allah loves those who are excellent} i.e. those who are witnesses in their deeds to their Lord., We are devoted to him in it",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

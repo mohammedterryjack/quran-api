@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ إنما يأمُركم بالسوء } الإضرار والأذى الذي هو إفراط القوة الغضبية { والفَحْشاء } أي: القبائح التي هي إفراط القوّة الشهوانية { وأن تقولوا على الله ما لا تعلمون } الذي هو إفراط القوّة النطقية لشوب العقل بالوهم الذي هو الشيطان المسخر له { وإذا قيل لهم اتبِعوا ما أَنْزَل الله } من مراعاة حدّ الاعتدال والعدالة في كلّ شيء على الوجه المأمور به في الشرع { قالوا بل نتّبع ما وَجَدْنا عليه آباءنا } من الإسرافات المذمومة في الجاهلية تقليداً لهم أتتبعونهم { ولو كان آباؤهم لا يَعْقلون شيئاً } من الدين والعِلم { ولا يَهْتَدون } إلى الصواب في العمل لجهلهم",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\n{You are only commanded to do evil} by causing harm and causing pain, which is to exaggerate one's anger {and to commit obscenities}, that is, to commit shameful deeds, which is to exaggerate one's sexual desire {and to say about Allah things that you do not know}, which is to exaggerate one's speech by making false claims about Allah {When it is said to them, \"Follow what Allah has revealed,\"} they instead say, \"We will follow what we found our fathers doing,\" blindly following their lead, even though {their fathers did not understand anything} of religion or knowledge, {and were not guided} to do what is right.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

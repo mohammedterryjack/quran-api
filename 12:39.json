@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n وبقوله: { أأرباب متفرقون خيرٌ أم الله الواحدِ القهار } أي: إذا كان لكل منكما أرباب كثيرة كما قال تعالى:\n\n[الزمر، الآية: 29] يأمره هذا بأمر وهذا بأمر متمانعون في ذلك، عاجزون إمّا للمحبة فكالصفات والأسماء، وإما للهوى فكالقوى النفسانية كان خيراً له أم ربّ واحد لا يأمره إلا بأمر واحد، كما قال:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nHe said, \"The many gods are better than one God.\" That is, if you have many gods, it is better than having one God.\n\n\nThe Tribes, This verse orders this with a command and this with a command, {they are} mutually opposed in that.,\n\nWe are powerless either to love or to {be like} the beloved.,\n\n{And if it were for the sake of pleasure, then the human soul would be better off with one god who only commands one thing.},\n\nAs he said:",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

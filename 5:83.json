@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n { ترى أعينهم تفيض من الدمع } شوقاً إلى ما عرفوا من توحيد الذات لأنهم كانوا أهل رياضة وذوق فهاجت نفوسهم بسماع الوحي وذكروا الوحدة { مما عرفوا من الحق } بصفاته أو سمعوا من الحق كلامه، فبكوا اشتياقاً كما قال:\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n\nYou see their eyes watering with longing for what they have known of the unity of the Self, because they were people of piety and taste who experienced the joy of hearing the revelation and remembering the unity of the Truth {as they have known it}.,\n\nThey longed passionately, as he had said.",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",

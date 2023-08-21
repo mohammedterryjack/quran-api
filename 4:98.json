@@ -122,7 +122,13 @@
       "author": "ابن عربي",
       "year": "638",
       "text": "\n{ والوِلْدان } أي: الناقصين القاصرين عن بلوغ درجة الكمال لغيرة تلحقهم من قبل صفات النفس { لا يستطيعون حيلة } لعدم قدرتهم وعجزهم عن كسر صفات النفس وقمع الهوى بالرياضة { ولا يَهْتَدون سبيلاً } لعدم علمهم بكيفية السلوك وحرمانهم عن نور الهداية الشرعية { فأولئِكَ عسى الله أنْ يَعْفو عَنهم } بمحو تلك الهيئات المظلمة لعدم رسوخها وسلامة عقائدهم { وكان الله عفوّاً } العفو عن الذنوب ما دامت الفطرة لم تتغير { غَفُوراً } يستر بنور صفاته صفات نفوسهم\n\n",
-      "translations": []
+      "translations": [
+        {
+          "translation": "\n{And the children} i.e. those who are incomplete and fall short of perfection due to a defect that has overtaken them before they reach the age of maturity {cannot devise a stratagem} because of their lack of ability and inability to break the character traits and quell the desires through sport {nor can they guide themselves aright} because of their lack of knowledge of how to behave and their prohibition from the light of divine guidance {It is those whom Allah may perhaps overlook} by removing those dark character traits since they are not firmly rooted and their beliefs are not sound {and Allah is Oft-Forgiving} He forgives the sins as long as the nature has not been changed {Most Forgiving} He conceals their character traits with His attributes and their own attributes",
+          "language": "english",
+          "translator": "chatGPT"
+        }
+      ]
     },
     {
       "author": "الجيلاني",
