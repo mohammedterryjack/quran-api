@@ -158,5 +158,22 @@
       "verse": "15:21",
       "similarity": 0.321542049002183
     }
+  ],
+  "audio": [
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/hafs/17:100.mp3",
+      "style": "حفص",
+      "recitor": "مشاري بن راشد العفاسي"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/warsh/17:100.mp3",
+      "style": "ورش",
+      "recitor": "ياسين الجزائري"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/hamza/17:100.mp3",
+      "style": "خلف عن حمزة",
+      "recitor": "يوسف بن نوح أحمد"
+    }
   ]
 }

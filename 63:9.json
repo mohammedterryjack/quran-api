@@ -158,5 +158,22 @@
       "verse": "29:64",
       "similarity": 0.4637215733381819
     }
+  ],
+  "audio": [
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/hafs/63:9.mp3",
+      "style": "حفص",
+      "recitor": "مشاري بن راشد العفاسي"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/warsh/63:9.mp3",
+      "style": "ورش",
+      "recitor": "ياسين الجزائري"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/hamza/63:9.mp3",
+      "style": "خلف عن حمزة",
+      "recitor": "يوسف بن نوح أحمد"
+    }
   ]
 }

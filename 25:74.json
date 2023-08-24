@@ -158,5 +158,22 @@
       "verse": "13:38",
       "similarity": 0.3632755614825103
     }
+  ],
+  "audio": [
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/hafs/25:74.mp3",
+      "style": "حفص",
+      "recitor": "مشاري بن راشد العفاسي"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/warsh/25:74.mp3",
+      "style": "ورش",
+      "recitor": "ياسين الجزائري"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/hamza/25:74.mp3",
+      "style": "خلف عن حمزة",
+      "recitor": "يوسف بن نوح أحمد"
+    }
   ]
 }

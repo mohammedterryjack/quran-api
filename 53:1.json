@@ -158,5 +158,22 @@
       "verse": "56:75",
       "similarity": 0.5857315928093186
     }
+  ],
+  "audio": [
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/hafs/53:1.mp3",
+      "style": "حفص",
+      "recitor": "مشاري بن راشد العفاسي"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/warsh/53:1.mp3",
+      "style": "ورش",
+      "recitor": "ياسين الجزائري"
+    },
+    {
+      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/hamza/53:1.mp3",
+      "style": "خلف عن حمزة",
+      "recitor": "يوسف بن نوح أحمد"
+    }
   ]
 }
