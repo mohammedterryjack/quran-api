@@ -161,17 +161,17 @@
   ],
   "audio": [
     {
-      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/hafs/2:284.mp3",
+      "path": "https://github.com/mohammedterryjack/quran-audio-api/raw/main/hafs/2:284.mp3",
       "style": "حفص",
       "recitor": "مشاري بن راشد العفاسي"
     },
     {
-      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/warsh/2:284.mp3",
+      "path": "https://github.com/mohammedterryjack/quran-audio-api/raw/main/warsh/2:284.mp3",
       "style": "ورش",
       "recitor": "ياسين الجزائري"
     },
     {
-      "path": "https://raw.githubusercontent.com/mohammedterryjack/quran-audio-api/main/hamza/2:284.mp3",
+      "path": "https://github.com/mohammedterryjack/quran-audio-api/raw/main/hamza/2:284.mp3",
       "style": "خلف عن حمزة",
       "recitor": "يوسف بن نوح أحمد"
     }
