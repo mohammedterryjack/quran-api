@@ -161,12 +161,12 @@
   ],
   "audio": [
     {
-      "path": "https://github.com/mohammedterryjack/quran-audio-api/raw/main/hafs/12:15.mp3",
+      "path": "https://everyayah.com/data/Alafasy_64kbps/012015.mp3",
       "style": "حفص",
       "recitor": "مشاري بن راشد العفاسي"
     },
     {
-      "path": "https://github.com/mohammedterryjack/quran-audio-api/raw/main/warsh/12:15.mp3",
+      "path": "https://everyayah.com/data/warsh/warsh_yassin_al_jazaery_64kbps/012015.mp3",
       "style": "ورش",
       "recitor": "ياسين الجزائري"
     },
